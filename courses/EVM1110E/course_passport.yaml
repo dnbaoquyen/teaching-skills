@@ -1,0 +1,91 @@
+# Course Passport — EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện
+# Nguồn: Đề cương chi tiết học phần (UEF, Khoa Marketing, áp dụng từ HK 1A 2025–2026)
+# + các quyết định của giảng viên trong phiên soạn giáo án (2026-09-26).
+# Schema: shared/course_passport_schema.md (passport_version 1.0). Không chứa dữ liệu sinh viên.
+# Quy ước ID: LOn trong file này = CLOn trong đề cương (schema yêu cầu tiền tố LO).
+
+passport_version: "1.0"
+course:
+  code: "EVM1110E"
+  title: "Quản trị mối quan hệ trong tổ chức sự kiện (Stakeholders Management for Events)"
+  discipline: "Quản trị sự kiện – Marketing"
+  level: "undergraduate"
+  credits: 3
+  modality: "in-person"
+  class_size: 40
+  contact_hours_per_week: 3          # 1 buổi/tuần? — số buổi mỗi tuần chưa xác nhận; mỗi buổi 3 tiết = 135 phút
+  weeks: 15                          # 15 buổi theo đề cương
+  language_of_instruction: "Tiếng Việt (thuật ngữ chuyên ngành giữ tiếng Anh)"
+  prerequisites: ["EVM1103 Nhập môn quản trị sự kiện"]
+  institution_constraints:
+    - "PHẠM VI (quyết định GV): chỉ quản trị các bên liên quan BÊN NGOÀI. Quan hệ nội bộ (crew, nhân sự, tình nguyện viên) thuộc môn Quản lý đội nhóm trong tổ chức sự kiện; quản lý đám đông/an toàn đám đông thuộc môn Quản trị rủi ro sự kiện."
+    - "Mỗi buổi 135 phút: ưu tiên ~1/2 lý thuyết, ~1/2 thực hành (quyết định GV)."
+    - "Không có mẫu giáo án bắt buộc; giáo án phải đủ nội dung học thuật và ứng dụng."
+    - "Bài nộp qua LMS theo thời hạn quy định."
+
+term_calendar:
+  start_date: null                   # [NEEDS PROFESSOR INPUT: ngày buổi 1]
+  end_date: null
+  holidays: []
+  exam_weeks: []
+  add_drop_deadline: null
+  withdrawal_deadline: null
+
+learner_profile:
+  prior_knowledge: >-
+    Sinh viên đã học EVM1103 Nhập môn quản trị sự kiện và đã làm dự án sự kiện ở các
+    môn trước (mỗi nhóm có khách hàng thật/giả định từ dự án cũ để phân tích).
+  motivation_context: "Học phần chuyên ngành Quản trị sự kiện, Khoa Marketing."
+  known_difficulties: []
+  accessibility_needs: "unknown"
+  cohort_evidence: null
+
+learning_outcomes:
+  - { id: LO1, statement: "Vận dụng kiến thức về Quản trị sự kiện vào Quản trị các mối quan hệ với khách hàng (KAM)", bloom_level: apply, assessed_by: [A4], taught_in: [W2, W3, W4, W5, W6, W7, W8, W13] }
+  - { id: LO2, statement: "Vận dụng kiến thức về Quản trị sự kiện để phân tích các mối quan hệ đối tác và mối quan hệ khác trong sự kiện", bloom_level: analyze, assessed_by: [A1, A2], taught_in: [W1, W9, W10, W11, W12] }
+  - { id: LO3, statement: "Giải thích được kiến thức cơ bản và có hệ thống về truyền thông, marketing để triển khai quản trị các mối quan hệ tổ chức truyền thông, quảng bá trong sự kiện", bloom_level: understand, assessed_by: [A1, A2], taught_in: [W11] }
+  - { id: LO4, statement: "Phát triển kỹ năng tự nghiên cứu, tư duy phân tích – tổng hợp, hệ thống, phản biện, sáng tạo trong quản lý các mối quan hệ (bên ngoài) của tổ chức sự kiện — GV quyết định bỏ phạm vi 'nội bộ'", bloom_level: analyze, assessed_by: [A3], taught_in: [W1, W3, W12] }
+  - { id: LO5, statement: "Thể hiện kỹ năng điều phối, phân tích, xử lý tình huống, tư duy sáng tạo trong các mối quan hệ đối tác và mối quan hệ khác trong sự kiện", bloom_level: analyze, assessed_by: [A3], taught_in: [W1, W7, W9, W10, W11, W12] }
+  - { id: LO6, statement: "Thực hiện kỹ năng làm việc phối hợp cùng các mối quan hệ trong quá trình tổ chức sự kiện", bloom_level: apply, assessed_by: [A3], taught_in: [W1, W9, W10, W11] }
+  - { id: LO7, statement: "Thực hiện thành thạo ngoại ngữ trong chuyên môn và giao tiếp", bloom_level: apply, assessed_by: [A3], taught_in: [W1, W14, W15] }
+  - { id: LO8, statement: "Hình thành đạo đức và kỷ luật nghề nghiệp, trách nhiệm công dân, xã hội và trách nhiệm đối với đơn vị trong quản trị mối quan hệ tổ chức sự kiện", bloom_level: evaluate, assessed_by: [A4], taught_in: [] }   # GV sẽ tự cân đối buổi đáp ứng
+  - { id: LO9, statement: "Thể hiện năng lực lập kế hoạch, điều phối, phát huy trí tuệ tập thể, dẫn dắt chuyên môn trong quản trị mối quan hệ tổ chức sự kiện", bloom_level: create, assessed_by: [A4], taught_in: [] }       # GV sẽ tự cân đối buổi đáp ứng
+
+assessment_plan:
+  - { id: A1, type: participation, title: "AM1 – Chuyên cần", weight: 10, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A2, type: homework, title: "AM2 – Bài tập (nộp LMS)", weight: 20, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm", weight: 20, outcomes_assessed: [LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho 1 khách hàng từ dự án cũ của nhóm + phản biện (AM7 + AM9)", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
+
+schedule:
+  - { id: W1,  topic: "Hệ sinh thái các bên liên quan bên ngoài: primary/secondary; Power-Interest Grid; Salience Model", outcomes: [LO2, LO4, LO5, LO6, LO7], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W2,  topic: "KAM Mindset & chọn Key Account", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W3,  topic: "Hiểu khách hàng & Customer Journey; DMU/GRASP", outcomes: [LO1, LO4], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W4,  topic: "Đo lường chất lượng mối quan hệ", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W5,  topic: "CVP & đồng kiến tạo giá trị", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W6,  topic: "Năng lực tài chính trong KAM: CLV, Cost-to-serve", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W7,  topic: "Procurement, Kraljic & đàm phán dựa trên giá trị (role-play)", outcomes: [LO1, LO5], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W8,  topic: "Vận hành đội KAM & đo lường hiệu quả đa chiều", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W9,  topic: "Nhà đầu tư & nhà tài trợ", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W10, topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W11, topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W12, topic: "Đòn bẩy & giải quyết xung đột trong mạng lưới", outcomes: [LO2, LO4, LO5], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W13, topic: "Xây dựng Key Account Plan / Stakeholder Management Plan", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W14, topic: "Thuyết trình & bảo vệ kế hoạch (1)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
+  - { id: W15, topic: "Thuyết trình & bảo vệ kế hoạch (2)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
+
+policies:
+  grading_scheme: "Quá trình 30% (chuyên cần 10%, bài tập 20%) · Giữa kỳ 20% · Cuối kỳ 50%"
+  late_policy: "Nộp bài trên LMS theo thời hạn quy định. [NEEDS PROFESSOR INPUT: xử lý bài nộp trễ]"
+  ai_use_policy: "[NEEDS PROFESSOR INPUT: quy định sử dụng AI]"
+  integrity_policy: "[NEEDS PROFESSOR INPUT]"
+  attendance_policy: "[NEEDS PROFESSOR INPUT]"
+
+workload_audit: { estimated_hours_per_week: null, credit_hour_target: null, status: not_audited, constants_used: "" }
+
+gates:
+  alignment_gate: { status: not_run, last_run: null, findings: [] }
+  quality_gate: { status: not_run, last_run: null, findings: [] }
+
+artifacts: []
+iteration_history: []
