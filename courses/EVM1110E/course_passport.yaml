@@ -65,7 +65,7 @@ schedule:
   - { id: W5,  topic: "CVP & đồng kiến tạo giá trị", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W6,  topic: "Năng lực tài chính trong KAM: CLV, Cost-to-serve", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W7,  topic: "Procurement, Kraljic & đàm phán dựa trên giá trị (role-play)", outcomes: [LO1, LO5], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W8,  topic: "Vận hành đội KAM & đo lường hiệu quả đa chiều", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W8,  topic: "Quản trị quan hệ với Key Account (mô hình Bow-tie → Diamond, đánh giá định kỳ cùng khách hàng) & đo lường hiệu quả đa chiều — đã bỏ nội dung quản lý nhân sự KAM (nội bộ)", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W9,  topic: "Nhà đầu tư & nhà tài trợ", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W10, topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W11, topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
