@@ -28,9 +28,9 @@ EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 20 | S5 | Càng nhiều thuộc tính, bên liên quan càng nổi bật | Biểu đồ Venn 3 vòng, 7 vùng có tên. *Alt: ba vòng tròn giao nhau tạo bảy loại bên liên quan* | |
 | 21 | S5 | Mỗi loại salience có một ví dụ trong sự kiện | Bảng 7 loại + ví dụ (lecture notes §3.2) | Cho lớp giơ tay đoán loại của 1–2 ví dụ |
 | 22 | S5 | Bên liên quan có thể "leo hạng" — cư dân thành Definitive khi có báo chí và chính quyền vào cuộc | Hoạt hình 2 bước trên Venn: Dependent → Definitive | Hỏi: Nova nên làm gì từ khi họ còn là Dependent? → chuyển S6 |
-| — | S6 | *(chiếu phiếu Thực hành 2 — 3 khu vực poster + luật gallery walk)* | | Đồng hồ đếm ngược; hiệu lệnh chuyển vòng |
+| — | S6 | *(chiếu phiếu Thực hành 2 — 3 khu vực poster + luật xoay vòng các trạm tại bàn)* | | Đồng hồ đếm ngược; hiệu lệnh chuyển vòng |
 | 23 | S7 | Poster hôm nay là trang 1 của Stakeholder Management Plan | Lộ trình: Buổi 1 bản đồ → Buổi 2–8 khách hàng → Buổi 9–12 các bên khác → Buổi 13–15 hoàn thiện & bảo vệ | |
-| 24 | S7 | Bài về nhà: hoàn thiện poster sau phản biện, nộp LMS | 3 mục của bài nộp; hạn nộp | `[NEEDS PROFESSOR INPUT: hạn nộp; có tính AM2 không]` |
+| 24 | S7 | Sửa poster ngay bây giờ — mỗi phản biện là một cơ hội | Đồng hồ 5 phút; nhắc: ghi "sửa gì, vì sao" ở góc poster, chụp ảnh lưu lại (không nộp) | Chiếu slide 24 trước (sửa poster), slide 23 sau (lộ trình) |
 | 25 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án, mục Kết thúc) + câu nối Buổi 2 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi từ khóa ở S1; vẽ nhanh chuỗi ảnh hưởng dây chuyền khi hỏi câu gợi mở ở slide 9.

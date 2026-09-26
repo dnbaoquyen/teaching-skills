@@ -22,6 +22,8 @@ course:
     - "Mỗi buổi 135 phút: ưu tiên ~1/2 lý thuyết, ~1/2 thực hành (quyết định GV)."
     - "Không có mẫu giáo án bắt buộc; giáo án phải đủ nội dung học thuật và ứng dụng."
     - "Bài nộp qua LMS theo thời hạn quy định."
+    - "Bài tập trong buổi học làm và hoàn thiện ngay trên lớp, không giao về nhà, không tính điểm (quyết định GV, Buổi 1)."
+    - "Phòng học không dán được poster lên tường — hoạt động poster dùng bàn nhóm làm trạm."
 
 term_calendar:
   start_date: null                   # [NEEDS PROFESSOR INPUT: ngày buổi 1]
@@ -58,14 +60,14 @@ assessment_plan:
   - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho 1 khách hàng từ dự án cũ của nhóm + phản biện (AM7 + AM9)", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
 
 schedule:
-  - { id: W1,  topic: "Hệ sinh thái các bên liên quan bên ngoài: primary/secondary; Power-Interest Grid; Salience Model", outcomes: [LO2, LO4, LO5, LO6, LO7], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W1,  topic: "Hệ sinh thái các bên liên quan bên ngoài: primary/secondary; Power-Interest Grid; Salience Model", outcomes: [LO2, LO4, LO5, LO6, LO7], activities: ["S4 brainstorm + sơ đồ tư duy phân loại bên liên quan (tình huống giả định Ngân hàng An Phát)", "S6 poster Grid + Salience cho khách hàng dự án cũ + xoay vòng trạm tại bàn (1 câu hỏi + 1 phản biện)", "S7 sửa poster trên lớp theo phản biện", "S8 phiếu kiểm tra cuối giờ (không chấm điểm)"], assessments_due: [], artifact_refs: ["lessons/W01_lesson_plan.md", "lessons/W01_lecture_notes.md", "lessons/W01_slides_outline.md", "lessons/W01_activity_S4_phan_loai_ben_lien_quan.md", "lessons/W01_activity_S6_ban_do_quyen_luc.md"] }
   - { id: W2,  topic: "KAM Mindset & chọn Key Account", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W3,  topic: "Hiểu khách hàng & Customer Journey; DMU/GRASP", outcomes: [LO1, LO4], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W4,  topic: "Đo lường chất lượng mối quan hệ", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W5,  topic: "CVP & đồng kiến tạo giá trị", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W6,  topic: "Năng lực tài chính trong KAM: CLV, Cost-to-serve", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W7,  topic: "Procurement, Kraljic & đàm phán dựa trên giá trị (role-play)", outcomes: [LO1, LO5], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W8,  topic: "Quản trị quan hệ với Key Account (mô hình Bow-tie → Diamond, đánh giá định kỳ cùng khách hàng) & đo lường hiệu quả đa chiều — đã bỏ nội dung quản lý nhân sự KAM (nội bộ)", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W8,  topic: "Quản trị quan hệ với Key Account (mô hình Bow-tie → Diamond, đánh giá định kỳ cùng khách hàng) & đo lường hiệu quả đa chiều — đã bỏ nội dung quản lý nhân sự KAM (nội bộ); GV đã xác nhận hướng này", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W9,  topic: "Nhà đầu tư & nhà tài trợ", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W10, topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W11, topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
@@ -87,5 +89,12 @@ gates:
   alignment_gate: { status: not_run, last_run: null, findings: [] }
   quality_gate: { status: not_run, last_run: null, findings: [] }
 
-artifacts: []
+artifacts:
+  - { path: "syllabus/EVM1110E_De_cuong_hieu_chinh.docx", type: syllabus, produced_by: course-designer, stage: 1, confirmed_by_professor: false }
+  - { path: "syllabus/EVM1110E_De_cuong_hieu_chinh_track_changes.docx", type: syllabus, produced_by: course-designer, stage: 1, confirmed_by_professor: false }
+  - { path: "lessons/W01_lesson_plan.md", type: lesson_plan, produced_by: lesson-builder, stage: 2, confirmed_by_professor: true }
+  - { path: "lessons/W01_lecture_notes.md", type: lecture_notes, produced_by: lesson-builder, stage: 2, confirmed_by_professor: true }
+  - { path: "lessons/W01_slides_outline.md", type: slides_outline, produced_by: lesson-builder, stage: 2, confirmed_by_professor: true }
+  - { path: "lessons/W01_activity_S4_phan_loai_ben_lien_quan.md", type: activity_sheet, produced_by: lesson-builder, stage: 2, confirmed_by_professor: true }
+  - { path: "lessons/W01_activity_S6_ban_do_quyen_luc.md", type: activity_sheet, produced_by: lesson-builder, stage: 2, confirmed_by_professor: true }
 iteration_history: []
