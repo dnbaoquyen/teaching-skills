@@ -70,7 +70,7 @@ schedule:
   - { id: W10, topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W11, topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W12, topic: "Đòn bẩy & giải quyết xung đột trong mạng lưới", outcomes: [LO2, LO4, LO5], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W13, topic: "Xây dựng Key Account Plan / Stakeholder Management Plan", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W13, topic: "Xây dựng Stakeholder Management Plan quanh Key Account Plan (KAP là phần lõi)", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
   - { id: W14, topic: "Thuyết trình & bảo vệ kế hoạch (1)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
   - { id: W15, topic: "Thuyết trình & bảo vệ kế hoạch (2)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
 
