@@ -1,4 +1,4 @@
-# Buổi 10 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 10 — Tư liệu tổng hợp (ĐÃ DUYỆT 27/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -25,7 +25,19 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (27/9/2026) — duyệt toàn bộ đề xuất
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **10.3 theo phương án A:** hành trình mua của **chính An Phát** với Nova (Lemon & Verhoef, V09). Nhà cung cấp và địa điểm là **điểm chạm do đối tác sở hữu**; SV phân bổ nhà cung cấp vào giai đoạn **mua** (triển khai sự kiện) và **sau mua** (nghiệm thu, PER, thanh toán, đánh giá, tái ký).
+3. **Ranh giới:** Buổi 7 = chiến lược (Kraljic, Procurement vs Buying); Buổi 10 = tác nghiệp (RFP/RFQ, chấm điểm, site check). PCCC, an toàn đám đông → môn Quản trị rủi ro sự kiện; Buổi 10 chỉ nhắc “hỏi giấy phép, sức chứa chính thức”.
+4. **Case:** trục chính là Case 3 giả định (Nova chọn khách sạn và nhà cung cấp cho gala 12/12 của An Phát); Mỹ Đình (V10) mở đầu 10.2; Những thành phố mơ màng (V11) làm ví dụ site check; GEM Center (V12) chỉ là ví dụ vênh thông số, **không nêu tên**.
+5. **Đơn vị:** quy đổi sang m² (1 m² ≈ 10,76 sq ft), số sq ft gốc để ở chú thích.
+6. **Chấm điểm có trọng số:** ví dụ **giả định** (chất lượng – năng lực 60 / tổng chi phí 40).
+7. **Quy định mua sắm của Key Account:** chỉ một câu — “quy trình mua của Key Account có thể chịu quy định nội bộ hoặc pháp luật; agency cần hỏi phòng mua sắm của khách”; không đi sâu Luật Đấu thầu.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -236,17 +248,9 @@ Tuổi Trẻ Online. (2023, February 22). *GEM Center – trung tâm sự kiện
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
 
-1. **Bảng nhu cầu tư liệu (mục 0):** duyệt / sửa.
-2. **Cách hiểu 10.3 “Purchase/Post-purchase stages of the Key Account”** — người tổng hợp đề xuất:
-   - **(A — khuyến nghị)** hành trình mua của **chính An Phát** với Nova theo Lemon & Verhoef (V09): nhà cung cấp và địa điểm là **điểm chạm do đối tác sở hữu**; SV phân bổ từng nhà cung cấp vào giai đoạn *mua* (triển khai sự kiện) và *sau mua* (nghiệm thu, PER, thanh toán, đánh giá, tái ký).
-   - (B) hành trình của **khách của An Phát** (600 khách VIP) — đã làm ở Buổi 9 cho nhà tài trợ, nên dễ trùng lặp.
-3. **Ranh giới:** Buổi 7 = chiến lược (Kraljic, Procurement vs Buying); Buổi 10 = tác nghiệp (RFP/RFQ, chấm điểm, site check). PCCC, an toàn đám đông → môn Quản trị rủi ro sự kiện (chỉ nhắc “hỏi giấy phép, sức chứa chính thức”). Đồng ý?
-4. **Case:** trục chính là **Case 3 giả định** (Nova chọn khách sạn và nhà cung cấp cho gala 12/12 của An Phát); **Mỹ Đình** (V10) để mở đầu 10.2; **Những thành phố mơ màng** (V11) làm ví dụ site check. GEM Center (V12) chỉ dùng như ví dụ vênh thông số và **không nêu tên**? Đồng ý / đổi.
-5. **Đơn vị:** quy đổi sang **m²** (1 m² ≈ 10,76 sq ft), giữ số sq ft gốc ở chú thích. Đồng ý?
-6. **Chấm điểm có trọng số:** dùng ví dụ **giả định** (ví dụ chất lượng – năng lực 60 / giá 40) vì chưa có nguồn chuẩn. Đồng ý?
-7. **Luật Đấu thầu / quy định mua sắm của ngân hàng:** có nhắc trong bài không? `[NEEDS PROFESSOR INPUT]` — người tổng hợp đề xuất **không đi sâu**, chỉ một câu: “quy trình mua của Key Account có thể chịu quy định nội bộ hoặc pháp luật; agency cần hỏi phòng mua sắm của khách”.
+Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026; 10.3 theo phương án **A** (xem đầu file).
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 10: `W10_lesson_plan.md`, `W10_lecture_notes.md`, `W10_slides_outline.md`, `W10_activity_S3_*.md`, `W10_activity_S6_*.md`.
+Đã duyệt. Gói bài giảng Buổi 10 đã soạn: `W10_lesson_plan.md`, `W10_lecture_notes.md`, `W10_slides_outline.md`, `W10_activity_S3_cham_ho_so_khach_san.md`, `W10_activity_S6_phan_bo_nha_cung_cap.md` (chờ GV xác nhận).
