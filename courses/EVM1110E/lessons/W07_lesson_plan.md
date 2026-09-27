@@ -74,7 +74,7 @@
 
 ## Các mục [VERIFY] cần GV kiểm tra
 
-1. `[VERIFY: Diễn biến pháp lý Live Nation – Ticketmaster sau 2024 (thỏa thuận hòa giải tháng 3/2026; phán quyết bồi thẩm đoàn 15/4/2026) — người soạn giáo án không kiểm chứng được; đối chiếu nguồn chính thức trước khi đưa lên slide]` — lecture notes §5.3, slide 20.
+1. ~~Diễn biến pháp lý Live Nation – Ticketmaster 2026~~ — **đã kiểm chứng** (NPR 15/4/2026; NH DOJ): hòa giải với Bộ Tư pháp tháng 3/2026, bồi thẩm đoàn kết luận độc quyền ngày 15/4/2026.
 2. `[VERIFY: Các nguồn 2025–2026 (Fontes et al., Kiambi & Zabel, Papadopoulou-Kelidou et al., Vu, Fakhreddin et al., Wang) và Pillai Sandesh et al. (2023): metadata đã được người biên soạn tài liệu gốc đối chiếu, nhưng phần tóm tắt kết quả dựa trên abstract — đối chiếu số tập/trang và kết quả chính với bản gốc qua thư viện]` — lecture notes §1.3, §3, §5; tài liệu tham khảo.
 3. `[VERIFY: Phát hiện "ngay cả quan hệ đối tác chiến lược được đánh giá hài lòng vẫn do nhà cung cấp chi phối" — kiểm tra đúng là Caniëls & Gelderman (2007) chứ không phải bài 2005]` — lecture notes §3.1, slide 12.
 

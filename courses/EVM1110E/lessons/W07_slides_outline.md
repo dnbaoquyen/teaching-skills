@@ -25,7 +25,7 @@ EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 17 | S4 | KAM chỉ dành cho số ít quan hệ thật sự trọng yếu | Quy tắc quyết định 3 câu hỏi + kiểm tra Supplier Preferencing | |
 | 18 | S4 | 🔁 Quan hệ tin cậy với nhà cung cấp dẫn tới đổi mới và quảng bá chung | Case Vu (2025) — 3 dòng kết quả + bài học cho venue/catering | |
 | 19 | S4 | 🔍 Ô Leverage cho phép đàm phán cứng, không cho phép bóc lột | Case hãng lữ hành – khách sạn: 3 lỗi | Hỏi nhanh: ranh giới ở đâu? |
-| 20 | S4 | 🔍 Một hạng mục nút thắt bị quản trị như dịch vụ thông thường | Case Ticketmaster 2022: bối cảnh + cách đọc Kraljic + bài học. Nguồn bổ trợ G4S (1 dòng) | `[VERIFY: diễn biến pháp lý 2026]`; nếu trễ giờ, bỏ slide này |
+| 20 | S4 | 🔍 Một hạng mục nút thắt bị quản trị như dịch vụ thông thường | Case Ticketmaster 2022: bối cảnh + cách đọc Kraljic + bài học. Nguồn bổ trợ G4S (1 dòng) | Diễn biến pháp lý 2026 đã kiểm chứng (NPR, 15/4/2026); nếu trễ giờ, bỏ slide này |
 | 21 | S4 | Phòng mua hàng đo agency trên hai trục — hãy trả lời trên cả hai | Bảng Value vs Risk (lecture notes §6) | |
 | 22 | S4 | Không nhượng mà không đổi lại | 4 kỹ thuật đàm phán + hiểu lầm "khóa khách hàng" | → Phiếu S5 |
 | — | S5 | *(chiếu tình huống chung + các bước + đồng hồ)* | | Thẻ vai phát tay, không chiếu |
