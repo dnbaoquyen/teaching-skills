@@ -13,26 +13,31 @@
 
 **Ghi chú quy trình:** Truy cập web hoạt động trong phiên này (tìm kiếm + đọc trang). Một số trang chặn truy cập tự động (Northstar Meetings Group, Business Travel News, một chương sách mở trên Pressbooks, trang báo chí của Bộ Tư pháp Hoa Kỳ) nên **không** được dùng làm căn cứ, kể cả khi kết quả tìm kiếm có nhắc tới. Ba đầu mối ghi ở mục 7 của file khung đã được xử lý như sau: CWT–GBTA → đã đọc (S04); CIPS → đã đọc (S01, S03); Northstar/Cvent PULSE 2024 về in-house AV → **không đọc được trang gốc**, thay bằng S07–S10.
 
+**Vòng tìm bổ sung (GV yêu cầu, 27/9/2026):** tìm thêm cho các khoảng trống B3, C1, C2, D1–D3 và A (Việt Nam). Thêm được **S21–S26** và **Case 5**. Sau vòng này danh mục có 26 nguồn, vượt khung 12–20 của quy trình. Vì vậy mục 2 chia thành **bộ lõi (20 nguồn)** và **tham khảo thêm (6 nguồn)**, xem bảng ở đầu mục 2. Các khoảng trống còn lại ghi ở mục 5.
+
 ---
 
 ## 1. Bảng đối chiếu đề cương – tư liệu
 
 | # | Mục đề cương (Buổi 7) | Mã nguồn | Tình trạng |
 |---|---|---|---|
-| A | Tiêu đề *Understanding Procurement*: mức độ agency phụ thuộc nhà cung cấp (khan hiếm, lạm phát giá, thiếu nhân lực kỹ thuật, độc quyền tại địa điểm) | S04, S05, S06, S07, S08, S09, S10, S20 | **Đủ** (quốc tế tốt; số liệu riêng cho Việt Nam còn mỏng, xem mục 5) |
-| B1 | 7.1 Logic Kraljic: hai trục, bốn ô, chiến lược từng ô | S01, S02 | **Đủ** |
+| A | Tiêu đề *Understanding Procurement*: mức độ agency phụ thuộc nhà cung cấp (khan hiếm, lạm phát giá, thiếu nhân lực kỹ thuật, độc quyền tại địa điểm) | S04, S05, S06, S07, S08, S09, S10, S20, S22, S23, S24, S26 | **Đủ** (sau vòng bổ sung đã có dữ kiện Việt Nam: S22, S23, S24; vẫn chưa có báo cáo ngành sự kiện Việt Nam) |
+| B1 | 7.1 Logic Kraljic: hai trục, bốn ô, chiến lược từng ô | S01 (S02 tham khảo) | **Đủ** |
 | B2 | 7.1 Vị thế từng nhóm nhà cung cấp sự kiện trên ma trận | S08, S09, S13, S15, S16, S20 (dữ kiện gián tiếp) | **Thiếu**: không tìm được nguồn tin cậy nào xếp sẵn các nhóm nhà cung cấp sự kiện vào bốn ô |
-| B3 | 7.1 Hệ quả vị thế nhà cung cấp với agency (nhà cung cấp trội thế vs agency xây được quan hệ đối tác) | S09, S13, S14, S15, S16, S17 | **Đủ** cho phía “nhà cung cấp trội thế / agency thất bại”; **Thiếu** case độc lập về agency xây đối tác chiến lược thành công |
+| B3 | 7.1 Hệ quả vị thế nhà cung cấp với agency (nhà cung cấp trội thế vs agency xây được quan hệ đối tác) | S09, S13, S14, S15, S16, S17, S21 | **Đủ** cho phía “nhà cung cấp trội thế / agency thất bại”. Có thêm S21 (agency Việt Nam tự sở hữu nguồn cung chiến lược rồi rút lui). **Vẫn thiếu** case độc lập về agency xây đối tác chiến lược thành công |
 | C1 | 7.2 Procurement vs Buying (khái niệm) | S03, S01 | **Đủ** (nguồn chính một tổ chức; xem mục 5) |
-| C2 | 7.2 Hai cấp trong agency (preferred supplier list, thỏa thuận khung, đánh giá định kỳ vs đặt hàng từng sự kiện) | S06, S07, S11, S14 | **Thiếu**: có bằng chứng agency/đơn vị trung gian có chức năng procurement, nhưng chưa có nguồn Việt Nam đáng tin cậy |
+| C2 | 7.2 Hai cấp trong agency (preferred supplier list, thỏa thuận khung, đánh giá định kỳ vs đặt hàng từng sự kiện) | S06, S07, S11, S14, S25 | **Thiếu một phần**: đã có định nghĩa preferred supplier program (S25) và bằng chứng agency có chức năng procurement (S11); **chưa có nguồn Việt Nam** đáng tin cậy |
 | D1 | 7.3 Value-based negotiation, Risk vs Value | S12, S11 | **Đủ** (khái niệm đàm phán; nguồn “value-based negotiation” riêng cho agency–client chưa có) |
 | D2 | 7.3 Agency đàm phán rủi ro/giá trị với client (chuyển điều khoản nhà cung cấp sang hợp đồng client, chứng minh giá trị bằng ROI/ROE) | S05, S08, S10, S11, S15, S16 | **Đủ một phần**: có điều khoản nhà cung cấp và ROI/ROE; chưa có nguồn mô tả trực tiếp kỹ thuật hợp đồng “back-to-back” |
-| D3 | 7.3 Tư liệu dựng đóng vai (cơ cấu ngân sách, biên lợi nhuận agency, lệch dòng tiền, mức cắt ngân sách) | S18, S19, S05, S15, S16 | **Thiếu**: chỉ có nguồn độ tin cậy thấp hoặc gián tiếp |
-| E | Tự học TOPIC 7 (18 giờ): case công khai | S13, S14, S15, S16 | **Đủ** |
+| D3 | 7.3 Tư liệu dựng đóng vai (cơ cấu ngân sách, biên lợi nhuận agency, lệch dòng tiền, mức cắt ngân sách) | S21, S22, S19, S05, S15, S16 (S18, S25 tham khảo) | **Đủ một phần**: đã có số liệu Việt Nam đáng tin về cơ cấu chi phí và dòng tiền (S22) và biên lợi nhuận của một doanh nghiệp lữ hành–MICE niêm yết (S21); vẫn chưa có số biên lợi nhuận riêng của event agency |
+| E | Tự học TOPIC 7 (18 giờ): case công khai | S13, S14, S15, S16, S21 | **Đủ** |
 
 ---
 
 ## 2. Thẻ nguồn
+
+**Bộ lõi (20 nguồn):** S01, S03–S16, S19–S23.
+**Tham khảo thêm (6 nguồn, không dùng làm căn cứ chính):** S02 (thuật ngữ; GV đã quyết định giữ thuật ngữ gốc), S17 (không có dữ kiện nguyên nhân), S18 (blog agency, độ tin cậy thấp), S24 (trang tự giới thiệu của địa điểm), S25 (bài năm 2017, góc phòng mua hàng client), S26 (thị trường Anh, dữ liệu từ thông cáo).
 
 ### S01 — CIPS: *Kraljic Matrix – What is the Kraljic Matrix?*
 - **Tổ chức:** Chartered Institute of Procurement & Supply (CIPS, Anh). **Loại:** tài liệu khái niệm của hiệp hội nghề nghiệp. **Ngày đăng:** không ghi trên trang. **Link:** https://www.cips.org/intelligence-hub/supplier-relationship-management/kraljic-matrix. **Truy cập:** 27/9/2026.
@@ -58,7 +63,7 @@
   - Hai trục được dịch là “tác động đến lợi nhuận” và “rủi ro từ nguồn cung”.
   - Tên ô tiếng Việt: Strategic (sản phẩm chiến lược), Leverage (sản phẩm đòn bẩy), Routine/Non-critical (sản phẩm không quan trọng), Bottleneck (sản phẩm trở ngại). Các nguồn Việt Nam khác thấy trong kết quả tìm kiếm dùng “nút thắt”, “dễ bị gián đoạn” cho Bottleneck (chưa đọc kỹ).
   - Chiến lược: hợp tác dựa trên vị thế tương đối / đấu thầu / đơn giản hóa / duy trì nguồn cung và phát triển thay thế.
-- **Gợi ý cách dùng:** Chọn một bộ thuật ngữ tiếng Việt thống nhất cho cả môn. *Nhận định của người tổng hợp:* dịch Non-critical là “không quan trọng” dễ gây hiểu sai trong sự kiện (ví dụ bàn ghế, in ấn vẫn có thể làm hỏng sự kiện). Nên cân nhắc dùng “thông thường”.
+- **Gợi ý cách dùng:** **GV đã quyết định giữ thuật ngữ gốc** (Strategic, Leverage, Bottleneck, Non-critical; supply risk, profit impact). Nguồn này chỉ dùng để tham khảo khi giải thích nghĩa bằng tiếng Việt lần đầu. *Nhận định của người tổng hợp:* các bản dịch như “không quan trọng” (Non-critical) hay “trở ngại” (Bottleneck) dễ gây hiểu sai, nên việc giữ thuật ngữ gốc giúp tránh lỗi này.
 
 ### S03 — CIPS: *What Is Procurement?*
 - **Tổ chức:** CIPS. **Loại:** tài liệu khái niệm của hiệp hội nghề nghiệp. **Ngày đăng:** không ghi. **Link:** https://www.cips.org/intelligence-hub/procurement/what-is-procurement. **Truy cập:** 27/9/2026.
@@ -117,7 +122,7 @@
   - Là “customer of choice” (khách hàng được nhà cung cấp ưu tiên) và giảm số nhà cung cấp giúp có giá ưu đãi và được ưu tiên phục vụ.
 - **Dữ kiện:** “F&B tăng tới 120%” là số cá biệt, không rõ phương pháp → **Chưa KCC**, không nên dùng làm số chính.
 - **Trích dẫn:** “Being a customer of choice and having less suppliers that you work with will enable preferential rates and prioritisation.”
-- **Gợi ý cách dùng:** A (khan hiếm năng lực nhà cung cấp); C2 (lý do cấp chiến lược thu gọn danh mục nhà cung cấp). *Nhận định của người tổng hợp:* “customer of choice” gần với khái niệm Supplier Preferencing mà GV đã quyết định không đưa vào. Nếu dùng, chỉ nên trình bày như **hành động của agency** (gom chi tiêu, giảm số nhà cung cấp), không phân tích cách nhà cung cấp nhìn agency.
+- **Gợi ý cách dùng:** A (khan hiếm năng lực nhà cung cấp); C2 (lý do cấp chiến lược thu gọn danh mục nhà cung cấp). **GV đã quyết định (27/9/2026):** đưa “customer of choice” vào như **hành động của agency** (gom chi tiêu, thu gọn danh mục nhà cung cấp, cam kết dài hạn để được ưu tiên về giá và năng lực phục vụ). Không phân tích cách nhà cung cấp đánh giá agency (Supplier Preferencing vẫn loại). Tư liệu hỗ trợ cùng hướng: S05 (trích dẫn về dồn booking cho preferred suppliers), S09 (đặt cùng khách sạn nhiều năm để được miễn phụ thu AV), S14 (công ty sourcing lớn giữ được mức hoa hồng cũ).
 
 ### S07 — Cvent: *2025 Planner Sourcing Report* (qua BizBash và blog thống kê của Cvent)
 - **Tổ chức:** Cvent (nền tảng công nghệ sự kiện). Bài tường thuật trên BizBash của R. Carey, 6/11/2024: https://www.bizbash.com/corporate-events/cvent-s-2025-planner-sourcing-report-planners-juggling-more-responsibilities-amid-rising-costs. Tổng hợp thống kê của H. Salvatori trên blog Cvent, 9/3/2026: https://www.cvent.com/en/blog/events/event-statistics. **Loại:** khảo sát ngành, qua nguồn thứ cấp. **Truy cập:** 27/9/2026.
@@ -291,6 +296,74 @@
 - **Trích dẫn:** “…tại Việt Nam, nhà hát hay sân khấu lớn chuyên biệt cho âm nhạc còn rất hạn chế.” (ELLE)
 - **Gợi ý cách dùng:** A và B2 bối cảnh Việt Nam. *Nhận định của người tổng hợp:* với sự kiện quy mô rất lớn, “địa điểm” gần như luôn là hạng mục Strategic hoặc Bottleneck; còn “thiết bị sân khấu và nhân lực kỹ thuật cao” có thể chuyển sang Bottleneck khi agency không có nhà cung cấp nội địa đủ năng lực. Nguồn chỉ nói về concert; chưa có nguồn tương đương cho sự kiện doanh nghiệp/MICE tại Việt Nam.
 
+### S21 — Việt Nam: Vietravel lập rồi thoái vốn Vietravel Airlines (2019–2026)
+- **Nguồn:** Doanh nhân (Báo Pháp luật VN), 3/4/2019, *Vietravel muốn lập hãng hàng không* (https://doanhnhan.baophapluat.vn/vietravel-muon-lap-hang-hang-khong-16341.html); Thanh Niên, 11/10/2023, phỏng vấn ông Nguyễn Quốc Kỳ (https://thanhnien.vn/chu-tich-hqt-vietravel-corporation-nguyen-quoc-ky-kho-may-vietravel-airlines-cung-phai-bay-185231011130715252.htm); Người Lao Động, 26/11/2025 (https://tuoitre.vn/nld/ong-nguyen-quoc-ky-noi-ve-viec-ban-het-co-phan-vietravel-airlines-va-rut-khoi-mang-hang-khong-19625112523314506.htm); Viet Nam News/Bizhub, 2025 (https://vietnamnews.vn/economy/1730410/vietravel-to-exit-ownership-in-its-own-airline.html); The Investor, 2/2026 (https://theinvestor.vn/major-tour-operator-vietravel-posts-first-quarterly-loss-since-2022-as-costs-surge-d18453.html); Vietstock, 24/2/2026 (https://vietstock.vn/2026/02/thoai-von-khoi-vietravel-airlines-vietravel-duoc-hoan-nhap-du-phong-158-ty-nhung-van-lo-trong-quy-4-737-1405015.htm); Doanh nhân, 25/2/2026 (https://doanhnhan.baophapluat.vn/vietravel-vtr-dut-mach-lai-lien-tiep-du-phong-phai-thu-kho-doi-phinh-to-gap-8-lan.html). **Loại:** báo chí kinh doanh; số liệu dẫn từ báo cáo tài chính của doanh nghiệp niêm yết (UPCoM: VTR). **Truy cập:** 27/9/2026.
+- **Tin cậy: Cao** (nhiều báo độc lập, số liệu từ báo cáo tài chính). Lưu ý: Vietravel là **doanh nghiệp lữ hành có mảng MICE** (Vietravel MICE), không phải event agency thuần.
+- **Phục vụ:** B3, D3, E.
+- **Tóm tắt:**
+  - 2019: ông Nguyễn Quốc Kỳ nêu lý do muốn lập hãng bay là **hoàn thiện hệ sinh thái** như các tập đoàn du lịch lớn nước ngoài. Ông dẫn ví dụ Spring Tour (Thượng Hải) sở hữu 137 máy bay, và TUI (Đức) phải ngừng khoảng 30% đội bay do khủng hoảng Boeing 737 Max (Doanh nhân 2019).
+  - Vietravel Airlines thành lập tháng 4/2020, vốn ban đầu 700 tỷ đồng (The Investor). Năm 2023 ông Kỳ nói khó khăn gồm thiết bị nhập khẩu bằng USD, biến động tỷ giá và giá nhiên liệu (Thanh Niên).
+  - Cuối 2024, các công ty liên quan T&T Group nắm khoảng 75% cổ phần (The Investor). Tháng 11/2025, Vietravel quyết định thoái toàn bộ khoảng 18,4 triệu cổ phần còn lại (khoảng 14%) trước 31/12/2025, để “tập trung vào năng lực cốt lõi”. **Đã KCC** (VNS, NLĐ, The Investor).
+  - Kết quả kinh doanh năm 2025: doanh thu khoảng 7.206–7.210 tỷ đồng (+7%). Lợi nhuận sau thuế chưa tới 619 triệu đồng (năm 2024: khoảng 35–36 tỷ). Quý 4/2025 doanh thu 1.769 tỷ, lợi nhuận gộp khoảng 109 tỷ, lỗ hơn 10 tỷ. **Đã KCC** (The Investor, Vietstock, Doanh nhân).
+  - Cuối 2025: phải thu ngắn hạn 1.654 tỷ đồng; dự phòng phải thu khó đòi 127 tỷ (gấp khoảng 8 lần đầu năm). Theo Vietstock, trong đó có khoảng 650 tỷ phải thu từ Vietravel Group (bên liên quan), không phải toàn bộ là phải thu khách hàng. **Chưa KCC** cho chi tiết 650 tỷ.
+- **Mâu thuẫn / cần đọc đúng:** số hoàn nhập dự phòng từ hãng bay: Vietstock ghi 158 tỷ **trong quý 4** và 178 tỷ **lũy kế cả năm**; The Investor và CafeF ghi 178 tỷ. Hai con số không mâu thuẫn nếu phân biệt quý và năm.
+- **Số tự tính:** biên lợi nhuận gộp quý 4/2025 ≈ 109 / 1.769 ≈ **6,2%** (*người tổng hợp tự tính* từ số liệu các báo đưa).
+- **Trích dẫn:** “Vietravel set up Vietravel Airlines in April 2020 with initial capital of VND700 billion ($26.73 million).” (The Investor)
+- **Gợi ý cách dùng:** *Nhận định của người tổng hợp:* đây là case Việt Nam về một doanh nghiệp trung gian (lữ hành–MICE) chọn cách **tự sở hữu** một hạng mục có supply risk cao (ghế máy bay), rồi rút lui sau 5 năm. Doanh nghiệp không nêu trực tiếp lý do “chủ động nguồn cung” (lý do chính thức là “hoàn thiện hệ sinh thái”), nên khi dạy không được gán động cơ này như sự thật. Dùng để thảo luận: với hạng mục Strategic, agency nên xây quan hệ đối tác hay tự sở hữu, và chi phí của lựa chọn đó là gì? Số liệu tài chính (biên gộp khoảng 6%, lãi ròng gần bằng 0, phải thu lớn) là chất liệu thật cho D3: doanh thu lớn nhưng biên mỏng và vốn bị giữ trong khoản phải thu.
+
+### S22 — Nhân Dân: *Nghệ sĩ Việt chật vật làm liveshow*
+- **Tổ chức:** Báo Nhân Dân. **Loại:** báo chí. **Ngày đăng:** 7/9/2026. **Link:** https://nhandan.vn/nghe-si-viet-chat-vat-lam-liveshow-post986884.html. **Truy cập:** 27/9/2026.
+- **Tin cậy: Cao** (báo lớn, có trích nguồn nhà sản xuất có tên). Góc nhìn là **nhà sản xuất show**, không phải agency làm cho client; dùng như dữ kiện thị trường nhà cung cấp.
+- **Phục vụ:** A, D3.
+- **Tóm tắt:**
+  - Liveshow tầm trung (600–1.000 chỗ) cần tổng kinh phí khoảng **3–5 tỷ đồng**.
+  - Chi phí cố định: thuê nhà hát hoặc địa điểm 150–300 triệu đồng; âm thanh–ánh sáng đạt chuẩn chiếm phần lớn; phí tác quyền từ vài triệu đến hàng chục triệu đồng/ca khúc; giấy phép, giám đốc âm nhạc, khách mời vài trăm triệu.
+  - Hòa vốn với khán phòng 1.000 chỗ đòi giá vé trung bình khoảng 5 triệu đồng, chưa tính thuế và phí nền tảng.
+  - **Mô hình dòng tiền rủi ro:** nhiều đơn vị tổ chức thiếu vốn lưu động, dùng tiền vé early bird để trả các khoản cọc tiếp theo cho địa điểm, âm thanh–ánh sáng, nghệ sĩ. Khi vé bán chậm thì chuỗi tiền đứt và show bị hủy.
+  - Kinh nghiệm được dẫn: chỉ nên làm liveshow khi nhà tài trợ gánh được ít nhất 50% tổng chi phí.
+- **Dữ kiện:** các con số chi phí đều từ một bài → **Chưa KCC**. Mô thức “cọc nhà cung cấp trễ → show hủy” khớp với S15 và S16.
+- **Trích dẫn:** “Họ vận hành theo mô hình ứng trước: Sử dụng doanh thu từ việc bán vé giai đoạn đầu (Early Bird) để thanh toán các khoản cọc tiếp theo cho nhà cung cấp địa điểm, âm thanh, ánh sáng, đặt cọc cho các nghệ sĩ, nhạc công, chương trình marketing…”
+- **Gợi ý cách dùng:** D3: số liệu thật để dựng bảng chi phí giả định cho đóng vai và minh họa lệch dòng tiền. Giải thích cơ chế đứng sau hai case S15, S16.
+
+### S23 — VnExpress & VnEconomy: hạn chế và chi phí của MICE Việt Nam
+- **Nguồn:** VnExpress, 30/9/2024, *Du lịch MICE Việt tiềm năng nhưng vẫn “dưới kỳ vọng”* (https://vnexpress.net/du-lich-mice-viet-tiem-nang-nhung-van-duoi-ky-vong-4797880.html); VnEconomy, 20/6/2025, *Hè 2025 “đón sóng” du lịch MICE nội địa* (https://vneconomy.vn/he-2025-don-song-du-lich-mice-noi-dia.htm). **Loại:** báo chí. **Truy cập:** 27/9/2026.
+- **Tin cậy: Trung bình–Cao** (báo lớn, dẫn phát biểu có tên: Phó Chủ tịch CLB MICE Việt Nam Phùng Hữu Hoàng, TS. Trịnh Lê Anh – ĐH KHXH&NV; đại diện Du Lịch Việt).
+- **Phục vụ:** A (Việt Nam).
+- **Tóm tắt:**
+  - Hạ tầng du lịch là điểm yếu nhất, chỉ đạt 2,2 điểm, xếp 89/119 (VnExpress, dẫn một bảng xếp hạng quốc tế năm 2024).
+  - Cần làm mới hoặc cải tạo hạ tầng khách sạn, nhà hàng để phục vụ đoàn MICE **500–1.000 người**; giá vé máy bay tăng cao là thách thức lớn (Phùng Hữu Hoàng, VnExpress).
+  - Theo nghiên cứu năm 2020 của Cục Du lịch Quốc gia (được TS. Trịnh Lê Anh dẫn), chỉ 30% nhân viên ngành MICE đạt chuẩn quốc tế.
+  - Hè 2025: giá vé máy bay nội địa tăng **10–20%** so với năm trước, buộc các đoàn đặt trước 1–2 tháng để giữ giá và đảm bảo chỗ (đại diện Du Lịch Việt, VnEconomy).
+- **Dữ kiện:** “vé máy bay tăng là thách thức lớn cho MICE” có ở cả hai báo → **Đã KCC** về xu hướng. Mức 10–20% chỉ một nguồn → **Chưa KCC**.
+- **Trích dẫn:** “…giá vé nội địa hè tăng 10 - 20% so với năm ngoái, buộc các đoàn phải đặt trước 1 - 2 tháng để giữ giá tốt và đảm bảo chỗ…” (VnEconomy)
+- **Gợi ý cách dùng:** Bối cảnh Việt Nam cho phần A: vé máy bay mùa cao điểm và địa điểm cho đoàn lớn là các hạng mục có supply risk cao với agency MICE.
+
+### S24 — Trung tâm Hội nghị Quốc gia (NCC): trang *Tiệc cuối năm – Year End Party*
+- **Tổ chức:** Trung tâm Hội nghị Quốc gia (ncc.gov.vn). **Loại:** trang giới thiệu dịch vụ của địa điểm. **Ngày:** không ghi. **Link:** https://ncc.gov.vn/tiec-cuoi-nam-year-end-party. **Truy cập:** 27/9/2026.
+- **Tin cậy: Trung bình–Thấp.** Địa điểm nhà nước, nhưng đây là nội dung tự quảng bá, không ghi năm của số liệu.
+- **Phục vụ:** A (mùa cao điểm tại Việt Nam). **Tham khảo thêm.**
+- **Tóm tắt:** trong tháng cuối năm, NCC tổ chức hơn 70 tiệc tất niên, trung bình 3 sự kiện/ngày; ngày cao điểm có tới 6 sự kiện cùng lúc. **Chưa KCC.**
+- **Gợi ý cách dùng:** Ví dụ minh họa độ khan hiếm địa điểm lớn mùa year end party. Khi dạy phải nói rõ là số liệu tự công bố.
+
+### S25 — BizBash: *Events and Procurement – Working Together for Success*
+- **Tác giả:** Danalynne Wheeler Menegus. **Tổ chức:** BizBash. **Ngày đăng:** 7/11/2017. **Link:** https://www.bizbash.com/corporate-events/events-and-procurement-working-together-for-success. **Truy cập:** 27/9/2026.
+- **Tin cậy: Trung bình.** Báo ngành, người được phỏng vấn có tên (Dell, SAP). Bài cũ và viết từ **góc phòng mua hàng của client** nên chỉ dùng phần khái niệm. **Tham khảo thêm.**
+- **Phục vụ:** C2, D3.
+- **Tóm tắt:**
+  - Định nghĩa **preferred supplier program**: danh sách nhà cung cấp được chọn trước dựa trên giá ưu đãi, giá trị cộng thêm, năng lực và hiệu quả. Các nhà cung cấp này đã qua thủ tục pháp lý, nên không cần duyệt lại từng giao dịch; vẫn có thể dùng nhà cung cấp mới nếu có lý do chính đáng.
+  - Sự kiện luôn có nhiều nhà cung cấp hơn hầu hết các giao dịch khác (nhà thầu dịch vụ tổng hợp, điện, AV, internet, catering...).
+  - Agency thường nhận làm “one-stop shop” và chạy các nhà cung cấp khác qua hệ thống thanh toán của mình; **markup từ 10% trở lên là không hiếm**.
+- **Trích dẫn:** “A ten percent or greater markup is not unusual for these management services.”
+- **Gợi ý cách dùng:** C2: định nghĩa preferred supplier program áp dụng được cho cấp Procurement **bên trong agency**. D3: một mốc tham chiếu quốc tế về markup của agency, đối chiếu với dải 5–10% của S18. Hai thị trường và hai thời điểm khác nhau, nên không coi là kiểm chứng chéo.
+
+### S26 — Meetings Industry Association (MIA, Anh): khảo sát MIA Insights về chi phí 2025
+- **Nguồn:** Prestige Events Magazine, 11/2025 (https://www.prestigeeventsmagazineblog.com/cost-pressures-are-forcing-price-rises-and-reduced-workforces-the-meetings-industry-association-reveals/). Chưa đọc được bản gốc của MIA hay bài của Event Industry News. **Loại:** tường thuật thông cáo báo chí của hiệp hội. **Truy cập:** 27/9/2026.
+- **Tin cậy: Trung bình.** Mẫu nhỏ (109 đơn vị gồm venue, nhà cung cấp, agency, điểm đến); nguồn đọc được là bản đăng lại thông cáo. **Tham khảo thêm.**
+- **Phục vụ:** A.
+- **Tóm tắt:** 89% đơn vị có chi phí tăng năm 2025, bình quân +12%; 64% đã tăng giá, bình quân +7%; 32% hoãn đầu tư; 26% giảm nhân sự; 46% đang hụt so với dự báo doanh thu 2025. **Chưa KCC.**
+- **Trích dẫn:** “Rising costs continue to shift the goalposts for profitability and the sustainability of our industry.” (Shonali Devereaux, CEO MIA; trích qua công cụ đọc trang)
+- **Gợi ý cách dùng:** *Nhận định của người tổng hợp:* chi phí của nhà cung cấp tăng nhanh hơn giá bán (12% so với 7%), tức phần chênh còn đang bị “nén” và có thể tiếp tục được đẩy sang người mua là agency. Chỉ dùng như số minh họa thị trường Anh.
+
 ---
 
 ## 3. Tóm tắt case study
@@ -319,6 +392,12 @@
 **Kết quả.** Chiều 22/12 BTC thông báo dừng chương trình và hứa hoàn tiền vé. Tuổi Trẻ ghi nhận lý do là ban tổ chức trong nước không đáp ứng được điều khoản với đối tác quốc tế. Phía nghệ sĩ khó đòi bồi thường vì thiếu hợp đồng ràng buộc.
 **Liên hệ Buổi 7.** *Nhận định của người tổng hợp:* case cho thấy sự thiếu vắng cấp Buying (hợp đồng, cọc, xác nhận lịch) làm sụp cả quan hệ ở cấp chiến lược. Với agency, “hợp đồng ký đủ + cọc đúng hạn” là điều kiện tối thiểu để giữ nhà cung cấp Strategic. Đồng thời đây là nghĩa vụ tài chính mà agency phải tính vào dòng tiền (D3) trước khi thu được tiền của Key Account.
 
+### Case 5 — Vietravel và Vietravel Airlines: tự sở hữu một hạng mục chiến lược rồi rút lui (Việt Nam, 2019–2026) · S21
+**Bối cảnh.** Vietravel là doanh nghiệp lữ hành lớn có mảng MICE. Năm 2019, lãnh đạo công ty muốn lập hãng bay để “hoàn thiện hệ sinh thái”, lấy ví dụ các tập đoàn du lịch nước ngoài sở hữu đội bay.
+**Diễn biến.** Vietravel Airlines ra đời tháng 4/2020 với vốn 700 tỷ đồng. Hãng hoạt động trong bối cảnh chi phí thiết bị nhập khẩu bằng USD, tỷ giá và giá nhiên liệu biến động. Đến cuối 2024, nhóm T&T nắm khoảng 75% cổ phần; tháng 11/2025 Vietravel quyết định thoái toàn bộ phần vốn còn lại để tập trung vào năng lực cốt lõi. Hãng sẽ đổi tên và không dùng thương hiệu Vietravel.
+**Kết quả.** Năm 2025, Vietravel có doanh thu khoảng 7.200 tỷ đồng nhưng lợi nhuận sau thuế chưa tới 1 tỷ; quý 4 lỗ hơn 10 tỷ dù được hoàn nhập dự phòng từ khoản đầu tư hãng bay. Biên lợi nhuận gộp quý 4 khoảng 6% (người tổng hợp tự tính); phải thu ngắn hạn 1.654 tỷ.
+**Liên hệ Buổi 7.** *Nhận định của người tổng hợp:* case mở ra câu hỏi cho 7.1–7.2: với hạng mục có supply risk cao, agency có ba lựa chọn: mua lẻ theo từng sự kiện (Buying), xây quan hệ đối tác và thỏa thuận khung (Procurement), hoặc tự sở hữu năng lực cung ứng. Lựa chọn thứ ba đòi vốn lớn và có thể kéo doanh nghiệp ra khỏi năng lực cốt lõi. Lưu ý khi dạy: doanh nghiệp không nói trực tiếp mục tiêu là “chủ động nguồn cung”, nên chỉ đặt vấn đề dưới dạng câu hỏi thảo luận.
+
 ---
 
 ## 4. Số liệu & xu hướng nổi bật
@@ -344,11 +423,22 @@
 | Management fee của agency Việt Nam khoảng 5–10% (dải giao nhau của ba báo giá công khai) | 2025–2026 | S18 | Chưa KCC (nguồn có lợi ích, độ tin cậy thấp) |
 | Agency Việt Nam thu cọc 30–50% khi ký; giá venue và nhân sự tăng 20–40% vào tháng 10–12 và lễ tết | 2025 | S18 | Chưa KCC |
 | 97% agency marketing ở Mỹ gặp tình trạng khách trả chậm; chỉ 16% yêu cầu trả đủ trước | 2025 | S19 | Chưa KCC (không phải event agency) |
+| Vé máy bay tăng cao là thách thức lớn với MICE Việt Nam | 2024–2025 | S23 | **Đã KCC** (VnExpress, VnEconomy) |
+| Giá vé máy bay nội địa hè 2025 tăng 10–20%, đoàn phải đặt trước 1–2 tháng | 2025 | S23 | Chưa KCC |
+| Chỉ 30% nhân viên ngành MICE Việt Nam đạt chuẩn quốc tế (nghiên cứu năm 2020 của Cục Du lịch Quốc gia, được dẫn lại) | 2020 | S23 | Chưa KCC |
+| NCC tổ chức hơn 70 tiệc tất niên trong tháng cuối năm, cao điểm 6 sự kiện cùng lúc | không rõ năm | S24 | Chưa KCC (số tự công bố) |
+| Liveshow tầm trung (600–1.000 chỗ) ở Việt Nam cần 3–5 tỷ đồng; thuê địa điểm 150–300 triệu | 2026 | S22 | Chưa KCC |
+| Nhiều đơn vị tổ chức Việt Nam dùng tiền vé early bird để trả cọc nhà cung cấp; vé chậm thì show hủy | 2026 | S22, S15, S16 | **Đã KCC** (về mô thức) |
+| Vietravel năm 2025: doanh thu khoảng 7.200 tỷ đồng, lợi nhuận sau thuế dưới 1 tỷ; quý 4 lỗ hơn 10 tỷ | 2025 | S21 | **Đã KCC** |
+| Vietravel quý 4/2025: biên lợi nhuận gộp khoảng 6,2% | 2025 | S21 | Người tổng hợp tự tính từ số đã KCC |
+| Agency làm “one-stop shop” thường markup từ 10% trở lên (Mỹ) | 2017 | S25 | Chưa KCC |
+| Đơn vị ngành sự kiện Anh: chi phí +12%, giá bán +7% năm 2025 | 2025 | S26 | Chưa KCC |
 
 **Xu hướng (nhận định của người tổng hợp, dựa trên các nguồn trên):**
 1. Cán cân quyền lực ở các hạng mục địa điểm và AV đã nghiêng về nhà cung cấp kể từ sau đại dịch (S04, S05, S08). Nhiều hạng mục trước đây có thể đứng ở ô Leverage nay trượt sang Bottleneck hoặc Strategic, nhất là ở mùa cao điểm.
 2. Phía khách hàng đồng thời chịu áp lực chi phí và cắt ngân sách, và đòi chứng minh ROI/ROE (S05, S10). Đây là nguồn gốc của yêu cầu giảm giá mà KAMer sẽ gặp trong đóng vai 7.3.
-3. Agency bị kẹp giữa hai phía: nhà cung cấp Strategic đòi cọc sớm và điều khoản khắt khe, còn client trả chậm (S15, S16, S19). Quản trị nhà cung cấp tốt vì vậy cũng là quản trị dòng tiền và rủi ro hợp đồng.
+3. Agency bị kẹp giữa hai phía: nhà cung cấp Strategic đòi cọc sớm và điều khoản khắt khe, còn client trả chậm (S15, S16, S19, S22). Quản trị nhà cung cấp tốt vì vậy cũng là quản trị dòng tiền và rủi ro hợp đồng.
+4. Ở Việt Nam, doanh nghiệp trung gian có thể đạt doanh thu lớn nhưng biên lợi nhuận rất mỏng (S21), nên mỗi nhượng bộ giá với client đều phải được bù bằng cách điều chỉnh ở hạng mục Leverage/Non-critical, không phải ở hạng mục Strategic.
 
 ---
 
@@ -357,13 +447,13 @@
 | Mục | Thiếu gì | Lý do | Gợi ý xử lý |
 |---|---|---|---|
 | B2 | Không tìm được nguồn đáng tin nào xếp sẵn các nhóm nhà cung cấp sự kiện (venue, AV, F&B, bán vé, nghệ sĩ, vận chuyển, in ấn) vào bốn ô Kraljic | Các tài liệu Kraljic đều lấy ví dụ từ sản xuất (linh kiện, nguyên liệu); tài liệu ngành sự kiện không dùng Kraljic | Để GV hoặc sinh viên tự xếp ô trên lớp, dùng **dữ kiện** của S08, S09, S13, S15, S16, S20 làm căn cứ. Ghi rõ đây là phân tích áp dụng, không phải số liệu có nguồn |
-| B3 | Case độc lập (không do chính agency hay nhà cung cấp tự viết) về agency xây quan hệ đối tác chiến lược **thành công** với nhà cung cấp | Kết quả tìm kiếm chỉ ra bài quảng bá của agency hoặc công ty production (ví dụ các trang “case study” của đơn vị AV), là quảng cáo trá hình | Có thể dùng S14 (công ty sourcing lớn giữ được hoa hồng nhờ hợp đồng) như ví dụ gián tiếp. Hoặc GV bổ sung case từ kinh nghiệm thực tế hay từ doanh nghiệp đối tác của Khoa `[NEEDS PROFESSOR INPUT]` |
-| C1 | Nguồn thứ hai độc lập, uy tín cho định nghĩa Procurement vs Purchasing | Các trang khác tìm được là blog của công ty phần mềm mua sắm (Tipalti, Precoro, Zycus...), có lợi ích thương mại | Định nghĩa đã thống nhất với nội dung Kraljic (1983, HBR) về chuyển từ purchasing sang supply management. Nếu cần nguồn thứ hai, dùng giáo trình mua hàng/chuỗi cung ứng trong thư viện UEF `[NEEDS PROFESSOR INPUT: giáo trình tham khảo]` |
-| C2 | Nguồn Việt Nam về cách event agency tổ chức cấp chiến lược với nhà cung cấp (preferred supplier list, thỏa thuận khung, đánh giá định kỳ) | Các trang Việt Nam tìm được đều là trang giới thiệu dịch vụ của agency, chỉ khẳng định chung chung “có mạng lưới đối tác” | Phỏng vấn nhanh 1–2 agency đối tác, hoặc dùng kinh nghiệm của GV `[NEEDS PROFESSOR INPUT]`. S11 (EGG Events có Global Procurement Director) là bằng chứng quốc tế |
+| B3 | Case độc lập (không do chính agency hay nhà cung cấp tự viết) về agency xây quan hệ đối tác chiến lược **thành công** với nhà cung cấp | Kết quả tìm kiếm chỉ ra bài quảng bá của agency hoặc công ty production (ví dụ các trang “case study” của đơn vị AV), là quảng cáo trá hình | **Vòng bổ sung:** tìm theo tin hợp tác agency–nhà cung cấp trên báo ngành (Event Industry News, C&IT), nghiên cứu học thuật (Crossref, Emerald), và case Việt Nam, nhưng vẫn không có nguồn độc lập. Hiện dùng S14 (công ty sourcing lớn giữ được hoa hồng nhờ hợp đồng) và S21 (tự sở hữu nguồn cung, kết quả không thành công) làm ví dụ gián tiếp. Hoặc GV bổ sung case từ kinh nghiệm thực tế hay từ doanh nghiệp đối tác của Khoa `[NEEDS PROFESSOR INPUT]` |
+| C1 | Nguồn thứ hai độc lập, uy tín cho định nghĩa Procurement vs Purchasing | Các trang khác tìm được là blog của công ty phần mềm mua sắm (Tipalti, Precoro, Zycus...), có lợi ích thương mại | Định nghĩa đã thống nhất với nội dung Kraljic (1983, HBR) về chuyển từ purchasing sang supply management. **Vòng bổ sung:** kết quả tìm kiếm vẫn chỉ ra blog của công ty phần mềm (Ramp, Precoro, Tipalti, Procurify...). Nếu cần nguồn thứ hai, dùng giáo trình mua hàng/chuỗi cung ứng trong thư viện UEF `[NEEDS PROFESSOR INPUT: giáo trình tham khảo]` |
+| C2 | Nguồn Việt Nam về cách event agency tổ chức cấp chiến lược với nhà cung cấp (preferred supplier list, thỏa thuận khung, đánh giá định kỳ) | Các trang Việt Nam tìm được đều là trang giới thiệu dịch vụ của agency, chỉ khẳng định chung chung “có mạng lưới đối tác” | Phỏng vấn nhanh 1–2 agency đối tác, hoặc dùng kinh nghiệm của GV `[NEEDS PROFESSOR INPUT]`. S11 (EGG Events có Global Procurement Director) là bằng chứng quốc tế; S25 có định nghĩa preferred supplier program. **Vòng bổ sung:** tìm các doanh nghiệp MICE Việt Nam (Saigontourist, BenThanh Tourist, Vietravel), nhưng chỉ thấy trang giới thiệu năng lực, không mô tả quy trình quản lý nhà cung cấp |
 | D1 | Nguồn định nghĩa “value-based negotiation” áp dụng riêng cho quan hệ agency–client | Thuật ngữ được dùng rộng nhưng không có định nghĩa chuẩn trong ngành sự kiện | Dùng khung integrative bargaining (S12) làm nền, ghép với Kraljic (S01). Việc ánh xạ Risk/Value là nhận định của người tổng hợp, cần GV duyệt |
 | D2 | Nguồn mô tả trực tiếp kỹ thuật chuyển điều khoản nhà cung cấp (cọc, hủy, attrition, force majeure) sang hợp đồng với client (“back-to-back”) | Kết quả tìm kiếm chỉ ra mẫu hợp đồng hoặc blog của bên bán mẫu; một bài năm 2026 về force majeure (Event-Technology Portal) không có dữ liệu nên đã loại | Dùng danh sách điều khoản ở S08, S11 và ví dụ ở S15, S16. Có thể nhờ bộ phận pháp chế hoặc giảng viên luật kinh tế góp ý nếu cần độ chính xác pháp lý (Bộ luật Dân sự 2015, Điều 423 và 427 được Dân trí trích trong S16 nhưng chưa đối chiếu văn bản luật) `[VERIFY]` |
-| D3 | Số liệu đáng tin về cơ cấu ngân sách sự kiện theo hạng mục, biên lợi nhuận event agency, mức cắt ngân sách thường gặp (đặc biệt ở Việt Nam) | Chỉ có blog agency Việt Nam (S18, mâu thuẫn nhau) và khảo sát agency marketing Mỹ (S19). Khảo sát định giá của Northstar (2026 Independent Planner Pricing Survey) bị chặn truy cập | Dùng S18 làm **dải giả định** có ghi chú. GV có thể cung cấp một bảng dự toán thật đã ẩn danh từ dự án cũ `[NEEDS PROFESSOR INPUT]`. Có thể thử lại Northstar khi truy cập được |
-| A (Việt Nam) | Số liệu Việt Nam về lạm phát giá nhà cung cấp, khan hiếm mùa cao điểm, thiếu nhân lực kỹ thuật cho sự kiện doanh nghiệp/MICE | Không tìm thấy báo cáo ngành sự kiện Việt Nam công khai; số mùa cao điểm chỉ có ở blog agency (S18) | Dùng số APAC (S04) cùng S20 cho bối cảnh. Ghi rõ giới hạn khi dạy |
+| D3 | Biên lợi nhuận riêng của **event agency** (Việt Nam hoặc quốc tế); mức cắt ngân sách thường gặp | **Vòng bổ sung** đã có S21 (biên của doanh nghiệp lữ hành–MICE niêm yết) và S22 (cơ cấu chi phí, dòng tiền show Việt Nam). Các trang nêu “biên lợi nhuận event agency 25–45%” đều là blog tư vấn khởi nghiệp không rõ phương pháp nên không dùng. Khảo sát định giá của Northstar (2026 Independent Planner Pricing Survey) vẫn bị chặn; kết quả tìm kiếm tóm tắt 39% planner độc lập tính phí trọn gói, 25% markup, 12% theo % ngân sách, nhưng **chưa đọc được bản gốc**, nên không dùng | Dùng S22 và S21 làm số thật, S18 và S25 làm **dải giả định** có ghi chú. GV có thể cung cấp một bảng dự toán thật đã ẩn danh từ dự án cũ `[NEEDS PROFESSOR INPUT]`. Có thể thử lại Northstar khi truy cập được |
+| A (Việt Nam) | Số liệu Việt Nam về lạm phát giá nhà cung cấp, khan hiếm mùa cao điểm, thiếu nhân lực kỹ thuật cho sự kiện doanh nghiệp/MICE | Không tìm thấy báo cáo ngành sự kiện Việt Nam công khai; số mùa cao điểm chỉ có ở blog agency (S18) | **Vòng bổ sung** đã có S22, S23, S24 (vé máy bay mùa cao điểm, hạ tầng cho đoàn 500–1.000 người, mật độ year end party). Vẫn chưa có báo cáo ngành sự kiện Việt Nam. Dùng S04 (APAC) cùng S20–S24, ghi rõ giới hạn khi dạy |
 
 ---
 
@@ -446,10 +536,35 @@ The Drum. (2025, May 22). *Cash flow crunch: US agencies struggle to grow as lat
 Xuân Hướng, & Tạ Thị Oanh. (2025). Concert và sự phát triển của âm nhạc trong giai đoạn mới. *Tạp chí Văn hóa Nghệ thuật*, (610). https://vanhoanghethuat.vn/concert-va-su-phat-trien-cua-am-nhac-trong-giai-doan-moi-2025-77759129.html
 ELLE Việt Nam. (2024, November 12). *Tiềm năng của các sự kiện âm nhạc Việt Nam trước “ngõ” hội nhập*. https://www.elle.vn/the-gioi-van-hoa/concert-am-nhac-viet-nam-hoi-nhap-quoc-te/
 
+**S21**
+Doanh nhân – Báo Pháp luật Việt Nam. (2019, April 3). *Vietravel muốn lập hãng hàng không*. https://doanhnhan.baophapluat.vn/vietravel-muon-lap-hang-hang-khong-16341.html
+Thanh Niên. (2023, October 11). *Chủ tịch HĐQT Vietravel Corporation Nguyễn Quốc Kỳ: Khó mấy Vietravel Airlines cũng phải bay*. https://thanhnien.vn/chu-tich-hqt-vietravel-corporation-nguyen-quoc-ky-kho-may-vietravel-airlines-cung-phai-bay-185231011130715252.htm
+Người Lao Động. (2025, November 26). *Ông Nguyễn Quốc Kỳ nói về việc bán hết cổ phần Vietravel Airlines và rút khỏi mảng hàng không*. https://tuoitre.vn/nld/ong-nguyen-quoc-ky-noi-ve-viec-ban-het-co-phan-vietravel-airlines-va-rut-khoi-mang-hang-khong-19625112523314506.htm
+Viet Nam News. (2025). *Vietravel to exit ownership in its own airline*. https://vietnamnews.vn/economy/1730410/vietravel-to-exit-ownership-in-its-own-airline.html
+The Investor. (2026). *Major tour operator Vietravel posts first quarterly loss since 2022 as costs surge*. https://theinvestor.vn/major-tour-operator-vietravel-posts-first-quarterly-loss-since-2022-as-costs-surge-d18453.html
+Vietstock. (2026, February 24). *Thoái vốn khỏi Vietravel Airlines, Vietravel được hoàn nhập dự phòng 158 tỷ nhưng vẫn lỗ trong quý 4*. https://vietstock.vn/2026/02/thoai-von-khoi-vietravel-airlines-vietravel-duoc-hoan-nhap-du-phong-158-ty-nhung-van-lo-trong-quy-4-737-1405015.htm
+Doanh nhân – Báo Pháp luật Việt Nam. (2026, February 25). *Vietravel (VTR) đứt mạch lãi liên tiếp, dự phòng phải thu khó đòi phình to gấp 8 lần*. https://doanhnhan.baophapluat.vn/vietravel-vtr-dut-mach-lai-lien-tiep-du-phong-phai-thu-kho-doi-phinh-to-gap-8-lan.html
+
+**S22**
+Nhân Dân. (2026, September 7). *Nghệ sĩ Việt chật vật làm liveshow*. https://nhandan.vn/nghe-si-viet-chat-vat-lam-liveshow-post986884.html
+
+**S23**
+VnExpress. (2024, September 30). *Du lịch MICE Việt tiềm năng nhưng vẫn “dưới kỳ vọng”*. https://vnexpress.net/du-lich-mice-viet-tiem-nang-nhung-van-duoi-ky-vong-4797880.html
+VnEconomy. (2025, June 20). *Hè 2025 “đón sóng” du lịch MICE nội địa*. https://vneconomy.vn/he-2025-don-song-du-lich-mice-noi-dia.htm
+
+**S24**
+Trung tâm Hội nghị Quốc gia. (n.d.). *Tiệc cuối năm – Year End Party*. Truy cập ngày 27/9/2026, từ https://ncc.gov.vn/tiec-cuoi-nam-year-end-party
+
+**S25**
+Wheeler Menegus, D. (2017, November 7). Events and procurement – Working together for success. *BizBash*. https://www.bizbash.com/corporate-events/events-and-procurement-working-together-for-success
+
+**S26**
+Prestige Events Magazine. (2025, November). *Cost pressures are forcing price rises and reduced workforces, the Meetings Industry Association reveals*. https://www.prestigeeventsmagazineblog.com/cost-pressures-are-forcing-price-rises-and-reduced-workforces-the-meetings-industry-association-reveals/
+
 ---
 
 ### Việc cần GV quyết định trước bước soạn bài
 1. ~~Tên mục 7.1 và phạm vi của Kraljic~~ → **ĐÃ QUYẾT (27/9/2026):** xếp ô theo *hạng mục* rồi suy ra *vị thế nhà cung cấp*; cân bằng kiến thức học thuật với cách làm thực tế để sinh viên không hiểu sai. Chi tiết ở `W07_khung_goc_nhin.md`, mục 5, quyết định số 4. Tư liệu liên quan: S01 (định nghĩa gốc và các lỗi áp dụng); S08, S09, S20 (dữ kiện để xếp hạng mục sự kiện). *Nhận định của người tổng hợp — ví dụ ứng viên để GV duyệt khi soạn bài:* cùng một khách sạn có thể cung ứng phòng ngủ khối (thường Leverage ngoài mùa cao điểm), ballroom cho gala tháng 12 (có thể Strategic/Bottleneck) và AV nội bộ bắt buộc (Bottleneck, S08–S09). Như vậy một nhà cung cấp nằm ở nhiều ô, đúng lưu ý của S01.
-2. **“Customer of choice”** (S06): đưa vào 7.2 như một hành động của agency, hay bỏ hẳn để tránh chồng lấn với Supplier Preferencing (đã loại)?
-3. **Thuật ngữ tiếng Việt** cho bốn ô (S02): đặc biệt Non-critical (“thông thường” hay “không quan trọng”) và Bottleneck (“nút thắt” hay “trở ngại”).
-4. Các khoảng trống cần GV cung cấp tư liệu: B3 (case thành công), C2 (thực tiễn agency Việt Nam), D3 (dự toán thật đã ẩn danh).
+2. ~~“Customer of choice”~~ → **ĐÃ QUYẾT (27/9/2026):** đưa vào như **hành động của agency**. Xem ghi chú ở S06 và quyết định số 5 trong `W07_khung_goc_nhin.md`.
+3. ~~Thuật ngữ tiếng Việt cho bốn ô~~ → **ĐÃ QUYẾT (27/9/2026):** **giữ thuật ngữ gốc** tiếng Anh; chỉ giải thích nghĩa bằng tiếng Việt lần đầu. Xem quyết định số 6 trong file khung.
+4. ~~Tìm thêm tư liệu cho các khoảng trống~~ → **ĐÃ LÀM vòng bổ sung (27/9/2026):** thêm S21–S26 và Case 5. Còn thiếu và cần GV hỗ trợ nếu muốn lấp: B3 (case agency xây đối tác chiến lược **thành công**, nguồn độc lập), C2 (thực tiễn quản lý nhà cung cấp của agency Việt Nam), D3 (biên lợi nhuận riêng của event agency; một bảng dự toán thật đã ẩn danh sẽ là tư liệu tốt nhất) `[NEEDS PROFESSOR INPUT]`.

@@ -57,6 +57,8 @@ Tư liệu cần xoay quanh: (a) quan hệ agency – nhà cung cấp trong ngà
    - Nêu rõ, không né, lỗi hiểu sai thường gặp: coi ma trận là bảng xếp loại nhà cung cấp. Một nhà cung cấp có thể cung ứng nhiều hạng mục nằm ở các ô khác nhau.
    - Nêu rõ kết quả xếp ô là ảnh chụp theo thời điểm (mùa cao điểm, quy mô, địa điểm làm hạng mục dịch chuyển ô) và cần rà soát định kỳ. Điểm này nối sang cấp Procurement ở 7.2.
    - Ví dụ minh họa phải là hạng mục cụ thể gắn với sự kiện của Key Account (ví dụ “ballroom 800 khách tháng 12”), không phải tên nhà cung cấp chung chung.
+5. **“Customer of choice” (GV quyết định sau Bước 2–5):** đưa vào như **hành động của agency**: gom chi tiêu, thu gọn danh mục nhà cung cấp, cam kết dài hạn để được ưu tiên về giá và năng lực phục vụ (thuộc cấp Procurement, 7.2). Không phân tích cách nhà cung cấp đánh giá agency; quyết định số 2 (loại Supplier Preferencing) giữ nguyên.
+6. **Thuật ngữ (GV quyết định sau Bước 2–5):** giữ thuật ngữ gốc tiếng Anh cho ma trận Kraljic (Strategic, Leverage, Bottleneck, Non-critical; supply risk, profit impact), không đặt tên tiếng Việt chính thức; chỉ giải thích nghĩa bằng tiếng Việt lần đầu xuất hiện.
 
 ## 6. Ảnh hưởng đến bản nháp Buổi 7 đã có
 
