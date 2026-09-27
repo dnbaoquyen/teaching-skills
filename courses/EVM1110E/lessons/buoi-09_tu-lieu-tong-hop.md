@@ -1,4 +1,4 @@
-# Buổi 9 — Tư liệu tổng hợp (chờ GV duyệt)
+# Buổi 9 — Tư liệu tổng hợp (ĐÃ DUYỆT 27/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -18,7 +18,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu đề xuất (Bước 1 — cần GV duyệt)
+## Quyết định của GV (27/9/2026) — duyệt toàn bộ đề xuất
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **Góc nhìn hai lớp:** trục chính là Nova làm sự kiện **cho Key Account** (An Phát); nhà tài trợ là **đối tác của Key Account**; Nova thiết kế quyền lợi, kích hoạt, đo lường thay mặt An Phát để làm giàu trải nghiệm của khách hàng của An Phát. Các case concert (Techcombank, VIB, VPBank, Yeah1) chỉ là lớp tham chiếu, luôn hỏi “agency nhìn thấy gì và làm gì”.
+3. **Định nghĩa làm việc:** **nhà đầu tư** = bên góp vốn, chia sẻ rủi ro – lợi nhuận của sự kiện; **nhà tài trợ** = bên mua quyền lợi.
+4. **9.2:** dạy **ROI + ROO**, nối khung ROI 6 cấp của Buổi 8.
+5. **Tình huống:** gala năm sau của An Phát có **đối tác bảo hiểm** và **đối tác thẻ** làm nhà tài trợ, kèm giới hạn pháp lý (U13).
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -288,12 +298,5 @@ Nguyễn, T. Á. N., & Nguyễn, T. D. (2022, December 15). Bancassurance tại 
 
 ---
 
-### Việc cần GV duyệt / quyết định trước bước soạn bài
-
-1. **Bảng nhu cầu tư liệu (mục 0):** duyệt, hoặc thêm/bớt mục.
-2. **Góc nhìn agency trong quan hệ với nhà tài trợ:** các case công khai (Techcombank, VIB, VPBank) là sự kiện **do nhà sản xuất sở hữu** (Yeah1…), không phải sự kiện của một Key Account doanh nghiệp. Đề xuất hai lớp:
-   - **Trục chính:** agency làm sự kiện **cho Key Account** (Nova – An Phát). Nhà tài trợ là **đối tác của Key Account** (ví dụ đối tác bảo hiểm đã có ở Buổi 1). Agency thiết kế gói quyền lợi, kích hoạt và đo lường **thay mặt Key Account**, sao cho làm giàu trải nghiệm của khách hàng của An Phát.
-   - **Lớp tham chiếu:** các case concert dùng để hiểu logic nhà tài trợ và nhà đầu tư, luôn đặt câu hỏi “agency nhìn thấy gì và làm gì”.
-3. **Khái niệm “nhà đầu tư” trong môn:** đề xuất định nghĩa làm việc là **bên góp vốn và chia sẻ rủi ro – lợi nhuận** của sự kiện (như Techcombank “đồng đầu tư” với Yeah1), phân biệt với **nhà tài trợ mua quyền lợi**. Đây là nhận định của người tổng hợp, chưa có nguồn học thuật chuẩn.
-4. **Cách “tính ROI” ở 9.2:** đề xuất dạy **ROI + ROO** (U06) cho nhà tài trợ, và nối với khung ROI 6 cấp của Buổi 8 (cấp 0: nhà tài trợ gặp đúng người; cấp 3: hành vi như mở thẻ, đặt lịch tư vấn).
-5. **Tình huống giả định:** tiếp tục Nova – An Phát, ví dụ gala năm sau có **đối tác bảo hiểm** và **đối tác thẻ** làm nhà tài trợ, kèm giới hạn pháp lý ở U13?
+### Trạng thái
+Cả 5 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). Gói bài giảng Buổi 9 đã soạn: `W09_lesson_plan.md`, `W09_lecture_notes.md`, `W09_slides_outline.md`, `W09_activity_S3_chon_nha_tai_tro.md`, `W09_activity_S6_ban_do_diem_cham.md` (chờ GV xác nhận).
