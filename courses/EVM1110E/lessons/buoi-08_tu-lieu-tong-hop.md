@@ -405,4 +405,4 @@ Event ROI Institute. (n.d.). *Methodology*. Retrieved September 27, 2026, from h
 ---
 
 ### Trạng thái các quyết định
-Cả 5 mục đã được GV quyết định ngày 27/9/2026 (xem đầu file). Việc còn lại trước khi soạn bài: GV duyệt đề xuất cách dạy ở **mục 7.3**; các mục `[VERIFY]` sẽ được đưa vào danh sách kiểm tra của giáo án.
+Cả 5 mục đã được GV quyết định ngày 27/9/2026 (xem đầu file). Mục 7.3 đã được GV duyệt (27/9/2026). Gói bài giảng Buổi 8 đã soạn: `W08_lesson_plan.md`, `W08_lecture_notes.md`, `W08_slides_outline.md`, `W08_activity_S3_so_do_tiep_xuc.md`, `W08_activity_S6_danh_gia_chung.md` (chờ GV xác nhận).
