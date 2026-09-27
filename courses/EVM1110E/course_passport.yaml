@@ -57,7 +57,7 @@ learning_outcomes:
 assessment_plan:
   - { id: A1, type: participation, title: "AM1 – Chuyên cần", weight: 10, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
   - { id: A2, type: homework, title: "AM2 – Bài tập (nộp LMS)", weight: 20, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
-  - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm", weight: 20, outcomes_assessed: [LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (tổ chức ngoài giờ/trên LMS, không chiếm buổi học — quyết định GV)", weight: 20, outcomes_assessed: [LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
   - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho 1 khách hàng từ dự án cũ của nhóm + phản biện (AM7 + AM9)", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
 
 schedule:
