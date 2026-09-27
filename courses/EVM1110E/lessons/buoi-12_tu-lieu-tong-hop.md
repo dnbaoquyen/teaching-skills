@@ -1,4 +1,4 @@
-# Buổi 12 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 12 — Tư liệu tổng hợp (ĐÃ DUYỆT 27/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -22,7 +22,19 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (27/9/2026) — duyệt toàn bộ đề xuất
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **Cấu trúc theo phương án B:** Thực hành 1 = tình huống An Phát tuần cuối trước gala (nhiều xung đột cùng lúc); Thực hành 2 = nhóm áp dụng vào **SMP của chính nhóm** và xoay trạm phản biện chéo — đồng thời là **buổi chạy thử** cho Buổi 13–15.
+3. **Leverage** = giá trị do quan hệ dài hạn trong mạng lưới tạo ra (relational rents — Y01), không phải dùng quyền lực ép đối tác.
+4. **Định nghĩa làm việc “xung đột lợi ích”:** khi lợi ích của một bên liên quan bên ngoài — hoặc các vai trò khác nhau của cùng một bên (Y04) — đi ngược những gì Nova đã cam kết với Key Account.
+5. **SCCT (Y08)** chỉ dùng ở mức phối hợp bên liên quan; không dạy toàn bộ truyền thông khủng hoảng; an toàn đám đông, PCCC thuộc môn Quản trị rủi ro.
+6. **Case “Về đây bốn cánh chim trời” (Y09):** chỉ nêu sự kiện đã đưa tin, không quy lỗi cá nhân; Mỹ Đình, Kera dùng lại ngắn; tình huống giả định Nova – An Phát là trục thực hành.
+7. **Ẩn dụ bullwhip (Y06):** giữ **một slide ngắn**, ghi rõ là ẩn dụ (theo phương án được nêu đầu tiên trong đề xuất).
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -179,7 +191,9 @@ Dân trí. (2025, December 31). *Vụ “Về đây bốn cánh chim trời”: 
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). Nội dung đề xuất ban đầu giữ lại dưới đây để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu (mục 0):** duyệt / sửa.
 2. **Cấu trúc buổi và 20 phút chạy thử SMP** — người tổng hợp đề xuất:
@@ -193,4 +207,4 @@ Dân trí. (2025, December 31). *Vụ “Về đây bốn cánh chim trời”: 
 7. **Ẩn dụ bullwhip (Y06):** dùng một slide ngắn để minh họa thông tin bị lệch qua nhiều tầng, ghi rõ là ẩn dụ — hay bỏ để tránh lạc sang chuỗi cung ứng?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 12: `W12_lesson_plan.md`, `W12_lecture_notes.md`, `W12_slides_outline.md`, `W12_activity_S3_*.md`, `W12_activity_S6_*.md`.
+Đã duyệt. Gói bài giảng Buổi 12 đã soạn: `W12_lesson_plan.md`, `W12_lecture_notes.md`, `W12_slides_outline.md`, `W12_activity_S3_tuan_cuoi_truoc_gala.md`, `W12_activity_S6_mang_luoi_smp.md` (chờ GV xác nhận).
