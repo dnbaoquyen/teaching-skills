@@ -52,6 +52,11 @@ Tư liệu cần xoay quanh: (a) quan hệ agency – nhà cung cấp trong ngà
 1. **7.3:** Customer (Buyer) = **Key Account (client)**; KAMer = **event agency**. Cách hiểu ở mục 3 được xác nhận.
 2. **Không** đưa góc nhìn nhà cung cấp đánh giá agency (Supplier Preferencing) vào 7.1 — tránh làm sinh viên khó phân biệt.
 3. **Quy tắc bắt buộc:** mọi nội dung dùng **agency perspective** (nơi sinh viên sẽ làm việc); mọi đánh giá, phân loại, chiến lược đều xuất phát từ agency. Không trình bày bất kỳ phân tích nào từ góc nhìn của nhà cung cấp hoặc của phòng mua hàng khách hàng như một góc nhìn độc lập.
+4. **7.1 — cách áp dụng Kraljic (GV quyết định sau Bước 2–5):** xếp ô theo **hạng mục mua** (đúng mô hình gốc, Kraljic 1983 và CIPS), rồi mới **suy ra vị thế của nhà cung cấp** đang cung ứng hạng mục đó (cách nói quen thuộc ở agency). Yêu cầu: **cân bằng giữa kiến thức học thuật và cách làm thực tế** để sinh viên không hiểu sai. Hệ quả cho bước soạn bài:
+   - Nói rõ trình tự hai bước: (1) agency xếp hạng mục theo hai trục supply risk và profit impact; (2) suy ra cán cân quyền lực với nhà cung cấp và chọn chiến lược quan hệ.
+   - Nêu rõ, không né, lỗi hiểu sai thường gặp: coi ma trận là bảng xếp loại nhà cung cấp. Một nhà cung cấp có thể cung ứng nhiều hạng mục nằm ở các ô khác nhau.
+   - Nêu rõ kết quả xếp ô là ảnh chụp theo thời điểm (mùa cao điểm, quy mô, địa điểm làm hạng mục dịch chuyển ô) và cần rà soát định kỳ. Điểm này nối sang cấp Procurement ở 7.2.
+   - Ví dụ minh họa phải là hạng mục cụ thể gắn với sự kiện của Key Account (ví dụ “ballroom 800 khách tháng 12”), không phải tên nhà cung cấp chung chung.
 
 ## 6. Ảnh hưởng đến bản nháp Buổi 7 đã có
 

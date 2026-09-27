@@ -449,7 +449,7 @@ ELLE Việt Nam. (2024, November 12). *Tiềm năng của các sự kiện âm n
 ---
 
 ### Việc cần GV quyết định trước bước soạn bài
-1. **Tên mục 7.1 và phạm vi của Kraljic** (S01): xếp ô theo *hạng mục* rồi suy ra *vị thế nhà cung cấp*, hay giữ cách nói “xếp nhà cung cấp” cho đơn giản?
+1. ~~Tên mục 7.1 và phạm vi của Kraljic~~ → **ĐÃ QUYẾT (27/9/2026):** xếp ô theo *hạng mục* rồi suy ra *vị thế nhà cung cấp*; cân bằng kiến thức học thuật với cách làm thực tế để sinh viên không hiểu sai. Chi tiết ở `W07_khung_goc_nhin.md`, mục 5, quyết định số 4. Tư liệu liên quan: S01 (định nghĩa gốc và các lỗi áp dụng); S08, S09, S20 (dữ kiện để xếp hạng mục sự kiện). *Nhận định của người tổng hợp — ví dụ ứng viên để GV duyệt khi soạn bài:* cùng một khách sạn có thể cung ứng phòng ngủ khối (thường Leverage ngoài mùa cao điểm), ballroom cho gala tháng 12 (có thể Strategic/Bottleneck) và AV nội bộ bắt buộc (Bottleneck, S08–S09). Như vậy một nhà cung cấp nằm ở nhiều ô, đúng lưu ý của S01.
 2. **“Customer of choice”** (S06): đưa vào 7.2 như một hành động của agency, hay bỏ hẳn để tránh chồng lấn với Supplier Preferencing (đã loại)?
 3. **Thuật ngữ tiếng Việt** cho bốn ô (S02): đặc biệt Non-critical (“thông thường” hay “không quan trọng”) và Bottleneck (“nút thắt” hay “trở ngại”).
 4. Các khoảng trống cần GV cung cấp tư liệu: B3 (case thành công), C2 (thực tiễn agency Việt Nam), D3 (dự toán thật đã ẩn danh).
