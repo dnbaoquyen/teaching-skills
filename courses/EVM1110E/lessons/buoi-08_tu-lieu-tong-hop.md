@@ -1,4 +1,4 @@
-# Buổi 8 — Tư liệu tổng hợp (chờ GV duyệt)
+# Buổi 8 — Tư liệu tổng hợp (ĐÃ DUYỆT 27/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -19,7 +19,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu đề xuất (Bước 1 — cần GV duyệt)
+## Quyết định của GV (27/9/2026)
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **8.1:** dạy Bow-tie → Diamond như một **lộ trình theo giai đoạn quan hệ** với Key Account, không trình bày theo kiểu “Bow-tie sai, Diamond đúng”.
+3. **8.2 — ROI Methodology:** giới thiệu **cả hai phiên bản** (5 cấp của ROI Institute và 6 cấp của Event ROI Institute), kèm phân tích phiên bản nào phù hợp hơn với môi trường và văn hóa kinh doanh tại Việt Nam. Phân tích ở **mục 7**; tư liệu bổ sung T16–T18.
+4. **Case:** dùng **tình huống giả định Nova Events – Ngân hàng An Phát** (Giám đốc Marketing, đầu mối duy nhất, nghỉ việc).
+5. **Ranh giới:** giữ Diamond ở mức “ai của agency gặp ai của Key Account”; không đi vào quản lý đội KAM (nội bộ).
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -41,7 +51,7 @@
 | B | 8.1 Rủi ro một đầu mối; thời gian gắn bó | T05, T07, T08, T13 | **Đủ** (số liệu Mỹ; chưa có số Việt Nam) |
 | C | 8.1 Áp dụng cho agency sự kiện | T06 (gián tiếp), T07 (agency trải nghiệm có quan hệ dài nhất) | **Thiếu**: chưa có nguồn mô tả sơ đồ tiếp xúc nhiều cấp của một event agency cụ thể |
 | D | 8.2 Results-driven vs Process-driven | T09, T10, T13 | **Đủ một phần**: có nghiên cứu học thuật (mới đọc tóm tắt); cách chia “results / process” trong tư liệu thực hành chủ yếu từ blog công ty phần mềm (không dùng làm căn cứ) |
-| E | 8.2 Chỉ số riêng cho sự kiện | T11, T12 | **Đủ** |
+| E | 8.2 Chỉ số riêng cho sự kiện | T11, T12; phân tích bối cảnh Việt Nam: T16, T17, T18 (mục 7) | **Đủ** (phân tích Việt Nam là nhận định có căn cứ, chưa có nghiên cứu thực nghiệm về đo ROI sự kiện tại Việt Nam) |
 | F | 8.3 Joint account review, health check | T06, T13, T14, T15 | **Đủ một phần**: có QBR, đánh giá hai chiều, họp sau sự kiện; nguồn riêng cho event agency còn ít |
 | G | Tự học | T07, T09, T10, T06 | **Đủ** |
 
@@ -175,7 +185,17 @@
   - Các cấp đánh giá: **Reaction** (phản ứng, hài lòng) → **Learning** (học được gì) → **Application** (áp dụng) → **Impact** (tác động kinh doanh: doanh số, chất lượng, chi phí, hài lòng khách hàng) → **ROI** (so lợi ích quy ra tiền với chi phí đầy đủ).
   - Hầu hết tổ chức chỉ đo cấp 1 bằng phiếu khảo sát cuối sự kiện.
   - Event ROI Institute: nguyên tắc gốc là sự kiện tạo giá trị bằng cách **thay đổi hành vi** của người tham dự; mục tiêu được đặt từ cấp cao nhất xuống, đo từ cấp thấp lên.
-- **Mâu thuẫn:** ROI Institute mô tả **5 cấp**; Event ROI Institute mô tả **6 cấp** (thêm một cấp ở dưới cùng, gọi là Level 0). Khi dạy cần nói rõ đang dùng phiên bản nào.
+  - **Chi tiết phiên bản 6 cấp (Event ROI Institute), đọc trên trang Methodology:**
+    - Phát triển từ mô hình Kirkpatrick (1959); Jack Phillips và ROI Institute đưa vào vận hành từ thập niên 1980; phiên bản Event ROI tập trung cho ngành sự kiện.
+    - **Mục tiêu đặt từ trên xuống** (bắt đầu từ cấp 5), **đo từ dưới lên** (bắt đầu từ cấp 0). Mỗi cấp có tiêu chí thành công/KPI đặt ngay từ đầu.
+    - **Cấp 0 — đúng người tham dự:** người được mời là những người có khoảng trống lớn nhất về hiểu biết (cấp 2) và hành vi (cấp 3); “không cần nói với người đã được thuyết phục”.
+    - **Cấp 1:** sự hài lòng của người tham dự chỉ là **biến đại diện** cho chất lượng môi trường học tập.
+    - **Cấp 2 — Learning:** gồm học thông tin, kỹ năng, thái độ và **học về quan hệ** (relationship learning).
+    - **Cấp 3 — Behaviour:** áp dụng điều đã học; tự báo cáo là cách nhanh và rẻ nhất, dù có thể kém chính xác.
+    - **Cấp 4 — Impact:** với sự kiện khách hàng, tác động thường là doanh số; với sự kiện nội bộ là hiệu quả tổ chức. Luôn phải **tách riêng tác động của sự kiện** khỏi các yếu tố khác (tốt nhất là nhóm đối chứng; thay thế: hỏi người tham dự tự ước lượng).
+    - **Cấp 5 — ROI:** với sự kiện của **hiệp hội và cơ quan nhà nước**, lợi nhuận thường không phải mục tiêu; **sứ mệnh hoặc mục tiêu chính trị thay cho ROI**.
+- **Mâu thuẫn:** ROI Institute mô tả **5 cấp** (Reaction, Learning, Application, Impact, ROI); Event ROI Institute mô tả **6 cấp** (thêm cấp 0 “đúng người tham dự”). Theo quyết định GV số 3, dạy cả hai và phân tích mức phù hợp với Việt Nam (mục 7).
+- **Trích dẫn bổ sung:** “For association and government events, profit is usually not an objective, the ultimate value is the mission or political purpose for which the organisation exists, this is the mission that replaces ROI.” (Event ROI Institute)
 - **Trích dẫn:** “Meetings and events create value to stakeholders by influencing the behavior of the participants.” (Event ROI Institute)
 - **Gợi ý cách dùng:** 8.2: bộ chỉ số **kết quả sự kiện** mà agency cam kết và báo cáo cho Key Account. *Nhận định của người tổng hợp:* các cấp thấp (reaction) là chỉ số agency kiểm soát được nhiều; các cấp cao (impact, ROI) cần Key Account cùng cung cấp dữ liệu, nên phải thống nhất từ đầu trong đánh giá định kỳ (8.3).
 
@@ -222,11 +242,50 @@
 - **Trích dẫn:** “A collection of PERs over time will provide the complete history for an event.”
 - **Gợi ý cách dùng:** *Nhận định của người tổng hợp:* mượn logic PER cho quan hệ agency – Key Account. Mỗi sự kiện có một báo cáo sau sự kiện; nhiều báo cáo cộng lại thành “lịch sử quan hệ”, là dữ liệu cho họp đánh giá định kỳ (8.3). Nói rõ với SV rằng mẫu gốc dùng cho địa điểm.
 
+### T16 — Hofstede: dữ liệu sáu chiều văn hóa quốc gia (bản chính thức)
+- **Tổ chức:** Geert Hofstede (geerthofstede.com). **Loại:** bộ dữ liệu nghiên cứu, phiên bản 2015-12-08, dùng trong *Cultures and Organizations* (3rd ed., 2010). **Link:** https://geerthofstede.com/research-and-vsm/dimension-data-matrix/ (tệp CSV thang 0–100). **Truy cập:** 27/9/2026.
+- **Tin cậy: Cao** về nguồn (dữ liệu gốc của tác giả mô hình). **Lưu ý của chính tác giả:** điểm số là công cụ để hiểu, cần dùng thận trọng (“dimensions do not exist”); dữ liệu Việt Nam là ước lượng từ các nghiên cứu nhân rộng, không phải khảo sát gốc IBM.
+- **Phục vụ:** E (mục 7).
+- **Dữ kiện (thang 0–100):**
+
+| Quốc gia | PDI (khoảng cách quyền lực) | IDV (chủ nghĩa cá nhân) | MAS | UAI (né tránh bất định) | LTO (định hướng dài hạn) | IVR |
+|---|---|---|---|---|---|---|
+| **Việt Nam** | **70** | **20** | 40 | **30** | 57 | 35 |
+| Hoa Kỳ | 40 | 91 | 62 | 46 | 26 | 68 |
+| Trung Quốc | 80 | 20 | 66 | 30 | 87 | 24 |
+| Singapore | 74 | 20 | 48 | 8 | 72 | 46 |
+
+- **Kiểm chứng:** PDI 70 của Việt Nam khớp với bài của AHK (Phòng Thương mại Đức tại Việt Nam) thấy qua kết quả tìm kiếm → điểm PDI đã khớp hai nguồn; các điểm khác lấy từ tệp gốc.
+- **Gợi ý cách dùng:** Nền để phân tích “phiên bản ROI nào hợp Việt Nam” (mục 7). Nhắc SV: điểm quốc gia mô tả xu hướng chung, không mô tả từng doanh nghiệp.
+
+### T17 — Pham & Pham (2025): *Marketing Insights from Quan He: Navigating Vietnamese Business Practices for Foreign Investors in an Emerging Market*
+- **Tạp chí:** *BIMTECH Business Perspectives*, xuất bản trực tuyến 26/8/2025. DOI: 10.1177/25819542251364646. **Truy cập:** 27/9/2026 (đọc **tóm tắt** qua Crossref).
+- **Tin cậy: Trung bình.** Nghiên cứu mới, có xây dựng và kiểm định thang đo; tạp chí không thuộc nhóm hàng đầu.
+- **Phục vụ:** E (mục 7), liên hệ 8.1.
+- **Tóm tắt (theo abstract):**
+  - “Quan hệ” là trung tâm của kinh doanh Việt Nam nhưng ít được lý thuyết hóa; khác với Guanxi (Trung Quốc) và Relationship Marketing phương Tây.
+  - Ba thành tố: **thể diện**, **có qua có lại**, **tình cảm**.
+  - Đề xuất khung và thang đo đã kiểm định cho ba thành tố này (dữ liệu từ Việt Nam, Mỹ, Bangladesh).
+- **Trích dẫn:** “This study explores the foundational elements of Quan He: The Dien (face-saving), Co Qua Co Lai (reciprocity), and Tinh Cam (emotional bonding)…”
+- **Gợi ý cách dùng:** Mục 7: một phần lớn giá trị sự kiện với doanh nghiệp Việt Nam là giá trị **quan hệ** (tình cảm, có qua có lại), khó quy ra tiền ở cấp 5. 8.1: giải thích vì sao quan hệ cá nhân với một đầu mối (Bow-tie) rất mạnh ở Việt Nam, nhưng cũng dễ đứt khi người đó rời đi.
+
+### T18 — McMillan & Woodruff (1999): *Interfirm Relationships and Informal Credit in Vietnam*
+- **Tạp chí:** *The Quarterly Journal of Economics*, 114(4), 1285–1320. DOI: 10.1162/003355399556278. **Truy cập:** 27/9/2026 (đọc **tóm tắt** qua OpenAlex).
+- **Tin cậy: Cao** (tạp chí kinh tế hàng đầu, trên 900 trích dẫn). **Cũ (1999)**, giữ vì là bằng chứng thực nghiệm kinh điển về vai trò của quan hệ trong kinh doanh ở Việt Nam; bối cảnh pháp lý đã thay đổi nhiều.
+- **Phục vụ:** E (mục 7), liên hệ 8.1.
+- **Tóm tắt (theo abstract):**
+  - Giao dịch của khu vực tư nhân Việt Nam khi đó chịu hai khó khăn: khó tìm đối tác và thiếu cơ chế cưỡng chế hợp đồng bằng pháp luật.
+  - Quan hệ giao dịch **càng lâu** thì tín dụng thương mại cấp cho khách **càng lớn**; khách được giới thiệu qua **mạng lưới kinh doanh** nhận nhiều tín dụng hơn.
+- **Trích dẫn:** “A longer duration of trading relationship is associated with larger credit, as is prior information gathering.”
+- **Gợi ý cách dùng:** Mục 7: ở Việt Nam, **thời gian và độ sâu quan hệ** tự nó là một loại “kết quả” có giá trị kinh tế. Khi dạy nói rõ đây là bằng chứng lịch sử (thập niên 1990), dùng để hiểu gốc rễ văn hóa, không phải mô tả hiện tại.
+
 ---
 
 ## 3. Tóm tắt case study
 
 **Chưa tìm được case có thật, có nguồn độc lập, về một event agency** mất hoặc giữ Key Account vì cấu trúc quan hệ (một đầu mối hay nhiều cấp). Các bài tìm thấy là blog công ty phần mềm (số liệu như “51% khách hàng rời đi khi champion nghỉ việc” không rõ phương pháp nên **không dùng**) hoặc bị chặn truy cập (Ad Age, Brands Vietnam).
+
+**GV đã quyết định (27/9/2026):** dùng tình huống giả định Nova – An Phát.
 
 *Nhận định của người tổng hợp — đề xuất xử lý:* dùng **tình huống giả định** tiếp nối Nova Events – Ngân hàng An Phát (đã dùng ở Buổi 1 và 7). Ví dụ: Giám đốc Marketing, đầu mối duy nhất của Nova trong 3 năm, chuyển sang ngân hàng khác; Giám đốc mới muốn gọi thầu lại. Tình huống này dựng được trên các dữ kiện thật ở T05, T07, T08, T13. Hoặc GV bổ sung case thật `[NEEDS PROFESSOR INPUT]`.
 
@@ -266,6 +325,43 @@
 
 ---
 
+## 7. Phân tích: ROI Methodology 5 cấp và 6 cấp trong bối cảnh kinh doanh Việt Nam
+
+*Theo quyết định GV số 3. Toàn bộ mục này là **Nhận định của người tổng hợp**, xây trên dữ kiện của T11, T12, T16, T17, T18. **Chưa tìm được nghiên cứu thực nghiệm** nào so sánh hai phiên bản khi áp dụng cho sự kiện tại Việt Nam, nên đây là lập luận để GV cân nhắc, không phải kết luận có kiểm chứng.*
+
+### 7.1 Hai phiên bản khác nhau ở đâu
+
+| | **5 cấp — ROI Institute** (Phillips, Breining & Phillips, 2008) | **6 cấp — Event ROI Institute** |
+|---|---|---|
+| Các cấp | 1 Reaction · 2 Learning · 3 Application · 4 Impact · 5 ROI | **0 đúng người tham dự** · 1 hài lòng (đại diện cho môi trường học) · 2 Learning (gồm cả **học về quan hệ**) · 3 Behaviour · 4 Impact · 5 ROI |
+| Điểm nhấn | Chuỗi tác động đến tiền; tính ROI bằng công thức | Dùng như **mô hình lập kế hoạch**: đặt mục tiêu từ cấp 5 xuống, chọn người mời ở cấp 0 |
+| Với sự kiện không vì lợi nhuận | Không nói rõ trên trang đã đọc | **Sứ mệnh / mục tiêu chính trị thay cho ROI** ở sự kiện hiệp hội, nhà nước |
+| Cách thu dữ liệu | Nhiều công cụ (bảng hỏi, kiểm tra, dữ liệu kinh doanh) | Chấp nhận **tự báo cáo** vì nhanh, rẻ; nhấn mạnh phải tách tác động của sự kiện |
+
+### 7.2 Đặt vào bối cảnh Việt Nam
+
+| Đặc điểm (dữ kiện) | Hệ quả cho đo lường sự kiện | Phiên bản có lợi thế |
+|---|---|---|
+| **Khoảng cách quyền lực cao** (PDI 70, T16) | Mục tiêu sự kiện thường do lãnh đạo cấp cao phía khách hàng quyết; danh sách khách mời (ai được mời, ngồi đâu) là quyết định quan trọng | **6 cấp**: cấp 0 (đúng người tham dự) biến “danh sách khách mời” thành một chỉ số đo được, và buộc agency thống nhất mục tiêu với lãnh đạo từ đầu |
+| **Tập thể cao** (IDV 20, T16) và **quan hệ**: thể diện, có qua có lại, tình cảm (T17) | Giá trị lớn của nhiều sự kiện là **giữ và làm sâu quan hệ** (khách hàng, đối tác, cơ quan quản lý), khó quy ra tiền ở cấp 5 | **6 cấp**: cấp 2 có “học về quan hệ”, cho phép đo giá trị quan hệ mà không ép quy ra tiền |
+| **Thời gian quan hệ có giá trị kinh tế** (T18) | Kết quả của sự kiện có thể xuất hiện muộn, qua quan hệ dài hạn, khó tách riêng khỏi các yếu tố khác | Cả hai đều yêu cầu tách tác động; với Việt Nam nên chấp nhận **ước lượng của người tham dự** thay vì nhóm đối chứng (cách thay thế mà Event ROI nêu) |
+| **Thể diện** (T17) | Khảo sát tự báo cáo ngay sau sự kiện dễ nghiêng về tích cực (người trả lời tránh làm mất lòng chủ nhà). `[VERIFY: chưa có nguồn thực nghiệm trong tư liệu về độ lệch khảo sát do thể diện tại Việt Nam]` | **Cả hai** cần bổ sung chỉ số **hành vi quan sát được** (có hẹn gặp sau sự kiện không, có đăng ký sản phẩm không) thay vì chỉ dựa vào phiếu hài lòng |
+| **Né tránh bất định thấp** (UAI 30, T16): thực tế quan trọng hơn nguyên tắc; quy trình quá chính thức có thể làm yếu quan hệ (T10) | Bộ đo lường nặng, nhiều bước khó được khách hàng Việt Nam duy trì | **6 cấp, phiên bản rút gọn**: chọn vài KPI then chốt ở cấp 0–3, không bắt buộc tính ROI cho mọi sự kiện |
+| **Nhiều sự kiện lớn do nhà nước, hiệp hội tổ chức** (Buổi 7, S20: các chương trình cấp quốc gia năm 2025) | ROI tài chính không phải mục tiêu | **6 cấp**: “sứ mệnh thay cho ROI” |
+| **Ngay cả trên thế giới, ít tổ chức đo ROI** (chỉ khoảng 1/4 có chỉ số ROI trong chính sách sự kiện, T12) | Đòi hỏi ROI đầy đủ cho mọi sự kiện là không thực tế | Cả hai: dùng cấp 4–5 **có chọn lọc** |
+
+### 7.3 Đề xuất cách dạy (để GV duyệt)
+
+1. **Giới thiệu cả hai phiên bản** theo bảng 7.1, nhấn mạnh chúng chung một gốc (Kirkpatrick → Phillips) và chung logic “mục tiêu từ trên xuống, đo từ dưới lên”.
+2. **Khuyến nghị cho agency Việt Nam: dùng khung 6 cấp làm khung làm việc**, vì cấp 0 và “học về quan hệ” sát với cách doanh nghiệp Việt Nam dùng sự kiện, và “sứ mệnh thay cho ROI” phù hợp với sự kiện nhà nước, hiệp hội.
+3. **Phân vai đo lường trong quan hệ với Key Account** (nối 8.2 và 8.3):
+   - Cấp 0–3: agency **chủ động cam kết và báo cáo** (agency kiểm soát được nhiều).
+   - Cấp 4–5: chỉ đo khi Key Account **đồng ý chia sẻ dữ liệu**; thống nhất từ đầu trong buổi đánh giá định kỳ.
+   - Sự kiện nhà nước, hiệp hội: thay cấp 5 bằng mục tiêu sứ mệnh.
+4. **Cảnh báo cho SV:** không lấy điểm Hofstede để “đóng khung” một khách hàng cụ thể. Đây là xu hướng quốc gia, còn KAMer phải hiểu văn hóa riêng của từng Key Account (Buổi 3).
+
+---
+
 ## 6. Danh mục nguồn (APA 7)
 
 **T01** McDonald, M., Millman, T., & Rogers, B. (1997). Key account management: Theory, practice and challenges. *Journal of Marketing Management, 13*(8), 737–757. https://doi.org/10.1080/0267257X.1997.9964509
@@ -300,11 +396,13 @@ Event ROI Institute. (n.d.). *Methodology*. Retrieved September 27, 2026, from h
 
 **T15** Convention Industry Council. (2005). *The APEX post-event report template* (Approved October 30, 2003; updated August 10, 2005). https://insights.eventscouncil.org/Portals/0/APEX_Post_Event_Report.pdf
 
+**T16** Hofstede, G. (2015). *Dimension data matrix* (6 dimensions for website, version 2015-12-08, 0–100) [Data set]. https://geerthofstede.com/research-and-vsm/dimension-data-matrix/
+
+**T17** Pham, H. H., & Pham, N. C. (2025). Marketing insights from Quan He: Navigating Vietnamese business practices for foreign investors in an emerging market. *BIMTECH Business Perspectives*. https://doi.org/10.1177/25819542251364646
+
+**T18** McMillan, J., & Woodruff, C. (1999). Interfirm relationships and informal credit in Vietnam. *The Quarterly Journal of Economics, 114*(4), 1285–1320. https://doi.org/10.1162/003355399556278
+
 ---
 
-### Việc cần GV duyệt / quyết định trước bước soạn bài
-1. **Bảng nhu cầu tư liệu (mục 0):** duyệt, hoặc thêm/bớt mục.
-2. **Diamond cho mọi Key Account hay chỉ quan hệ đã đủ sâu?** T03 cho rằng Bow-tie vẫn phù hợp với quan hệ giai đoạn đầu. Đề xuất: dạy Bow-tie → Diamond như một **lộ trình theo giai đoạn quan hệ**, không phải “Bow-tie sai, Diamond đúng”.
-3. **ROI Methodology 5 cấp hay 6 cấp** (T11): chọn một phiên bản để dạy.
-4. **Case:** dùng tình huống giả định Nova – An Phát (Giám đốc Marketing nghỉ việc) hay GV có case thật?
-5. **Ranh giới nội bộ:** xác nhận cách giữ Diamond ở mức “ai của agency gặp ai của Key Account”, không đi vào quản lý đội KAM.
+### Trạng thái các quyết định
+Cả 5 mục đã được GV quyết định ngày 27/9/2026 (xem đầu file). Việc còn lại trước khi soạn bài: GV duyệt đề xuất cách dạy ở **mục 7.3**; các mục `[VERIFY]` sẽ được đưa vào danh sách kiểm tra của giáo án.
