@@ -56,3 +56,46 @@ Tư liệu cần xoay quanh: (a) quan hệ agency – nhà cung cấp trong ngà
 ## 6. Ảnh hưởng đến bản nháp Buổi 7 đã có
 
 Bản nháp hiện tại (`W07_lesson_plan.md` và các file đi kèm) đặt mục 7.2 ở phía phòng mua hàng **của khách hàng** và coi phần agency-là-người-mua là phụ — **không khớp** với khung này. Bản nháp sẽ được soạn lại ở bước soạn bài, dùng khung đã duyệt và tài liệu tổng hợp làm đầu vào.
+
+---
+
+## 7. Quy trình tìm kiếm & tổng hợp tư liệu (GV giao, 27/9/2026) — dùng cho phiên làm việc tiếp theo
+
+**Nhiệm vụ:** chỉ tìm, chọn lọc, tổng hợp tư liệu cho Buổi 7. **Không** soạn bài giảng, slide, kịch bản (sẽ có prompt riêng dùng file tổng hợp làm đầu vào).
+
+**Loại tư liệu (không bắt buộc học thuật):** báo cáo ngành (hiệp hội, nghiên cứu thị trường, tư vấn, nền tảng công nghệ sự kiện — sự kiện, MICE, du lịch, mua hàng, chuỗi cung ứng); bài báo & bài chia sẻ kiến thức (báo kinh doanh, tạp chí ngành, blog chuyên gia/doanh nghiệp); case study có thật (thành công & thất bại; ưu tiên ngành sự kiện, rồi khách sạn, du lịch, lễ hội, giải trí; quốc tế & Việt Nam). Ưu tiên 2021 → nay; cũ hơn chỉ khi là tình huống kinh điển.
+
+**Chu trình:** với từng mục A–E: xác định thông tin thiếu → tìm bằng từ khóa Anh & Việt → đọc nguồn → đánh giá phù hợp & tin cậy → ghi dữ kiện kèm nguồn. Chuyển mục khi đủ hoặc tìm thêm không ra thông tin mới.
+
+**Kiểm chứng:** mọi số liệu và khẳng định về sự kiện/doanh nghiệp có thật cần ≥ 2 nguồn độc lập; chỉ 1 nguồn → ghi "chưa kiểm chứng chéo"; nguồn mâu thuẫn → ghi rõ mâu thuẫn.
+
+**Chọn lọc:** 12–20 nguồn chất lượng nhất cho toàn buổi; mỗi mục ≥ 1 tư liệu trừ khi thật sự không tìm được.
+
+**File đầu ra:** `courses/EVM1110E/lessons/buoi-07_tu-lieu-tong-hop.md`, cấu trúc:
+1. Bảng đối chiếu đề cương – tư liệu (mục | mã nguồn | Đủ/Thiếu/Chưa có)
+2. Thẻ nguồn S01, S02… — tên, tác giả/tổ chức, loại, ngày đăng, link, ngày truy cập; mức tin cậy Cao/TB/Thấp + lý do; phục vụ mục nào; tóm tắt 3–6 gạch; dữ kiện & số liệu (đã/chưa kiểm chứng chéo); trích dẫn ngắn nguyên văn ≤ 1–2 câu (nếu có); gợi ý cách dùng
+3. Tóm tắt case study (150–300 từ/case: bối cảnh – diễn biến – kết quả – liên hệ Buổi 7 – mã nguồn)
+4. Số liệu & xu hướng nổi bật (dữ kiện | năm | mã nguồn | đã kiểm chứng chéo)
+5. Khoảng trống tư liệu (mục thiếu, lý do, gợi ý xử lý)
+6. Danh mục nguồn APA 7 theo mã nguồn
+
+**Văn phong:** tiếng Việt, súc tích, dạng ghi chú nghiên cứu; giữ thuật ngữ tiếng Anh + giải thích tiếng Việt lần đầu.
+
+**Quy tắc bắt buộc:** không soạn bài giảng; không tìm ngoài phạm vi đề cương Buổi 7, không thêm mục mới; không bịa nguồn, số liệu, trích dẫn, tên người, doanh nghiệp, sự kiện, link — chỉ ghi điều thực sự đã đọc được; suy luận của người tổng hợp ghi rõ "Nhận định của người tổng hợp"; không dùng trang không rõ nguồn gốc hoặc quảng cáo trá hình làm căn cứ duy nhất; không chép đoạn dài — chỉ tóm tắt + link. **Mọi tư liệu phải trả lời được câu hỏi: "Agency nhìn thấy gì và làm gì với điều này?"** — loại tư liệu chỉ phục vụ góc nhìn nhà cung cấp hoặc phòng mua hàng của client; quy trình RFP/RFQ chi tiết để dành Buổi 10.
+
+### Bảng nhu cầu tư liệu đã duyệt (Bước 1)
+
+| # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
+|---|---|---|---|
+| A | Tiêu đề: Understanding Procurement | Mức độ agency phụ thuộc nhà cung cấp: khan hiếm năng lực mùa cao điểm, lạm phát giá venue/AV/F&B 2022–2025, thiếu nhân lực kỹ thuật, nhà cung cấp độc quyền tại địa điểm | Số liệu & xu hướng từ báo cáo ngành |
+| B1 | 7.1 Logic Kraljic | Hai trục, bốn ô, chiến lược từng ô | Khái niệm (1–2 nguồn uy tín) |
+| B2 | 7.1 Vị thế từng nhóm nhà cung cấp sự kiện | Venue, sản xuất/AV, F&B, bán vé, nghệ sĩ/diễn giả, vận chuyển, in ấn… nằm ô nào, khi nào dịch chuyển | Ví dụ, bài chuyên gia/doanh nghiệp ngành |
+| B3 | 7.1 Hệ quả vị thế nhà cung cấp với agency | Nhà cung cấp trội thế (in-house AV độc quyền, attrition/cancellation của venue, bán vé độc quyền) vs case agency xây được đối tác chiến lược với nhà cung cấp | Case study thật, quốc tế & VN |
+| C1 | 7.2 Procurement vs Buying | Cấp chiến lược vs cấp thực thi | Khái niệm |
+| C2 | 7.2 Hai cấp trong agency | Preferred supplier list, hợp đồng khung, đánh giá nhà cung cấp định kỳ vs đặt hàng từng sự kiện | Bài viết thực tiễn agency/DMC; ưu tiên VN |
+| D1 | 7.3 Value-based negotiation, Risk vs Value | Khái niệm áp dụng cho agency ↔ client | Khái niệm, bài chuyên gia |
+| D2 | 7.3 Agency đàm phán rủi ro/giá trị với client | Client ép giá/đổi nhà cung cấp; agency chuyển điều khoản nhà cung cấp (cọc, hủy, attrition, bất khả kháng) sang hợp đồng client; chứng minh giá trị bằng ROI/ROE | Báo cáo ngành, bài viết, case |
+| D3 | 7.3 Tư liệu dựng đóng vai | Cơ cấu chi phí ngân sách sự kiện theo hạng mục; biên lợi nhuận agency; lệch dòng tiền (nhà cung cấp đòi cọc, client trả chậm); mức cắt ngân sách thường gặp | Số liệu thực tế |
+| E | Tự học TOPIC 7 (18 giờ) | Case SV tự đọc công khai | Case study |
+
+**Đầu mối đã thấy qua kết quả tìm kiếm (chưa đọc được trang gốc do mạng bị chặn — cần đọc & kiểm chứng):** CWT–GBTA 2025 forecast (chi phí/ngày/người tham dự +4,3–4,5%/năm); Northstar/Cvent PULSE 2024 (bức xúc về in-house AV độc quyền); CIPS — Kraljic Matrix & What is Procurement.
