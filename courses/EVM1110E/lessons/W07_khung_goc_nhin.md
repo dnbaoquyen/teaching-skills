@@ -1,4 +1,4 @@
-# Buổi 7 — Khung góc nhìn (bản chờ GV duyệt)
+# Buổi 7 — Khung góc nhìn (ĐÃ DUYỆT 27/9/2026)
 
 *Mục đích: thống nhất vai trò, góc nhìn và quan hệ giữa các bên trước khi tìm tư liệu và soạn bài. Tài liệu này là đầu vào cho mọi bước sau của Buổi 7.*
 
@@ -47,10 +47,11 @@ Trong môn này, "KAMer" nhất quán là **người của agency** quản trị
 
 Tư liệu cần xoay quanh: (a) quan hệ agency – nhà cung cấp trong ngành sự kiện/MICE (quyền lực, phụ thuộc, khan hiếm, mùa cao điểm, nhà cung cấp độc quyền); (b) cách agency tổ chức cấp chiến lược và cấp thực thi khi làm việc với nhà cung cấp; (c) cách agency dùng năng lực nhà cung cấp để thương lượng giá trị/rủi ro với khách hàng. **Không** tìm tư liệu về phòng mua hàng của khách hàng như trục chính.
 
-## 5. Điểm cần GV xác nhận
+## 5. Quyết định của GV (27/9/2026)
 
-1. Cách hiểu 7.3 (Customer = Key Account; KAMer = agency) có đúng không? Cách hiểu thay thế: agency đóng vai người mua, đàm phán với KAMer **của nhà cung cấp**.
-2. Có đưa góc nhìn **nhà cung cấp nhìn agency** (Supplier Preferencing: agency là khách hàng Core hay Nuisance của họ) vào 7.1 như phần mở rộng không?
+1. **7.3:** Customer (Buyer) = **Key Account (client)**; KAMer = **event agency**. Cách hiểu ở mục 3 được xác nhận.
+2. **Không** đưa góc nhìn nhà cung cấp đánh giá agency (Supplier Preferencing) vào 7.1 — tránh làm sinh viên khó phân biệt.
+3. **Quy tắc bắt buộc:** mọi nội dung dùng **agency perspective** (nơi sinh viên sẽ làm việc); mọi đánh giá, phân loại, chiến lược đều xuất phát từ agency. Không trình bày bất kỳ phân tích nào từ góc nhìn của nhà cung cấp hoặc của phòng mua hàng khách hàng như một góc nhìn độc lập.
 
 ## 6. Ảnh hưởng đến bản nháp Buổi 7 đã có
 
