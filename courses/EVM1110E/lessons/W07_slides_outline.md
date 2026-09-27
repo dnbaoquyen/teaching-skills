@@ -1,36 +1,37 @@
-# Dàn ý slide — Buổi 7: Đọc vị thế nhà cung cấp bằng ma trận Kraljic & đàm phán dựa trên giá trị
+# Dàn ý slide — Buổi 7: Understanding Procurement & Value-based Negotiation
 
-EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Ma trận và biểu đồ có mô tả thay thế (alt-text); bốn ô phân biệt bằng **tên + hoa văn/biểu tượng**, không chỉ bằng màu. Case có nhãn 🔁/🔍 giữ nguyên trên slide.
+EVM1110E · 26 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); ma trận và biểu đồ phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu (phù hợp người mù màu). Số liệu ghi mã nguồn nhỏ ở chân slide.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |
 |---|---|---|---|---|
-| 1 | — | Buổi 7 — Đọc vị thế nhà cung cấp bằng ma trận Kraljic | Tên buổi, CLO1/2/5/6 | |
-| 2 | S1 | Mất bao lâu để khách hàng thay được agency của bạn? | 4 lựa chọn: 1 tuần · 1 tháng · 3 tháng · không thay được | Bỏ phiếu giơ tay |
-| 3 | S2 | Mua hàng phải chuyển từ "mua cho rẻ" sang "quản trị nguồn cung" | Trích ý Kraljic (1983) + bốn giai đoạn (phân loại → phân tích thị trường cung → định vị → kế hoạch hành động) | Nhấn: xếp ô chỉ là giai đoạn 1 |
-| 4 | S2 | Mỗi khoản mua được đo trên hai trục: tác động lợi nhuận và rủi ro nguồn cung | Bảng hai trục + câu hỏi trong sự kiện | |
-| 5 | S2 | Sự kiện không thể dời hạn — nên rủi ro nguồn cung bị khuếch đại | Hình: dòng thời gian nhà máy (có thể dời) vs đêm gala (ngày cố định). *Alt: so sánh lịch sản xuất linh hoạt và ngày sự kiện cố định* | Câu hỏi gợi mở màn LED |
-| 6 | S2 | Bốn ô, bốn chiến lược khác nhau | Ma trận 2×2: Strategic / Leverage / Bottleneck / Non-critical + 1 dòng chiến lược mỗi ô. *Alt: ma trận 2×2 trục tác động lợi nhuận và rủi ro nguồn cung* | |
-| 7 | S2 | Rẻ không có nghĩa là không quan trọng | Ví dụ mẫu: venue → Strategic; in ấn → Non-critical; bán vé → Bottleneck | Nói to lập luận |
-| 8 | S2 | Ô không cố định — và có thể chủ động dịch chuyển | Gelderman & van Weele (2003): đo lường chủ quan; kéo Bottleneck về Non-critical. Fontes et al. (2025): ô ≠ kế hoạch hành động | |
-| 9 | S2 | Khách hàng của bạn cũng có phòng mua hàng — và họ dùng đúng ma trận này | Chuyển vai: agency là nhà cung cấp trong ma trận của khách | Chuyển ý |
-| 10 | S2 | Procurement quyết định chiến lược; Buying thực thi đơn hàng | Bảng so sánh 2 cấp (lecture notes §2) | Hỏi: dự án cũ các bạn làm việc với ai? |
-| 11 | S2 | Chỉ làm việc với cấp Buying = gần như chắc chắn bị xếp vào Leverage | 2 hàm ý cho KAMer | → Phiếu S3 |
-| — | S3 | *(chiếu Phụ lục A: 9 nhóm nhà cung cấp + ô mặc định; tình huống lễ hội)* | | Đồng hồ 13 phút; nhắc phạm vi |
+| 1 | — | Quản trị mối quan hệ trong tổ chức sự kiện — Buổi 7 | Tên HP, mã EVM1110E, tên GV; phụ đề: *Understanding Procurement & Value-based Negotiation* | |
+| 2 | S1 | Ba tuần trước gala, AV khách sạn tăng giá 30% — Nova làm gì? | Tình huống 3 dòng + 4 phương án A/B/C/D | Ghi số phiếu lên bảng; chưa chữa |
+| 3 | S2 | Agency vừa là người bán, vừa là người mua | Sơ đồ ba khối: Nhà cung cấp ⇄ Agency ⇄ Key Account; nhãn “agency là người mua” / “agency là người bán”. *Alt: agency đứng giữa nhà cung cấp và khách hàng trọng điểm* | Nối Buổi 2–6 (bán) sang Buổi 7 (mua) |
+| 4 | S2 | Phần lớn giá trị hợp đồng đi qua agency để trả cho nhà cung cấp | Thanh ngang: phí quản lý 5–10% (S18) / phần còn lại chi cho nhà cung cấp | Ghi rõ: dải tham chiếu, chưa KCC. `[NEEDS PROFESSOR INPUT: tỷ lệ thực tế]` |
+| 5 | S2 | Chi phí đầu vào tăng đều và địa điểm cao cấp khan hiếm | 3 số lớn: +4,5% chi phí/người/ngày 2024 (S04) · APAC 138 USD (S04) · 28% coi khả năng có địa điểm là thách thức 2026 (S05) | |
+| 6 | S2 | Nhiều hạng mục bị khóa bởi điều khoản độc quyền | 3 biểu tượng: AV nội bộ bắt buộc (S08–S10) · bán vé độc quyền, Live Nation ~80% (S13) · Việt Nam: thiếu địa điểm lớn, vé máy bay mùa cao điểm (S20, S23) | Hỏi nhanh: “Trong dự án cũ, có hạng mục nào các bạn **không được chọn** nhà cung cấp?” |
+| 7 | S2 | Kraljic: mua hàng phải trở thành quản trị nguồn cung | Tên bài HBR 1983; 1 câu định nghĩa của CIPS (S01) | |
+| 8 | S2 | Hai trục: hạng mục tác động bao nhiêu và khó mua đến đâu | Bảng 2 dòng: profit impact / supply risk + câu hỏi agency tự đặt | `[VERIFY: cách đọc profit impact theo góc agency]` |
+| 9 | S2 | Mỗi ô có một chiến lược riêng | Ma trận 2×2: Strategic / Bottleneck / Leverage / Non-critical — mỗi ô một hoa văn + 1 dòng chiến lược. *Alt: ma trận hai trục profit impact và supply risk với bốn ô* | “Non-critical ≠ không quan trọng” |
+| 10 | S2 | Xếp hạng mục trước, rồi mới suy ra vị thế nhà cung cấp | Hai bước dạng mũi tên: Bước 1 hạng mục → ô; Bước 2 ô → vị thế nhà cung cấp → chiến lược quan hệ | Nhấn mạnh: đây là cách dùng thống nhất của môn |
+| 11 | S2 | Một khách sạn, ba hạng mục, ba ô | Ma trận có 3 điểm: ballroom 12/12 (Strategic), phòng ngủ (Leverage → Bottleneck tháng 12), AV nội bộ (Bottleneck). *Alt: ba hạng mục của cùng một khách sạn nằm ở ba ô khác nhau* | Ví dụ mẫu: nói to lập luận; quay lại câu hỏi slide 2 |
+| 12 | S2 | Ma trận là ảnh chụp: mùa, quy mô và điều khoản làm hạng mục đổi ô | 4 mũi tên dịch chuyển + 4 hiểu lầm thường gặp (chữ nhỏ) | → chuyển S3 |
+| — | S3 | *(chiếu phiếu Thực hành 1 — tình huống + 10 hạng mục + 3 bước)* | | Đồng hồ đếm ngược 10 / 6 / 4 phút |
 | — | — | *Giải lao 8 phút — quay lại lúc [giờ]* | | |
-| 12 | S4 | Ở ô Strategic và Bottleneck, nhà cung cấp thường trội thế | Caniëls & Gelderman (2005, 2007): quyền lực tương đối, phụ thuộc lẫn nhau | `[VERIFY: phát hiện "quan hệ hài lòng" thuộc bài 2007]` |
-| 13 | S4 | Nhà cung cấp cũng xếp bạn vào một trong bốn ô | Ma trận Supplier Preferencing: Core / Development / Exploit / Nuisance. *Alt: ma trận 2×2 giá trị tài khoản và mức hấp dẫn* | Câu hỏi: venue giữ ngày đẹp cho ai? |
-| 14 | S4 | Vùng nguy hiểm: bạn cần họ, còn họ coi bạn là Nuisance | Hai ma trận đặt cạnh nhau, nối mũi tên Strategic ↔ Nuisance | |
-| 15 | S4 | Khách hàng hấp dẫn → nhà cung cấp hài lòng → được ưu tiên | Chu trình khách hàng ưu tiên (Schiele et al., 2012) — sơ đồ vòng 3 bước. *Alt: chu trình ba bước* | |
-| 16 | S4 | Agency đứng giữa hai ma trận: người mua với nhà cung cấp, người bán với khách hàng | Sơ đồ: Nhà cung cấp → Agency → Khách hàng, ghi công cụ mỗi phía. *Alt: chuỗi ba bên với công cụ phân loại ở mỗi mắt xích* | |
-| 17 | S4 | KAM chỉ dành cho số ít quan hệ thật sự trọng yếu | Quy tắc quyết định 3 câu hỏi + kiểm tra Supplier Preferencing | |
-| 18 | S4 | 🔁 Quan hệ tin cậy với nhà cung cấp dẫn tới đổi mới và quảng bá chung | Case Vu (2025) — 3 dòng kết quả + bài học cho venue/catering | |
-| 19 | S4 | 🔍 Ô Leverage cho phép đàm phán cứng, không cho phép bóc lột | Case hãng lữ hành – khách sạn: 3 lỗi | Hỏi nhanh: ranh giới ở đâu? |
-| 20 | S4 | 🔍 Một hạng mục nút thắt bị quản trị như dịch vụ thông thường | Case Ticketmaster 2022: bối cảnh + cách đọc Kraljic + bài học. Nguồn bổ trợ G4S (1 dòng) | Diễn biến pháp lý 2026 đã kiểm chứng (NPR, 15/4/2026); nếu trễ giờ, bỏ slide này |
-| 21 | S4 | Phòng mua hàng đo agency trên hai trục — hãy trả lời trên cả hai | Bảng Value vs Risk (lecture notes §6) | |
-| 22 | S4 | Không nhượng mà không đổi lại | 4 kỹ thuật đàm phán + hiểu lầm "khóa khách hàng" | → Phiếu S5 |
-| — | S5 | *(chiếu tình huống chung + các bước + đồng hồ)* | | Thẻ vai phát tay, không chiếu |
-| 23 | S6 | Bốn cách dùng Kraljic sai kinh điển | 4 lỗi + 3 đặc điểm của case thành công | |
-| 24 | S6 | Nên làm / Không nên làm | 5 dòng in đậm của bảng (lecture notes S6) | Liên hệ SMP: khách hàng xếp nhóm bạn vào ô nào? |
-| 25 | S7 | Phiếu kiểm tra cuối giờ | 2 câu hỏi + câu nối Buổi 8 (Bow-tie → Diamond) | QR/Form nếu thu online |
+| 13 | S4 | Nova làm 40 sự kiện một năm — không thể đi mua từ đầu mỗi lần | Câu hỏi mở đoạn | |
+| 14 | S4 | Procurement là dài hạn, Buying là từng giao dịch | Định nghĩa CIPS (S03), 1 câu trích | |
+| 15 | S4 | Agency cần hai cấp làm việc với nhà cung cấp | Bảng 2 cột Procurement / Buying: câu hỏi, chu kỳ, người làm, công việc | Nói rõ: bên **trong agency** |
+| 16 | S4 | Cấp Procurement quyết định chiến lược cho từng ô | Ma trận 2×2, mỗi ô ghi việc của Procurement (đối tác dài hạn / dự phòng + điều khoản / danh sách ưu tiên 2–3 nhà / chuẩn hóa) | |
+| 17 | S4 | Agency chủ động trở thành customer of choice | 4 hành động: gom chi tiêu · cam kết dài hạn · quy mô + hợp đồng khung · giữ cam kết thanh toán; trích CWT (S06) | Không nói về cách nhà cung cấp chấm điểm agency |
+| 18 | S4 | Khi hai cấp gãy, sự kiện sụp — hoặc agency mất quyền mặc cả | 4 thẻ case: Về đây bốn cánh chim trời (S15) · K-Pop Open Air (S16) · Marriott–Hilton (S14) · Vietravel (S21) | 1 câu hỏi/case. `[NEEDS PROFESSOR INPUT: case agency VN thành công; ví dụ cấp Procurement của agency VN]` |
+| 19 | S4 | Dữ liệu từ từng sự kiện nuôi quyết định chiến lược | Vòng tròn Buying → đánh giá nhà cung cấp → Procurement; trích Raimondi (S11) | Ranh giới: RFP/RFQ để Buổi 10 |
+| 20 | S5 | Trong 7.3: Key Account là người mua, KAMer là người của agency | Sơ đồ hai bên bàn đàm phán | |
+| 21 | S5 | Đàm phán giá trị là làm to chiếc bánh trước khi chia | Bảng distributive vs integrative (S12) | `[VERIFY: định nghĩa value-based negotiation của môn]` |
+| 22 | S5 | Nhượng ở Leverage/Non-critical, bảo vệ Strategic/Bottleneck bằng dữ kiện | Ma trận 2×2 phủ hai vùng: “Value — nhượng có điều kiện” / “Risk — giải thích và đổi chỗ khác”. *Alt: ma trận chia hai vùng nhượng được và phải bảo vệ* | Câu chốt: quản trị nhà cung cấp tốt tạo nên sức mạnh đàm phán |
+| 23 | S5 | KAMer có bốn công cụ ngoài việc giảm giá | 4 ô: minh bạch chi phí (S10) · điều khoản (S11) · ROI/ROE (S05) · dòng tiền (S19, S21, S22) | `[VERIFY: chuyển điều khoản NCC sang hợp đồng khách hàng — pháp lý]` |
+| 24 | S5 | Một câu nói có thể chuyển cuộc đàm phán từ giá sang giá trị | 4 mẫu câu (lecture notes §4.5) | Cho lớp đoán mỗi câu dùng kỹ thuật nào → chuyển S6 |
+| — | S6 | *(chiếu phần chung phiếu Thực hành 2 — tình huống 20/10, vai, các bước)* | | Đồng hồ 6 / 10 / 3 / 8 phút |
+| 25 | S7 | Ba ý của Buổi 7 | 7.1 hạng mục → vị thế · 7.2 Procurement vs Buying + customer of choice · 7.3 Risk vs Value; dòng cuối: trang mới cho Stakeholder Management Plan | |
+| 26 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 8 | QR/Form nếu thu online |
 
-**Nên dùng bảng thay vì slide:** ghi kết quả bỏ phiếu S1; vẽ nhanh hai ma trận cạnh nhau khi giải thích "vùng nguy hiểm"; ghi 3 biên bản đàm phán của 3 cặp để so sánh ở S5.
+**Nên dùng bảng thay vì slide:** ghi số phiếu A/B/C/D ở S1; vẽ nhanh ma trận 2×2 khi chốt S3 để đặt các hạng mục gây tranh cãi; ghi biên bản 3 dòng của từng cặp khi tổng kết S6.

@@ -64,6 +64,8 @@ Tư liệu cần xoay quanh: (a) quan hệ agency – nhà cung cấp trong ngà
 
 Bản nháp hiện tại (`W07_lesson_plan.md` và các file đi kèm) đặt mục 7.2 ở phía phòng mua hàng **của khách hàng** và coi phần agency-là-người-mua là phụ — **không khớp** với khung này. Bản nháp sẽ được soạn lại ở bước soạn bài, dùng khung đã duyệt và tài liệu tổng hợp làm đầu vào.
 
+**Cập nhật 27/9/2026:** đã soạn lại trọn gói Buổi 7 theo khung này (`W07_lesson_plan.md`, `W07_lecture_notes.md`, `W07_slides_outline.md`, `W07_activity_S3_kraljic_su_kien_key_account.md`, `W07_activity_S6_dam_phan_gia_tri.md`); hai phiếu hoạt động cũ (lễ hội âm nhạc; đàm phán với phòng mua hàng khách hàng) đã được thay thế. Gói mới chờ GV xác nhận.
+
 ---
 
 ## 7. Quy trình tìm kiếm & tổng hợp tư liệu (GV giao, 27/9/2026) — dùng cho phiên làm việc tiếp theo
