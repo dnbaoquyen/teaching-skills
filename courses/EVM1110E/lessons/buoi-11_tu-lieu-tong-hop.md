@@ -1,4 +1,4 @@
-# Buổi 11 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 11 — Tư liệu tổng hợp (ĐÃ DUYỆT 27/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -23,7 +23,19 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (27/9/2026) — duyệt toàn bộ đề xuất
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **11.4 theo phương án C:** trục chính là giai đoạn **trước sự kiện của khách của An Phát** (600 khách VIP, từ lúc nhận lời mời đến trước 12/12); Nova dùng **báo kinh tế** và **KOL dạng chuyên gia/diễn giả** để khuếch đại điểm chạm. Phân loại đầy đủ nano → mega chỉ là lớp tham chiếu ở 11.1.
+3. **Ranh giới:** Buổi 11 = chọn, due diligence, booking, thanh toán, đo lường (phòng ngừa). Xử lý khủng hoảng khi KOL/nhà báo gây sự cố → Buổi 12. Pháp lý chỉ ở mức nhận diện rủi ro cho Key Account.
+4. **Case:** vụ Kera (X06) là case thật chính (chỉ nêu sự kiện và phán quyết đã công bố); KOL tài chính/UBCKNN (X07) cho bối cảnh ngân hàng; tình huống giả định Nova – An Phát làm trục thực hành.
+5. **Đo lường:** Barcelona Principles 4.0 (outputs – outcomes – impact; không dùng AVE), ánh xạ gần đúng với khung ROI 6 cấp của Buổi 8 (ghi rõ là nhận định).
+6. **Đạo đức khi làm việc với nhà báo:** **một slide nguyên tắc** (thông tin có giá trị cho độc giả, đúng mảng, không đặt nhà báo vào thế vụ lợi), không bàn chi tiết thực tiễn nhạy cảm.
+7. **Ngưỡng phân loại KOL:** dạy như khoảng tham khảo; bổ sung phân loại theo vai trò (X01), KOC, chuyên gia/diễn giả (nhận định).
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -233,7 +245,9 @@ AMEC. (2020). *Barcelona Principles 3.0 – What does it mean for comms measurem
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). Nội dung đề xuất ban đầu giữ lại dưới đây để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu (mục 0):** duyệt / sửa.
 2. **Cách hiểu 11.4 “Pre-purchase stage”** — người tổng hợp đề xuất:
@@ -247,4 +261,4 @@ AMEC. (2020). *Barcelona Principles 3.0 – What does it mean for comms measurem
 7. **Ngưỡng phân loại KOL:** dạy như **khoảng tham khảo** (ví dụ nano 1k–10k theo X04), nhấn mạnh ngưỡng khác nhau giữa các nguồn; bổ sung phân loại **theo vai trò** (X01: khán giả – người bảo chứng – người làm nội dung) và **KOC**, **chuyên gia/diễn giả** (nhận định). Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 11: `W11_lesson_plan.md`, `W11_lecture_notes.md`, `W11_slides_outline.md`, `W11_activity_S3_*.md`, `W11_activity_S6_*.md`.
+Đã duyệt. Gói bài giảng Buổi 11 đã soạn: `W11_lesson_plan.md`, `W11_lecture_notes.md`, `W11_slides_outline.md`, `W11_activity_S3_chon_dien_gia_kol.md`, `W11_activity_S6_khuech_dai_truoc_su_kien.md` (chờ GV xác nhận).
