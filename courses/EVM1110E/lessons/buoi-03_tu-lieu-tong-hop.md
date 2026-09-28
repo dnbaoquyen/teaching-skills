@@ -1,4 +1,4 @@
-# Buổi 3 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 3 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -15,7 +15,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. **GRASP:** dùng **định nghĩa làm việc** ở C06 (Goal, Role, Appeal, State, Power), ghi rõ là định nghĩa của môn; GV có thể thay bằng định nghĩa trong giáo trình nội bộ.
+3. PESTEL và đối thủ **của khách hàng**, ví dụ tín dụng 2026 (C05): duyệt.
+4. Hai lớp hành trình (khách của Key Account; Key Account với agency): duyệt.
+5. DMU An Phát: chị Hạnh, ông Tuấn, anh Khoa, chị Lan, chị Vy: duyệt.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục | Cần tư liệu | Loại |
 |---|---|---|---|
@@ -101,7 +111,9 @@ VnExpress. (2026). *Tăng trưởng tín dụng năm 2026 dự kiến 15%*. http
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **GRASP:** GV cung cấp nguồn hoặc định nghĩa đã dùng khi dạy? Nếu không, người soạn dùng **định nghĩa làm việc** ở C06 và ghi rõ là của môn. `[NEEDS PROFESSOR INPUT]`
@@ -110,4 +122,4 @@ VnExpress. (2026). *Tăng trưởng tín dụng năm 2026 dự kiến 15%*. http
 5. **DMU An Phát:** dùng năm nhân vật đã có (chị Hạnh, ông Tuấn, anh Khoa, chị Lan, chị Vy). Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 3 (`W03_*`).
+Đã duyệt. Gói bài giảng Buổi 3 đã soạn: `W03_lesson_plan.md`, `W03_lecture_notes.md`, `W03_slides_outline.md`, `W03_activity_S3_*.md`, `W03_activity_S6_*.md` (chờ GV xác nhận).

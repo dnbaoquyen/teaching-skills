@@ -1,4 +1,4 @@
-# Buổi 4 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 4 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -14,7 +14,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. Ba trụ cột theo **định nghĩa nguyên văn Morgan & Hunt (1994)**; functional conflict là **kết quả của trust**: duyệt.
+3. Đo chất lượng quan hệ bằng **bộ câu hỏi đơn giản của môn** (2–3 câu/trụ cột, thang 1–5), ghi rõ không phải thang đo đã kiểm định: duyệt.
+4. 4.2 dùng Dwyer et al. (1987); **không** nêu tên giai đoạn khi chưa kiểm tra toàn văn: duyệt.
+5. Bối cảnh “quan hệ” Việt Nam (thể diện, có qua có lại, tình cảm): duyệt.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục | Cần tư liệu | Loại |
 |---|---|---|---|
@@ -109,7 +119,9 @@ Buổi 4 chủ yếu là khái niệm; không đưa số liệu thị trường.
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **Ba trụ cột theo Morgan & Hunt (1994):** dạy bằng **định nghĩa nguyên văn** và nhấn “functional conflict là **kết quả của trust**, không phải ‘ít xung đột’”. Đồng ý?
@@ -118,4 +130,4 @@ Buổi 4 chủ yếu là khái niệm; không đưa số liệu thị trường.
 5. **Bối cảnh Việt Nam:** thêm “quan hệ” (thể diện, có qua có lại, tình cảm) để giải thích cách xây niềm tin và xử lý bất đồng. Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 4 (`W04_*`).
+Đã duyệt. Gói bài giảng Buổi 4 đã soạn: `W04_lesson_plan.md`, `W04_lecture_notes.md`, `W04_slides_outline.md`, `W04_activity_S3_*.md`, `W04_activity_S6_*.md` (chờ GV xác nhận).

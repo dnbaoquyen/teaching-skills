@@ -1,4 +1,4 @@
-# Buổi 5 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 5 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -15,7 +15,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. Cấu trúc CVP (Future state – Offering 7Ps – Value appraisal) và năm nguồn giá trị: dùng **định nghĩa làm việc** dựng từ E02, E03, E04, ghi rõ là của môn.
+3. 5.3 theo **định nghĩa nguyên văn Marcos-Cuevas et al. (2016)**, giới thiệu ngắn linking – materializing – institutionalizing: duyệt.
+4. HSSEQ với agency: an toàn, an ninh, môi trường, chất lượng cho Key Account; không đi sâu an toàn đám đông: duyệt.
+5. Case VPBank (customer’s customer) và Techcombank (đồng kiến tạo): duyệt.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục | Cần tư liệu | Loại |
 |---|---|---|---|
@@ -110,7 +120,9 @@ Không đưa số liệu mới. Không dùng các con số trong E04 (quyết đ
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **Cấu trúc CVP (Future state – Offering 7Ps – Value appraisal) và năm nguồn giá trị:** GV cung cấp nguồn/định nghĩa đã dùng khi dạy? Nếu không, người soạn dựng **định nghĩa làm việc**, dùng E02, E03, E04 làm nền và ghi rõ là của môn. `[NEEDS PROFESSOR INPUT]`
@@ -119,4 +131,4 @@ Không đưa số liệu mới. Không dùng các con số trong E04 (quyết đ
 5. **Case:** dùng lại VPBank (customer’s customer) và Techcombank (đồng kiến tạo/đồng đầu tư). Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 5 (`W05_*`).
+Đã duyệt. Gói bài giảng Buổi 5 đã soạn: `W05_lesson_plan.md`, `W05_lecture_notes.md`, `W05_slides_outline.md`, `W05_activity_S3_*.md`, `W05_activity_S6_*.md` (chờ GV xác nhận).

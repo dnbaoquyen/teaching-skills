@@ -1,4 +1,4 @@
-# Buổi 2 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 2 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -16,7 +16,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. Sách Marcos et al. (2018): chưa có xác nhận GV dùng sách → dùng làm **tài liệu đọc thêm**; khung trong bài dựa trên nguồn đã đọc được và **định nghĩa làm việc**, ghi rõ.
+3. Bảng Sales vs KAM theo bốn khía cạnh Homburg et al. + tầm nhìn thời gian, cách tạo giá trị (B02, B05) — tổng hợp của người soạn: duyệt.
+4. Ba tiêu chí theo khung Cranfield (B07): hai trục chấm có trọng số + **cổng “sẵn sàng đồng đầu tư”**; tiêu chí con cho agency sự kiện là nhận định: duyệt.
+5. Tình huống: Nova chọn Key Account trong 5 khách hàng doanh nghiệp (giả định), An Phát là một ứng viên: duyệt.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -111,7 +121,9 @@ Buổi 2 không cần số liệu thị trường; không đưa số liệu chư
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **Sách Marcos et al. (2018):** GV có dùng sách này (hoặc giáo trình nội bộ dựa trên nó) không? Nếu có, người soạn sẽ theo đúng thuật ngữ và khung của sách cho Buổi 2–6. `[NEEDS PROFESSOR INPUT]`
@@ -120,4 +132,4 @@ Buổi 2 không cần số liệu thị trường; không đưa số liệu chư
 5. **Tình huống:** Nova chọn Key Account trong 5 khách hàng doanh nghiệp (giả định), An Phát là một ứng viên. Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 2 (`W02_*`).
+Đã duyệt. Gói bài giảng Buổi 2 đã soạn: `W02_lesson_plan.md`, `W02_lecture_notes.md`, `W02_slides_outline.md`, `W02_activity_S3_*.md`, `W02_activity_S6_*.md` (chờ GV xác nhận).

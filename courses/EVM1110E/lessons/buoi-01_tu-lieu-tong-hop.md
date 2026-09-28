@@ -1,4 +1,4 @@
-# Buổi 1 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 1 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -19,7 +19,18 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. Gói W01: **phương án A — cập nhật nhẹ** (đã thực hiện 28/9/2026: sửa trích dẫn Mendelow 1981/ICIS, thêm định nghĩa làm việc “hệ sinh thái”, “một bên nhiều vai”, ví dụ DIFF 2026; đổi quy mô An Phát thành 600 khách).
+3. Giáo trình: theo đề cương, giáo trình chính là **tài liệu nội bộ UEF**; Van Niekerk & Getz (2019) gọi là **tài liệu tham khảo chính** (đã sửa trong W01).
+4. Định nghĩa làm việc “hệ sinh thái bên liên quan bên ngoài của sự kiện” (A05): duyệt.
+5. Case DIFF 2026: duyệt.
+6. Mạch truyện: ở Buổi 1–6, **chị Hạnh** vẫn là GĐ Marketing An Phát; chuyển giao sang anh Minh ở Buổi 8.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu | Loại |
 |---|---|---|---|
@@ -132,7 +143,9 @@ Cổng thông tin điện tử Chính phủ – Xây dựng chính sách. (2026)
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **Cách xử lý gói W01 đã có:** (A — khuyến nghị) **cập nhật nhẹ** W01: sửa trích dẫn Mendelow thành 1981/ICIS (gỡ `[VERIFY]`), thêm Getz et al. (2006) cho “một bên nhiều vai”, thêm case DIFF 2026, thêm định nghĩa làm việc “hệ sinh thái”; (B) giữ nguyên W01; (C) soạn lại toàn bộ.
@@ -142,4 +155,4 @@ Cổng thông tin điện tử Chính phủ – Xây dựng chính sách. (2026)
 6. **Mạch truyện An Phát:** ở Buổi 1–6, chị Hạnh vẫn là GĐ Marketing (chuyển giao ở Buổi 8). Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt: cập nhật gói W01 theo phương án được chọn.
+Đã duyệt. Gói W01 đã cập nhật nhẹ theo quyết định 2.

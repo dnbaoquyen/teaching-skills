@@ -1,4 +1,4 @@
-# Buổi 6 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 6 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **28/9/2026**.*
 
@@ -14,7 +14,17 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. Bảng nhu cầu tư liệu: duyệt.
+2. CLV: công thức đơn giản (lợi nhuận gộp năm × xác suất tái ký, chiết khấu) với ví dụ số giả định; `[VERIFY]` công thức trước khi lên slide: duyệt.
+3. Ma trận: dùng **ma trận Shapiro et al. (1987)** với trục dọc là **biên lợi nhuận gộp**, ghi rõ là biến thể của môn; tên bốn ô giữ `[VERIFY]`.
+4. Cost-to-serve đặc thù agency sự kiện (nhận định; F07 minh họa quốc tế): duyệt.
+5. Thông điệp “bilateral”: không bán lỗ cho khách nào nhưng cũng không ép khách — cùng giảm chi phí phục vụ: duyệt.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (ĐÃ DUYỆT)
 
 | # | Mục | Cần tư liệu | Loại |
 |---|---|---|---|
@@ -111,7 +121,9 @@
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Đã duyệt ngày 28/9/2026 (xem đầu file). Đề xuất ban đầu giữ lại để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu:** duyệt / sửa.
 2. **CLV:** dạy bằng một **công thức đơn giản** (lợi nhuận gộp năm × xác suất tái ký, chiết khấu về hiện tại) với **ví dụ số giả định** cho An Phát; công thức đối chiếu toàn văn/giáo trình trước khi lên slide. Đồng ý?
@@ -120,4 +132,4 @@
 5. **“Bilateral benefits and fair relationships”:** nhấn thông điệp “không bán lỗ cho khách hàng nào” (F06) nhưng cũng **không ép khách** — tìm cách giảm chi phí phục vụ cùng khách (quy trình duyệt, lịch thanh toán). Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 6 (`W06_*`).
+Đã duyệt. Gói bài giảng Buổi 6 đã soạn: `W06_lesson_plan.md`, `W06_lecture_notes.md`, `W06_slides_outline.md`, `W06_activity_S3_*.md`, `W06_activity_S6_*.md` (chờ GV xác nhận).
