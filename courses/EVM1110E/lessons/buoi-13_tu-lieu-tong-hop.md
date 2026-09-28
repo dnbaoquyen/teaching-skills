@@ -1,4 +1,4 @@
-# Buổi 13 — Tư liệu tổng hợp (CHỜ GV DUYỆT)
+# Buổi 13 — Tư liệu tổng hợp (ĐÃ DUYỆT 28/9/2026)
 
 *Học phần EVM1110E – Quản trị mối quan hệ trong tổ chức sự kiện. Ngày tìm và đọc nguồn: **27/9/2026**.*
 
@@ -19,7 +19,19 @@
 
 ---
 
-## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐỀ XUẤT, CHỜ DUYỆT)
+## Quyết định của GV (28/9/2026) — duyệt toàn bộ đề xuất
+
+1. **Bảng nhu cầu tư liệu (mục 0): duyệt.**
+2. **Nội dung A–E:** dùng **định nghĩa làm việc ở Z09** (A theo Z01; B–E là nhận định của người soạn dựng từ Z04, Z05, Z06 và nội dung đã học). Nếu sau này GV đối chiếu giáo trình nội bộ UEF có định nghĩa khác, sẽ chỉnh theo giáo trình.
+3. **Cấu trúc buổi xưởng:** lý thuyết ~45 phút, thực hành ~75 phút trên **SMP của chính nhóm** — Thực hành 1: ráp khung A–E + bảng truy vết; Thực hành 2: phần D (tích hợp bên liên quan bên ngoài — 13.2) + phần E (Executive Summary 1 trang), xoay trạm với vai “Customer Board” hỏi *logic tài chính* và *chiến lược điểm chạm*.
+4. **Checklist tự rà soát** do người soạn đề xuất (dựa trên đề cương Buổi 14–15 và 10 lỗi của Z02) — **chỉ để sinh viên tự rà soát, không phải rubric chấm**.
+5. **Chính sách AI cho SMP (A4): mức D — cho phép kèm công bố** (phụ lục ghi công cụ, việc dùng, phần nhóm sửa); **bảo vệ trực tiếp** là phần neo, các **trang làm trên lớp** là bằng chứng quá trình; **không dùng công cụ phát hiện AI**. *(Chưa ghi vào `course_passport.yaml` — chờ GV xác nhận gói bài giảng.)*
+6. **Ví dụ An Phát:** chỉ trình bày **bộ khung** (2–3 dòng mỗi phần), không phát bài mẫu hoàn chỉnh.
+7. **Không dùng số liệu Z05** (5%, 1%, premium 25%); chỉ dùng định nghĩa và cách phân loại giá trị tiền tệ.
+
+---
+
+## 0. Bảng nhu cầu tư liệu (Bước 1 — ĐÃ DUYỆT)
 
 | # | Mục đề cương | Cần tư liệu (góc nhìn agency) | Loại |
 |---|---|---|---|
@@ -171,7 +183,9 @@ Holt, S. (n.d.). *Implementing key account management: To plan or not to plan…
 
 ---
 
-## 7. Việc cần GV duyệt
+## 7. Việc cần GV duyệt — ĐÃ DUYỆT
+
+Cả 7 đề xuất đã được GV duyệt ngày 28/9/2026 (xem đầu file). Nội dung đề xuất ban đầu giữ lại dưới đây để đối chiếu.
 
 1. **Bảng nhu cầu tư liệu (mục 0):** duyệt / sửa.
 2. **Nội dung từng phần A–E:** giáo trình nội bộ UEF có định nghĩa riêng cho từng phần không? Nếu có, người soạn sẽ theo giáo trình; nếu không, dùng **định nghĩa làm việc ở Z09** (A theo Z01; B–E là nhận định dựng từ Z04, Z05, Z06 và nội dung đã học). `[NEEDS PROFESSOR INPUT]`
@@ -185,4 +199,4 @@ Holt, S. (n.d.). *Implementing key account management: To plan or not to plan…
 7. **Số liệu Z05** (5%, 1%, premium 25%): người tổng hợp đề xuất **không dùng** vì chưa kiểm chứng chéo; chỉ dùng **định nghĩa** và **cách phân loại giá trị tiền tệ**. Đồng ý?
 
 ### Trạng thái
-Chờ GV duyệt. Sau khi duyệt sẽ soạn gói bài giảng Buổi 13: `W13_lesson_plan.md`, `W13_lecture_notes.md`, `W13_slides_outline.md`, `W13_activity_S3_*.md`, `W13_activity_S6_*.md`.
+Đã duyệt. Gói bài giảng Buổi 13 đã soạn: `W13_lesson_plan.md`, `W13_lecture_notes.md`, `W13_slides_outline.md`, `W13_activity_S3_rap_khung_A_E.md`, `W13_activity_S6_value_delivery_exec_summary.md`, `W13_checklist_tu_ra_soat_SMP.md` (chờ GV xác nhận).
