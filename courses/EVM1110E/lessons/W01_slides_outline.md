@@ -13,7 +13,7 @@ EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 7 | S2 | Bài cuối kỳ: Stakeholder Management Plan cho khách hàng từ dự án cũ | 3 dòng: chọn khách hàng cũ · mỗi buổi thêm 1 mảnh · phản biện cuối kỳ. Nộp qua LMS | `[NEEDS PROFESSOR INPUT: quy định chuyên cần, nộp trễ, AI]` |
 | 8 | S3 | Bên liên quan là ai có thể ảnh hưởng — hoặc bị ảnh hưởng — bởi sự kiện | Định nghĩa Freeman (1984), 2 mũi tên hai chiều | |
 | 9 | S3 | Một hệ sinh thái nhìn thấy quan hệ giữa các bên, không chỉ danh sách | Hình trái: danh sách; hình phải: mạng lưới có mũi tên giữa các bên. *Alt: so sánh danh sách rời rạc và mạng lưới liên kết* | Câu hỏi gợi mở: khách sạn đổi phòng → ai bị ảnh hưởng? |
-| 10 | S3 | Hệ sinh thái sự kiện có 6 đặc điểm riêng | 6 ô biểu tượng: tạm thời · phụ thuộc · xung đột mục tiêu · trao đổi giá trị · thay đổi theo giai đoạn · lây lan danh tiếng | `[VERIFY]` nếu dùng thuật ngữ "pulsating organisation" |
+| 10 | S3 | Hệ sinh thái sự kiện có 6 đặc điểm riêng | 6 ô biểu tượng: tạm thời · phụ thuộc · xung đột mục tiêu · trao đổi giá trị · thay đổi theo giai đoạn · lây lan danh tiếng | `[VERIFY]` nếu dùng thuật ngữ "pulsating organisation"; thêm ví dụ DIFF 2026 và ý “một bên nhiều vai” (Getz et al., 2006) |
 | 11 | S3 | Tầm quan trọng của mỗi bên thay đổi theo giai đoạn sự kiện | Dòng thời gian Trước – Trong – Sau, mỗi giai đoạn nổi bật 2–3 bên | |
 | 12 | S3 | Primary: không có họ, sự kiện không diễn ra | Định nghĩa Clarkson (1995) + câu kiểm tra nhanh | |
 | 13 | S3 | Secondary: ảnh hưởng hoặc bị ảnh hưởng, nhưng không thiết yếu | Định nghĩa + ví dụ báo chí | Nhắc: nhân viên/TNV không xét trong môn này |
@@ -21,7 +21,7 @@ EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | — | S4 | *(chiếu phiếu Thực hành 1 — tình huống + nhiệm vụ)* | | Đồng hồ đếm ngược 10 phút |
 | — | — | *Giải lao 8 phút — quay lại lúc [giờ]* | | |
 | 15 | S5 | Không thể chăm sóc mọi bên như nhau — cần công cụ ưu tiên | Câu hỏi mở đoạn | |
-| 16 | S5 | Power-Interest Grid chia các bên thành 4 chiến lược ứng xử | Ma trận 2×2: Manage Closely / Keep Satisfied / Keep Informed / Monitor — mỗi ô dùng hoa văn khác nhau, không chỉ màu. *Alt: ma trận 2×2 trục quyền lực và mức độ quan tâm* | `[VERIFY: nguồn Mendelow]` |
+| 16 | S5 | Power-Interest Grid chia các bên thành 4 chiến lược ứng xử | Ma trận 2×2: Manage Closely / Keep Satisfied / Keep Informed / Monitor — mỗi ô dùng hoa văn khác nhau, không chỉ màu. *Alt: ma trận 2×2 trục quyền lực và mức độ quan tâm* | Nguồn: phát triển từ Mendelow (1981, ICIS) — đã xác minh |
 | 17 | S5 | Ví dụ: ngân hàng cần quản lý chặt, khách sạn cần giữ hài lòng | Ma trận với 3 bên của tình huống An Phát | Ví dụ mẫu |
 | 18 | S5 | Grid là ảnh chụp tĩnh và bỏ qua tính chính đáng | 4 hạn chế | Hỏi: "Grid bỏ sót điều gì?" |
 | 19 | S5 | Salience Model đo 3 thuộc tính: quyền lực, chính đáng, cấp bách | 3 định nghĩa ngắn (Mitchell, Agle & Wood, 1997) | |

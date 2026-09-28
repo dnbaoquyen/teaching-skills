@@ -8,7 +8,7 @@ Người làm sự kiện giỏi nhìn thấy **tất cả** những ai có th�
 
 ## Tình huống (GIẢ ĐỊNH — chỉ dùng cho học tập)
 
-> **Nova Events** là một công ty tổ chức sự kiện tại TP.HCM. Khách hàng lớn nhất năm nay là **Ngân hàng An Phát**, thuê Nova tổ chức **Hội nghị khách hàng thường niên** — một buổi tối gồm phần hội thảo xu hướng tài chính, tiệc gala và chương trình nghệ thuật — cho khoảng **500 khách hàng doanh nghiệp VIP** của ngân hàng.
+> **Nova Events** là một công ty tổ chức sự kiện tại TP.HCM. Khách hàng lớn nhất năm nay là **Ngân hàng An Phát**, thuê Nova tổ chức **Hội nghị khách hàng thường niên** — một buổi tối gồm phần hội thảo xu hướng tài chính, tiệc gala và chương trình nghệ thuật — cho khoảng **600 khách hàng doanh nghiệp VIP** của ngân hàng.
 >
 > Sự kiện diễn ra tại phòng đại tiệc của một **khách sạn 5 sao** ở Quận 1. Một **công ty bảo hiểm** — đối tác phân phối của ngân hàng — đồng tài trợ để có gian trưng bày và 5 phút phát biểu. Nova thuê ngoài: âm thanh – ánh sáng – màn LED, in ấn, quà tặng, xe đưa đón. Ngân hàng muốn mời một **chuyên gia kinh tế nổi tiếng** làm diễn giả chính và một **MC/KOL** dẫn chương trình. Bộ phận truyền thông ngân hàng muốn có bài viết trên **báo tài chính** sau sự kiện. Khách sạn nằm cạnh một **khu dân cư**; chương trình nghệ thuật kéo dài đến 22h.
 
@@ -73,13 +73,13 @@ Không nộp. Giữ lại tờ A0 — sẽ dùng làm ví dụ đối chiếu �
 
 ## Đáp án tham khảo / phạm vi câu trả lời
 
-**Danh sách dự kiến (≥ 12 bên):** Ngân hàng An Phát (và các cá nhân ra quyết định bên trong ngân hàng — sẽ học ở Buổi 3), 500 khách VIP (khách hàng của khách hàng), khách sạn/địa điểm, công ty bảo hiểm (nhà tài trợ), nhà cung cấp AV/LED, nhà cung cấp in ấn, nhà cung cấp quà tặng, đơn vị vận chuyển, diễn giả chính, MC/KOL, nghệ sĩ biểu diễn, báo tài chính, cư dân khu vực lân cận, cơ quan quản lý địa phương, các công ty sự kiện đối thủ (đang nhắm vào khách hàng An Phát).
+**Danh sách dự kiến (≥ 12 bên):** Ngân hàng An Phát (và các cá nhân ra quyết định bên trong ngân hàng — sẽ học ở Buổi 3), 600 khách VIP (khách hàng của khách hàng), khách sạn/địa điểm, công ty bảo hiểm (nhà tài trợ), nhà cung cấp AV/LED, nhà cung cấp in ấn, nhà cung cấp quà tặng, đơn vị vận chuyển, diễn giả chính, MC/KOL, nghệ sĩ biểu diễn, báo tài chính, cư dân khu vực lân cận, cơ quan quản lý địa phương, các công ty sự kiện đối thủ (đang nhắm vào khách hàng An Phát).
 
 **Các bên hay gây tranh luận:**
 - *Nhà tài trợ bảo hiểm:* P nếu ngân sách phụ thuộc vào họ; S nếu chỉ là phần cộng thêm → dùng để khẳng định "phân loại theo bối cảnh".
 - *Báo tài chính:* thường S; nhưng nếu mục tiêu truyền thông là KPI hợp đồng của Nova với ngân hàng → lập luận P có cơ sở.
 - *Cư dân lân cận:* S (không giao dịch) — nhưng có thể trở nên rất quan trọng; để dành làm ví dụ cho Salience Model ở S5.
-- *500 khách VIP:* P — sự kiện tồn tại vì họ; gợi mở khái niệm "khách hàng của khách hàng" (Buổi 5).
+- *600 khách VIP:* P — sự kiện tồn tại vì họ; gợi mở khái niệm "khách hàng của khách hàng" (Buổi 5).
 
 **Câu chuyển tiếp:** *"Các bạn có 12–15 bên. Không thể chăm sóc tất cả như nhau. Sau giờ giải lao: công cụ để quyết định ai được ưu tiên."*
 

@@ -54,7 +54,7 @@ Câu hỏi của môn: **làm thế nào để xây dựng, duy trì và phát t
 
 Chú ý hai chiều của định nghĩa: **có thể ảnh hưởng** (nhà tài trợ rút tiền) **hoặc bị ảnh hưởng** (cư dân quanh địa điểm chịu tiếng ồn). Cả hai đều là bên liên quan.
 
-Áp dụng vào sự kiện (theo hướng của Van Niekerk & Getz, 2019 — giáo trình chính): bên liên quan của sự kiện là những ai có "phần" (stake) trong sự kiện — góp nguồn lực, nhận lợi ích, chịu tác động, hoặc có quyền cho phép/ngăn cản sự kiện diễn ra.
+Áp dụng vào sự kiện (theo hướng của Van Niekerk & Getz, 2019 — tài liệu tham khảo chính): bên liên quan của sự kiện là những ai có "phần" (stake) trong sự kiện — góp nguồn lực, nhận lợi ích, chịu tác động, hoặc có quyền cho phép/ngăn cản sự kiện diễn ra.
 
 #### 1.2 Từ "danh sách" đến "hệ sinh thái"
 
@@ -70,6 +70,12 @@ Một **danh sách** bên liên quan liệt kê từng bên riêng lẻ. Một *
 4. **Quan hệ trao đổi giá trị.** Mỗi bên góp nguồn lực (tiền, địa điểm, sự chú ý, giấy phép) để đổi lấy lợi ích (doanh thu, hình ảnh, tiếp cận khách hàng, trật tự công cộng).
 5. **Tầm quan trọng thay đổi theo giai đoạn.** Trước sự kiện: nhà tài trợ, địa điểm, cơ quan cấp phép nổi bật; trong sự kiện: nhà cung cấp kỹ thuật, khách tham dự; sau sự kiện: báo chí, khách hàng (đánh giá, tái ký).
 6. **Tính công khai và lây lan danh tiếng.** Sự kiện diễn ra trước công chúng; sự cố của một bên (ví dụ KOL dính scandal) lan sang danh tiếng của khách hàng và công ty tổ chức.
+
+**Định nghĩa làm việc của môn (quyết định GV):** *hệ sinh thái bên liên quan bên ngoài của sự kiện* là mạng lưới các tổ chức, cá nhân **ngoài agency** cùng góp nguồn lực, nhận giá trị, chịu tác động hoặc có quyền cho phép sự kiện, và **phụ thuộc lẫn nhau** (dựng từ Freeman, 1984; Van Niekerk & Getz, 2019; Getz, Andersson & Larson, 2006).
+
+**Một bên, nhiều vai (Getz, Andersson & Larson, 2006):** nghiên cứu lễ hội phân vai trò bên liên quan thành cơ quan quản lý, bên hỗ trợ, đồng sản xuất, nhà cung cấp, cộng tác, khán giả, bên chịu tác động — và thấy **bên liên quan chủ chốt giữ nhiều vai cùng lúc**. Ví dụ: khách sạn vừa là địa điểm vừa là nhà cung cấp dịch vụ. *(Ý này sẽ quay lại ở Buổi 12.)*
+
+**Ví dụ thật — Lễ hội Pháo hoa quốc tế Đà Nẵng DIFF 2026 (30/5–11/7/2026):** UBND TP Đà Nẵng và các đơn vị tổ chức; 10 đội pháo hoa từ 9 quốc gia, vùng lãnh thổ; khán giả, du khách; doanh nghiệp du lịch – lưu trú; nhà tài trợ; báo chí; người dân quanh sông Hàn (Tuổi Trẻ, 29/1/2026). *[Hỏi: "Nếu Nova là agency làm dịch vụ cho một nhà tài trợ của DIFF, hệ sinh thái của Nova gồm những ai?"]* Vai trò cụ thể của từng doanh nghiệp trong DIFF chưa kiểm chứng — không khẳng định với lớp.
 
 **Hiểu lầm thường gặp:** *"Bên liên quan = người trả tiền cho mình."* → Sửa: định nghĩa gồm cả người **bị ảnh hưởng** và người **có quyền ngăn cản**, không chỉ người có giao dịch.
 
@@ -88,7 +94,7 @@ Nhiều tài liệu về sự kiện xếp **nhân viên, tình nguyện viên**
 
 #### 2.3 Ví dụ mẫu (GV nói to lập luận)
 
-**Tình huống (GIẢ ĐỊNH, chỉ để minh họa):** Công ty sự kiện *Nova Events* được *Ngân hàng An Phát* thuê tổ chức **Hội nghị khách hàng thường niên** cho khoảng 500 khách hàng doanh nghiệp VIP, tại một khách sạn 5 sao ở TP.HCM. Có một công ty bảo hiểm là đối tác của ngân hàng tham gia tài trợ. Góc nhìn phân tích: **Nova Events**.
+**Tình huống (GIẢ ĐỊNH, chỉ để minh họa):** Công ty sự kiện *Nova Events* được *Ngân hàng An Phát* thuê tổ chức **Hội nghị khách hàng thường niên** cho khoảng 600 khách hàng doanh nghiệp VIP, tại một khách sạn 5 sao ở TP.HCM. Có một công ty bảo hiểm là đối tác của ngân hàng tham gia tài trợ. Góc nhìn phân tích: **Nova Events**.
 
 | Bên liên quan | Phân loại | Lập luận |
 |---|---|---|
@@ -113,7 +119,7 @@ Nhiều tài liệu về sự kiện xếp **nhân viên, tình nguyện viên**
 
 #### 3.1 Ma trận Quyền lực – Mức độ quan tâm (Power-Interest Grid)
 
-`[VERIFY: thường ghi nguồn Mendelow (1981 — nhiều tài liệu trích nhầm là 1991), được Johnson & Scholes phổ biến trong giáo trình chiến lược — kiểm tra năm và nguồn trước khi đưa lên slide]`
+**Nguồn gốc (đã xác minh):** ý tưởng phát triển từ Mendelow (**1981**), *Environmental scanning — The impact of the stakeholder concept*, kỷ yếu **ICIS 1981** — dùng quyền lực của bên liên quan để định hướng việc quét môi trường. Dạng lưới 2×2 quen thuộc là phiên bản được các giáo trình chiến lược phổ biến lại; khi trình bày, ghi “phát triển từ Mendelow (1981)”.
 
 Hai trục: **Quyền lực** (khả năng tác động đến sự kiện) và **Mức độ quan tâm** (mức độ họ để ý/bị ảnh hưởng bởi sự kiện).
 
@@ -170,5 +176,9 @@ Hai công cụ này là **phần 1 của Stakeholder Management Plan**. Từ Bu�
 - Clarkson, M. B. E. (1995). A stakeholder framework for analyzing and evaluating corporate social performance. *Academy of Management Review, 20*(1), 92–117.
 - Freeman, R. E. (1984). *Strategic management: A stakeholder approach*. Pitman.
 - Mitchell, R. K., Agle, B. R., & Wood, D. J. (1997). Toward a theory of stakeholder identification and salience: Defining the principle of who and what really counts. *Academy of Management Review, 22*(4), 853–886.
-- Van Niekerk, M., & Getz, D. (2019). *Event stakeholders: Theory and methods for event management and tourism*. Goodfellow Publishers. (Giáo trình chính)
-- `[VERIFY: Mendelow, A. (1981). Environmental scanning: The impact of the stakeholder concept. Proceedings of the 2nd International Conference on Information Systems (ICIS) — nhiều nguồn ghi 1991; kiểm tra chi tiết xuất bản]`
+- Van Niekerk, M., & Getz, D. (2019). *Event stakeholders: Theory and methods for event management and tourism*. Goodfellow Publishers. (Tài liệu tham khảo chính; giáo trình chính của học phần là tài liệu nội bộ UEF)
+- Getz, D., Andersson, T., & Larson, M. (2006). Festival stakeholder roles: Concepts and case studies. *Event Management, 10*(2), 103–122.
+- Mendelow, A. L. (1981). Environmental scanning — The impact of the stakeholder concept. *ICIS 1981 Proceedings*, 20. https://aisel.aisnet.org/icis1981/20/
+- Tuổi Trẻ Online. (2026, January 29). *Công bố lịch thi đấu Lễ hội Pháo hoa quốc tế Đà Nẵng DIFF 2026, sông Hàn lại bùng nổ*.
+
+Nguồn bổ sung và thẻ nguồn: `buoi-01_tu-lieu-tong-hop.md` (A01–A10).

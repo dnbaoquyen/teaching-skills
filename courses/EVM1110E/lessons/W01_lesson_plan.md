@@ -5,6 +5,8 @@
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
 **Phòng học (giả định):** máy chiếu, bảng, mic; bàn ghế di chuyển được để ngồi theo nhóm. **Không dán được poster lên tường** → poster để trên bàn nhóm, mỗi bàn là một "trạm" cho các nhóm khác đến xem.
 
+**Cập nhật 28/9/2026 (quyết định GV — phương án A “cập nhật nhẹ”):** xác minh nguồn Mendelow (1981, ICIS); thêm định nghĩa làm việc “hệ sinh thái”, ý “một bên nhiều vai” (Getz et al., 2006) và ví dụ DIFF 2026 vào lecture notes §1.3; đổi quy mô tình huống An Phát thành **600 khách** cho khớp Buổi 7–13; gọi Van Niekerk & Getz (2019) là “tài liệu tham khảo chính”. Nguồn: `buoi-01_tu-lieu-tong-hop.md`.
+
 **Phạm vi môn học (nhắc lại cho GV):** chỉ các bên liên quan **bên ngoài**. Quan hệ nội bộ (nhân sự, crew, tình nguyện viên) → môn Quản lý đội nhóm; an toàn đám đông → môn Quản trị rủi ro sự kiện.
 
 ## Chuẩn đầu ra phục vụ
@@ -70,9 +72,9 @@
 
 ## Các mục [VERIFY] cần GV kiểm tra
 
-1. `[VERIFY: Power-Interest Grid thường được ghi nguồn Mendelow (1981; nhiều tài liệu ghi 1991), sau được Johnson & Scholes phổ biến — kiểm tra năm và nguồn]` — lecture notes §3.1, slide 15.
+1. ~~Nguồn Power-Interest Grid~~ — **đã xác minh**: Mendelow (1981), ICIS 1981 Proceedings (xem `buoi-01_tu-lieu-tong-hop.md`, A07).
 2. `[VERIFY: Khái niệm "pulsating organisation" áp dụng cho tổ chức sự kiện — gắn với Toffler (1990) và Hanlon & Cuskelly (2002); kiểm tra trích dẫn trước khi đưa lên slide]` — lecture notes §1.3.
-3. `[VERIFY: Tình huống "Hội nghị khách hàng Ngân hàng An Phát" là GIẢ ĐỊNH; các con số (500 khách, ngân sách) chỉ minh họa — kiểm tra xem hội nghị khách hàng tại khách sạn có cần thủ tục thông báo/cấp phép với cơ quan địa phương hay không theo quy định hiện hành trước khi nói với SV]` — lecture notes §2.3, phiếu S4.
+3. `[VERIFY: Tình huống "Hội nghị khách hàng Ngân hàng An Phát" là GIẢ ĐỊNH; các con số (600 khách, ngân sách) chỉ minh họa — kiểm tra xem hội nghị khách hàng tại khách sạn có cần thủ tục thông báo/cấp phép với cơ quan địa phương hay không theo quy định hiện hành trước khi nói với SV]` — lecture notes §2.3, phiếu S4.
 
 Các trích dẫn Freeman (1984), Clarkson (1995), Mitchell, Agle & Wood (1997) là kinh điển, đã xác định rõ.
 
