@@ -1,6 +1,6 @@
 # M1 — Phiếu đăng ký đề tài sơ bộ
 
-**MKT1107 Nghiên cứu Marketing** · Chiếm **2,5%** điểm học phần (thuộc Bài tập – AM2)
+**MKT1107 Nghiên cứu Marketing** · Giảng viên: Đoàn Nguyễn Bảo Quyên · Chiếm **2,5%** điểm học phần (thuộc Bài tập – AM2)
 **Giao:** Buổi 1 · **Hạn nộp:** trước Buổi 2 — `[NEEDS PROFESSOR INPUT: ngày giờ cụ thể]` ·
 **Hình thức:** nhóm 2–3 sinh viên (nhóm đã lập ở Buổi 1)
 

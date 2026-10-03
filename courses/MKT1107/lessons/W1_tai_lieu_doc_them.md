@@ -57,7 +57,7 @@ nghiên cứu. Sách và tài liệu còn phân loại theo những cách sau:
 | Dự báo | |
 | Xu hướng kinh doanh | |
 
-Một dự án thường bắt đầu bằng nghiên cứu xác định vấn đề (biết chuyện gì đang xảy ra), rồi chuyển
+Nguồn: Malhotra (2019). Một dự án thường bắt đầu bằng nghiên cứu xác định vấn đề (biết chuyện gì đang xảy ra), rồi chuyển
 sang nghiên cứu giải quyết vấn đề (biết nên làm gì).
 
 ## 4. Ứng dụng của nghiên cứu marketing
@@ -95,8 +95,9 @@ Các buổi 6–13 lần lượt học cách tránh từng loại sai sót này.
 
 ## 7. Câu hỏi tự kiểm tra
 
-1. So sánh ba định nghĩa nghiên cứu marketing (Kotler, AMA, Nguyễn Đình Thọ). Định nghĩa nào nhấn
-   mạnh vai trò của nghiên cứu trong toàn bộ hoạt động marketing?
+1. So sánh ba định nghĩa nghiên cứu marketing (Kotler & Keller, 2012; American Marketing
+   Association, 2017; Nguyễn & Nguyễn, 2015). Định nghĩa nào nhấn mạnh vai trò của nghiên cứu trong
+   toàn bộ hoạt động marketing?
 2. Vì sao nghiên cứu marketing **không bảo đảm** quyết định marketing sẽ thành công? Giải thích bằng
    ý tưởng Y = f(x₁, x₂, …, xₙ).
 3. Cho một ví dụ nghiên cứu xác định vấn đề và một ví dụ nghiên cứu giải quyết vấn đề cho cùng một
@@ -108,3 +109,15 @@ Các buổi 6–13 lần lượt học cách tránh từng loại sai sót này.
 6. Kể hai nguyên tắc đạo đức nhóm bạn phải tuân thủ khi đi khảo sát cho dự án.
 
 *Gợi ý đáp án câu 4: nghiên cứu kết hợp (omnibus).*
+
+## Tài liệu tham khảo (APA 7)
+
+American Marketing Association. (2017). *Definitions of marketing*.
+https://www.ama.org/the-definition-of-marketing-what-is-marketing/
+
+Kotler, P., & Keller, K. L. (2012). *Marketing management* (14th ed.). Pearson Education.
+
+Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson.
+
+Nguyễn, Đ. T., & Nguyễn, T. M. T. (2015). *Giáo trình nghiên cứu thị trường*. Nhà xuất bản Kinh tế
+TP. Hồ Chí Minh.

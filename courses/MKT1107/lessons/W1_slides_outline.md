@@ -18,7 +18,7 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
 ## S1 · Khởi động (0–5')
 
 **Slide 1 — Bài 1: Tổng quan về nghiên cứu Marketing** [UEF #1]
-- Nội dung: tên học phần, Buổi 1, tên giảng viên.
+- Nội dung: tên học phần, Buổi 1, giảng viên: **Đoàn Nguyễn Bảo Quyên**.
 - Lời giảng: *(Chưa giới thiệu môn. Chuyển ngay sang slide 2.)*
 
 **Slide 2 — Hỏi 1.000 khách hàng giàu về điện thoại giá rẻ: kết quả sai ở đâu?**
@@ -79,11 +79,11 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
 - Lời giảng: Hỏi 2 bạn trả lời nhanh. Thường sẽ nghe "khảo sát". Dùng câu đó để mở định nghĩa.
 
 **Slide 11 — Ba tác giả, ba câu chữ — cùng một ý: có hệ thống, để ra quyết định**
-- Nội dung: bảng 3 cột ngắn (mỗi định nghĩa rút còn 1–2 dòng, in đậm động từ chính): Kotler —
-  thiết kế, thu thập, phân tích, báo cáo cho một tình huống cụ thể · AMA — thu thập, ghi chép, phân
-  tích, diễn giải có hệ thống · Nguyễn Đình Thọ (2015) — chức năng gắn với mọi hoạt động marketing.
-  Ghi nguồn dưới mỗi cột. `[VERIFY: tên sách/năm Kotler; phiên bản AMA (bản cũ); tên sách Nguyễn
-  Đình Thọ 2015]`
+- Nội dung: bảng 3 cột ngắn (mỗi định nghĩa rút còn 1–2 dòng, in đậm động từ chính): Kotler &
+  Keller (2012) — thiết kế, thu thập, phân tích, báo cáo cho một tình huống marketing cụ thể · AMA
+  (2017) — chức năng kết nối khách hàng với nhà marketing qua thông tin · Nguyễn & Nguyễn (2015) —
+  chức năng gắn với mọi hoạt động marketing. Ghi nguồn APA dưới mỗi cột; danh mục tài liệu tham khảo
+  ở slide cuối.
 - Lời giảng: Không đọc hết. Hỏi: "Cả ba cùng nhấn mạnh điều gì?" — chờ 2–3 câu trả lời.
 
 **Slide 12 — Bốn thành tố phân biệt nghiên cứu thật với "khảo sát cho có"** [UEF #3 — đã sửa]
@@ -115,7 +115,7 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
 **Slide 16 — Trước hết phải biết vấn đề là gì, rồi mới tìm cách giải quyết**
 - Nội dung: hai cột: Nghiên cứu xác định vấn đề (tiềm năng thị trường, thị phần, hình ảnh, đặc điểm thị
   trường, phân tích bán hàng, dự báo, xu hướng) · Nghiên cứu giải quyết vấn đề (phân khúc, sản phẩm,
-  giá, chiêu thị, phân phối). `[VERIFY: theo Malhotra — ghi lần xuất bản]`
+  giá, chiêu thị, phân phối). Nguồn: Malhotra (2019).
 - Lời giảng: Ví dụ giả định trà sữa: thị phần giảm (xác định) → mức giá kéo khách lại (giải quyết).
 
 **Slide 17 — Dự án của các bạn là nghiên cứu ứng dụng, phục vụ một quyết định cụ thể** [UEF #6]
@@ -260,3 +260,10 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
 **Kiểm tra số slide:** 39 slide cho ~60 phút giảng + 2 hoạt động — khoảng 0,5 slide/phút, trong mức
 hợp lý. Slide UEF không dùng: #2 (mục tiêu – thay bằng slide 5), #16 (MDSS chi tiết – tùy chọn),
 #20 (Share a Coke – để dành cho phương án dư giờ).
+
+## Slide bổ sung cuối bài
+
+**Slide tài liệu tham khảo** (đặt sau slide cuối, không đánh số trong mạch giảng)
+- Nội dung: 4 tài liệu theo APA 7 — American Marketing Association (2017); Kotler & Keller (2012);
+  Malhotra (2019); Nguyễn & Nguyễn (2015). Xem danh mục đầy đủ trong `W1_lecture_notes.md`.
+- Lời giảng: không giảng; dùng làm ví dụ mẫu APA 7 khi nhắc sinh viên về Buổi 2–3.

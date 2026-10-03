@@ -1,6 +1,6 @@
 # Bài giảng — Buổi 1: Giới thiệu học phần · Bài 1 Tổng quan về nghiên cứu Marketing
 
-MKT1107 Nghiên cứu Marketing · Buổi 1 · 150 phút
+MKT1107 Nghiên cứu Marketing · Buổi 1 · 150 phút · Giảng viên: Đoàn Nguyễn Bảo Quyên
 
 > Bài giảng viết theo các phân đoạn (S1–S8) của `W1_lesson_plan.md`. Chữ nghiêng trong ngoặc là
 > **ghi chú cho giảng viên** (cách nói, lúc dừng, lúc hỏi) — không phải nội dung đọc to.
@@ -119,14 +119,19 @@ rộng hơn nhiều, và giúp các bạn biết khi nào một "cuộc khảo s
 
 | Nguồn | Nghiên cứu marketing là… |
 |---|---|
-| **Philip Kotler** | …một nỗ lực có hệ thống nhằm **thiết kế, thu thập, phân tích và báo cáo** số liệu và các khám phá liên quan đến **một tình huống cụ thể** mà công ty đang phải đối phó. |
-| **Hiệp hội Marketing Hoa Kỳ (AMA)** | …quá trình **thu thập, ghi chép, phân tích và diễn giải** một cách có hệ thống và khoa học các dữ liệu về các vấn đề liên quan đến hoạt động marketing hàng hóa, dịch vụ và ý tưởng. |
-| **Nguyễn Đình Thọ (2015)** | …một **chức năng** liên quan đến **mọi hoạt động marketing**: từ hoạch định (phân khúc, chọn thị trường mục tiêu, định vị, quyết định sản phẩm, giá, phân phối, chiêu thị) đến thực hiện và kiểm soát marketing. |
+| **Kotler & Keller (2012)** | …việc **thiết kế, thu thập, phân tích và báo cáo** một cách có hệ thống các dữ liệu và phát hiện liên quan đến **một tình huống marketing cụ thể** mà doanh nghiệp đang đối mặt. |
+| **Hiệp hội Marketing Hoa Kỳ – AMA (2017)** | …**chức năng kết nối** người tiêu dùng, khách hàng và công chúng **với nhà marketing thông qua thông tin** — thông tin dùng để nhận diện và xác định cơ hội, vấn đề; tạo ra, hoàn thiện và đánh giá các hành động; theo dõi kết quả; và hiểu rõ hơn marketing như một quá trình. |
+| **Nguyễn Đình Thọ & Nguyễn Thị Mai Trang (2015)** | …một **chức năng** liên quan đến **mọi hoạt động marketing**: từ hoạch định (phân khúc, chọn thị trường mục tiêu, định vị, quyết định sản phẩm, giá, phân phối, chiêu thị) đến thực hiện và kiểm soát marketing. |
 
-`[VERIFY: (1) tên sách, năm của Kotler cho định nghĩa này; (2) đây là định nghĩa AMA phiên bản cũ —
-định nghĩa AMA hiện hành là "chức năng kết nối người tiêu dùng, khách hàng và công chúng với nhà
-marketing thông qua thông tin…" (thường được dẫn là 2004, tái xác nhận 2017) — ghi rõ phiên bản khi
-trích; (3) tên sách Nguyễn Đình Thọ (2015) để ghi danh mục tài liệu tham khảo theo APA 7]`
+Nguyên văn định nghĩa AMA (phê duyệt năm 2017): *"Marketing research is the function that links the
+consumer, customer, and public to the marketer through information—information used to identify and
+define opportunities and problems; generate, refine, and evaluate actions; monitor performance; and
+improve understanding of it as a process."*
+
+*(Ghi chú cho giảng viên: bài giảng Văn Lang dùng một định nghĩa AMA phiên bản cũ ("quá trình thu
+thập, ghi chép, phân tích và diễn giải…"); đã thay bằng định nghĩa hiện hành 2017 theo yêu cầu. Câu
+chữ định nghĩa Nguyễn Đình Thọ lấy từ slide Văn Lang; đã xác định được giáo trình gốc nhưng chưa đối
+chiếu số trang.)*
 
 *(Hỏi: "Câu chữ khác nhau — nhưng cả ba cùng nhấn mạnh điều gì?" Chờ 2–3 câu trả lời, rồi gom lại
 thành định nghĩa dùng trong học phần:)*
@@ -216,8 +221,7 @@ chất nghiên cứu — đúng với cấu trúc dưới đây.)*
 - **Nghiên cứu giải quyết vấn đề** — khi vấn đề đã rõ, tìm cách giải quyết: nghiên cứu phân khúc thị
   trường, sản phẩm, giá, chiêu thị, phân phối.
 
-`[VERIFY: cách chia này theo Malhotra, Marketing Research: An Applied Orientation — ghi lần xuất bản
-khi trích]`
+Cách chia này theo Malhotra (2019).
 
 Ví dụ (giả định): nghiên cứu cho thấy thị phần của một chuỗi trà sữa đang giảm → *xác định vấn đề*.
 Nghiên cứu mức giá sinh viên chấp nhận để kéo khách trở lại → *giải quyết vấn đề*.
@@ -395,8 +399,7 @@ nguyên tắc tối thiểu:
   quả không như mong đợi.
 
 `[VERIFY: nếu muốn dẫn chuẩn quốc tế, đối chiếu Bộ quy tắc ICC/ESOMAR về nghiên cứu thị trường, xã hội
-và dữ liệu; nếu trường có quy định riêng về đạo đức khi khảo sát (ví dụ mẫu phiếu đồng ý tham gia),
-bổ sung vào đây — NEEDS PROFESSOR INPUT]`
+và dữ liệu]`
 
 Chuyển ý: Một nghiên cứu như ví dụ trà sữa là một **dự án** — có bắt đầu, có kết thúc. Nhưng doanh
 nghiệp cần thông tin **mỗi ngày**. Vậy nghiên cứu marketing nằm ở đâu trong dòng thông tin đó?
@@ -499,12 +502,22 @@ ký — và học cách phân biệt một nguồn đáng tin với một bài v
 
 ## Tổng hợp [VERIFY] / [NEEDS PROFESSOR INPUT]
 
-1. `[VERIFY]` Nguồn của ba định nghĩa (S3.2): tên sách, năm của Kotler; phiên bản định nghĩa AMA (bản
-   cũ, khác định nghĩa AMA hiện hành); tên sách Nguyễn Đình Thọ (2015).
-2. `[VERIFY]` Cách chia nghiên cứu xác định vấn đề / giải quyết vấn đề theo Malhotra — lần xuất bản (S3.5).
-3. `[VERIFY]` Chuẩn đạo đức nghiên cứu (ICC/ESOMAR) và quy định của trường về khảo sát (S5.2).
-4. `[VERIFY]` "Tổng cục Thống kê" → Cục Thống kê (Bộ Tài chính); GfK thuộc NielsenIQ (S5.4).
-5. Các ví dụ từ video (kem, giao đồ ăn, A/B test) chỉ dùng như **ví dụ minh họa** — bài giảng đã bỏ
+1. `[VERIFY]` Chuẩn đạo đức nghiên cứu ICC/ESOMAR, nếu muốn dẫn (S5.2). Trường không có quy định riêng
+   về phiếu đồng ý khảo sát (giảng viên xác nhận).
+2. `[VERIFY]` "Tổng cục Thống kê" → Cục Thống kê (Bộ Tài chính); GfK thuộc NielsenIQ (S5.4).
+3. Các ví dụ từ video (kem, giao đồ ăn, A/B test) chỉ dùng như **ví dụ minh họa** — bài giảng đã bỏ
    các con số cụ thể không có nguồn.
-6. Ví dụ chuỗi trà sữa là **tình huống giả định** (S5).
-7. `[NEEDS PROFESSOR INPUT]` Ngày hạn nộp M1 và quy định nộp trễ (S2, S8).
+4. Ví dụ chuỗi trà sữa là **tình huống giả định** (S5).
+5. `[NEEDS PROFESSOR INPUT]` Ngày hạn nộp M1 và quy định nộp trễ (S2, S8) — giảng viên bổ sung sau.
+
+## Tài liệu tham khảo (APA 7)
+
+American Marketing Association. (2017). *Definitions of marketing*.
+https://www.ama.org/the-definition-of-marketing-what-is-marketing/
+
+Kotler, P., & Keller, K. L. (2012). *Marketing management* (14th ed.). Pearson Education.
+
+Malhotra, N. K. (2019). *Marketing research: An applied orientation* (7th ed.). Pearson.
+
+Nguyễn, Đ. T., & Nguyễn, T. M. T. (2015). *Giáo trình nghiên cứu thị trường*. Nhà xuất bản Kinh tế
+TP. Hồ Chí Minh.

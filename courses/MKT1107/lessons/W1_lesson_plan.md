@@ -5,7 +5,7 @@
 > `W1_lecture_notes.md` · `W1_slides_outline.md` · `W1_activity_phan_loai_nhanh.md` ·
 > `W1_activity_xuong_de_tai.md` · `W1_M1_phieu_dang_ky_de_tai.md` · `W1_tai_lieu_doc_them.md`
 
-**Course:** MKT1107 Nghiên cứu Marketing · **Meeting:** Buổi 1
+**Course:** MKT1107 Nghiên cứu Marketing · **Meeting:** Buổi 1 · **Giảng viên:** Đoàn Nguyễn Bảo Quyên
 **Length:** 150 phút (3 tiết × 45' + 15' giải lao) · **Modality:** trực tiếp · **Class size:** 40
 (nhóm 2–3 SV → khoảng 14–20 nhóm)
 **Room notes:** máy chiếu, mic, bảng; SV mang máy tính cá nhân. Trả lời trên lớp: giơ tay / chỉ
@@ -55,16 +55,15 @@ sữa, ví điện tử, thời trang secondhand, ứng dụng giao đồ ăn, m
 
 ## [VERIFY] items outstanding
 
-1. Nguồn của ba định nghĩa (lấy từ bài giảng Văn Lang của giảng viên): tên sách và năm của Kotler;
-   định nghĩa AMA là phiên bản cũ (khác định nghĩa AMA hiện hành); tên sách Nguyễn Đình Thọ (2015).
-   Cách chia nghiên cứu xác định / giải quyết vấn đề theo Malhotra — lần xuất bản. Chuẩn đạo đức
-   ICC/ESOMAR và quy định của trường về khảo sát.
+1. Nguồn ba định nghĩa và cách phân loại đã xác định (Kotler & Keller, 2012; American Marketing
+   Association, 2017 — định nghĩa hiện hành; Nguyễn & Nguyễn, 2015; Malhotra, 2019). Còn lại: chuẩn
+   đạo đức ICC/ESOMAR nếu muốn dẫn.
 2. Số liệu trong ví dụ video (nút "Buy Now" màu đỏ tăng 12%, ảnh người mẫu tăng 18%, 65% người đặt đồ
    ăn cuối tuần 18–30 tuổi, 70% thích giao nhanh hơn giảm giá) — video nêu như ví dụ minh họa, không
    có nguồn gốc → trình bày là **ví dụ minh họa**, không phải số liệu thực.
 3. "Tổng cục Thống kê" trên slide 1.5 → nay là Cục Thống kê (Bộ Tài chính).
 4. Tình huống "Share a Coke" (nếu dùng): cần thông tin chiến dịch có nguồn.
-5. `[NEEDS PROFESSOR INPUT]` Hạn nộp M1, quy định nộp trễ, tên mục nộp trên LMS, mốc cho phép đổi đề tài.
+5. `[NEEDS PROFESSOR INPUT]` Hạn nộp M1, quy định nộp trễ, tên mục nộp trên LMS, mốc cho phép đổi đề tài — giảng viên bổ sung sau.
 6. Tên doanh nghiệp/ví dụ trong video (kem, giao đồ ăn, A/B test ảnh sản phẩm) dùng như ví dụ minh
    họa, đã bỏ các con số không có nguồn; ví dụ chuỗi trà sữa là tình huống giả định.
 
