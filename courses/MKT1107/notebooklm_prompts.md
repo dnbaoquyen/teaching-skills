@@ -17,15 +17,21 @@ Nguyên tắc bắt buộc:
 1. Chỉ dùng thông tin trong các nguồn đã tải lên. Không bổ sung kiến thức bên ngoài.
 2. Ưu tiên đầy đủ hơn ngắn gọn. Không tóm tắt chung chung; giữ nguyên định nghĩa, số liệu,
    ví dụ, công thức, các bước như giảng viên trình bày.
-3. Mỗi ý kèm trích dẫn nguồn (tên video, mốc thời gian nếu có).
-4. Phân biệt rõ: nội dung giảng viên nói trong video / nội dung từ đề cương.
+3. Mỗi ý kèm nhãn loại nguồn và tên nguồn: [VIDEO: tên video] / [SLIDE UEF: tên file] /
+   [ĐỀ CƯƠNG]. Transcript không có mốc thời gian, nên với nội dung video hãy trích kèm
+   một cụm từ nguyên văn ngắn (tiếng Anh nếu video tiếng Anh) để tôi tra lại.
+4. Không trộn nguồn: nếu video và slide UEF trình bày khác nhau (số bước, cách phân loại,
+   định nghĩa), trình bày cả hai và ghi "KHÁC NHAU GIỮA NGUỒN".
 5. Thông tin không có trong nguồn: ghi "Không có trong nguồn". Chỗ video nói không rõ:
-   ghi "[KHÔNG RÕ – mm:ss]".
-6. Viết bằng tiếng Việt; giữ thuật ngữ tiếng Anh trong ngoặc đơn khi giảng viên dùng.
+   ghi "[KHÔNG RÕ]".
+6. Viết bằng tiếng Việt; giữ thuật ngữ tiếng Anh gốc trong ngoặc đơn. Ví dụ từ video nước
+   ngoài giữ nguyên tên doanh nghiệp, quốc gia, số liệu — không tự Việt hóa.
 ```
 
 Nếu notebook có nhiều video, trước mỗi lần hỏi hãy **chỉ tick chọn các video liên quan đến
-buổi đó** ở cột Nguồn (Sources) bên trái — kết quả sẽ chi tiết hơn nhiều.
+buổi đó** ở cột Nguồn (Sources) bên trái — kết quả sẽ chi tiết hơn nhiều. Danh sách video
+theo buổi xem `video_map.md`. Luôn bỏ chọn video giới thiệu khóa học Tepper
+("Marketing Research Asynchronous Content Introduction Video").
 
 ## Bước 1 — Bản đồ video ↔ buổi học (hỏi 1 lần)
 
@@ -55,6 +61,19 @@ Yêu cầu:
 - Nếu một video trải qua nhiều bài, chia theo mốc thời gian.
 ```
 
+## Bước 1b — Kiểm tra lại mức bao phủ ở cấp mục con (cho buổi được đánh "Đầy đủ")
+
+Bảng ánh xạ ở Bước 1 chấm mức bao phủ theo cả bài. Trước khi trích xuất một buổi, chạy prompt
+này (tick đúng video của buổi) để biết mục con nào thực sự có trong video:
+
+```
+Chỉ xét các nguồn đang được chọn. Với TỪNG mục con dưới đây, cho biết:
+| Mục con | Có trong VIDEO? (Có / Một phần / Không) | Tên video | Cụm từ nguyên văn làm bằng chứng | Có trong SLIDE UEF? |
+Không được đánh "Có" nếu không trích được cụm từ nguyên văn làm bằng chứng.
+
+[dán danh sách mục con của buổi, lấy từ "Khối riêng theo buổi" bên dưới]
+```
+
 ## Bước 2 — Trích xuất chi tiết từng buổi (lặp lại cho mỗi buổi)
 
 Dán **khung chung** bên dưới, rồi thay `[KHỐI BUỔI]` bằng khối tương ứng ở phần "Khối riêng
@@ -76,7 +95,7 @@ D. Ví dụ minh họa — chép đầy đủ: tên doanh nghiệp/thương hi�
    hoặc kết luận như trong video.
 E. So sánh, ưu điểm – nhược điểm, khi nào dùng / khi nào không dùng.
 F. Nội dung chỉ xuất hiện trên màn hình (slide, bảng, sơ đồ, chữ viết) mà giảng viên có nhắc
-   tới — mô tả lại; nếu chỉ biết là có hình nhưng không rõ nội dung, ghi "[CÓ HÌNH – mm:ss]".
+   tới — mô tả lại; nếu chỉ biết là có hình nhưng không rõ nội dung, ghi "[CÓ HÌNH]".
 
 Sau khi đi hết các mục con, bổ sung:
 
@@ -89,7 +108,8 @@ J. Kiến thức nền cần có và liên kết với bài trước / bài sau 
 K. Khoảng trống: mục con của đề cương không có trong video; chỗ video nói không rõ; chỗ các
    nguồn mâu thuẫn nhau.
 
-Quy tắc trình bày: trích dẫn [tên video, mm:ss] cho từng ý. Nếu câu trả lời quá dài, dừng ở
+Quy tắc trình bày: mỗi ý gắn nhãn [VIDEO: tên] / [SLIDE UEF: tên file] / [ĐỀ CƯƠNG] kèm
+cụm từ nguyên văn ngắn làm mốc. Nếu câu trả lời quá dài, dừng ở
 cuối một mục con, ghi "CÒN TIẾP — mục tiếp theo: x.x.x" và chờ tôi yêu cầu viết tiếp.
 ```
 
@@ -125,7 +145,8 @@ BUỔI 3 — BÀI 2 (tiếp): TRÍCH DẪN THEO APA 7th
 trường hợp khác) · 2.3 Cách ghi tài liệu tham khảo (2.3.1 Nguyên tắc chung · 2.3.2 Ví dụ)
 Chú ý thêm: chép NGUYÊN VĂN, đúng từng dấu chấm phẩy, mọi ví dụ trích dẫn trong bài và mục
 tài liệu tham khảo được trình bày (1 tác giả, 2 tác giả, ≥3 tác giả, tổ chức, sách, bài báo,
-website, tài liệu tiếng Việt…); các lỗi định dạng hay gặp.
+website, tài liệu tiếng Việt…); các lỗi định dạng hay gặp. Video KHÔNG có phần này — nguồn
+chính là [SLIDE UEF] BÀI 2_THAM KHẢO VÀ TRÍCH DẪN TÀI LIỆU.pptx; chép nguyên văn từ slide.
 ```
 
 **Buổi 4**
@@ -146,7 +167,8 @@ cụ AI hỗ trợ nghiên cứu (nhóm 1: ChatGPT, Gemini, Copilot; nhóm 2: No
 Perplexity, Consensus, iAsk) · 3.8 Cách đặt câu lệnh (prompt) hỗ trợ nghiên cứu
 Chú ý thêm: với mỗi công cụ — dùng để làm gì, thao tác demo trong video (từng bước), điểm mạnh,
 hạn chế; chép NGUYÊN VĂN mọi prompt mẫu và cấu trúc prompt giảng viên giới thiệu; cảnh báo về
-AI bịa trích dẫn, đạo đức và quy định sử dụng AI.
+AI bịa trích dẫn, đạo đức và quy định sử dụng AI. Danh sách công cụ nhóm 2 và các khung prompt
+(R-T-F, T-A-G, B-A-B, C-A-R-E) chỉ có trong [SLIDE UEF] — chép nguyên văn từ slide.
 ```
 
 **Buổi 6**
@@ -229,6 +251,9 @@ khác được dùng; bảng kết quả (output) mẫu và cách đọc, cách 
 được dạy (ví dụ bảng chéo, Chi-square, T-test, ANOVA, tương quan…) — điều kiện dùng, giả
 thuyết, ngưỡng sig.; mã hóa dữ liệu định tính nếu có; mọi nội dung về Cronbach's Alpha, EFA,
 hồi quy nếu video có (đánh dấu là nội dung nâng cao).
+Tách riêng ở cuối một mục "NÂNG CAO – ĐIỂM CỘNG": hồi quy (Module 4), phân tích nhân tố và
+phân tích cụm (Module 5). Ghi rõ nếu nguồn KHÔNG có hướng dẫn Excel / Google Sheets và KHÔNG có
+Cronbach's Alpha.
 ```
 
 **Bài 10 (tự học e-learning)**
@@ -242,6 +267,6 @@ Chú ý thêm: cấu trúc chương mục của báo cáo / tiểu luận đư�
 
 ## Gửi kết quả cho Claude
 
-- Dán **nguyên văn** câu trả lời của NotebookLM, giữ cả trích dẫn và mốc thời gian.
+- Dán **nguyên văn** câu trả lời của NotebookLM, giữ cả nhãn nguồn và cụm trích nguyên văn.
 - Ghi rõ đầu tin nhắn: `Kết quả NotebookLM — Buổi X`.
 - Kèm ảnh chụp những slide/sơ đồ mà NotebookLM ghi `[CÓ HÌNH]` hoặc không mô tả được.
