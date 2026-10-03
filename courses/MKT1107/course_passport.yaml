@@ -411,7 +411,8 @@ policies:
   late_policy: '[NEEDS PROFESSOR INPUT]'
   ai_use_policy: Được dùng AI nếu khai báo và nộp kèm nhật ký sử dụng AI; sinh viên chịu trách nhiệm kiểm chứng mọi trích
     dẫn. Không dùng phần mềm phát hiện AI để chấm.
-  integrity_policy: '[NEEDS PROFESSOR INPUT]'
+  integrity_policy: 'Trích dẫn theo APA 7 chuẩn (tác giả Việt: Họ, chữ cái đầu tên đệm và tên — VD: Lê, Q. H. (2017); trong
+    bài: (Lê, 2017)).'
   attendance_policy: '[NEEDS PROFESSOR INPUT]'
 workload_audit:
   estimated_hours_per_week: null
