@@ -1,272 +1,220 @@
-# MKT1107 — Bộ prompt trích xuất nội dung video bằng NotebookLM
+# MKT1107 — Bộ prompt NotebookLM (bản 2: chỉ trích xuất VIDEO)
 
-Mục đích: lấy từ các video bài giảng đã tải lên NotebookLM **toàn bộ nội dung chuyên môn**
-của từng buổi, đủ chi tiết để soạn bài giảng đầy đủ, dàn ý slide + speaker note, hoạt động
-thực hành nhóm 45' và bài tập theo lộ trình dự án nghiên cứu nhóm.
+**Thay đổi so với bản 1:** Claude đã có trực tiếp đề cương và 10 file slide UEF (xem
+`slide_review.md`). Vì vậy NotebookLM **không cần trích lại nội dung slide**. Nhiệm vụ của
+NotebookLM giờ chỉ còn lấy từ **video**:
 
-## Bước 0 — Cấu hình notebook (làm 1 lần)
+1. **Phần slide bị thiếu** so với đề cương (ưu tiên số 1).
+2. **Ví dụ, tình huống, bài tập, câu hỏi** giảng viên trong video dùng — chất liệu cho hoạt động
+   nhóm 45' và speaker note.
+3. **Đối chiếu** những điểm slide có thể sai.
 
-Trong NotebookLM, bấm biểu tượng **cấu hình khung chat** (Configure chat / ⚙ cạnh ô chat):
+## Bước 0 — Cấu hình lại notebook (làm 1 lần)
 
-- **Độ dài câu trả lời:** chọn **Dài hơn (Longer)**.
-- **Vai trò / hướng dẫn tùy chỉnh (Custom):** dán đoạn sau:
+**Configure chat** → độ dài **Dài hơn (Longer)** → hướng dẫn tùy chỉnh (thay đoạn cũ):
 
 ```
-Bạn là trợ lý trích xuất nội dung học thuật cho học phần MKT1107 Nghiên cứu Marketing.
+Bạn là trợ lý trích xuất nội dung VIDEO cho học phần MKT1107 Nghiên cứu Marketing.
 Nguyên tắc bắt buộc:
-1. Chỉ dùng thông tin trong các nguồn đã tải lên. Không bổ sung kiến thức bên ngoài.
-2. Ưu tiên đầy đủ hơn ngắn gọn. Không tóm tắt chung chung; giữ nguyên định nghĩa, số liệu,
-   ví dụ, công thức, các bước như giảng viên trình bày.
-3. Mỗi ý kèm nhãn loại nguồn và tên nguồn: [VIDEO: tên video] / [SLIDE UEF: tên file] /
-   [ĐỀ CƯƠNG]. Transcript không có mốc thời gian, nên với nội dung video hãy trích kèm
-   một cụm từ nguyên văn ngắn (tiếng Anh nếu video tiếng Anh) để tôi tra lại.
-4. Không trộn nguồn: nếu video và slide UEF trình bày khác nhau (số bước, cách phân loại,
-   định nghĩa), trình bày cả hai và ghi "KHÁC NHAU GIỮA NGUỒN".
-5. Thông tin không có trong nguồn: ghi "Không có trong nguồn". Chỗ video nói không rõ:
-   ghi "[KHÔNG RÕ]".
-6. Viết bằng tiếng Việt; giữ thuật ngữ tiếng Anh gốc trong ngoặc đơn. Ví dụ từ video nước
-   ngoài giữ nguyên tên doanh nghiệp, quốc gia, số liệu — không tự Việt hóa.
+1. Chỉ dùng các nguồn đang được chọn. Không bổ sung kiến thức bên ngoài.
+2. Ưu tiên đầy đủ hơn ngắn gọn: giữ nguyên định nghĩa, công thức, số liệu, các bước, ví dụ
+   như người giảng trình bày. Không tóm tắt chung chung.
+3. Mỗi ý ghi [Tên video] + một cụm từ nguyên văn ngắn (giữ tiếng Anh gốc) làm bằng chứng,
+   vì transcript không có mốc thời gian.
+4. Không có trong nguồn: ghi "Không có trong nguồn". Video nói không rõ: ghi "[KHÔNG RÕ]".
+   Các video nói khác nhau: trình bày cả hai, ghi "KHÁC NHAU GIỮA VIDEO".
+5. Viết tiếng Việt, giữ thuật ngữ tiếng Anh trong ngoặc đơn. Ví dụ nước ngoài giữ nguyên tên
+   doanh nghiệp, quốc gia, số liệu — không tự Việt hóa, không tự thêm ví dụ.
 ```
 
-Nếu notebook có nhiều video, trước mỗi lần hỏi hãy **chỉ tick chọn các video liên quan đến
-buổi đó** ở cột Nguồn (Sources) bên trái — kết quả sẽ chi tiết hơn nhiều. Danh sách video
-theo buổi xem `video_map.md`. Luôn bỏ chọn video giới thiệu khóa học Tepper
-("Marketing Research Asynchronous Content Introduction Video").
+**Chọn nguồn trước mỗi lần hỏi** (cột Sources bên trái):
+- **Bỏ chọn** đề cương và 10 file slide PDF — để NotebookLM không diễn giải lại slide.
+- **Chỉ tick** các video của buổi đó (danh sách trong từng khối bên dưới, theo `video_map.md`).
+- Luôn bỏ chọn video giới thiệu khóa học Tepper.
 
-## Bước 1 — Bản đồ video ↔ buổi học (hỏi 1 lần)
+## Khung prompt chung (dán cho mọi buổi)
 
-```
-Dựa CHỈ trên các nguồn đã tải lên, lập bảng ánh xạ giữa đề cương chi tiết học phần MKT1107 và
-các video:
-
-| Buổi | Bài và mục con theo đề cương | Video nguồn (tên video + mốc thời gian bắt đầu–kết thúc) | Mức độ bao phủ (Đầy đủ / Một phần / Không có) | Ghi chú |
-
-Danh sách buổi cần đối chiếu:
-- Buổi 1: Bài 1 Tổng quan về nghiên cứu Marketing (1.1–1.5)
-- Buổi 2: Bài 2 Tham khảo và trích dẫn tài liệu (2.1)
-- Buổi 3: Bài 2 (tiếp) (2.2–2.3, APA 7th)
-- Buổi 4: Bài 3 AI trong nghiên cứu khoa học và marketing (3.1–3.4)
-- Buổi 5: Bài 3 (tiếp) (3.5–3.8)
-- Buổi 6: Bài 4 Thiết kế nghiên cứu (4.1–4.3)
-- Buổi 7: Bài 5 Các phương pháp thu thập dữ liệu (5.1–5.2)
-- Buổi 8: Bài 6 Chọn mẫu để nghiên cứu (6.1–6.5)
-- Buổi 9: Bài 7 Đo lường (7.1–7.4)
-- Buổi 10–12: Bài 8 Thiết kế bảng câu hỏi (8.1–8.2.8)
-- Buổi 13: Bài 9 Phân tích dữ liệu (9.1–9.3)
-- Tự học e-learning: Bài 10 Báo cáo kết quả nghiên cứu (10.1–10.3)
-
-Yêu cầu:
-- Mục con nào trong đề cương KHÔNG có video đề cập: ghi rõ "KHÔNG CÓ TRONG VIDEO".
-- Nội dung video không thuộc mục nào của đề cương: liệt kê riêng ở cuối.
-- Nếu một video trải qua nhiều bài, chia theo mốc thời gian.
-```
-
-## Bước 1b — Kiểm tra lại mức bao phủ ở cấp mục con (cho buổi được đánh "Đầy đủ")
-
-Bảng ánh xạ ở Bước 1 chấm mức bao phủ theo cả bài. Trước khi trích xuất một buổi, chạy prompt
-này (tick đúng video của buổi) để biết mục con nào thực sự có trong video:
+Dán khung này, thay `[KHỐI BUỔI]` bằng khối của buổi tương ứng ở phần sau.
 
 ```
-Chỉ xét các nguồn đang được chọn. Với TỪNG mục con dưới đây, cho biết:
-| Mục con | Có trong VIDEO? (Có / Một phần / Không) | Tên video | Cụm từ nguyên văn làm bằng chứng | Có trong SLIDE UEF? |
-Không được đánh "Có" nếu không trích được cụm từ nguyên văn làm bằng chứng.
-
-[dán danh sách mục con của buổi, lấy từ "Khối riêng theo buổi" bên dưới]
-```
-
-## Bước 2 — Trích xuất chi tiết từng buổi (lặp lại cho mỗi buổi)
-
-Dán **khung chung** bên dưới, rồi thay `[KHỐI BUỔI]` bằng khối tương ứng ở phần "Khối riêng
-theo buổi". Bài 8 (Buổi 10–12) nên hỏi **một lần cho mỗi buổi**.
-
-```
-Dựa CHỈ trên các nguồn đã tải lên, trích xuất CHI TIẾT TỐI ĐA nội dung cho:
+Chỉ dựa trên các VIDEO đang được chọn, trích xuất CHI TIẾT TỐI ĐA theo yêu cầu dưới đây.
 
 [KHỐI BUỔI]
 
-Trình bày theo ĐÚNG các mục con của đề cương ở trên (ví dụ 6.4.1, 6.4.2…). Trong MỖI mục con,
-trình bày lần lượt (bỏ qua phần nào nguồn không có, nhưng ghi "Không có trong nguồn"):
+Trình bày theo đúng thứ tự các mục trong khối trên. Trong mỗi mục, nêu lần lượt (mục nào video
+không có thì ghi "Không có trong nguồn"):
+A. Khái niệm, định nghĩa — gần nguyên văn, kèm thuật ngữ tiếng Anh.
+B. Quy trình, phân loại, công thức — đủ các bước, ký hiệu, điều kiện áp dụng.
+C. Ví dụ và tình huống — đủ tên doanh nghiệp/sản phẩm, bối cảnh, số liệu, kết luận.
+D. Ưu điểm – nhược điểm, khi nào dùng / không dùng, lỗi thường gặp người giảng cảnh báo.
+E. Câu hỏi, bài tập, quiz, hoạt động người giảng đưa ra — chép đủ đề và đáp án/gợi ý nếu có.
 
-A. Nội dung giảng viên trình bày, theo đúng trình tự trong video.
-B. Khái niệm và định nghĩa — gần nguyên văn, kèm thuật ngữ tiếng Anh nếu có, kèm tác giả/nguồn
-   định nghĩa nếu giảng viên nêu.
-C. Phân loại, mô hình, quy trình, công thức — đầy đủ các bước, ký hiệu, điều kiện áp dụng.
-D. Ví dụ minh họa — chép đầy đủ: tên doanh nghiệp/thương hiệu, bối cảnh, số liệu, cách giải
-   hoặc kết luận như trong video.
-E. So sánh, ưu điểm – nhược điểm, khi nào dùng / khi nào không dùng.
-F. Nội dung chỉ xuất hiện trên màn hình (slide, bảng, sơ đồ, chữ viết) mà giảng viên có nhắc
-   tới — mô tả lại; nếu chỉ biết là có hình nhưng không rõ nội dung, ghi "[CÓ HÌNH]".
-
-Sau khi đi hết các mục con, bổ sung:
-
-G. Lưu ý của giảng viên: lỗi sinh viên hay mắc, điểm nhấn mạnh, mẹo, cảnh báo.
-H. Câu hỏi giảng viên đặt ra cho người học, tình huống thảo luận, bài tập, trò chơi được nhắc
-   trong video — chép đầy đủ đề bài và đáp án/gợi ý nếu có.
-I. Nội dung có thể áp dụng trực tiếp vào việc một nhóm sinh viên tự làm một nghiên cứu
-   marketing nhỏ (chỉ nêu những gì có trong nguồn).
-J. Kiến thức nền cần có và liên kết với bài trước / bài sau mà giảng viên nhắc đến.
-K. Khoảng trống: mục con của đề cương không có trong video; chỗ video nói không rõ; chỗ các
-   nguồn mâu thuẫn nhau.
-
-Quy tắc trình bày: mỗi ý gắn nhãn [VIDEO: tên] / [SLIDE UEF: tên file] / [ĐỀ CƯƠNG] kèm
-cụm từ nguyên văn ngắn làm mốc. Nếu câu trả lời quá dài, dừng ở
-cuối một mục con, ghi "CÒN TIẾP — mục tiếp theo: x.x.x" và chờ tôi yêu cầu viết tiếp.
+Cuối câu trả lời, thêm mục F. KHOẢNG TRỐNG: những mục trong khối trên mà video không đề cập.
+Nếu câu trả lời quá dài, dừng ở cuối một mục, ghi "CÒN TIẾP — mục tiếp theo: …" và chờ tôi.
 ```
 
-Khi bị cắt, gõ: `Tiếp tục từ mục [x.x.x], giữ nguyên cấu trúc A–K.`
+Khi bị cắt: `Tiếp tục từ mục [tên mục], giữ nguyên cấu trúc A–F.`
 
 ## Khối riêng theo buổi
 
-**Buổi 1**
+Ký hiệu: ⭐ = **phần slide UEF đang thiếu**, cần lấy kỹ nhất.
+
+**Buổi 1 — Bài 1** · Video: Unit 1 Part 1; Marketing Research Essentials Intro, Models &
+Intelligence; Marketing Research One Shot (NEP); The Data-Driven Decision Framework…; The
+Intelligence Gap…; Research Foundations…; The Importance of Research Design – Introduction
 ```
-BUỔI 1 — BÀI 1: TỔNG QUAN VỀ NGHIÊN CỨU MARKETING
-1.1 Định nghĩa nghiên cứu Marketing · 1.2 Phân loại (theo mục tiêu, theo tính chất…) ·
-1.3 Tiến trình nghiên cứu Marketing · 1.4 Hệ thống thông tin marketing (báo cáo nội bộ, tình báo
-marketing, hệ thống hỗ trợ ra quyết định MDSS, hệ thống nghiên cứu marketing) · 1.5 Người thực
-hiện (the doers) và người sử dụng (the users)
-Chú ý thêm: các ví dụ doanh nghiệp dùng nghiên cứu marketing để ra quyết định; từng bước của
-tiến trình nghiên cứu kèm ví dụ; mục 1.2.1 và 1.2.2 trong đề cương trùng tên — cho biết video
-thực tế phân loại theo những tiêu chí nào.
+BUỔI 1 — TỔNG QUAN VỀ NGHIÊN CỨU MARKETING
+1. Định nghĩa nghiên cứu marketing: chép NGUYÊN VĂN mọi định nghĩa video nêu và nguồn của
+   định nghĩa (đặc biệt định nghĩa của AMA – American Marketing Association, nếu có).
+2. Tiến trình nghiên cứu marketing: video chia thành bao nhiêu bước, tên từng bước.
+3. Ví dụ doanh nghiệp thực tế cho từng loại: nghiên cứu khám phá, mô tả, nhân quả; định tính
+   và định lượng; nghiên cứu cơ bản và ứng dụng.
+4. Hệ thống thông tin marketing (MIS), tình báo marketing (marketing intelligence), hệ thống hỗ
+   trợ ra quyết định (MDSS): ví dụ doanh nghiệp sử dụng.
+5. Người thực hiện và người sử dụng nghiên cứu: ví dụ công ty nghiên cứu, ví dụ quyết định
+   quản trị dựa trên nghiên cứu.
+6. Tình huống: doanh nghiệp ra quyết định SAI vì không nghiên cứu hoặc nghiên cứu sai.
 ```
 
-**Buổi 2**
+**Buổi 2–3 — Bài 2** · Video: Research Source Mastery… (2026); Academic Writing for 2026…
+*(Quy tắc APA 7 lấy từ slide và tài liệu APA chính thức, KHÔNG lấy từ NotebookLM.)*
 ```
-BUỔI 2 — BÀI 2: THAM KHẢO VÀ TRÍCH DẪN TÀI LIỆU
-2.1 Cách trích dẫn và liệt kê tài liệu tham khảo
-Chú ý thêm: phân biệt trích dẫn trực tiếp / gián tiếp; cách tìm tài liệu (công cụ, cơ sở dữ
-liệu được nhắc); tiêu chí đánh giá nguồn tin cậy; đạo văn và cách tránh; công cụ quản lý trích
-dẫn (nếu có nhắc).
-```
-
-**Buổi 3**
-```
-BUỔI 3 — BÀI 2 (tiếp): TRÍCH DẪN THEO APA 7th
-2.2 Tổng quan trích dẫn APA 7th (2.2.1 Tác giả · 2.2.2 Tên cơ quan tổ chức · 2.2.3 Một số
-trường hợp khác) · 2.3 Cách ghi tài liệu tham khảo (2.3.1 Nguyên tắc chung · 2.3.2 Ví dụ)
-Chú ý thêm: chép NGUYÊN VĂN, đúng từng dấu chấm phẩy, mọi ví dụ trích dẫn trong bài và mục
-tài liệu tham khảo được trình bày (1 tác giả, 2 tác giả, ≥3 tác giả, tổ chức, sách, bài báo,
-website, tài liệu tiếng Việt…); các lỗi định dạng hay gặp. Video KHÔNG có phần này — nguồn
-chính là [SLIDE UEF] BÀI 2_THAM KHẢO VÀ TRÍCH DẪN TÀI LIỆU.pptx; chép nguyên văn từ slide.
+BUỔI 2–3 — TÌM, ĐÁNH GIÁ VÀ SỬ DỤNG TÀI LIỆU THAM KHẢO
+1. Cách tìm tài liệu học thuật: công cụ, cơ sở dữ liệu, từ khóa, mẹo tìm kiếm được nêu.
+2. Tiêu chí đánh giá nguồn đáng tin cậy và cách kiểm chứng dữ liệu.
+3. Cách liên kết tổng quan tài liệu với câu hỏi nghiên cứu; cách tìm khoảng trống nghiên cứu
+   (research gap).
+4. Đạo văn: định nghĩa, ví dụ, cách tránh.
 ```
 
-**Buổi 4**
+**Buổi 4–5 — Bài 3** · Video: Unlock AI's Potential in Market Research
 ```
-BUỔI 4 — BÀI 3: AI TRONG NGHIÊN CỨU KHOA HỌC VÀ MARKETING
-3.1 Khái niệm AI · 3.2 Lịch sử phát triển AI · 3.3 Chuỗi giá trị Generative AI · 3.4 Phân loại
-AI (phản ứng, bộ nhớ hạn chế, lý thuyết tâm trí, tự nhận thức)
-Chú ý thêm: mọi mốc năm, tên người, sự kiện trong lịch sử AI chép đúng như video; các tầng của
-chuỗi giá trị Gen AI và ví dụ doanh nghiệp ở mỗi tầng.
-```
-
-**Buổi 5**
-```
-BUỔI 5 — BÀI 3 (tiếp)
-3.5 Ưu điểm và nhược điểm AI · 3.6 Ứng dụng AI theo ngành (giao thông, sản xuất, y tế, tài
-chính ngân hàng, truyền thông, trợ lý ảo, giáo dục, nghiên cứu khoa học và marketing) · 3.7 Công
-cụ AI hỗ trợ nghiên cứu (nhóm 1: ChatGPT, Gemini, Copilot; nhóm 2: NotebookLM, Elicit,
-Perplexity, Consensus, iAsk) · 3.8 Cách đặt câu lệnh (prompt) hỗ trợ nghiên cứu
-Chú ý thêm: với mỗi công cụ — dùng để làm gì, thao tác demo trong video (từng bước), điểm mạnh,
-hạn chế; chép NGUYÊN VĂN mọi prompt mẫu và cấu trúc prompt giảng viên giới thiệu; cảnh báo về
-AI bịa trích dẫn, đạo đức và quy định sử dụng AI. Danh sách công cụ nhóm 2 và các khung prompt
-(R-T-F, T-A-G, B-A-B, C-A-R-E) chỉ có trong [SLIDE UEF] — chép nguyên văn từ slide.
+BUỔI 4–5 — AI TRONG NGHIÊN CỨU MARKETING
+1. Các ứng dụng AI cụ thể trong nghiên cứu thị trường (thu thập, phân tích, dự báo, phân tích
+   cảm xúc…) — kèm ví dụ doanh nghiệp/công cụ.
+2. Ứng dụng AI trong ngành sản xuất (nếu có).
+3. Rủi ro, hạn chế, vấn đề đạo đức và quyền riêng tư khi dùng AI trong nghiên cứu.
+4. Cách người giảng khuyên kiểm chứng kết quả do AI tạo ra.
 ```
 
-**Buổi 6**
+**Buổi 6 — Bài 4** · Video: Unit 2 Part 2; Research Foundations…; The Importance of Research
+Design (Module 1, Video 1–8)
 ```
-BUỔI 6 — BÀI 4: THIẾT KẾ NGHIÊN CỨU
-4.1 Một số khái niệm · 4.2 Vấn đề nghiên cứu (tổng quan, quá trình xác định, yếu tố môi trường) ·
-4.3 Đề cương nghiên cứu marketing (4.3.1 Vấn đề nghiên cứu · 4.3.2 Phương pháp thu thập ·
-4.3.3 Chọn mẫu · 4.3.4 Bảng câu hỏi · 4.3.5 Kế hoạch phân tích · 4.3.6 Giới hạn · 4.3.7 Thời
-biểu · 4.3.8 Kinh phí · 4.3.9 Báo cáo tổng kết)
-Chú ý thêm: phân biệt vấn đề quản trị và vấn đề nghiên cứu; ví dụ vấn đề / mục tiêu / câu hỏi
-nghiên cứu tốt và chưa tốt; mẫu đề cương, mẫu thời biểu, mẫu bảng kinh phí nếu có.
-```
-
-**Buổi 7**
-```
-BUỔI 7 — BÀI 5: CÁC PHƯƠNG PHÁP THU THẬP DỮ LIỆU
-5.1 Dữ liệu thứ cấp (khái niệm, đặc điểm, phân loại, tiêu chuẩn đánh giá) · 5.2 Dữ liệu sơ cấp
-(5.2.1 Nghiên cứu định tính · 5.2.2 Nghiên cứu định lượng)
-Chú ý thêm: các nguồn dữ liệu thứ cấp cụ thể được nhắc (tên tổ chức, website, báo cáo); các
-kỹ thuật định tính (phỏng vấn sâu, thảo luận nhóm…) và định lượng (khảo sát, thực nghiệm…) —
-quy trình thực hiện, ưu nhược điểm, khi nào chọn; so sánh định tính và định lượng.
+BUỔI 6 — THIẾT KẾ NGHIÊN CỨU VÀ ĐỀ CƯƠNG NGHIÊN CỨU
+⭐1. Các thành phần của một đề cương/đề xuất nghiên cứu (research proposal): đặc biệt KẾ HOẠCH
+    PHÂN TÍCH DỮ LIỆU, GIỚI HẠN NGHIÊN CỨU, THỜI BIỂU, NGÂN SÁCH/KINH PHÍ, BÁO CÁO.
+⭐2. Mẫu hoặc ví dụ đề cương, thời biểu, bảng kinh phí nếu video có.
+3. Phân biệt vấn đề quản trị (management/decision problem) và vấn đề nghiên cứu (research
+   problem): tất cả ví dụ cặp tương ứng.
+4. Ví dụ mục tiêu, câu hỏi, giả thuyết nghiên cứu tốt và chưa tốt.
+5. Khi nào chọn thiết kế khám phá / mô tả / nhân quả — ví dụ cho từng loại.
 ```
 
-**Buổi 8**
+**Buổi 7 — Bài 5** · Video: Unit 3; Research Design – Secondary (2a, 2b), Observational (3),
+Ethnography (4), Focus Groups (5); Observational Research…; Qualitative Research;
+Mixed-Methods Research…
 ```
-BUỔI 8 — BÀI 6: CHỌN MẪU ĐỂ NGHIÊN CỨU
-6.1 Lý do chọn mẫu · 6.2 Khái niệm (đám đông, đám đông nghiên cứu, phần tử, đơn vị, khung mẫu,
-hiệu quả chọn mẫu) · 6.3 Quy trình chọn mẫu · 6.4 Phương pháp xác suất (ngẫu nhiên đơn giản, hệ
-thống, phân tầng, theo nhóm) · 6.5 Phương pháp phi xác suất (thuận tiện, phán đoán, phát triển
-mầm, định mức)
-Chú ý thêm: chép đầy đủ mọi CÔNG THỨC tính cỡ mẫu, ý nghĩa từng ký hiệu và VÍ DỤ TÍNH bằng số;
-quy tắc kinh nghiệm về cỡ mẫu; ví dụ minh họa cho từng phương pháp chọn mẫu.
-```
-
-**Buổi 9**
-```
-BUỔI 9 — BÀI 7: ĐO LƯỜNG
-7.1 Khái niệm và ý nghĩa đo lường · 7.2 Các loại thang đo (định danh, thứ tự, khoảng, tỷ lệ) ·
-7.3 Cấp thang đo và độ mạnh · 7.4 Đánh giá đo lường (sai lệch, giá trị và độ tin cậy)
-Chú ý thêm: ví dụ câu hỏi cho từng loại thang đo; các phép toán/thống kê dùng được cho từng
-thang đo; thang Likert, thang đo ngữ nghĩa và các thang khác được nhắc; ví dụ thang đo kế thừa
-từ nghiên cứu trước; các loại giá trị và độ tin cậy.
+BUỔI 7 — CÁC PHƯƠNG PHÁP THU THẬP DỮ LIỆU
+⭐1. Thảo luận nhóm tập trung (focus group): quy trình, số người, vai trò người điều phối,
+    ưu – nhược điểm, ví dụ.
+⭐2. Phỏng vấn sâu (in-depth interview): quy trình, kỹ thuật hỏi, ví dụ.
+⭐3. Dân tộc học (ethnography) và nghiên cứu định tính khác.
+⭐4. Nghiên cứu định lượng: khảo sát trực tiếp / điện thoại / thư / trực tuyến; nhóm cố định
+    (panel); thử nghiệm (experiment) — quy trình, ưu – nhược, ví dụ.
+5. Phương pháp hỗn hợp (mixed methods): khi nào dùng, cách kết hợp.
+6. Quan sát: ví dụ và các lưu ý đạo đức, quyền riêng tư được nhắc.
+7. Dữ liệu thứ cấp: nguồn cụ thể được nhắc; cách đánh giá chất lượng.
 ```
 
-**Buổi 10**
+**Buổi 8 — Bài 6** · Video: Sampling Frame & Sample Size…; Unit 2 Part 2
 ```
-BUỔI 10 — BÀI 8: THIẾT KẾ BẢNG CÂU HỎI (phần tổng quan)
-8.1 Vai trò của bảng câu hỏi · 8.2 Quy trình thiết kế bảng hỏi — trình bày TỔNG QUAN đủ 8 bước
-8.2.1–8.2.8
-Chú ý thêm: bảng hỏi mẫu hoàn chỉnh nếu video có (chép cấu trúc: phần gạn lọc, phần chính,
-phần thông tin cá nhân); dàn bài phỏng vấn định tính mẫu nếu có.
-```
-
-**Buổi 11**
-```
-BUỔI 11 — BÀI 8 (tiếp): ĐI SÂU 8.2.1–8.2.4
-8.2.1 Xác định vấn đề cần thu thập · 8.2.2 Dạng phỏng vấn · 8.2.3 Đánh giá nội dung câu hỏi ·
-8.2.4 Hình thức trả lời
-Chú ý thêm: các dạng câu hỏi (mở, đóng, đa lựa chọn, thang đo…) kèm ví dụ; tiêu chí đánh giá
-một câu hỏi; ví dụ câu hỏi SAI và cách sửa.
+BUỔI 8 — CHỌN MẪU
+⭐1. MỌI công thức tính cỡ mẫu (theo trung bình, theo tỷ lệ, có/không biết tổng thể), ý nghĩa
+    từng ký hiệu và VÍ DỤ TÍNH bằng số.
+2. Quy tắc kinh nghiệm về cỡ mẫu được nêu.
+3. Sai số khung mẫu, sai số chọn mẫu và sai số không do chọn mẫu: định nghĩa, ví dụ.
+4. Ví dụ minh họa cho từng phương pháp chọn mẫu xác suất và phi xác suất.
 ```
 
-**Buổi 12**
+**Buổi 9 — Bài 7** · Video: Measurement and Questionnaire Design – Intro (M2 V1); Question Type
+Quiz Review (M2 V2); Measuring Attitudes and WTP (M2 V3); Unit 4; Struggling with Research
+Variables?
 ```
-BUỔI 12 — BÀI 8 (tiếp): ĐI SÂU 8.2.5–8.2.8
-8.2.5 Cách dùng thuật ngữ · 8.2.6 Cấu trúc bảng câu hỏi · 8.2.7 Hình thức bảng câu hỏi ·
-8.2.8 Thử lần thứ nhất, sửa chữa, bản nháp cuối cùng
-Chú ý thêm: lỗi dùng từ (câu hỏi dẫn dắt, câu hỏi kép, từ mơ hồ…) kèm ví dụ sai/đúng; thứ tự
-các phần của bảng hỏi; cách thực hiện phỏng vấn thử (pilot); cách tạo bảng hỏi online nếu có
-nhắc; nội dung về nhập liệu, mã hóa dữ liệu nếu video có.
-```
-
-**Buổi 13**
-```
-BUỔI 13 — BÀI 9: PHÂN TÍCH DỮ LIỆU
-9.1 Hiệu chỉnh dữ liệu · 9.2 Mã hóa dữ liệu (kiểu mã hóa, nguyên tắc) · 9.3 Phân tích dữ liệu
-(9.3.1 mô tả · 9.3.2 đơn biến · 9.3.3 nhị biến)
-Chú ý thêm: thao tác phần mềm TỪNG BƯỚC (tên menu, lệnh, tùy chọn) với SPSS/Excel/công cụ
-khác được dùng; bảng kết quả (output) mẫu và cách đọc, cách diễn giải; các kiểm định nhị biến
-được dạy (ví dụ bảng chéo, Chi-square, T-test, ANOVA, tương quan…) — điều kiện dùng, giả
-thuyết, ngưỡng sig.; mã hóa dữ liệu định tính nếu có; mọi nội dung về Cronbach's Alpha, EFA,
-hồi quy nếu video có (đánh dấu là nội dung nâng cao).
-Tách riêng ở cuối một mục "NÂNG CAO – ĐIỂM CỘNG": hồi quy (Module 4), phân tích nhân tố và
-phân tích cụm (Module 5). Ghi rõ nếu nguồn KHÔNG có hướng dẫn Excel / Google Sheets và KHÔNG có
-Cronbach's Alpha.
+BUỔI 9 — ĐO LƯỜNG
+⭐1. Thang đo tỷ lệ (ratio scale): định nghĩa, ví dụ.
+⭐2. Các phép toán / thống kê được phép dùng cho từng cấp thang đo (định danh, thứ tự, khoảng,
+    tỷ lệ).
+⭐3. Sai số đo lường: sai số hệ thống và sai số ngẫu nhiên — định nghĩa, nguồn gốc, ví dụ.
+⭐4. Giá trị (validity) và độ tin cậy (reliability): các loại, cách đánh giá, ví dụ.
+5. Đo lường thái độ: Likert, đối nghĩa, Stapel và thang khác; đo mức sẵn lòng chi trả (WTP).
+6. Biến nghiên cứu: biến độc lập, phụ thuộc, trung gian, điều tiết — ví dụ.
+7. Toàn bộ câu hỏi trong "Question Type Quiz" kèm đáp án.
 ```
 
-**Bài 10 (tự học e-learning)**
+**Buổi 10–12 — Bài 8** · Video: M2 V1; Questionnaire Construction (M2 V4); Survey Design Tips to
+Reduce Bias; Unit 4 *(hỏi 1 lần, rồi Claude tự chia cho 3 buổi)*
 ```
-BÀI 10: BÁO CÁO KẾT QUẢ NGHIÊN CỨU (dùng cho tài liệu tự học)
-10.1 Bản báo cáo nghiên cứu marketing (vai trò, phân loại) · 10.2 Nội dung báo cáo dành cho
-người sử dụng · 10.3 Nguyên tắc soạn báo cáo (trình bày bảng, trình bày biểu đồ)
-Chú ý thêm: cấu trúc chương mục của báo cáo / tiểu luận được giới thiệu; ví dụ bảng, biểu đồ
-đúng và sai; cách viết kết luận và hàm ý quản trị.
+BUỔI 10–12 — THIẾT KẾ BẢNG CÂU HỎI
+⭐1. Cấu trúc và thứ tự câu hỏi trong bảng hỏi (phần mở đầu, câu gạn lọc, kỹ thuật phễu, vị
+    trí câu nhạy cảm và câu nhân khẩu học).
+⭐2. Hình thức trình bày bảng hỏi (bố cục, độ dài, "nguyên tắc 5 phút", bảng hỏi trực tuyến).
+⭐3. Thử nghiệm (pilot test / pre-test): cách làm, cỡ mẫu thử, cần kiểm tra gì, cách sửa.
+4. Các lỗi đặt câu hỏi: dẫn dắt, câu hỏi kép, mơ hồ, bắt ước đoán, thang không cân bằng —
+   chép mọi ví dụ SAI và cách SỬA.
+5. Các dạng câu hỏi (mở, đóng, nhiều lựa chọn, xếp hạng, thang đo) kèm ví dụ.
+6. Các nguồn sai lệch khảo sát (survey bias) và cách giảm.
+```
+
+**Buổi 13 — Bài 9** · Video: Module 3 SPSS V1–V6; Unit 5; The Correlation vs. Causation Trap…
+*(Module 4 hồi quy và Module 5 EFA/cụm: hỏi riêng ở mục điểm cộng bên dưới)*
+```
+BUỔI 13 — PHÂN TÍCH DỮ LIỆU
+⭐1. Thao tác SPSS TỪNG BƯỚC (menu, lệnh, tùy chọn) cho: nhập/khai báo biến, mã hóa, thống kê
+    tần số, thống kê mô tả, bảng chéo (Crosstabs) + Chi-square, T-test (độc lập và cặp),
+    ANOVA, tương quan.
+⭐2. Với mỗi kiểm định: khi nào dùng (theo loại biến/thang đo), giả thuyết H0/H1, điều kiện,
+    cách đọc bảng kết quả (output), ngưỡng sig./p-value, cách diễn giải thành câu.
+⭐3. Ví dụ dữ liệu và kết quả mẫu người giảng dùng.
+4. Làm sạch dữ liệu, xử lý dữ liệu thiếu, mã hóa câu hỏi mở.
+5. Tương quan và nhân quả: các bẫy diễn giải, ví dụ.
+6. Ghi rõ: video có hướng dẫn Excel / Google Sheets không? Có Cronbach's Alpha không?
+```
+
+**Bài 10 — tự học e-learning** · Video: Unit 5; This Marketing Strategy Got Him a Massive Promotion
+```
+BÀI 10 — BÁO CÁO KẾT QUẢ NGHIÊN CỨU
+⭐1. Nguyên tắc trình bày BẢNG số liệu (tiêu đề, đơn vị, nguồn, làm tròn, thứ tự…).
+⭐2. Nguyên tắc trình bày BIỂU ĐỒ: chọn loại biểu đồ theo mục đích, lỗi thường gặp.
+3. Cấu trúc báo cáo cho nhà quản trị; cách viết tóm tắt cho lãnh đạo, kết luận, đề xuất.
+4. Cách thuyết trình kết quả nghiên cứu (nếu có).
+```
+
+## Prompt riêng — tài liệu điểm cộng (tùy chọn)
+
+Tick Module 4 (Regression V1–V7) và Module 5 (Cluster/Factor Analysis V1, V3–V10):
+```
+Chỉ dựa trên các VIDEO đang được chọn, tóm tắt theo dạng HƯỚNG DẪN TỰ HỌC cho sinh viên năm 2
+muốn phân tích nâng cao: (1) hồi quy đơn và bội, (2) phân tích nhân tố khám phá (EFA),
+(3) phân tích cụm. Với mỗi kỹ thuật: dùng khi nào, điều kiện dữ liệu, thao tác SPSS từng bước,
+cách đọc kết quả, lỗi thường gặp. Ghi rõ nếu video không nhắc Cronbach's Alpha.
+```
+
+## Prompt riêng — đối chiếu những điểm slide có thể sai (tùy chọn, tick TẤT CẢ video)
+
+```
+Chỉ dựa trên các VIDEO đang được chọn, cho biết video nói gì về từng điểm sau. Trích nguyên
+văn và ghi tên video; không có thì ghi "Không có trong nguồn":
+1. Định nghĩa nghiên cứu marketing của AMA (American Marketing Association).
+2. Số bước của tiến trình nghiên cứu marketing.
+3. Thang Likert được xem là thang thứ tự hay thang khoảng; có điều kiện gì không.
+4. Công thức tính cỡ mẫu theo tỷ lệ.
+5. Mode (yếu vị) dùng khi nào trong nghiên cứu marketing.
+6. Cách diễn đạt kết luận kiểm định: "chấp nhận H0" hay "không bác bỏ H0".
 ```
 
 ## Gửi kết quả cho Claude
 
-- Dán **nguyên văn** câu trả lời của NotebookLM, giữ cả nhãn nguồn và cụm trích nguyên văn.
-- Ghi rõ đầu tin nhắn: `Kết quả NotebookLM — Buổi X`.
-- Kèm ảnh chụp những slide/sơ đồ mà NotebookLM ghi `[CÓ HÌNH]` hoặc không mô tả được.
+- Ghi đầu tin nhắn: `Kết quả NotebookLM — Buổi X` và dán **nguyên văn**, giữ tên video và cụm
+  trích dẫn.
+- Thứ tự ưu tiên: **Buổi 1** (để bắt đầu soạn) → **Buổi 6, 7, 9, 12, 13, Bài 10** (các buổi có
+  phần slide bị thiếu) → các buổi còn lại.
