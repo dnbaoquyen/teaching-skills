@@ -1,13 +1,15 @@
 # Lesson Plan — W1: Giới thiệu học phần · Bài 1 Tổng quan về nghiên cứu Marketing
 
-> **Trạng thái: KHUNG BUỔI HỌC (arc) — chờ giảng viên duyệt.** Bài giảng chi tiết, dàn ý slide +
-> speaker note, phiếu hoạt động và đề bài tập M1 sẽ được soạn sau khi khung này được xác nhận.
+> **Trạng thái:** khung buổi học đã được giảng viên duyệt (theo đề xuất). Trọn gói Buổi 1 — chờ
+> giảng viên duyệt lần cuối:
+> `W1_lecture_notes.md` · `W1_slides_outline.md` · `W1_activity_phan_loai_nhanh.md` ·
+> `W1_activity_xuong_de_tai.md` · `W1_M1_phieu_dang_ky_de_tai.md`
 
 **Course:** MKT1107 Nghiên cứu Marketing · **Meeting:** Buổi 1
 **Length:** 150 phút (3 tiết × 45' + 15' giải lao) · **Modality:** trực tiếp · **Class size:** 40
 (nhóm 2–3 SV → khoảng 14–20 nhóm)
-**Room notes:** máy chiếu, mic, bảng; SV mang máy tính cá nhân. Công cụ khảo sát nhanh trên lớp:
-`[NEEDS PROFESSOR INPUT]` (mặc định: Google Forms / giơ tay).
+**Room notes:** máy chiếu, mic, bảng; SV mang máy tính cá nhân. Trả lời trên lớp: giơ tay / chỉ
+định phát biểu (không dùng công cụ bình chọn). Nhóm do sinh viên tự lập.
 
 ## Outcomes served
 
@@ -27,17 +29,17 @@ trước Buổi 2.
 | 0–5 | S1 | activation | Mở bằng tình huống: "Một hãng điện thoại muốn bán **điện thoại giá rẻ** nên đi phỏng vấn **khách hàng giàu**. Kết quả sẽ sai ở đâu?" | Suy nghĩ 1', trao đổi với bạn bên cạnh, 2–3 SV trả lời | Slide tình huống |
 | 5–17 | S2 | input | Giới thiệu học phần: mục tiêu & CLO, cách đánh giá (F1 30% · F2 20% · S 50%), **lộ trình dự án nghiên cứu nhóm 3/5 chương**, quy định dùng AI, quy ước APA 7 | Nghe, đặt câu hỏi | Slide giới thiệu + đề cương trên LMS |
 | 17–40 | S3 | input | **1.1 Định nghĩa** (4 thành tố: có hệ thống – có mục tiêu – thu thập & phân tích – hỗ trợ quyết định), mục đích (giải quyết vấn đề / khai thác cơ hội), 6 phạm vi; **1.2 Phân loại** theo 3 tiêu chí, mỗi loại 1 ví dụ (kem doanh số giảm → khám phá; khảo sát đặt đồ ăn cuối tuần → mô tả; A/B test ảnh sản phẩm → nhân quả) | Ghi chép theo khung | Slide 3–8 (UEF) |
-| 40–48 | S4 | active + check | **Phân loại nhanh**: 6 tình huống ngắn, mỗi cặp SV xác định loại nghiên cứu theo 3 tiêu chí; GV công bố đáp án, giải thích 2 câu sai nhiều nhất | Làm theo cặp, trả lời trên form / giơ thẻ | Phiếu 6 tình huống |
+| 40–48 | S4 | active + check | **Phân loại nhanh**: 6 tình huống ngắn, mỗi cặp SV xác định loại nghiên cứu theo 3 tiêu chí; GV công bố đáp án, giải thích 2 câu sai nhiều nhất | Làm theo cặp, giơ tay theo quy ước 1–4 ngón | Phiếu 6 tình huống |
 | 48–63 | — | — | **Giải lao 15'** | | |
 | 63–88 | S5 | input | **1.3 Tiến trình 6 bước** với 1 ví dụ chạy xuyên suốt (worked example: "Vì sao doanh số sản phẩm X giảm?" đi qua đủ 6 bước) + 3 lỗi kinh điển (hỏi sai đối tượng, câu hỏi sai, quyết định theo cảm tính); **1.4 MIS** 4 bộ phận và vị trí của nghiên cứu marketing; **1.5 Người thực hiện / người sử dụng** | Theo dõi ví dụ, điền sơ đồ 6 bước | Slide 9–19 (UEF) |
-| 88–93 | S6 | check | 3 câu hỏi nhanh: bước nào quan trọng nhất & vì sao; nghiên cứu marketing khác tình báo marketing ở đâu; tự làm hay thuê công ty — khi nào | Trả lời cá nhân | Form 3 câu |
+| 88–93 | S6 | check | 3 câu hỏi nhanh: bước nào quan trọng nhất & vì sao; nghiên cứu marketing khác tình báo marketing ở đâu; tự làm hay thuê công ty — khi nào | Trả lời cá nhân | Slide 3 câu, chỉ định phát biểu |
 | 93–138 | S7 | active (thực hành nhóm 45') | **Xưởng đề tài**: (1) lập nhóm, chọn lĩnh vực/thương hiệu — 10'; (2) viết 3 câu hỏi quyết định marketing — 10'; (3) chọn 1 câu, chuyển thành vấn đề nghiên cứu, phân loại theo 3 tiêu chí, phác 6 bước — 15'; (4) 4–5 nhóm trình bày 1 phút, GV phản hồi — 10'. GV đi từng nhóm. | Làm việc nhóm, điền phiếu | Phiếu hoạt động "Xưởng đề tài" |
-| 138–145 | S8 | closure | **Phiếu ra về**: "1 điều đã rõ, 1 điều còn mơ hồ"; giao **M1** + hướng dẫn nộp; nối sang Buổi 2: "Tuần sau: tìm và trích dẫn tài liệu cho đề tài của nhóm" | Điền phiếu ra về, ghi nhận bài tập | Form phiếu ra về; đề M1 |
+| 138–145 | S8 | closure | **Phiếu ra về**: "1 điều đã rõ, 1 điều còn mơ hồ"; giao **M1** + hướng dẫn nộp; nối sang Buổi 2: "Tuần sau: tìm và trích dẫn tài liệu cho đề tài của nhóm" | Điền phiếu ra về, ghi nhận bài tập | Phiếu ra về (giấy); đề M1 |
 | 145–150 | — | slack | Dự phòng 5' | | |
 
 ## Closure & check
 
-**Closure activity:** phiếu ra về 2 câu (đã rõ / còn mơ hồ) trên Google Forms.
+**Closure activity:** phiếu ra về 2 câu (đã rõ / còn mơ hồ) trên giấy, thu lại cuối buổi.
 **What I'm checking for:** SV phân biệt được 3 loại thiết kế (khám phá – mô tả – nhân quả) và hiểu
 vì sao bước xác định vấn đề quyết định cả dự án.
 **Forward link:** Buổi 2 — mỗi nhóm tìm tài liệu học thuật cho đề tài đã đăng ký.
@@ -61,6 +63,9 @@ sữa, ví điện tử, thời trang secondhand, ứng dụng giao đồ ăn, m
    có nguồn gốc → trình bày là **ví dụ minh họa**, không phải số liệu thực.
 3. "Tổng cục Thống kê" trên slide 1.5 → nay là Cục Thống kê (Bộ Tài chính).
 4. Tình huống "Share a Coke" (nếu dùng): cần thông tin chiến dịch có nguồn.
+5. `[NEEDS PROFESSOR INPUT]` Hạn nộp M1, quy định nộp trễ, tên mục nộp trên LMS, mốc cho phép đổi đề tài.
+6. Tên doanh nghiệp/ví dụ trong video (kem, giao đồ ăn, A/B test ảnh sản phẩm) dùng như ví dụ minh
+   họa, đã bỏ các con số không có nguồn; ví dụ chuỗi trà sữa là tình huống giả định.
 
 ## Post-class notes
 
