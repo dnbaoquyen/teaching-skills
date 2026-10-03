@@ -62,12 +62,11 @@ Nhóm chọn hướng chậm nhất ở Buổi 5–6 (sau khi đã đọc tài l
 7. **AI:** được dùng nếu khai báo và nộp kèm nhật ký sử dụng AI; sinh viên chịu trách nhiệm kiểm
    chứng mọi trích dẫn. Không dùng phần mềm phát hiện AI để chấm.
 
-## Còn chờ xác nhận
+## Đã xác nhận thêm (theo đề xuất)
 
-- **Vị trí Bài 10** (đề cương xếp ở Buổi 14–15, nay là buổi thi): đề xuất học dạng e-learning
-  (TLM20 — tài liệu/video tự học) cộng 15–20 phút tóm tắt trong Buổi 13. `[NEEDS PROFESSOR INPUT]`
-- **Nội dung bài nộp giữa kỳ:** đề xuất Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính) kèm
-  bản nháp bảng hỏi, hạn nộp trước Buổi 11 để GV góp ý trước khi phát hành. `[NEEDS PROFESSOR INPUT]`
-- **Các mốc chấm AM2:** đề xuất M1 sau Buổi 1 (phiếu đề tài), M2 sau Buổi 3 (danh mục APA 7 +
-  tổng quan 1 trang), M3 sau Buổi 5 (tổng quan 2–3 trang + nhật ký AI), M4 sau Buổi 6 (đề cương
-  nghiên cứu); trọng số 2,5% / 5% / 5% / 7,5%. `[NEEDS PROFESSOR INPUT]`
+- **Bài 10** học dạng e-learning (TLM20 — tài liệu/video tự học) cộng 15–20 phút tóm tắt trong Buổi 13.
+- **Bài nộp giữa kỳ (LMS):** Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính) kèm bản nháp
+  bảng hỏi; hạn nộp trước Buổi 11 để GV góp ý trước khi phát hành.
+- **Mốc chấm AM2 (nhóm):** M1 sau Buổi 1 (phiếu đề tài) 2,5% · M2 sau Buổi 3 (danh mục APA 7 +
+  tổng quan 1 trang) 5% · M3 sau Buổi 5 (tổng quan 2–3 trang + nhật ký AI) 5% · M4 sau Buổi 6
+  (đề cương nghiên cứu) 7,5%.

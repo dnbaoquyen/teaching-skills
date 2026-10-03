@@ -191,7 +191,7 @@ assessment_plan:
   artifact_ref: null
 - id: A2
   type: homework
-  title: AM2 – Bài tập nhóm, chấm theo mốc trong Buổi 1–6 (F1)
+  title: 'AM2 – Bài tập nhóm theo mốc: M1 sau B1 (2,5%), M2 sau B3 (5%), M3 sau B5 (5%), M4 sau B6 (7,5%) (F1)'
   weight: 20
   outcomes_assessed:
   - LO1
@@ -201,7 +201,8 @@ assessment_plan:
   artifact_ref: null
 - id: A3
   type: paper
-  title: Bài nộp giữa kỳ trên LMS (F2; GV thay AM3 Thuyết trình bằng bài nộp) + AM9
+  title: 'Bài nộp giữa kỳ trên LMS: Chương 1–3 (ĐL) / 1–2 (ĐT) + nháp bảng hỏi, hạn trước Buổi 11 (F2; GV thay AM3 Thuyết
+    trình) + AM9'
   weight: 20
   outcomes_assessed:
   - LO1
@@ -376,7 +377,7 @@ schedule:
   assessments_due: []
   artifact_refs: []
 - id: W13
-  topic: 'Bài 9: Phân tích dữ liệu + Bài 10 (rút gọn; vị trí Bài 10 chờ xác nhận)'
+  topic: 'Bài 9: Phân tích dữ liệu + tóm tắt Bài 10 (15–20''); Bài 10 học dạng e-learning (TLM20)'
   outcomes:
   - LO1
   - LO2
