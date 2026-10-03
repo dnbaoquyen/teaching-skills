@@ -6,11 +6,11 @@ course:
   code: MKT1107
   title: Nghiên cứu Marketing (Marketing Research)
   discipline: Marketing
-  level: 'Đại học — [NEEDS PROFESSOR INPUT: sinh viên năm mấy, ngành/chuyên ngành]'
+  level: Đại học — sinh viên năm 2, ngành Marketing
   credits: 3
-  modality: null  # [NEEDS PROFESSOR INPUT]
-  class_size: null
-  contact_hours_per_week: null
+  modality: in-person
+  class_size: 40
+  contact_hours_per_week: 2.25
   weeks: 15
   language_of_instruction: Tiếng Việt
   prerequisites:
@@ -20,6 +20,9 @@ course:
   - 3 tín chỉ (3 LT, 0 TH)
   - 'Tài liệu chính: Tài liệu học tập Nghiên cứu Marketing (UEF, lưu hành nội bộ); Bojei, Che Wel & Oh (2012), Marketing Research,
     OUM'
+  - 'Mỗi buổi: 3 tiết × 45 phút (135 phút học) + 15 phút giải lao; trong đó 45 phút thực hành nhóm trên lớp'
+  - Nhóm 2–3 sinh viên (khoảng 14–20 nhóm/lớp)
+  - 'Mục tiêu dự án: mỗi nhóm hoàn thành một nghiên cứu nhỏ — 3 chương (định tính) hoặc 5 chương (định lượng) — sau 10 bài'
 term_calendar:
   start_date: null
   end_date: null
@@ -28,8 +31,9 @@ term_calendar:
   add_drop_deadline: null
   withdrawal_deadline: null
 learner_profile:
-  prior_knowledge: Đã học Marketing căn bản (MKT1101) theo yêu cầu tiên quyết; các kiến thức khác [NEEDS PROFESSOR INPUT]
-  motivation_context: '[NEEDS PROFESSOR INPUT]'
+  prior_knowledge: Đã học Marketing căn bản (MKT1101); chưa học môn nào liên quan đến nghiên cứu (chưa có nền phương pháp
+    nghiên cứu, thống kê ứng dụng hay trích dẫn học thuật)
+  motivation_context: Học phần trong chương trình ngành Marketing; bắt buộc/tự chọn [NEEDS PROFESSOR INPUT]
   known_difficulties: []
   accessibility_needs: unknown
   cohort_evidence: null
