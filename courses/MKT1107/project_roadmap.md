@@ -40,27 +40,34 @@ Nhóm chọn hướng chậm nhất ở Buổi 5–6 (sau khi đã đọc tài l
 | 7 | B5 Thu thập dữ liệu | Tìm dữ liệu thứ cấp cho bối cảnh; chọn phương pháp sơ cấp (khảo sát / phỏng vấn sâu / thảo luận nhóm) | Phần bối cảnh có số liệu thứ cấp; mô tả phương pháp thu thập | C1, C3 / C1, C2 |
 | 8 | B6 Chọn mẫu | Xác định tổng thể, khung mẫu, phương pháp và cỡ mẫu cho đề tài | Kế hoạch chọn mẫu | C3 / C2 |
 | 9 | B7 Đo lường | ĐL: xây/kế thừa thang đo cho từng khái niệm; ĐT: xác định chủ đề cần khai thác | ĐL: bảng thang đo có nguồn; ĐT: khung chủ đề phỏng vấn; **mô hình/khung nghiên cứu** | C2, C3 / C2 |
-| 10 | B8 Bảng hỏi (1) | Lập dàn ý bảng hỏi / dàn bài phỏng vấn | Bản nháp 1 bảng hỏi / dàn bài | C3 / C2 |
-| 11 | B8 Bảng hỏi (2) | Viết và đánh giá nội dung câu hỏi, hình thức trả lời (8.2.1–8.2.4); nhóm chéo góp ý | Bản nháp 2 | C3 / C2 |
-| 12 | B8 Bảng hỏi (3) | Hoàn thiện thuật ngữ, cấu trúc, hình thức; **phỏng vấn thử** với nhóm khác (8.2.5–8.2.8) | Bảng hỏi / dàn bài chính thức; **bắt đầu thu dữ liệu** | C3 / C2 |
-| 13 | B9 Phân tích | ĐL: hiệu chỉnh, mã hóa, thống kê mô tả, đơn biến, nhị biến trên dữ liệu thật của nhóm; ĐT: mã hóa nội dung phỏng vấn theo chủ đề | Bản nháp chương kết quả | C4 / C3 |
-| 14 | B10 Báo cáo (1) | Trình bày bảng/biểu đồ theo nguyên tắc 10.3; viết kết luận và hàm ý | Bản nháp kết luận & hàm ý quản trị | C5 / C3 |
-| 15 | B10 Báo cáo (2) + ôn tập | Rà soát chéo tiểu luận nhóm khác theo checklist | Bản tiểu luận hoàn chỉnh (nộp theo lịch thi) | Toàn bài |
+| 10 | B8 Bảng hỏi (1): vai trò + toàn bộ quy trình 8.2 | Viết **bản nháp đầy đủ** bảng hỏi / dàn bài phỏng vấn | Hoàn thiện nháp; phỏng vấn thử 3–5 người ngoài lớp; **nộp bài giữa kỳ trên LMS** | C3 / C2 |
+| 11 | B8 Bảng hỏi (2): đi sâu 8.2.1–8.2.4 | Sửa theo kết quả thử; nhóm chéo góp ý; dựng Google Form / lịch phỏng vấn | **Phát hành bảng hỏi, bắt đầu thu dữ liệu** (thu trong 2 tuần) | C3 / C2 |
+| 12 | B8 Bảng hỏi (3): đi sâu 8.2.5–8.2.8 + chuẩn bị nhập liệu (giới thiệu 9.1–9.2) | Lập sổ mã hóa (codebook); nhập và làm sạch thử phần dữ liệu đã thu | Tiếp tục thu; **hạn chót thu dữ liệu: trước Buổi 13** | C3 / C2 |
+| 13 | B9 Phân tích + B10 Báo cáo (rút gọn) | ĐL: hiệu chỉnh, mã hóa, mô tả, đơn biến, nhị biến trên dữ liệu thật; ĐT: mã hóa theo chủ đề; trình bày bảng/biểu đồ theo 10.3 | Hoàn thành chương kết quả và kết luận → tiểu luận cuối kỳ | C4–C5 / C3 |
+| 14 | — | Tổ chức thi | | |
+| 15 | — | Tổ chức thi | | |
 
-## Rủi ro lịch trình cần quyết định
+## Quyết định của giảng viên (đã xác nhận)
 
-1. **Thời gian thu dữ liệu:** giữa Buổi 12 và 13 chỉ có một tuần. Đề xuất cho phép thu
-   dữ liệu từ Buổi 12 đến Buổi 14 và phân tích trên dữ liệu đã có ở Buổi 13. `[NEEDS PROFESSOR INPUT]`
-2. **Phạm vi phân tích định lượng:** đề cương Bài 9 chỉ gồm mô tả, đơn biến, nhị biến.
-   Nghiên cứu 5 chương sẽ dừng ở mức này (không Cronbach's Alpha, EFA, hồi quy) trừ khi
-   giảng viên muốn mở rộng. `[NEEDS PROFESSOR INPUT]`
-3. **Công cụ xử lý số liệu:** SPSS, Excel hay Google Sheets/Forms? Phòng học có máy tính cho
-   thực hành không? `[NEEDS PROFESSOR INPUT]`
-4. **Thuyết trình giữa kỳ (20%):** 14–20 nhóm → nếu trình bày trong 1 buổi chỉ được ~6 phút/nhóm.
-   Đề xuất: thuyết trình đề cương nghiên cứu sau Buổi 9, rải 4–5 nhóm/buổi trong phần đầu
-   các buổi 9–12. `[NEEDS PROFESSOR INPUT]`
-5. **Quy định sử dụng AI cho tiểu luận:** đề xuất cho phép dùng AI có khai báo, nộp kèm nhật ký
-   sử dụng AI (đã luyện ở Buổi 4–5) và chịu trách nhiệm kiểm chứng mọi trích dẫn. Không dùng
-   công cụ phát hiện AI để chấm. `[NEEDS PROFESSOR INPUT]`
-6. **Bài tập AM2 (20%):** chấm bài tập từng buổi theo nhóm hay cá nhân? Chấm tất cả hay chọn
-   một số mốc (ví dụ Buổi 3, 6, 12)? `[NEEDS PROFESSOR INPUT]`
+1. **Cấu trúc tiểu luận:** dùng cấu trúc phổ biến 5 chương (định lượng) / 3 chương (định tính) như trên.
+2. **Thu dữ liệu phải xong trước Buổi 13**; Buổi 14–15 dùng để tổ chức thi. Vì vậy bảng hỏi được
+   hoàn thiện sớm hơn (nháp đầy đủ ở Buổi 10, phát hành sau Buổi 11) để có 2 tuần thu dữ liệu.
+3. **Phân tích định lượng:** dừng ở mô tả, đơn biến, nhị biến. Phân tích sâu hơn (Cronbach's Alpha,
+   EFA, hồi quy…) được **điểm cộng**.
+4. **Công cụ:** sinh viên tự chọn (SPSS, Excel, Google Sheets/Forms…); thực hành trên lớp bằng máy
+   tính cá nhân.
+5. **Giữa kỳ (F2, 20%):** không thuyết trình; nộp bài trên LMS. (Đề cương ghi AM3 Thuyết trình —
+   đây là điều chỉnh của giảng viên.)
+6. **Bài tập AM2 (20%):** chấm theo nhóm, tại một số mốc trong Buổi 1–6.
+7. **AI:** được dùng nếu khai báo và nộp kèm nhật ký sử dụng AI; sinh viên chịu trách nhiệm kiểm
+   chứng mọi trích dẫn. Không dùng phần mềm phát hiện AI để chấm.
+
+## Còn chờ xác nhận
+
+- **Vị trí Bài 10** (đề cương xếp ở Buổi 14–15, nay là buổi thi): đề xuất học dạng e-learning
+  (TLM20 — tài liệu/video tự học) cộng 15–20 phút tóm tắt trong Buổi 13. `[NEEDS PROFESSOR INPUT]`
+- **Nội dung bài nộp giữa kỳ:** đề xuất Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính) kèm
+  bản nháp bảng hỏi, hạn nộp trước Buổi 11 để GV góp ý trước khi phát hành. `[NEEDS PROFESSOR INPUT]`
+- **Các mốc chấm AM2:** đề xuất M1 sau Buổi 1 (phiếu đề tài), M2 sau Buổi 3 (danh mục APA 7 +
+  tổng quan 1 trang), M3 sau Buổi 5 (tổng quan 2–3 trang + nhật ký AI), M4 sau Buổi 6 (đề cương
+  nghiên cứu); trọng số 2,5% / 5% / 5% / 7,5%. `[NEEDS PROFESSOR INPUT]`

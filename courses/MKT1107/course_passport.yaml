@@ -23,11 +23,15 @@ course:
   - 'Mỗi buổi: 3 tiết × 45 phút (135 phút học) + 15 phút giải lao; trong đó 45 phút thực hành nhóm trên lớp'
   - Nhóm 2–3 sinh viên (khoảng 14–20 nhóm/lớp)
   - 'Mục tiêu dự án: mỗi nhóm hoàn thành một nghiên cứu nhỏ — 3 chương (định tính) hoặc 5 chương (định lượng) — sau 10 bài'
+  - Thu dữ liệu dự án phải hoàn tất trước Buổi 13; Buổi 14–15 tổ chức thi
+  - Sinh viên tự chọn công cụ xử lý số liệu; thực hành bằng máy tính cá nhân trên lớp
 term_calendar:
   start_date: null
   end_date: null
   holidays: []
-  exam_weeks: []
+  exam_weeks:
+  - W14
+  - W15
   add_drop_deadline: null
   withdrawal_deadline: null
 learner_profile:
@@ -59,8 +63,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO2
   statement: CLO2. Xây dựng được kế hoạch nghiên cứu Marketing thích hợp phục vụ ra quyết định của nhà quản trị Marketing.
   bloom_level: create
@@ -82,8 +84,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO3
   statement: CLO3. Xác định được vấn đề nghiên cứu, và thực hiện thiết kế nghiên cứu, chọn mẫu, thiết kế bảng câu hỏi, phân
     tích dữ liệu, trình bày kết quả nghiên cứu.
@@ -104,8 +104,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO4
   statement: CLO4. Biểu diễn kỹ năng viết đề cương nghiên cứu và thực hiện các bước trong qui trình nghiên cứu Marketing.
   bloom_level: apply
@@ -123,8 +121,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO5
   statement: CLO5. Hoàn thành kỹ năng vận dụng nghiên cứu Marketing trong hoạt động sản xuất, kinh doanh của doanh nghiệp.
   bloom_level: apply
@@ -142,8 +138,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO6
   statement: CLO6. Thể hiện kỹ năng làm việc độc lập và làm việc nhóm, kỹ năng giao tiếp, kỹ năng lắng nghe và tư duy phản
     biện vấn đề.
@@ -159,8 +153,6 @@ learning_outcomes:
   - W11
   - W12
   - W13
-  - W14
-  - W15
 - id: LO7
   statement: CLO7. Có nhận thức đúng đắn trong việc nhìn nhận, đánh giá vai trò và tầm quan trọng của nghiên cứu Marketing
     đối với hoạt động sản xuất kinh doanh của doanh nghiệp.
@@ -175,8 +167,6 @@ learning_outcomes:
   - W9
   - W10
   - W13
-  - W14
-  - W15
 - id: LO8
   statement: CLO8. Thể hiện tinh thần nghiêm túc trong việc tiếp cận nghiên cứu Marketing và có ý thức trách nhiệm đạo đức
     trong nghiên cứu đối với tổ chức, xã hội.
@@ -189,8 +179,6 @@ learning_outcomes:
   - W7
   - W10
   - W13
-  - W14
-  - W15
 assessment_plan:
 - id: A1
   type: participation
@@ -203,32 +191,32 @@ assessment_plan:
   artifact_ref: null
 - id: A2
   type: homework
-  title: AM2 – Bài tập (F1)
+  title: AM2 – Bài tập nhóm, chấm theo mốc trong Buổi 1–6 (F1)
   weight: 20
   outcomes_assessed:
   - LO1
   - LO2
-  week: null
+  week: W6
   ai_resilience: not_reviewed
   artifact_ref: null
 - id: A3
-  type: presentation
-  title: AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (F2 giữa kỳ)
+  type: paper
+  title: Bài nộp giữa kỳ trên LMS (F2; GV thay AM3 Thuyết trình bằng bài nộp) + AM9
   weight: 20
   outcomes_assessed:
   - LO1
   - LO2
-  week: null
+  week: W10
   ai_resilience: not_reviewed
   artifact_ref: null
 - id: A4
   type: paper
-  title: AM7 Tiểu luận + AM9 Đánh giá làm việc nhóm (S cuối kỳ)
+  title: AM7 Tiểu luận nhóm — nghiên cứu nhỏ 3 chương (định tính) / 5 chương (định lượng) + AM9 (S cuối kỳ)
   weight: 50
   outcomes_assessed:
   - LO1
   - LO2
-  week: null
+  week: W14
   ai_resilience: not_reviewed
   artifact_ref: null
 schedule:
@@ -307,7 +295,8 @@ schedule:
   - LO5
   - LO6
   activities: []
-  assessments_due: []
+  assessments_due:
+  - A2
   artifact_refs: []
 - id: W7
   topic: 'Bài 5: Các phương pháp thu thập dữ liệu — dữ liệu thứ cấp; dữ liệu sơ cấp (định tính, định lượng)'
@@ -359,7 +348,8 @@ schedule:
   - LO7
   - LO8
   activities: []
-  assessments_due: []
+  assessments_due:
+  - A3
   artifact_refs: []
 - id: W11
   topic: 'Bài 8 (tiếp): 8.2.1–8.2.4 (vấn đề cần thu thập, dạng phỏng vấn, nội dung câu hỏi, hình thức trả lời)'
@@ -386,7 +376,7 @@ schedule:
   assessments_due: []
   artifact_refs: []
 - id: W13
-  topic: 'Bài 9: Phân tích dữ liệu — hiệu chỉnh, mã hóa, phân tích mô tả/đơn biến/nhị biến'
+  topic: 'Bài 9: Phân tích dữ liệu + Bài 10 (rút gọn; vị trí Bài 10 chờ xác nhận)'
   outcomes:
   - LO1
   - LO2
@@ -400,38 +390,26 @@ schedule:
   assessments_due: []
   artifact_refs: []
 - id: W14
-  topic: 'Bài 10: Báo cáo kết quả nghiên cứu — vai trò, phân loại, nội dung báo cáo, nguyên tắc trình bày bảng và biểu đồ'
-  outcomes:
-  - LO1
-  - LO2
-  - LO3
-  - LO4
-  - LO5
-  - LO6
-  - LO7
-  - LO8
+  topic: 'Tổ chức thi (đề cương gốc: Bài 10 / ôn tập)'
+  outcomes: []
   activities: []
-  assessments_due: []
+  assessments_due:
+  - A4
   artifact_refs: []
+  tag: logistics
 - id: W15
-  topic: Bài 10 (tiếp) và ôn tập kết thúc học phần
-  outcomes:
-  - LO1
-  - LO2
-  - LO3
-  - LO4
-  - LO5
-  - LO6
-  - LO7
-  - LO8
+  topic: 'Tổ chức thi (đề cương gốc: Bài 10 / ôn tập)'
+  outcomes: []
   activities: []
   assessments_due: []
   artifact_refs: []
+  tag: logistics
 policies:
   grading_scheme: F1 quá trình 30% (chuyên cần 10%, bài tập 20%); F2 giữa kỳ 20% (thuyết trình nhóm); S cuối kỳ 50% (tiểu
-    luận nhóm)
+    luận nhóm); phân tích định lượng ngoài mô tả/đơn biến/nhị biến được điểm cộng
   late_policy: '[NEEDS PROFESSOR INPUT]'
-  ai_use_policy: '[NEEDS PROFESSOR INPUT]'
+  ai_use_policy: Được dùng AI nếu khai báo và nộp kèm nhật ký sử dụng AI; sinh viên chịu trách nhiệm kiểm chứng mọi trích
+    dẫn. Không dùng phần mềm phát hiện AI để chấm.
   integrity_policy: '[NEEDS PROFESSOR INPUT]'
   attendance_policy: '[NEEDS PROFESSOR INPUT]'
 workload_audit:
