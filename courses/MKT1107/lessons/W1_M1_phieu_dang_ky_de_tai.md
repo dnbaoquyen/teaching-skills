@@ -22,8 +22,9 @@ trang**) gồm:
 
 1. **Thông tin nhóm:** họ tên, mã số sinh viên các thành viên.
 2. **Lĩnh vực / thương hiệu** nhóm chọn.
-3. **Bối cảnh** (khoảng nửa trang đến 1 trang): chuyện gì đang diễn ra với thương hiệu / thị trường
-   này khiến quyết định trở nên cần thiết. Nêu nguồn thông tin nếu có (đường link là đủ; Buổi 2–3 sẽ
+3. **Bối cảnh** (khoảng nửa trang đến 1 trang): mô tả **hiện tượng** đang diễn ra với thương hiệu /
+   thị trường này — **tích cực** (cơ hội) hay **tiêu cực** (vấn đề) — khiến quyết định trở nên cần
+   thiết. Nêu nguồn thông tin nếu có (đường link là đủ; Buổi 2–3 sẽ
    học trích dẫn APA 7).
 4. **Quyết định marketing** cần hỗ trợ — viết dạng câu hỏi "Có nên…?" / "Nên chọn… hay…?".
 5. **Vấn đề nghiên cứu sơ bộ** — để ra quyết định trên, cần **biết** điều gì?

@@ -14,7 +14,9 @@ bài tập M1.
 **Chặng 1 · Lập nhóm và chọn lĩnh vực (10')**
 - Tự lập nhóm 2–3 bạn. Ghi tên, mã số sinh viên vào phiếu.
 - Chọn **một lĩnh vực hoặc một thương hiệu** mà nhóm hiểu và **tiếp cận được người trả lời** (bạn bè,
-  người thân, sinh viên trong trường…). Gợi ý: trà sữa, cà phê, ví điện tử, ứng dụng giao đồ ăn, thời
+  người thân, sinh viên trong trường…).
+- Ghi một **hiện tượng** đang diễn ra với lĩnh vực/thương hiệu đó — **tích cực** (một cơ hội: nhu cầu
+  mới, xu hướng mới) hoặc **tiêu cực** (một vấn đề: doanh số giảm, khách chuyển sang đối thủ). Gợi ý: trà sữa, cà phê, ví điện tử, ứng dụng giao đồ ăn, thời
   trang secondhand, mỹ phẩm nội địa, sàn thương mại điện tử, phòng gym, học tiếng Anh trực tuyến.
 
 **Chặng 2 · Ba câu hỏi quyết định (10')**
@@ -57,6 +59,7 @@ bộ**, nộp trên LMS trước Buổi 2.
 |---|---|
 | Thành viên (họ tên, MSSV) | |
 | Lĩnh vực / thương hiệu | |
+| Hiện tượng (tích cực / tiêu cực) | |
 | 3 câu hỏi quyết định | 1. <br> 2. <br> 3. |
 | Câu hỏi quyết định được chọn | |
 | Vấn đề nghiên cứu (cần biết gì?) | |

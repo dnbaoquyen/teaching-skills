@@ -3,7 +3,7 @@
 > **Trạng thái:** khung buổi học đã được giảng viên duyệt (theo đề xuất). Trọn gói Buổi 1 — chờ
 > giảng viên duyệt lần cuối:
 > `W1_lecture_notes.md` · `W1_slides_outline.md` · `W1_activity_phan_loai_nhanh.md` ·
-> `W1_activity_xuong_de_tai.md` · `W1_M1_phieu_dang_ky_de_tai.md`
+> `W1_activity_xuong_de_tai.md` · `W1_M1_phieu_dang_ky_de_tai.md` · `W1_tai_lieu_doc_them.md`
 
 **Course:** MKT1107 Nghiên cứu Marketing · **Meeting:** Buổi 1
 **Length:** 150 phút (3 tiết × 45' + 15' giải lao) · **Modality:** trực tiếp · **Class size:** 40
@@ -27,15 +27,15 @@ trước Buổi 2.
 | Time | Seg | Mode | Giảng viên làm gì | Sinh viên làm gì | Tư liệu |
 |---|---|---|---|---|---|
 | 0–5 | S1 | activation | Mở bằng tình huống: "Một hãng điện thoại muốn bán **điện thoại giá rẻ** nên đi phỏng vấn **khách hàng giàu**. Kết quả sẽ sai ở đâu?" | Suy nghĩ 1', trao đổi với bạn bên cạnh, 2–3 SV trả lời | Slide tình huống |
-| 5–17 | S2 | input | Giới thiệu học phần: mục tiêu & CLO, cách đánh giá (F1 30% · F2 20% · S 50%), **lộ trình dự án nghiên cứu nhóm 3/5 chương**, quy định dùng AI, quy ước APA 7 | Nghe, đặt câu hỏi | Slide giới thiệu + đề cương trên LMS |
-| 17–40 | S3 | input | **1.1 Định nghĩa** (4 thành tố: có hệ thống – có mục tiêu – thu thập & phân tích – hỗ trợ quyết định), mục đích (giải quyết vấn đề / khai thác cơ hội), 6 phạm vi; **1.2 Phân loại** theo 3 tiêu chí, mỗi loại 1 ví dụ (kem doanh số giảm → khám phá; khảo sát đặt đồ ăn cuối tuần → mô tả; A/B test ảnh sản phẩm → nhân quả) | Ghi chép theo khung | Slide 3–8 (UEF) |
+| 5–15 | S2 | input | Giới thiệu học phần: mục tiêu & CLO, cách đánh giá (F1 30% · F2 20% · S 50%), **lộ trình dự án nghiên cứu nhóm 3/5 chương**, quy định dùng AI, quy ước APA 7 | Nghe, đặt câu hỏi | Slide giới thiệu + đề cương trên LMS |
+| 15–40 | S3 | input | **1.1 Định nghĩa**: 3 định nghĩa có nguồn (Kotler, AMA, Nguyễn Đình Thọ) → định nghĩa tổng hợp, 4 thành tố; tư tưởng "quyết định xuất phát từ thị trường"; **vai trò và giới hạn** (Y = f(x₁…xₙ)); mục đích & 6 phạm vi; **1.2 Phân loại** theo 3 tiêu chí: mục tiêu (xác định / giải quyết vấn đề; hàn lâm / ứng dụng), mức độ chuyên sâu (khám phá – mô tả – tương quan – nhân quả, mỗi loại 1 ví dụ), tính chất (định tính / định lượng) | Ghi chép theo khung | Slide UEF #3–8 + slide bổ sung từ bài giảng Văn Lang |
 | 40–48 | S4 | active + check | **Phân loại nhanh**: 6 tình huống ngắn, mỗi cặp SV xác định loại nghiên cứu theo 3 tiêu chí; GV công bố đáp án, giải thích 2 câu sai nhiều nhất | Làm theo cặp, giơ tay theo quy ước 1–4 ngón | Phiếu 6 tình huống |
 | 48–63 | — | — | **Giải lao 15'** | | |
-| 63–88 | S5 | input | **1.3 Tiến trình 6 bước** với 1 ví dụ chạy xuyên suốt (worked example: "Vì sao doanh số sản phẩm X giảm?" đi qua đủ 6 bước) + 3 lỗi kinh điển (hỏi sai đối tượng, câu hỏi sai, quyết định theo cảm tính); **1.4 MIS** 4 bộ phận và vị trí của nghiên cứu marketing; **1.5 Người thực hiện / người sử dụng** | Theo dõi ví dụ, điền sơ đồ 6 bước | Slide 9–19 (UEF) |
-| 88–93 | S6 | check | 3 câu hỏi nhanh: bước nào quan trọng nhất & vì sao; nghiên cứu marketing khác tình báo marketing ở đâu; tự làm hay thuê công ty — khi nào | Trả lời cá nhân | Slide 3 câu, chỉ định phát biểu |
-| 93–138 | S7 | active (thực hành nhóm 45') | **Xưởng đề tài**: (1) lập nhóm, chọn lĩnh vực/thương hiệu — 10'; (2) viết 3 câu hỏi quyết định marketing — 10'; (3) chọn 1 câu, chuyển thành vấn đề nghiên cứu, phân loại theo 3 tiêu chí, phác 6 bước — 15'; (4) 4–5 nhóm trình bày 1 phút, GV phản hồi — 10'. GV đi từng nhóm. | Làm việc nhóm, điền phiếu | Phiếu hoạt động "Xưởng đề tài" |
-| 138–145 | S8 | closure | **Phiếu ra về**: "1 điều đã rõ, 1 điều còn mơ hồ"; giao **M1** + hướng dẫn nộp; nối sang Buổi 2: "Tuần sau: tìm và trích dẫn tài liệu cho đề tài của nhóm" | Điền phiếu ra về, ghi nhận bài tập | Phiếu ra về (giấy); đề M1 |
-| 145–150 | — | slack | Dự phòng 5' | | |
+| 63–90 | S5 | input | **1.3 Tiến trình 6 bước** với 1 ví dụ chạy xuyên suốt (chuỗi trà sữa, giả định) + 3 lỗi kinh điển; **đặc điểm và đạo đức** của hoạt động nghiên cứu (4 nguyên tắc khi khảo sát); **1.4 MIS** 4 bộ phận; **1.5 Nguồn cung cấp, người thực hiện / người sử dụng** | Theo dõi ví dụ, điền sơ đồ 6 bước | Slide UEF #9–19 + slide đạo đức |
+| 90–94 | S6 | check | 3 câu hỏi nhanh: bước nào quan trọng nhất & vì sao; nghiên cứu marketing khác tình báo marketing ở đâu; tự làm hay thuê công ty — khi nào | Trả lời cá nhân | Slide 3 câu, chỉ định phát biểu |
+| 94–139 | S7 | active (thực hành nhóm 45') | **Xưởng đề tài**: (1) lập nhóm, chọn lĩnh vực/thương hiệu và một hiện tượng tích cực hay tiêu cực đang diễn ra — 10'; (2) viết 3 câu hỏi quyết định marketing — 10'; (3) chọn 1 câu, chuyển thành vấn đề nghiên cứu, phân loại theo 3 tiêu chí, phác 6 bước — 15'; (4) 4–5 nhóm trình bày 1 phút, GV phản hồi — 10'. GV đi từng nhóm. | Làm việc nhóm, điền phiếu | Phiếu hoạt động "Xưởng đề tài" |
+| 139–146 | S8 | closure | **Phiếu ra về**: "1 điều đã rõ, 1 điều còn mơ hồ"; giao **M1** + tài liệu đọc thêm Bài 1; nối sang Buổi 2: "Tuần sau: tìm và trích dẫn tài liệu cho đề tài của nhóm" | Điền phiếu ra về, ghi nhận bài tập | Phiếu ra về (giấy); đề M1 |
+| 146–150 | — | slack | Dự phòng 4' | | |
 
 ## Closure & check
 
@@ -46,7 +46,7 @@ vì sao bước xác định vấn đề quyết định cả dự án.
 
 ## Contingency
 
-**If running long, cut:** rút S5 phần 1.5 (người thực hiện/người sử dụng) còn 1 slide tóm tắt, phần
+**If running long, cut:** ở S3, phần phạm vi chỉ nêu tên và chuyển so sánh NC marketing – NC thị trường sang tài liệu đọc; rút S5 phần 1.5 (người thực hiện/người sử dụng) còn 1 slide tóm tắt, phần
 chi tiết chuyển thành tài liệu đọc; **không cắt** S7 (thực hành) và S8 (closure).
 **If running short, extend:** thảo luận tình huống "Share a Coke" của Coca-Cola (slide cuối Bài 1) —
 4 câu hỏi theo slide.
@@ -55,9 +55,10 @@ sữa, ví điện tử, thời trang secondhand, ứng dụng giao đồ ăn, m
 
 ## [VERIFY] items outstanding
 
-1. Định nghĩa nghiên cứu marketing: slide gán cho AMA nhưng câu chữ không khớp định nghĩa chính thức
-   của AMA; video cũng không có định nghĩa AMA. Đề xuất dùng định nghĩa chính thức của AMA (có nguồn)
-   và giữ câu trên slide như một định nghĩa diễn giải, không gán tác giả.
+1. Nguồn của ba định nghĩa (lấy từ bài giảng Văn Lang của giảng viên): tên sách và năm của Kotler;
+   định nghĩa AMA là phiên bản cũ (khác định nghĩa AMA hiện hành); tên sách Nguyễn Đình Thọ (2015).
+   Cách chia nghiên cứu xác định / giải quyết vấn đề theo Malhotra — lần xuất bản. Chuẩn đạo đức
+   ICC/ESOMAR và quy định của trường về khảo sát.
 2. Số liệu trong ví dụ video (nút "Buy Now" màu đỏ tăng 12%, ảnh người mẫu tăng 18%, 65% người đặt đồ
    ăn cuối tuần 18–30 tuổi, 70% thích giao nhanh hơn giảm giá) — video nêu như ví dụ minh họa, không
    có nguồn gốc → trình bày là **ví dụ minh họa**, không phải số liệu thực.

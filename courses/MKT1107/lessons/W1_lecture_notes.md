@@ -6,8 +6,10 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 150 phút
 > **ghi chú cho giảng viên** (cách nói, lúc dừng, lúc hỏi) — không phải nội dung đọc to.
 > Độ dài mỗi phần tính theo khoảng 120–140 từ/phút nói.
 >
-> **Nguồn:** slide UEF Bài 1 (nguồn chính), các video bài giảng trong notebook (ví dụ minh họa),
-> đề cương MKT1107. Tình huống ghi **(giả định)** là do Claude dựng để minh họa, không phải sự kiện
+> **Nguồn:** slide UEF Bài 1 (nguồn chính); bài giảng Chương 1 "Khái quát nghiên cứu Marketing" do
+> giảng viên soạn tại Đại học Văn Lang (định nghĩa có nguồn, vai trò và giới hạn, cách phân loại mở
+> rộng, đặc điểm của hoạt động nghiên cứu); các video bài giảng trong notebook (ví dụ minh họa); đề
+> cương MKT1107. Phần mở rộng để tự học nằm ở `W1_tai_lieu_doc_them.md`. Tình huống ghi **(giả định)** là do Claude dựng để minh họa, không phải sự kiện
 > thật. Mọi chỗ cần giảng viên kiểm tra đều gắn `[VERIFY]` và được tổng hợp ở cuối tài liệu.
 
 ---
@@ -36,7 +38,7 @@ như thế nào, và hỏi ai**. Cả học phần này, thật ra, là học c�
 
 ---
 
-## S2 · Giới thiệu học phần (5–17')
+## S2 · Giới thiệu học phần (5–15')
 
 *(Phần này nói nhanh, gọn. Chi tiết có trong đề cương trên LMS — nhắc sinh viên đọc lại.)*
 
@@ -100,46 +102,80 @@ gì?**
 
 ---
 
-## S3 · Nghiên cứu marketing là gì và có những loại nào (17–40')
+## S3 · Nghiên cứu marketing là gì, để làm gì, có những loại nào (15–40')
 
 ### 3.1 Vì sao phải hiểu cho đúng định nghĩa
+
+*(Phân đoạn này dày nhất buổi — 25 phút. Nếu chậm: 3.4 chỉ nêu tên 6 phạm vi; phần so sánh nghiên
+cứu marketing và nghiên cứu thị trường chuyển sang tài liệu đọc thêm.)*
 
 Nhiều bạn nghe "nghiên cứu marketing" sẽ nghĩ ngay đến... một cái bảng hỏi trên Google Forms gửi vào
 group Facebook. Khảo sát chỉ là một công cụ. Hiểu đúng định nghĩa giúp các bạn thấy nghiên cứu marketing
 rộng hơn nhiều, và giúp các bạn biết khi nào một "cuộc khảo sát" **không** phải là nghiên cứu.
 
-### 3.2 Định nghĩa
+### 3.2 Định nghĩa: ba tác giả, một ý chung
 
-Hiệp hội Marketing Hoa Kỳ (American Marketing Association – AMA) định nghĩa nghiên cứu marketing là
-**chức năng kết nối người tiêu dùng, khách hàng và công chúng với nhà marketing thông qua thông tin** —
-thông tin được dùng để nhận diện và xác định cơ hội và vấn đề marketing; tạo ra, hoàn thiện và đánh
-giá các hoạt động marketing; theo dõi kết quả marketing; và hiểu rõ hơn marketing như một quá trình.
-`[VERIFY: câu chữ định nghĩa AMA và năm phê duyệt (thường được dẫn là 2004, tái xác nhận 2017) — đối
-chiếu trên ama.org trước khi đưa lên slide]`
+*(Chiếu ba định nghĩa cạnh nhau. Không đọc hết — yêu cầu lớp tìm điểm chung.)*
 
-Định nghĩa của AMA khá dài. Để dễ nhớ, chúng ta dùng một cách diễn đạt ngắn gọn hơn, có trong slide
-bài giảng:
+| Nguồn | Nghiên cứu marketing là… |
+|---|---|
+| **Philip Kotler** | …một nỗ lực có hệ thống nhằm **thiết kế, thu thập, phân tích và báo cáo** số liệu và các khám phá liên quan đến **một tình huống cụ thể** mà công ty đang phải đối phó. |
+| **Hiệp hội Marketing Hoa Kỳ (AMA)** | …quá trình **thu thập, ghi chép, phân tích và diễn giải** một cách có hệ thống và khoa học các dữ liệu về các vấn đề liên quan đến hoạt động marketing hàng hóa, dịch vụ và ý tưởng. |
+| **Nguyễn Đình Thọ (2015)** | …một **chức năng** liên quan đến **mọi hoạt động marketing**: từ hoạch định (phân khúc, chọn thị trường mục tiêu, định vị, quyết định sản phẩm, giá, phân phối, chiêu thị) đến thực hiện và kiểm soát marketing. |
 
-> Nghiên cứu marketing là việc **thu thập và phân tích thông tin một cách có hệ thống và có mục tiêu**
-> để **xác định và cung cấp giải pháp** cho các vấn đề liên quan đến marketing.
+`[VERIFY: (1) tên sách, năm của Kotler cho định nghĩa này; (2) đây là định nghĩa AMA phiên bản cũ —
+định nghĩa AMA hiện hành là "chức năng kết nối người tiêu dùng, khách hàng và công chúng với nhà
+marketing thông qua thông tin…" (thường được dẫn là 2004, tái xác nhận 2017) — ghi rõ phiên bản khi
+trích; (3) tên sách Nguyễn Đình Thọ (2015) để ghi danh mục tài liệu tham khảo theo APA 7]`
 
-*(Lưu ý: slide gốc ghi câu này là của AMA — không đúng; đây là cách diễn giải, không gán tác giả.)*
+*(Hỏi: "Câu chữ khác nhau — nhưng cả ba cùng nhấn mạnh điều gì?" Chờ 2–3 câu trả lời, rồi gom lại
+thành định nghĩa dùng trong học phần:)*
 
-Tách câu này ra thành **bốn thành tố**, mỗi thành tố loại bỏ một kiểu "nghiên cứu giả":
+> **Nghiên cứu marketing là một hoạt động có hệ thống và khách quan nhằm thu thập, phân tích và diễn
+> giải dữ liệu, từ đó cung cấp thông tin có ý nghĩa làm cơ sở cho nhà quản trị ra quyết định về các
+> vấn đề marketing.**
+
+*(Ghi chú cho giảng viên: slide UEF #3 gán một câu tương tự cho AMA — không đúng nguyên văn. Dùng
+bảng ba định nghĩa có nguồn ở trên; câu tổng hợp này không gán tác giả.)*
+
+Tách định nghĩa ra thành **bốn thành tố**, mỗi thành tố loại bỏ một kiểu "nghiên cứu giả":
 
 1. **Có hệ thống** — làm theo một quy trình chuẩn, không ngẫu hứng. *Hỏi vài người bạn rồi kết luận*
    không phải nghiên cứu.
-2. **Có mục tiêu** — khách quan, biết rõ mình cần trả lời câu hỏi gì. *Làm khảo sát để chứng minh ý
-   tưởng của sếp là đúng* không phải nghiên cứu.
-3. **Thu thập và phân tích** — biến dữ liệu thô thành thông tin dùng được. *Có một file Excel 500
-   dòng mà không ai đọc* chưa phải nghiên cứu.
-4. **Giải quyết vấn đề** — mục đích cuối cùng là hỗ trợ ra quyết định quản trị.
+2. **Khách quan** — biết rõ mình cần trả lời câu hỏi gì, không định kiến. *Làm khảo sát để chứng minh
+   ý tưởng của sếp là đúng* không phải nghiên cứu.
+3. **Thu thập, phân tích, diễn giải** — biến dữ liệu thô thành thông tin có ý nghĩa. *Một file Excel
+   500 dòng mà không ai đọc* chưa phải nghiên cứu.
+4. **Làm cơ sở ra quyết định** — mục đích cuối cùng là hỗ trợ nhà quản trị.
 
-Các video bài giảng nước ngoài nhấn mạnh thêm một ý: nghiên cứu marketing giúp nhà quản trị **giảm sự
-không chắc chắn** — ra quyết định dựa trên bằng chứng chứ **không dựa trên giả định hay ý kiến cá
-nhân**.
+Vì sao marketing cần nghiên cứu? Tư tưởng chủ đạo của marketing là **mọi quyết định kinh doanh đều
+phải xuất phát từ thị trường**. Muốn vậy, doanh nghiệp phải hiểu rõ: **khách hàng · đối thủ cạnh
+tranh · tác động của môi trường · điểm mạnh, điểm yếu của mình · định hướng chiến lược của mình**.
+Nghiên cứu marketing là cách có được sự hiểu biết đó — thay vì dựa trên giả định hay ý kiến cá nhân.
 
-### 3.3 Mục đích và phạm vi
+### 3.3 Vai trò — và giới hạn — của nghiên cứu marketing
+
+**Vai trò.** Nghiên cứu marketing giúp doanh nghiệp:
+
+1. Xác định rõ vấn đề cần giải quyết, loại bỏ những điều còn mơ hồ.
+2. Hạn chế rủi ro kinh doanh — ví dụ biết trước khu vực nhu cầu thấp để không đổ tiền vào đó.
+3. Cung cấp thông tin có giá trị làm cơ sở cho các quyết định marketing.
+4. Tìm ra cách hoạt động hiệu quả hơn.
+5. Hỗ trợ các bộ phận khác (sản xuất, kỹ thuật, tài chính) cùng hướng tới mục tiêu thỏa mãn khách hàng.
+
+**Giới hạn.** *(Hỏi lớp: "Vậy nghiên cứu thị trường có phải là chìa khóa của thành công?")*
+
+Không hẳn. Nghiên cứu marketing **không ra quyết định** — nhà quản trị ra quyết định, không phải nhà
+nghiên cứu. Và nghiên cứu **không bảo đảm thành công**, vì kết quả kinh doanh phụ thuộc vào nhiều yếu
+tố cùng lúc:
+
+> **Y = f(x₁, x₂, …, xₙ)** — kết quả kinh doanh (Y) là hàm của nhiều yếu tố: sản phẩm, giá, đối thủ,
+> kinh tế, cách triển khai… Nghiên cứu làm rõ một số yếu tố x, không kiểm soát được tất cả.
+
+*(Ghi chú cho giảng viên: slide gốc ghi "Y = f (x1) + (fx2) +... f (xn)"; viết lại thành
+Y = f(x₁, x₂, …, xₙ) cho đúng ký hiệu hàm.)*
+
+### 3.4 Mục đích và phạm vi
 
 Nghiên cứu marketing phục vụ một trong hai mục đích, và hai mục đích này có thể chuyển hóa cho nhau:
 
@@ -155,16 +191,38 @@ phối** (kênh, điểm bán), **xúc tiến** (thông điệp, kênh truyền 
 *(Hỏi nhanh: "Một nghiên cứu xem khách hàng chấp nhận trả tối đa bao nhiêu cho một ly trà sữa thuộc
 phạm vi nào?" → giá.)*
 
-### 3.4 Phân loại theo ba tiêu chí
+Lưu ý phân biệt: **nghiên cứu thị trường** xoay quanh thị trường mục tiêu và hành vi khách hàng trong
+thị trường đó; **nghiên cứu marketing** rộng hơn — bao trùm mọi hoạt động marketing của doanh nghiệp
+(cả 4P). Bảng so sánh 5 khía cạnh có trong tài liệu đọc thêm.
+
+### 3.5 Phân loại theo ba tiêu chí
 
 Nghiên cứu marketing không phải một phương pháp duy nhất. Chúng ta phân loại theo **ba tiêu chí**,
 mỗi tiêu chí trả lời một câu hỏi khác nhau. Một nghiên cứu cụ thể luôn có một "vị trí" trên cả ba tiêu
-chí.
+chí. *(Các cách phân loại khác — theo địa điểm thực hiện, theo tính liên tục — có trong tài liệu
+đọc thêm.)*
 
-*(Ghi chú cho giảng viên: đề cương ghi 1.2.1 và 1.2.2 cùng tên "Phân loại theo mục tiêu nghiên cứu";
-bài giảng dùng ba tiêu chí theo slide UEF.)*
+*(Ghi chú cho giảng viên: đề cương ghi 1.2.1 và 1.2.2 cùng tên "Phân loại theo mục tiêu nghiên cứu".
+Đề xuất đặt lại thành 1.2.1 Theo mục tiêu nghiên cứu · 1.2.2 Theo mức độ chuyên sâu · 1.2.3 Theo tính
+chất nghiên cứu — đúng với cấu trúc dưới đây.)*
 
-**Tiêu chí 1 — Theo mục tiêu cốt lõi: hàn lâm hay ứng dụng?**
+**Tiêu chí 1 — Theo mục tiêu nghiên cứu**
+
+*(a) Xác định vấn đề hay giải quyết vấn đề?*
+
+- **Nghiên cứu xác định vấn đề** — phát hiện những vấn đề chưa hiển hiện nhưng đang tồn tại hoặc sắp
+  xảy ra: nghiên cứu tiềm năng thị trường, thị phần, hình ảnh thị trường, đặc điểm thị trường, phân
+  tích bán hàng, dự báo, xu hướng kinh doanh.
+- **Nghiên cứu giải quyết vấn đề** — khi vấn đề đã rõ, tìm cách giải quyết: nghiên cứu phân khúc thị
+  trường, sản phẩm, giá, chiêu thị, phân phối.
+
+`[VERIFY: cách chia này theo Malhotra, Marketing Research: An Applied Orientation — ghi lần xuất bản
+khi trích]`
+
+Ví dụ (giả định): nghiên cứu cho thấy thị phần của một chuỗi trà sữa đang giảm → *xác định vấn đề*.
+Nghiên cứu mức giá sinh viên chấp nhận để kéo khách trở lại → *giải quyết vấn đề*.
+
+*(b) Hàn lâm hay ứng dụng?*
 
 - **Nghiên cứu hàn lâm (cơ bản):** mở rộng hiểu biết lý thuyết, kiểm định mô hình, đóng góp cho khoa
   học marketing nói chung. Ví dụ: "Mô hình tác động của quảng cáo truyền hình đến lòng tin thương hiệu."
@@ -173,9 +231,11 @@ bài giảng dùng ba tiêu chí theo slide UEF.)*
 
 Dự án của các bạn trong môn này sẽ là **nghiên cứu ứng dụng** — gắn với một quyết định marketing thật.
 
-**Tiêu chí 2 — Theo mục tiêu thiết kế: khám phá, mô tả, tương quan hay nhân quả?**
+**Tiêu chí 2 — Theo mức độ chuyên sâu: khám phá, mô tả, tương quan hay nhân quả?**
 
-Đây là tiêu chí quan trọng nhất của buổi hôm nay. Bốn loại trả lời bốn kiểu câu hỏi khác nhau:
+Đây là tiêu chí quan trọng nhất của buổi hôm nay. Nghiên cứu khám phá còn được gọi là nghiên cứu
+**thăm dò**; nghiên cứu nhân quả thường được thực hiện bằng **thử nghiệm** (experimental research).
+Bốn loại trả lời bốn kiểu câu hỏi khác nhau:
 
 | Loại | Câu hỏi trả lời | Dùng khi |
 |---|---|---|
@@ -207,14 +267,14 @@ số liệu thực tế đã kiểm chứng):
 > **Lỗi hiểu thường gặp — "Nghiên cứu khám phá là kém khoa học."** Không phải. Nó là bước đi đúng khi
 > vấn đề còn mơ hồ. Lỗi là dùng khám phá (vài cuộc phỏng vấn) rồi **kết luận cho cả thị trường**.
 
-**Tiêu chí 3 — Theo tính chất dữ liệu: định tính hay định lượng?**
+**Tiêu chí 3 — Theo tính chất nghiên cứu: định tính hay định lượng?**
 
 | | Định tính (qualitative) | Định lượng (quantitative) |
 |---|---|---|
 | Mục đích | Khám phá sâu, hiểu động cơ, xây dựng lý thuyết (quy nạp) | Đo lường, kiểm định giả thuyết (suy diễn) |
 | Dữ liệu | Lời nói, văn bản, hình ảnh, âm thanh | Con số, tỷ lệ, thống kê |
 | Cỡ mẫu | Nhỏ, không đại diện | Lớn, hướng tới đại diện |
-| Phương pháp | Phỏng vấn sâu, thảo luận nhóm, netnography | Khảo sát, thử nghiệm |
+| Phương pháp | Phỏng vấn sâu (depth interview), phỏng vấn nhóm điển hình (focus group), netnography | Khảo sát, thử nghiệm, nghiên cứu nhóm cố định (panel) |
 
 Xu hướng hiện nay là **kết hợp cả hai** (mixed methods): định tính trước để hiểu vấn đề và xây dựng
 câu hỏi, định lượng sau để đo lường trên mẫu lớn.
@@ -236,9 +296,9 @@ Chuyển ý: Lý thuyết đủ rồi — thử dùng ngay.
 
 ---
 
-## S5 · Một nghiên cứu diễn ra như thế nào, và nằm ở đâu trong doanh nghiệp (63–88')
+## S5 · Một nghiên cứu diễn ra như thế nào, và nằm ở đâu trong doanh nghiệp (63–90')
 
-### 5.1 Tiến trình 6 bước (khoảng 14')
+### 5.1 Tiến trình 6 bước (khoảng 13')
 
 Mọi nghiên cứu marketing tiêu chuẩn đều đi qua một tiến trình tuần tự. Slide bài giảng và các video
 đều dùng **6 bước**, dù tên gọi hơi khác nhau:
@@ -253,6 +313,11 @@ Mọi nghiên cứu marketing tiêu chuẩn đều đi qua một tiến trình t
 *(Ghi chú: một số video gộp bước 2–3 thành "lập kế hoạch nghiên cứu" và thêm bước cuối "ra quyết
 định / hành động". Bài giảng theo slide UEF; có thể nói thêm: sau bước 6 là quyết định của nhà quản
 trị — nằm ngoài nghiên cứu nhưng là lý do nghiên cứu tồn tại.)*
+
+*(Ghi chú: bài giảng Văn Lang của giảng viên chia tiến trình thành **4 giai đoạn** — Xác định vấn đề
+nghiên cứu · Thiết kế nghiên cứu · Thực hiện nghiên cứu · Báo cáo kết quả — với 10 bước con. Hai cách
+chia khớp nhau; bảng đối chiếu nằm trong tài liệu đọc thêm. Trên lớp chỉ dùng 6 bước cho thống nhất
+với slide UEF.)*
 
 Thay vì đọc định nghĩa từng bước, chúng ta đi qua **một ví dụ** từ đầu đến cuối.
 
@@ -305,10 +370,38 @@ xuất hành động. Giám đốc không đọc dữ liệu thô — họ cần
 > **Lỗi hiểu thường gặp — "Mẫu càng lớn thì kết quả càng đúng."** Hỏi 5.000 người giàu về điện thoại
 > giá rẻ vẫn sai. Đúng đối tượng quan trọng hơn đông đối tượng. Buổi 8 sẽ học kỹ về chọn mẫu.
 
+### 5.2 Đặc điểm và đạo đức của hoạt động nghiên cứu (khoảng 4')
+
+Những lỗi trên cho thấy nghiên cứu marketing đòi hỏi một cách làm việc riêng. Sáu **đặc điểm** của
+hoạt động nghiên cứu marketing:
+
+1. **Dùng phương pháp khoa học** — có quy trình, có bằng chứng.
+2. **Có tính sáng tạo** — mỗi vấn đề cần một thiết kế phù hợp, không có công thức chung.
+3. **Dùng nhiều phương pháp** — kết hợp dữ liệu thứ cấp, định tính, định lượng.
+4. **Có sự logic** — từ vấn đề đến mục tiêu, dữ liệu và kết luận phải nối liền.
+5. **Cần sự hoài nghi** — luôn hỏi "dữ liệu này có thật sự nói điều đó không?".
+6. **Đề cao đạo đức nghiên cứu.**
+
+Đặc điểm thứ sáu liên quan trực tiếp đến dự án của các bạn, vì các bạn sắp đi hỏi người thật. Bốn
+nguyên tắc tối thiểu:
+
+- **Tự nguyện và được thông tin:** người trả lời biết nghiên cứu để làm gì, được quyền từ chối hoặc
+  dừng giữa chừng.
+- **Ẩn danh và bảo mật:** không thu thập thông tin định danh nếu không cần; không chia sẻ dữ liệu cá
+  nhân ra ngoài nhóm.
+- **Không đội lốt nghiên cứu:** không dùng "khảo sát" để bán hàng hoặc thu thập dữ liệu cho mục đích
+  khác.
+- **Trung thực khi báo cáo:** không bịa, không sửa, không chọn lọc dữ liệu cho đẹp — kể cả khi kết
+  quả không như mong đợi.
+
+`[VERIFY: nếu muốn dẫn chuẩn quốc tế, đối chiếu Bộ quy tắc ICC/ESOMAR về nghiên cứu thị trường, xã hội
+và dữ liệu; nếu trường có quy định riêng về đạo đức khi khảo sát (ví dụ mẫu phiếu đồng ý tham gia),
+bổ sung vào đây — NEEDS PROFESSOR INPUT]`
+
 Chuyển ý: Một nghiên cứu như ví dụ trà sữa là một **dự án** — có bắt đầu, có kết thúc. Nhưng doanh
 nghiệp cần thông tin **mỗi ngày**. Vậy nghiên cứu marketing nằm ở đâu trong dòng thông tin đó?
 
-### 5.2 Hệ thống thông tin marketing (khoảng 7')
+### 5.3 Hệ thống thông tin marketing (khoảng 6')
 
 **Hệ thống thông tin marketing (MIS)** là hệ thống tích hợp con người, thiết bị và quy trình để thu
 thập, phân tích và phân phối thông tin chính xác, kịp thời, hỗ trợ nhà quản lý ra quyết định. Gồm
@@ -329,7 +422,11 @@ Cách phân biệt dễ nhớ nhất: **tình báo marketing là một dòng ch�
 marketing là trả lời một câu hỏi cụ thể**. Báo cáo nội bộ cho giám đốc trà sữa biết doanh số giảm;
 chỉ nghiên cứu marketing mới trả lời được **vì sao**.
 
-### 5.3 Ai làm nghiên cứu, ai dùng nghiên cứu (khoảng 4')
+### 5.4 Ai làm nghiên cứu, ai dùng nghiên cứu (khoảng 4')
+
+Doanh nghiệp có hai **nguồn cung cấp** hoạt động nghiên cứu: **bên trong** (bộ phận marketing hoặc
+nghiên cứu của chính doanh nghiệp) và **bên ngoài** (công ty nghiên cứu chuyên nghiệp, cơ quan nhà
+nước, tổ chức phi chính phủ).
 
 **Người thực hiện (the doers):**
 
@@ -356,7 +453,7 @@ nào đáng tin.
 
 ---
 
-## S6 · Kiểm tra nhanh (88–93')
+## S6 · Kiểm tra nhanh (90–94')
 
 *(Chiếu 3 câu, chỉ định phát biểu — mỗi câu 1 bạn, gọi ngẫu nhiên theo danh sách.)*
 
@@ -374,13 +471,13 @@ nào đáng tin.
 
 ---
 
-## S7 · Thực hành nhóm "Xưởng đề tài" (93–138')
+## S7 · Thực hành nhóm "Xưởng đề tài" (94–139')
 
 *(Xem phiếu `W1_activity_xuong_de_tai.md` — kịch bản, bốn chặng, phiếu nhóm, cách phản hồi.)*
 
 ---
 
-## S8 · Kết buổi (138–145')
+## S8 · Kết buổi (139–146')
 
 *(Phát phiếu ra về — giấy nhỏ hoặc trang cuối phiếu hoạt động.)*
 
@@ -402,9 +499,12 @@ ký — và học cách phân biệt một nguồn đáng tin với một bài v
 
 ## Tổng hợp [VERIFY] / [NEEDS PROFESSOR INPUT]
 
-1. `[VERIFY]` Câu chữ và năm của định nghĩa nghiên cứu marketing của AMA (S3).
-2. `[VERIFY]` "Tổng cục Thống kê" → Cục Thống kê (Bộ Tài chính); GfK thuộc NielsenIQ (S5).
-3. Các số liệu trong ví dụ từ video (kem, giao đồ ăn, A/B test) chỉ dùng như **ví dụ minh họa** —
-   bài giảng đã bỏ các con số cụ thể không có nguồn.
-4. Ví dụ chuỗi trà sữa là **tình huống giả định** (S5).
-5. `[NEEDS PROFESSOR INPUT]` Ngày hạn nộp M1 và quy định nộp trễ (S2, S8).
+1. `[VERIFY]` Nguồn của ba định nghĩa (S3.2): tên sách, năm của Kotler; phiên bản định nghĩa AMA (bản
+   cũ, khác định nghĩa AMA hiện hành); tên sách Nguyễn Đình Thọ (2015).
+2. `[VERIFY]` Cách chia nghiên cứu xác định vấn đề / giải quyết vấn đề theo Malhotra — lần xuất bản (S3.5).
+3. `[VERIFY]` Chuẩn đạo đức nghiên cứu (ICC/ESOMAR) và quy định của trường về khảo sát (S5.2).
+4. `[VERIFY]` "Tổng cục Thống kê" → Cục Thống kê (Bộ Tài chính); GfK thuộc NielsenIQ (S5.4).
+5. Các ví dụ từ video (kem, giao đồ ăn, A/B test) chỉ dùng như **ví dụ minh họa** — bài giảng đã bỏ
+   các con số cụ thể không có nguồn.
+6. Ví dụ chuỗi trà sữa là **tình huống giả định** (S5).
+7. `[NEEDS PROFESSOR INPUT]` Ngày hạn nộp M1 và quy định nộp trễ (S2, S8).
