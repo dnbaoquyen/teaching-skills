@@ -1,0 +1,453 @@
+# Course Passport — MKT1107 Nghiên cứu Marketing
+# BẢN NHÁP lập từ đề cương chi tiết UEF; chờ giảng viên xác nhận.
+# Mỗi 'Buổi' trong đề cương = một mục W (W1 = Buổi 1).
+passport_version: '1.0'
+course:
+  code: MKT1107
+  title: Nghiên cứu Marketing (Marketing Research)
+  discipline: Marketing
+  level: 'Đại học — [NEEDS PROFESSOR INPUT: sinh viên năm mấy, ngành/chuyên ngành]'
+  credits: 3
+  modality: null  # [NEEDS PROFESSOR INPUT]
+  class_size: null
+  contact_hours_per_week: null
+  weeks: 15
+  language_of_instruction: Tiếng Việt
+  prerequisites:
+  - MKT1101 Marketing căn bản
+  institution_constraints:
+  - Đề cương chi tiết UEF, Khoa Marketing, áp dụng từ HK1A 2025–2026
+  - 3 tín chỉ (3 LT, 0 TH)
+  - 'Tài liệu chính: Tài liệu học tập Nghiên cứu Marketing (UEF, lưu hành nội bộ); Bojei, Che Wel & Oh (2012), Marketing Research,
+    OUM'
+term_calendar:
+  start_date: null
+  end_date: null
+  holidays: []
+  exam_weeks: []
+  add_drop_deadline: null
+  withdrawal_deadline: null
+learner_profile:
+  prior_knowledge: Đã học Marketing căn bản (MKT1101) theo yêu cầu tiên quyết; các kiến thức khác [NEEDS PROFESSOR INPUT]
+  motivation_context: '[NEEDS PROFESSOR INPUT]'
+  known_difficulties: []
+  accessibility_needs: unknown
+  cohort_evidence: null
+learning_outcomes:
+- id: LO1
+  statement: CLO1. Giải thích được những kiến thức liên quan đến nghiên cứu Marketing và các phương pháp nghiên cứu Marketing.
+  bloom_level: understand
+  assessed_by:
+  - A2
+  - A3
+  - A4
+  taught_in:
+  - W1
+  - W2
+  - W3
+  - W4
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO2
+  statement: CLO2. Xây dựng được kế hoạch nghiên cứu Marketing thích hợp phục vụ ra quyết định của nhà quản trị Marketing.
+  bloom_level: create
+  assessed_by:
+  - A2
+  - A3
+  - A4
+  taught_in:
+  - W1
+  - W2
+  - W3
+  - W4
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO3
+  statement: CLO3. Xác định được vấn đề nghiên cứu, và thực hiện thiết kế nghiên cứu, chọn mẫu, thiết kế bảng câu hỏi, phân
+    tích dữ liệu, trình bày kết quả nghiên cứu.
+  bloom_level: apply
+  assessed_by:
+  - A1
+  taught_in:
+  - W1
+  - W2
+  - W3
+  - W4
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO4
+  statement: CLO4. Biểu diễn kỹ năng viết đề cương nghiên cứu và thực hiện các bước trong qui trình nghiên cứu Marketing.
+  bloom_level: apply
+  assessed_by: []
+  taught_in:
+  - W2
+  - W3
+  - W4
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO5
+  statement: CLO5. Hoàn thành kỹ năng vận dụng nghiên cứu Marketing trong hoạt động sản xuất, kinh doanh của doanh nghiệp.
+  bloom_level: apply
+  assessed_by: []
+  taught_in:
+  - W2
+  - W3
+  - W4
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO6
+  statement: CLO6. Thể hiện kỹ năng làm việc độc lập và làm việc nhóm, kỹ năng giao tiếp, kỹ năng lắng nghe và tư duy phản
+    biện vấn đề.
+  bloom_level: apply
+  assessed_by: []
+  taught_in:
+  - W2
+  - W3
+  - W4
+  - W6
+  - W7
+  - W10
+  - W11
+  - W12
+  - W13
+  - W14
+  - W15
+- id: LO7
+  statement: CLO7. Có nhận thức đúng đắn trong việc nhìn nhận, đánh giá vai trò và tầm quan trọng của nghiên cứu Marketing
+    đối với hoạt động sản xuất kinh doanh của doanh nghiệp.
+  bloom_level: evaluate
+  assessed_by: []
+  taught_in:
+  - W2
+  - W3
+  - W4
+  - W7
+  - W8
+  - W9
+  - W10
+  - W13
+  - W14
+  - W15
+- id: LO8
+  statement: CLO8. Thể hiện tinh thần nghiêm túc trong việc tiếp cận nghiên cứu Marketing và có ý thức trách nhiệm đạo đức
+    trong nghiên cứu đối với tổ chức, xã hội.
+  bloom_level: evaluate
+  assessed_by: []
+  taught_in:
+  - W2
+  - W3
+  - W4
+  - W7
+  - W10
+  - W13
+  - W14
+  - W15
+assessment_plan:
+- id: A1
+  type: participation
+  title: AM1 – Đánh giá chuyên cần (F1)
+  weight: 10
+  outcomes_assessed:
+  - LO3
+  week: null
+  ai_resilience: not_reviewed
+  artifact_ref: null
+- id: A2
+  type: homework
+  title: AM2 – Bài tập (F1)
+  weight: 20
+  outcomes_assessed:
+  - LO1
+  - LO2
+  week: null
+  ai_resilience: not_reviewed
+  artifact_ref: null
+- id: A3
+  type: presentation
+  title: AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (F2 giữa kỳ)
+  weight: 20
+  outcomes_assessed:
+  - LO1
+  - LO2
+  week: null
+  ai_resilience: not_reviewed
+  artifact_ref: null
+- id: A4
+  type: paper
+  title: AM7 Tiểu luận + AM9 Đánh giá làm việc nhóm (S cuối kỳ)
+  weight: 50
+  outcomes_assessed:
+  - LO1
+  - LO2
+  week: null
+  ai_resilience: not_reviewed
+  artifact_ref: null
+schedule:
+- id: W1
+  topic: 'Giới thiệu học phần, chia nhóm, giao đề tài; Bài 1: Tổng quan về nghiên cứu Marketing (định nghĩa, phân loại, tiến
+    trình, hệ thống thông tin marketing, người thực hiện/người sử dụng)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W2
+  topic: 'Bài 2: Tham khảo và trích dẫn tài liệu — 2.1 Cách trích dẫn và liệt kê tài liệu tham khảo'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W3
+  topic: 'Bài 2 (tiếp): 2.2 Trích dẫn theo APA 7th (tác giả, tổ chức, trường hợp khác); 2.3 Cách ghi tài liệu tham khảo'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W4
+  topic: 'Bài 3: AI trong nghiên cứu khoa học và marketing — 3.1 Khái niệm, 3.2 Lịch sử, 3.3 Chuỗi giá trị Gen AI, 3.4 Phân
+    loại AI'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W5
+  topic: 'Bài 3 (tiếp): 3.5 Ưu/nhược điểm AI, 3.6 Ứng dụng AI theo ngành, 3.7 Công cụ AI hỗ trợ nghiên cứu, 3.8 Cách đặt prompt
+    hỗ trợ nghiên cứu'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W6
+  topic: 'Bài 4: Thiết kế nghiên cứu — khái niệm, vấn đề nghiên cứu, đề cương nghiên cứu marketing (4.3.1–4.3.9)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W7
+  topic: 'Bài 5: Các phương pháp thu thập dữ liệu — dữ liệu thứ cấp; dữ liệu sơ cấp (định tính, định lượng)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W8
+  topic: 'Bài 6: Chọn mẫu — khái niệm, quy trình chọn mẫu, phương pháp xác suất và phi xác suất'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO7
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W9
+  topic: 'Bài 7: Đo lường — khái niệm, 4 cấp thang đo, độ mạnh thang đo, sai lệch, giá trị và độ tin cậy'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO7
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W10
+  topic: 'Bài 8: Thiết kế bảng câu hỏi — vai trò; quy trình thiết kế (8.2.1–8.2.8, tổng quan)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W11
+  topic: 'Bài 8 (tiếp): 8.2.1–8.2.4 (vấn đề cần thu thập, dạng phỏng vấn, nội dung câu hỏi, hình thức trả lời)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W12
+  topic: 'Bài 8 (tiếp): 8.2.5–8.2.8 (thuật ngữ, cấu trúc, hình thức bảng hỏi, thử nghiệm và hoàn thiện)'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W13
+  topic: 'Bài 9: Phân tích dữ liệu — hiệu chỉnh, mã hóa, phân tích mô tả/đơn biến/nhị biến'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W14
+  topic: 'Bài 10: Báo cáo kết quả nghiên cứu — vai trò, phân loại, nội dung báo cáo, nguyên tắc trình bày bảng và biểu đồ'
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+- id: W15
+  topic: Bài 10 (tiếp) và ôn tập kết thúc học phần
+  outcomes:
+  - LO1
+  - LO2
+  - LO3
+  - LO4
+  - LO5
+  - LO6
+  - LO7
+  - LO8
+  activities: []
+  assessments_due: []
+  artifact_refs: []
+policies:
+  grading_scheme: F1 quá trình 30% (chuyên cần 10%, bài tập 20%); F2 giữa kỳ 20% (thuyết trình nhóm); S cuối kỳ 50% (tiểu
+    luận nhóm)
+  late_policy: '[NEEDS PROFESSOR INPUT]'
+  ai_use_policy: '[NEEDS PROFESSOR INPUT]'
+  integrity_policy: '[NEEDS PROFESSOR INPUT]'
+  attendance_policy: '[NEEDS PROFESSOR INPUT]'
+workload_audit:
+  estimated_hours_per_week: null
+  credit_hour_target: null
+  status: not_audited
+  constants_used: ''
+gates:
+  alignment_gate:
+    status: not_run
+    last_run: null
+    findings: []
+  quality_gate:
+    status: not_run
+    last_run: null
+    findings: []
+artifacts:
+- path: 2.5_MKT1107_NGHIEN_CUU_MARKETING.docx
+  type: syllabus
+  produced_by: professor
+  stage: 0
+  confirmed_by_professor: false
+iteration_history: []
