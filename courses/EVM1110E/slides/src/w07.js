@@ -112,24 +112,24 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
   // 8 Kraljic origin
   s = slide("Kraljic: mua hàng phải trở thành quản trị nguồn cung");
   defCards(s, [
-    ["Kraljic (1983), HBR", TEAL, "Tên bài: “Purchasing must become supply management” — mua hàng không chỉ là đặt đơn cho rẻ, mà là quản trị nguồn cung như một phần của chiến lược.", "(S01)"],
+    ["Kraljic (1983), HBR", TEAL, "Thời mua hàng ổn định đã hết: nguyên liệu khan hiếm, bất ổn chính trị, cạnh tranh, công nghệ đổi nhanh → phải chuyển từ “purchasing” (nghiệp vụ) sang “supply management” (chiến lược).", "(Harvard Business Review, 61(5), 109–117)"],
     ["CIPS", YEL, "Công cụ chiến lược để nhận diện và giảm rủi ro nguồn cung, phân loại các hạng mục mua theo hai trục.", "(Chartered Institute of Procurement & Supply, S01)"],
     ["Marcos et al. (2018)", BLUE, "“Today, the model is one of the dominant strategic tools guiding purchasing activities in organizations.”", "(tr. 242)"],
   ], "Tổng hợp: Kraljic giúp người mua quyết định hạng mục nào cần quan hệ chặt, hạng mục nào cần khai thác sức mua — và Nova cũng là người mua.");
   notes(s, {
-    say: "Đề cương mục 7.1. Peter Kraljic công bố mô hình năm 1983 trên Harvard Business Review, tên bài: mua hàng phải trở thành quản trị nguồn cung. CIPS — Viện Mua sắm và Cung ứng Chartered — mô tả đây là công cụ chiến lược để nhận diện và giảm rủi ro nguồn cung. Giáo trình KAM của môn viết: ngày nay mô hình là một trong những công cụ chiến lược chủ đạo của hoạt động mua hàng. Nova cũng là người mua — nên Nova dùng được.",
-    gv: "S01 (CIPS; Kraljic 1983 — trang HBR). Marcos et al. (2018), Chương 10, Hình 10.1 và tr. 242. LƯU Ý: giáo trình dùng Kraljic theo chiều phòng mua của khách hàng nhìn nhà cung cấp; khung đã duyệt của môn (quyết định GV 3) dùng chiều agency là người mua — slide giữ khung của môn.",
+    say: "Đề cương mục 7.1. Peter Kraljic, khi đó ở McKinsey, công bố mô hình năm 1983 trên Harvard Business Review, tên bài: mua hàng phải trở thành quản trị nguồn cung. Ông viết: thời mua hàng ổn định đã hết — nguyên liệu khan hiếm, bất ổn chính trị, cạnh tranh, công nghệ đổi nhanh — nên doanh nghiệp phải chuyển từ mua hàng như một nghiệp vụ sang quản trị nguồn cung như một chiến lược. CIPS — Viện Mua sắm và Cung ứng Chartered — mô tả đây là công cụ chiến lược để nhận diện và giảm rủi ro nguồn cung. Giáo trình KAM của môn viết: ngày nay mô hình là một trong những công cụ chiến lược chủ đạo của hoạt động mua hàng. Nova cũng là người mua — nên Nova dùng được.",
+    gv: "ĐÃ ĐỌC TOÀN VĂN Kraljic (1983) qua bản dịch tiếng Nhật của Terashima (2011, GV cung cấp; bản dịch dùng riêng, không phát lại cho SV). Bối cảnh bài: Kraljic (McKinsey Düsseldorf) xây ma trận khi tư vấn cho phòng mua của BASF. S01 (CIPS). Marcos et al. (2018), Chương 10, Hình 10.1 và tr. 242. LƯU Ý: giáo trình dùng Kraljic theo chiều phòng mua của khách hàng nhìn nhà cung cấp; khung đã duyệt của môn (quyết định GV 3) dùng chiều agency là người mua — slide giữ khung của môn.",
     next: "Hai trục — đọc theo góc agency.",
   });
 
   // 9 two axes
   s = slide("Hai trục: hạng mục tác động bao nhiêu, và khó mua đến đâu");
-  const ax = [["Profit impact", "tác động lợi nhuận", "Mức hạng mục đóng góp vào khả năng sinh lời", ["Chiếm bao nhiêu ngân sách?", "Khách của An Phát có nhìn thấy, cảm nhận không?", "Nếu kém, An Phát có coi cả sự kiện thất bại?"], TEAL], ["Supply risk", "rủi ro nguồn cung", "Mức khó tìm nguồn, mức tổn thương khi nguồn cung gặp sự cố", ["Bao nhiêu nhà cung cấp đủ năng lực, ở đây, lúc này?", "Bỏ ngang thì thay trong bao lâu?", "Có ràng buộc độc quyền, mùa cao điểm?"], PINK]];
-  ax.forEach(([a, b, d, qs, c], i) => { const x = 0.6 + i * 6.13; box(s, x, 1.95, 5.9, 0.85, c); T(s, a + " · " + b, x + 0.2, 1.95, 5.5, 0.85, { bold: true, fontSize: 19, color: NAVY }); box(s, x, 2.95, 5.9, 3.3); T(s, d, x + 0.2, 3.05, 5.5, 0.8, { fontSize: 15, color: MU, italic: true, valign: "top" }); T(s, bullets(qs), x + 0.2, 3.85, 5.5, 2.3, { fontSize: 16, valign: "top", paraSpaceAfter: 6 }); });
-  src(s, "Định nghĩa trục: CIPS (S01); Marcos et al. (2018, tr. 242). Câu hỏi cho agency: nhận định của môn [VERIFY cách đọc profit impact theo góc agency].", 6.45);
+  const ax = [["Profit impact", "tác động lợi nhuận", "Kraljic: khối lượng mua, tỷ trọng trong tổng chi phí mua, tác động lên chất lượng và tăng trưởng", ["Chiếm bao nhiêu ngân sách?", "Khách của An Phát có nhìn thấy, cảm nhận không?", "Nếu kém, An Phát có coi cả sự kiện thất bại?"], TEAL], ["Supply risk", "rủi ro nguồn cung", "Kraljic: khả năng sẵn có, số nhà cung cấp, nhu cầu cạnh tranh, khả năng tự làm, rủi ro tồn kho, khả năng thay thế", ["Bao nhiêu nhà cung cấp đủ năng lực, ở đây, lúc này?", "Bỏ ngang thì thay trong bao lâu?", "Có ràng buộc độc quyền, mùa cao điểm?"], PINK]];
+  ax.forEach(([a, b, d, qs, c], i) => { const x = 0.6 + i * 6.13; box(s, x, 1.95, 5.9, 0.85, c); T(s, a + " · " + b, x + 0.2, 1.95, 5.5, 0.85, { bold: true, fontSize: 19, color: NAVY }); box(s, x, 2.95, 5.9, 3.3); T(s, d, x + 0.2, 3.05, 5.5, 0.95, { fontSize: 14, color: MU, italic: true, valign: "top" }); T(s, bullets(qs), x + 0.2, 4.1, 5.5, 2.1, { fontSize: 16, valign: "top", paraSpaceAfter: 6 }); });
+  src(s, "Tiêu chí: Kraljic (1983), giai đoạn 1 “phân loại”; CIPS (S01); Marcos et al. (2018, tr. 242). Câu hỏi cho agency: nhận định của môn [VERIFY cách đọc profit impact].", 6.45);
   notes(s, {
     say: "Hai trục. Profit impact — tác động lợi nhuận: mức hạng mục đóng góp vào khả năng sinh lời. Với agency, hỏi: hạng mục chiếm bao nhiêu ngân sách; khách của An Phát có nhìn thấy, cảm nhận không; nếu kém, An Phát có coi cả sự kiện thất bại không. Supply risk — rủi ro nguồn cung: mức khó tìm nguồn và mức tổn thương khi nguồn cung gặp sự cố. Hỏi: có bao nhiêu nhà cung cấp đủ năng lực ở đây, lúc này; bỏ ngang thì thay trong bao lâu; có độc quyền, có rơi vào mùa cao điểm không. Trong sự kiện, rủi ro nguồn cung nặng hơn sản xuất, vì ngày sự kiện không dời được.",
-    gv: "Giáo trình (tr. 242): “Supply risk: what would be the impact on the business if these purchased goods and services were disrupted? Profit impact: what do these purchased goods and services do to help us make profit and generate cash?” Nhận định của người soạn: với agency, profit impact đọc rộng thành tác động lên giá trị giao cho Key Account + lợi nhuận hợp đồng. [VERIFY — GV quyết định có giữ không.]",
+    gv: "Kraljic (1983), giai đoạn 1: profit impact đo bằng khối lượng mua, tỷ trọng trong tổng chi phí mua, tác động lên chất lượng sản phẩm hoặc tăng trưởng; supply risk đo bằng khả năng sẵn có, số nhà cung cấp, nhu cầu cạnh tranh, cơ hội tự làm hay mua, rủi ro lưu kho, khả năng thay thế. Giáo trình (tr. 242): “Supply risk: what would be the impact on the business if these purchased goods and services were disrupted? Profit impact: what do these purchased goods and services do to help us make profit and generate cash?” Nhận định của người soạn: với agency, profit impact đọc rộng thành tác động lên giá trị giao cho Key Account + lợi nhuận hợp đồng. [VERIFY — GV quyết định có giữ không.]",
     next: "Bốn ô.",
   });
 
@@ -141,7 +141,7 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
   src(s, "Nguồn: CIPS (S01); Marcos et al. (2018, Hình 10.1, tr. 242).", 6.75);
   notes(s, {
     say: "Bốn ô. Strategic — tác động cao, rủi ro cao: ít nhà cung cấp, tác động lớn; chiến lược là quan hệ đối tác dài hạn dựa trên hiệu quả. Leverage — tác động cao, rủi ro thấp: nhiều nhà cung cấp, dễ thay; khai thác sức mua — so giá, giá mục tiêu, đàm phán khối lượng. Bottleneck — tác động thấp, rủi ro cao: giá trị không lớn nhưng ít người thay, dễ bị tăng giá đột ngột; đảm bảo nguồn cung, tìm dự phòng. Non-critical — cả hai thấp: chuẩn hóa, gom đơn. Lưu ý: Non-critical không có nghĩa là không quan trọng — mà là không khó mua.",
-    gv: "CIPS (S01) và Marcos et al. (2018, Hình 10.1): Strategic “collaborate/joint innovation, develop long-term relationships”; Leverage “exploit purchase power, targeted pricing/hard negotiation”; Bottleneck “production-based scarcity, innovate/strive to eliminate”; Non-critical “standardize, focus on process efficiency”. Giữ thuật ngữ tiếng Anh (quyết định GV 6).",
+    gv: "CIPS (S01) và Marcos et al. (2018, Hình 10.1): Strategic “collaborate/joint innovation, develop long-term relationships”; Leverage “exploit purchase power, targeted pricing/hard negotiation”; Bottleneck “production-based scarcity, innovate/strive to eliminate”; Non-critical “standardize, focus on process efficiency”. Kraljic (1983) gốc: ô Strategic còn được phân tích tiếp theo thế mạnh người mua so với nhà cung cấp → ba chiến lược: khai thác (exploit), cân bằng (balance), đa dạng hóa (diversify) — tức là không phải mọi hạng mục Strategic đều là “đối tác” (Gelderman & van Weele, 2003, tr. 207–208). Giữ thuật ngữ tiếng Anh (quyết định GV 6).",
     next: "Cách dùng của môn: hai bước.",
   });
 
@@ -221,6 +221,33 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
     next: "Thực hành 1.",
   });
 
+  // 15b hold or move (Gelderman & van Weele 2003)
+  s = slide("Mỗi ô có hai hướng: giữ vị trí, hoặc chủ động kéo hạng mục sang ô khác");
+  const hm = [["Bottleneck", "Chấp nhận phụ thuộc, đảm bảo nguồn cung: dự phòng, hợp đồng dài hạn, giữ chỗ sớm", "→ Non-critical: nới yêu cầu kỹ thuật, tìm nhà cung cấp mới", PINK], ["Non-critical", "Đặt lẻ, xử lý gọn", "→ Leverage: gom nhu cầu cả năm, hợp đồng khung với nhà cung cấp ưu tiên", BLUE], ["Leverage", "Khai thác sức mua — “partner of convenience”", "→ Strategic (ngoại lệ): chỉ khi nhà cung cấp góp được lợi thế cạnh tranh", YEL], ["Strategic", "Duy trì đối tác chiến lược — hoặc chấp nhận bị “khóa” (độc quyền, chi phí đổi cao)", "→ Chấm dứt, tìm nhà cung cấp mới khi hiệu quả không chấp nhận được", TEAL]];
+  T(s, "Giữ vị trí", 2.75, 1.85, 4.8, 0.45, { fontSize: 15, bold: true, color: MU }); T(s, "Dịch chuyển", 7.75, 1.85, 4.98, 0.45, { fontSize: 15, bold: true, color: MU });
+  hm.forEach(([a, b, c, col], i) => { const y = 2.35 + i * 0.98; box(s, 0.6, y, 2.0, 0.86, col); T(s, a, 0.7, y, 1.8, 0.86, { fontSize: 15, bold: true, color: NAVY }); box(s, 2.75, y, 4.85, 0.86); T(s, b, 2.9, y, 4.6, 0.86, { fontSize: 13 }); box(s, 7.75, y, 4.98, 0.86, CARD); T(s, c, 7.9, y, 4.7, 0.86, { fontSize: 13, color: YEL }); });
+  T(s, "Hướng thường gặp: kéo hạng mục rủi ro cao sang trái (giảm rủi ro), đẩy Non-critical lên trên (gom sức mua).", 0.6, 6.3, 12.13, 0.5, { fontSize: 15, bold: true, color: YEL });
+  src(s, "Nguồn: Gelderman & van Weele (2003, Hình 3, tr. 212–214), nghiên cứu tình huống DSM, Akzo Nobel, Te Strake.", 6.8);
+  notes(s, {
+    say: "Gelderman và van Weele, 2003, nghiên cứu cách người làm nghề thực sự dùng ma trận Kraljic ở ba công ty Hà Lan. Họ thấy: mỗi ô có hai hướng — giữ vị trí, hoặc chủ động kéo hạng mục sang ô khác. Bottleneck: giữ thì chấp nhận phụ thuộc và đảm bảo nguồn cung — dự phòng, hợp đồng dài hạn; dịch thì nới yêu cầu kỹ thuật hoặc tìm nhà cung cấp mới để đưa về Non-critical. Non-critical: giữ thì đặt lẻ, xử lý gọn; dịch thì gom nhu cầu cả năm, ký hợp đồng khung để lên Leverage. Leverage: thường giữ — khai thác sức mua, họ gọi là “partner of convenience”, đối tác vì tiện; chỉ ngoại lệ mới nâng lên Strategic. Strategic: duy trì đối tác — hoặc chấp nhận bị khóa vì độc quyền; khi nhà cung cấp làm không chấp nhận được thì chấm dứt và tìm người mới. Hướng thường gặp: kéo hạng mục rủi ro cao sang trái, đẩy Non-critical lên trên.",
+    gv: "Đã đọc toàn văn Gelderman & van Weele (2003), Journal of Purchasing & Supply Management 9, 207–216 — GV cung cấp. Hình 3 “Overview of strategic directions for all categories” và mục 6 “Moving in the matrix” (tr. 212–214). Ví dụ agency: AV nội bộ (Bottleneck) → đàm phán quyền mang AV ngoài vào trước khi ký venue = “tìm nhà cung cấp mới” để kéo sang trái; in ấn nhiều sự kiện (Non-critical) → gom cả năm cho 1–2 nhà in = lên Leverage. Đây là cơ sở cho bước 3 của Thực hành 1 (dời sang 15/4).",
+    ask: "“Với AV nội bộ ở gala 12/12, Nova có thể làm gì để kéo nó sang trái?”",
+    next: "Còn chấm điểm thế nào cho đúng?",
+  });
+
+  // 15c measurement in practice
+  s = slide("Chấm điểm không có công thức chuẩn — điền xong ma trận mới là điểm bắt đầu");
+  const mm = [["Đồng thuận", "Nhóm nhiều bộ phận thảo luận, mỗi điểm phải có dữ kiện", TEAL], ["Một biến mỗi trục", "Giá trị mua ↔ profit impact; số nhà cung cấp ↔ supply risk (≥ 3 nhà = rủi ro thấp)", YEL], ["Điểm có trọng số", "Nhiều tiêu chí, mỗi tiêu chí một trọng số, cộng lại", PINK]];
+  mm.forEach(([a, b, c], i) => { const x = 0.6 + i * 4.13; box(s, x, 1.95, 3.9, 0.7, c); T(s, a, x + 0.2, 1.95, 3.5, 0.7, { bold: true, fontSize: 18, color: NAVY }); box(s, x, 2.75, 3.9, 1.65); T(s, b, x + 0.2, 2.85, 3.5, 1.45, { fontSize: 15, valign: "top" }); });
+  box(s, 0.6, 4.6, 12.13, 1.65);
+  T(s, [{ text: "Sau khi điền, luôn hỏi: ", options: { bold: true, color: YEL } }, { text: "vì sao hạng mục nằm ở đây? có khớp với kinh nghiệm? cách chấm có làm lệch không? chỗ nào cần can thiệp, rủi ro nào chấp nhận được? Làm theo nhóm nhiều bộ phận — producer, kế toán, người làm sáng tạo nhìn rủi ro khác nhau." }], 0.85, 4.6, 11.7, 1.65, { fontSize: 15 });
+  src(s, "Nguồn: Gelderman & van Weele (2003, Hình 2, tr. 210–211; kết luận tr. 214). Thực hành 1 của lớp dùng cách điểm 1–5 + thảo luận nhóm.", 6.45);
+  notes(s, {
+    say: "Kraljic không cho công thức chấm điểm. Gelderman và van Weele thấy người làm nghề dùng ba cách. Đồng thuận: nhóm nhiều bộ phận thảo luận, mỗi điểm phải có dữ kiện. Một biến mỗi trục: lấy giá trị mua thay cho tác động lợi nhuận, số nhà cung cấp thay cho rủi ro — một công ty quy ước có từ ba nhà cung cấp trở lên là rủi ro thấp. Điểm có trọng số: nhiều tiêu chí, mỗi tiêu chí một trọng số, cộng lại. Kết luận quan trọng nhất của họ: điền xong ma trận là điểm bắt đầu, không phải điểm kết thúc. Sau khi điền phải hỏi: vì sao hạng mục nằm ở đây, có khớp với kinh nghiệm không, cách chấm có làm lệch không, chỗ nào cần can thiệp. Và làm theo nhóm nhiều bộ phận — producer, kế toán, người làm sáng tạo nhìn rủi ro khác nhau.",
+    gv: "Gelderman & van Weele (2003): ba phương pháp — consensus (DSM), one-by-one (Akzo Nobel: “3 or more available suppliers is a low supply risk”; nửa trên gồm các hạng mục chiếm 80% giá trị mua), weighted factor score (Te Strake) (Hình 2, tr. 211); “The filling of a matrix should be considered as the starting point of portfolio analysis, definitely not the finishing point” (tr. 214). Lưu ý: cách “một biến” dùng giá trị mua thay profit impact — mâu thuẫn với hiểu lầm “tốn tiền nhất là Strategic” ở slide trước? Không: giá trị mua chỉ là một trục; trục còn lại vẫn là rủi ro.",
+    next: "Thực hành 1.",
+  });
+
   // 16 practice 1
   s = await L.practice("Thực hành 1 · 20 phút: Kraljic cho sự kiện của An Phát", [["10’", "Chấm 1–5 hai trục cho 10 hạng mục; đặt vào ma trận 2×2 trên A1", TEAL], ["6’", "Chọn 3 hạng mục ở 3 ô khác nhau: vị thế nhà cung cấp so với Nova + 1 hành động quan hệ (Procurement hay Buying?)", YEL], ["4’", "Nếu dời sự kiện sang 15/4: đánh dấu ➜ hạng mục đổi ô, 1 câu lý do", PINK]], "FaThLarge", "Sản phẩm", "Ma trận A1 — đội Nova mang theo vào Thực hành 2", "Xếp hạng mục, không xếp tên công ty.");
   notes(s, {
@@ -268,6 +295,19 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
   notes(s, {
     say: "Cấp Procurement quyết định chiến lược cho từng ô. Strategic: chọn một hai đối tác; chia sẻ lịch sự kiện của các Key Account càng sớm càng tốt; cam kết khối lượng nhiều năm để được ưu tiên; họp đánh giá định kỳ hai chiều. Bottleneck: danh sách dự phòng đã thẩm định; điều khoản khung về giá và hủy; theo dõi các hợp đồng venue có điều khoản độc quyền. Leverage: danh sách 2–3 nhà cung cấp ưu tiên, so giá định kỳ, gom khối lượng — nhưng vẫn giữ chuẩn chất lượng, vì An Phát nhìn thấy hạng mục này. Non-critical: mẫu đơn hàng chuẩn, giao cấp Buying tự quyết trong hạn mức.",
     gv: "Giới hạn với ô Leverage (nhận định): CIPS khuyến nghị “khai thác toàn bộ sức mua”; với agency, ép giá tới mức nhà cung cấp cắt chất lượng là tự làm hại mình.",
+    next: "Trong thị trường nghiêng về người bán, agency phải chủ động làm một việc nữa.",
+  });
+
+  // 21b Kraljic decision levels
+  s = slide("Kraljic gốc: mỗi ô một cấp ra quyết định và một tầm thời gian");
+  const dl = [["Strategic", "Lãnh đạo cao nhất", "dài hạn, đến 10 năm", "Ban giám đốc Nova", TEAL], ["Bottleneck", "Cấp cao (trưởng bộ phận)", "thay đổi theo nhu cầu", "Trưởng sản xuất", PINK], ["Leverage", "Cấp trung (trưởng nhóm mua)", "12–24 tháng", "Trưởng sản xuất · producer theo khung", YEL], ["Non-critical", "Cấp thấp (nhân viên mua)", "đến 12 tháng", "Producer tự quyết trong hạn mức", BLUE]];
+  ["Ô", "Cấp quyết định (Kraljic)", "Tầm thời gian", "Ở Nova (gợi ý)"].forEach((h, j) => T(s, h, [0.6, 3.0, 6.6, 9.2][j], 1.85, [2.3, 3.5, 2.5, 3.5][j], 0.45, { fontSize: 14, bold: true, color: MU }));
+  dl.forEach(([a, b, c, d, col], i) => { const y = 2.35 + i * 0.92; box(s, 0.6, y, 2.3, 0.8, col); T(s, a, 0.75, y, 2.0, 0.8, { fontSize: 16, bold: true, color: NAVY }); [[3.0, 3.5, b], [6.6, 2.5, c], [9.2, 3.53, d]].forEach(([x, w, t]) => { box(s, x, y, w - 0.1, 0.8); T(s, t, x + 0.12, y, w - 0.3, 0.8, { fontSize: 14 }); }); });
+  T(s, "Strategic và Bottleneck là việc của cấp Procurement; Leverage và Non-critical có thể giao cấp Buying làm theo khung.", 0.6, 6.1, 12.13, 0.55, { fontSize: 15, bold: true, color: YEL });
+  src(s, "Nguồn: Kraljic (1983), Hình 1–2 (đọc qua bản dịch tiếng Nhật, Terashima, 2011). Cột “Ở Nova”: gợi ý của người soạn.", 6.75);
+  notes(s, {
+    say: "Bài gốc của Kraljic còn một điều ít người nhắc: mỗi ô có một cấp ra quyết định và một tầm thời gian. Strategic do lãnh đạo cao nhất quyết, tầm nhìn dài — đến 10 năm. Bottleneck do cấp cao, trưởng bộ phận, tầm thời gian thay đổi theo nhu cầu. Leverage do cấp trung, 12 đến 24 tháng. Non-critical do nhân viên mua, đến 12 tháng. Áp vào Nova: Strategic và Bottleneck là việc của cấp Procurement — ban giám đốc, trưởng sản xuất; Leverage và Non-critical có thể giao cấp Buying làm theo khung đã đặt. Đó chính là hai cấp ta vừa học.",
+    gv: "Kraljic (1983): Hình 2 “Classifying purchasing material requirements” (cột cấp quyết định: top level / higher level / mid-level / lower level, kèm việc chính và thông tin cần) và Hình 1 “Stage of purchasing sophistication” (tầm thời gian). Đọc qua bản dịch tiếng Nhật do GV cung cấp — nếu có bản gốc tiếng Anh, đối chiếu lại nhãn. Cột “Ở Nova” là ánh xạ của người soạn, khớp bảng hai cấp ở slide trước.",
     next: "Trong thị trường nghiêng về người bán, agency phải chủ động làm một việc nữa.",
   });
 
@@ -439,7 +479,7 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
   s = await L.practice("Thực hành 2 · 30 phút: An Phát đòi giảm 15% — đàm phán dựa trên giá trị", [["3’", "Phát thẻ vai: 3 cặp — nhóm An Phát (người mua) và đội KAM Nova; mỗi nhóm 1 người quan sát", TEAL], ["6’", "Chuẩn bị: mục tiêu, điều sẵn sàng đổi, “điểm dừng”. Đội Nova mang ma trận Thực hành 1", YEL], ["10’", "Đàm phán: An Phát mở đầu; kết thúc bằng biên bản 3 dòng", PINK], ["11’", "Lật thẻ (3’) và tổng kết toàn lớp (8’): mỗi yêu cầu chạm ô nào? Nova đổi được gì?", BLUE]], "FaHandshake", "Sản phẩm", "Biên bản 3 dòng: thống nhất gì · mỗi bên đổi được gì · bước tiếp theo", "Yêu cầu: giảm 15% · đổi AV sang đơn vị quen · giãn thanh toán.", YEL);
   notes(s, {
     say: "Thực hành 2, 30 phút. Tình huống: hôm nay là 20/10, Nova đã ký hợp đồng 2,4 tỷ với An Phát cho gala 12/12. An Phát mời họp gấp với ba yêu cầu: giảm 15%; đổi AV sang một đơn vị quen của ngân hàng vì rẻ hơn; và giãn lịch thanh toán. Họ muốn giữ nguyên ca sĩ và chất lượng gala. Ba cặp: một nhóm là An Phát, một nhóm là đội KAM Nova; mỗi nhóm cử một người quan sát. Sáu phút chuẩn bị — đội Nova mang ma trận Kraljic từ Thực hành 1. Mười phút đàm phán, kết thúc bằng biên bản ba dòng. Rồi lật thẻ và tổng kết: mỗi yêu cầu chạm vào ô nào; Nova nhượng ở đâu và đổi lại được gì.",
-    gv: "Phiếu W07_activity_S6_dam_phan_gia_tri.md (thẻ vai mật: ngân sách thật bị cắt 10%; CEO mới phát biểu ở gala — không chấp nhận rủi ro AV; sẵn sàng ký 2 năm nếu được hỏi đúng). Mốc phút 93–123. Chiếu slide 28 và 31 trong lúc chuẩn bị.",
+    gv: "Phiếu W07_activity_S6_dam_phan_gia_tri.md (thẻ vai mật: ngân sách thật bị cắt 10%; CEO mới phát biểu ở gala — không chấp nhận rủi ro AV; sẵn sàng ký 2 năm nếu được hỏi đúng). Mốc phút 93–123. Chiếu slide 31 (Risk – Value) và 34 (mẫu câu) trong lúc chuẩn bị.",
     next: "Tổng hợp.",
   });
 
@@ -471,14 +511,14 @@ function kraljic(s, x, y, w, h, cells, fs = 15) {
     [["American Express Global Business Travel. (2025). "], ["2026 global meetings & events forecast", 1], ["."]],
     [["Chartered Institute of Procurement & Supply. (n.d.). "], ["Kraljic matrix – What is the Kraljic matrix?", 1], [" CIPS."]],
     [["Chartered Institute of Procurement & Supply. (n.d.). "], ["What is procurement?", 1], [" CIPS."]],
-    [["CWT. (n.d.). "], ["How meetings & events programs can navigate a volatile planning environment", 1], ["."]],
-    [["Global Business Travel Association. (2025, July 21). "], ["Global business travel and events prices set to stabilize through 2025 and 2026", 1], [" [Press release]."]],
-    [["Kraljic, P. (1983, September). Purchasing must become supply management. "], ["Harvard Business Review", 1], ["."]],
+        [["Global Business Travel Association. (2025, July 21). "], ["Global business travel and events prices set to stabilize through 2025 and 2026", 1], [" [Press release]."]],
+    [["Gelderman, C. J., & van Weele, A. J. (2003). Handling measurement issues and strategic directions in Kraljic’s purchasing portfolio model. "], ["Journal of Purchasing & Supply Management, 9", 1], ["(5–6), 207–216."]],
+    [["Kraljic, P. (1983). Purchasing must become supply management. "], ["Harvard Business Review, 61", 1], ["(5), 109–117."]],
     [["Marcos, J., Davies, M., Guesalaga, R., & Holt, S. (2018). "], ["Implementing key account management: Designing customer-centric processes for mutual growth", 1], [". Kogan Page."]],
     [["PON Staff. (2026, June 15). "], ["Expanding the pie: Integrative versus distributive bargaining", 1], [". Program on Negotiation at Harvard Law School."]],
     [["Scofidio, B. (2026, August 4). Procurement to planners: We’re not the enemy. "], ["Skift Meetings", 1], ["."]],
   ]);
-  notes(s, { say: "Tài liệu tham khảo của Buổi 7, theo APA 7. Chương 10 của Marcos và cộng sự là phần đọc thêm.", gv: "Báo chí về các case (S13–S16, S21) và báo giá agency (S18): danh mục APA đầy đủ trong buoi-07_tu-lieu-tong-hop.md, mục 6. Kraljic (1983) mới đọc trang HBR, chưa đọc toàn văn — GV đang tìm bản PDF.", next: "—" });
+  notes(s, { say: "Tài liệu tham khảo của Buổi 7, theo APA 7. Chương 10 của Marcos và cộng sự là phần đọc thêm.", gv: "Báo chí về các case (S13–S16, S21) và báo giá agency (S18): danh mục APA đầy đủ trong buoi-07_tu-lieu-tong-hop.md, mục 6. Kraljic (1983) đã đọc qua bản dịch tiếng Nhật (Terashima, 2011 — dùng riêng); CWT (S06) và các nguồn ngành khác trong tư liệu Buổi 7.", next: "—" });
 
   await L.pres.writeFile({ fileName: OUT });
   console.log("wrote", OUT, L.n, "slides");

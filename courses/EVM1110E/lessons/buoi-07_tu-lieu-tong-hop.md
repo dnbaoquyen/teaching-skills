@@ -579,4 +579,23 @@ Marcos et al. (2018), Chương 10 “KAM and procurement: the buyer’s perspect
 - Phỏng vấn GS. Carlos Mena (tr. 248–249): “make the pie grow… fight over the size of the slices” — bổ trợ PON (S12).
 - Mẹo cuối chương (tr. 260–261): “Dropping your price is not adding value”; khuyên đọc Fisher & Ury, *Getting to Yes*.
 - Hình 10.7 Supplier assessment framework (tr. 249–255) — **không dùng** (góc nhìn phòng mua đánh giá nhà cung cấp; quyết định GV 2–3).
-- Deck: `slides/W07_slides.pptx` (39 slide) + bản Roboto. Phiếu S3 ghi An Phát là Key Account “3 năm”, Buổi 3–4 dùng “4 năm” — `[NEEDS PROFESSOR INPUT: thống nhất]`.
+- Deck: `slides/W07_slides.pptx` (42 slide sau bổ sung S27–S28) + bản Roboto. Phiếu S3 ghi An Phát là Key Account “3 năm”, Buổi 3–4 dùng “4 năm” — `[NEEDS PROFESSOR INPUT: thống nhất]`.
+
+## 9. Tài liệu GV bổ sung (4/10/2026) — đã đọc toàn văn
+
+### S27 — Kraljic (1983), *Purchasing must become supply management*, HBR 61(5), 109–117 — đọc qua bản dịch tiếng Nhật (寺島哲史 Terashima, 2011, “第30回購買ネットワーク会” — bản dịch dùng riêng, người dịch đề nghị không phát lại)
+- **Bối cảnh:** thời mua hàng ổn định đã hết (khan hiếm nguyên liệu, bất ổn chính trị, can thiệp nhà nước, cạnh tranh, công nghệ đổi nhanh) → chuyển từ purchasing sang supply management. Kraljic (McKinsey Düsseldorf) xây ma trận khi tư vấn cho phòng mua BASF (lời người dịch).
+- **Hai biến chẩn đoán:** tầm quan trọng chiến lược của việc mua (giá trị gia tăng, tỷ trọng nguyên liệu trong tổng chi phí, tác động lợi nhuận) × độ phức tạp thị trường cung ứng (khan hiếm, tốc độ công nghệ/vật liệu thay thế, rào cản gia nhập, chi phí và độ phức tạp logistics, độc quyền/độc quyền nhóm).
+- **Bốn giai đoạn:** (1) phân loại — profit impact: khối lượng mua, % tổng chi phí mua, tác động lên chất lượng/tăng trưởng; supply risk: khả năng sẵn có, số nhà cung cấp, nhu cầu cạnh tranh, cơ hội make-or-buy, rủi ro lưu kho, khả năng thay thế; (2) phân tích thị trường — sức mạnh nhà cung cấp so với người mua (10 tiêu chí, Hình 3; ví dụ: nhà cung cấp chạy 90% công suất → rủi ro bottleneck cao); (3) định vị — ma trận danh mục mua, ba chiến lược **khai thác (exploit) – cân bằng (balance) – đa dạng hóa (diversify)**; (4) kế hoạch hành động (Hình 5).
+- **Hình 2:** mỗi ô một cấp quyết định — Strategic: lãnh đạo cao nhất; Bottleneck: cấp cao (trưởng bộ phận); Leverage: cấp trung (trưởng nhóm mua); Non-critical: nhân viên mua. **Hình 1:** tầm thời gian — Strategic đến 10 năm; Leverage 12–24 tháng; Non-critical ≤12 tháng; Bottleneck thay đổi.
+- **Dùng ở deck W07:** slide 8 (bối cảnh), 9 (tiêu chí hai trục), 24 (cấp quyết định – tầm thời gian ↔ Procurement/Buying trong agency). `[VERIFY nhãn tiếng Anh với bản gốc nếu GV có]`
+
+### S28 — Gelderman, C. J., & van Weele, A. J. (2003). Handling measurement issues and strategic directions in Kraljic’s purchasing portfolio model. *Journal of Purchasing & Supply Management, 9*, 207–216. https://doi.org/10.1016/j.pursup.2003.07.001
+- **Tin cậy: Cao** (tạp chí chuyên ngành; 3 tình huống DSM, Akzo Nobel Coatings, Te Strake; 28 phỏng vấn).
+- **Đo lường:** ba phương pháp — đồng thuận; một biến mỗi trục (giá trị mua; số nhà cung cấp, “3 or more available suppliers is a low supply risk”; nửa trên = hạng mục chiếm 80% giá trị mua); điểm có trọng số. Làm theo nhóm liên chức năng. “The filling of a matrix should be considered as the starting point of portfolio analysis, definitely not the finishing point.”
+- **Chiến lược:** mỗi ô hai hướng — giữ vị trí hoặc dịch chuyển (Hình 3): Bottleneck → Non-critical (nới yêu cầu, tìm nhà cung cấp mới) / giữ (đảm bảo nguồn cung); Non-critical → Leverage (gom nhu cầu, hợp đồng khung) / giữ (đặt lẻ); Leverage giữ (“partner of convenience”) / → Strategic (ngoại lệ); Strategic giữ đối tác / chấp nhận “locked-in” / chấm dứt, tìm nhà cung cấp mới.
+- **Phê bình mô hình được trả lời:** người làm nghề bổ sung thông tin về chiến lược kinh doanh, thị trường cung ứng, năng lực và ý định của từng nhà cung cấp.
+- **Dùng ở deck W07:** slide 16 (giữ hay dịch ô), 17 (cách chấm điểm), ghi chú slide 10 (ba chiến lược ô Strategic).
+
+### Không dùng
+- Shah, Vasudavan & Razali (2023), *Event Management Systems (EMS)*, Journal of Applied Technology and Innovation 7(2) — bài phát triển ứng dụng web đặt địa điểm, catering ở Malaysia; không có nội dung về quan hệ agency – nhà cung cấp. **Tin cậy thấp cho môn này.** Có thể tham khảo rất hạn chế ở Buổi 10 (nền tảng số đặt nhà cung cấp) nếu GV muốn.
