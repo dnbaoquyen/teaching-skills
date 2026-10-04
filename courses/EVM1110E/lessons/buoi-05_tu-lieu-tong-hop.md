@@ -54,7 +54,7 @@
 
 ### E02 — Anderson, Narus & van Rossum (2006): *Customer Value Propositions in Business Markets*
 - **Loại:** *Harvard Business Review, 84*(3), 90–99 (đã đọc phần mở đầu trên HBR; nội dung ba loại CVP theo nguồn thứ cấp).
-- **Nội dung:** nghiên cứu thực hành cho thấy **không có sự thống nhất** về CVP là gì; phần lớn CVP **tuyên bố tiết kiệm và lợi ích mà không chứng minh**, nên bị khách hàng coi là “marketing puffery”. Ba kiểu CVP: **all benefits** (liệt kê mọi lợi ích), **favorable points of difference** (điểm khác biệt có lợi so với đối thủ), **resonating focus** (một hai điểm khác biệt tạo giá trị lớn nhất cho khách hàng). `[VERIFY: ba kiểu CVP mới đọc qua nguồn thứ cấp]`
+- **Nội dung:** nghiên cứu thực hành cho thấy **không có sự thống nhất** về CVP là gì; phần lớn CVP **tuyên bố tiết kiệm và lợi ích mà không chứng minh**, nên bị khách hàng coi là “marketing puffery”. Ba kiểu CVP: **all benefits** (liệt kê mọi lợi ích), **favorable points of difference** (điểm khác biệt có lợi so với đối thủ), **resonating focus** (một hai điểm khác biệt tạo giá trị lớn nhất cho khách hàng). *(Đã đối chiếu bản đầy đủ 4/10/2026; bài còn phân biệt points of parity / difference / contention và khuyến nghị “value word equations”, “value case histories” để chứng minh giá trị.)*
 - **Gợi ý:** 5.1 — cầu nối: CVP tốt của agency là **resonating focus** + **chứng minh được** (nối phần “Value appraisal”).
 
 ### E03 — Booms & Bitner (1981): mở rộng marketing mix dịch vụ thành **7Ps**

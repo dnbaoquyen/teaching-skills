@@ -95,6 +95,13 @@
   - Thanh Niên dẫn khuyến nghị: từ 2026, chiến dịch dùng người nổi tiếng cần bảo đảm người này **đã xác minh thông tin**, nội dung gắn nhãn **“quảng cáo” hoặc “tài trợ”**.
 - **Gợi ý cách dùng:** 11.3 — các nghĩa vụ này phải đi vào **brief và hợp đồng booking** KOL mà Nova ký thay An Phát. Nối 11.4: gắn nhãn “tài trợ/quảng cáo” ngay ở điểm chạm trước sự kiện.
 - **Kiểm chứng:** **Đã KCC** (hai nguồn độc lập). Nghị định hướng dẫn chưa kiểm tra `[VERIFY: pháp chế — nghị định hướng dẫn Luật Quảng cáo 2025; quy định riêng về quảng cáo dịch vụ ngân hàng]`.
+- **Đối chiếu nguyên văn (4/10/2026; bản PDF luật do GV cung cấp, cổng vnportal Hà Nội):** khớp với Điều 15a (khoản 1–3) và Điều 23 (sửa đổi). Điểm bổ sung đáng dùng:
+  - **Điều 2 khoản 7 (sửa đổi):** *“Người phát hành quảng cáo … bao gồm cơ quan báo chí, nhà xuất bản, chủ trang thông tin điện tử, **người tổ chức chương trình văn hóa, thể thao** …”* → khi Nova đặt logo nhà tài trợ trên backdrop, standee, màn LED của sự kiện, Nova (hoặc An Phát) có thể ở vai **người phát hành quảng cáo** (nhận định; nối Buổi 9) `[VERIFY: pháp chế]`.
+  - **Điều 6 (sửa đổi):** *“Việc hợp tác giữa các chủ thể trong hoạt động quảng cáo phải thông qua hợp đồng quảng cáo.”*
+  - **Điều 23 khoản 2 điểm đ:** *“Người sử dụng dịch vụ mạng xã hội khi thực hiện quảng cáo phải có dấu hiệu phân biệt nội dung quảng cáo **hoặc được tài trợ** với nội dung khác do mình cung cấp.”*
+  - **Điều 23 khoản 7:** gỡ quảng cáo vi phạm **chậm nhất 24 giờ** khi có yêu cầu của cơ quan có thẩm quyền.
+  - **Điều 2 (Luật 75):** bãi bỏ **Mục 2 Chương IV Luật Thương mại 2005** (quảng cáo thương mại); quảng cáo thương mại nay theo pháp luật về quảng cáo.
+- **Nguồn nguyên văn:** Quốc hội. (2025). *Luật số 75/2025/QH15 sửa đổi, bổ sung một số điều của Luật Quảng cáo* (thông qua 16/6/2025, hiệu lực 1/1/2026).
 
 ### X06 — Vụ kẹo Kera (2025): KOL quảng cáo sai sự thật và hệ quả cho các bên liên quan
 - **Nguồn:** VnExpress (19/11/2025); Thanh Niên (19/11/2025); Dân trí (20/5/2025); VTC News (5/2025).
@@ -134,6 +141,14 @@
   - Theo PLO: Luật 2025 và Nghị định 237/2026 giữ yêu cầu thông báo trước 24 giờ, **bổ sung** yêu cầu chứng minh tính hợp pháp của nội dung thông tin và **danh sách cơ quan báo chí được mời**; cơ quan quản lý trả lời bằng văn bản nếu không được tổ chức, chậm nhất 12 giờ trước giờ họp báo. PLO nêu ví dụ công ty của một ca sĩ từng bị phạt vì nội dung họp báo khác nội dung được chấp thuận.
 - **Gợi ý cách dùng:** 11.2 — nếu Nova tổ chức họp báo cho An Phát (ví dụ công bố chương trình tri ân), **danh sách báo mời** vừa là công cụ quản lý quan hệ vừa là hồ sơ thủ tục. Chỉ ở mức nhận diện.
 - **Kiểm chứng:** quy định 24 giờ (Luật 2016): **Đã KCC**. Điểm bổ sung theo Luật 2025/NĐ 237: **Chưa KCC** `[VERIFY: pháp chế — đối chiếu nguyên văn Luật Báo chí 2025 và NĐ 237/2026]`.
+- **Đối chiếu nguyên văn Luật Báo chí 2025 (Luật số 126/2025/QH15, thông qua 10/12/2025, hiệu lực 1/7/2026; bản PDF do GV cung cấp) — 4/10/2026:**
+  - **Điều 37 (Họp báo):** khoản 1 — cơ quan, tổ chức, công dân có quyền tổ chức họp báo *“theo quy định của Chính phủ”*; khoản 2 — cơ quan quản lý nhà nước về báo chí có quyền **đình chỉ** họp báo nếu có dấu hiệu vi phạm hoặc nội dung thuộc khoản 1–10 Điều 8. → **Luật 2025 không tự ghi mốc 24 giờ**; mốc này (theo PLO) nằm ở nghị định hướng dẫn. Khi dạy: nói “thủ tục theo nghị định của Chính phủ” `[VERIFY: nguyên văn NĐ 237/2026]`.
+  - **Điều 33 (Trả lời phỏng vấn):** người phỏng vấn phải **báo trước mục đích, câu hỏi**; người được phỏng vấn **có quyền yêu cầu xem lại nội dung trả lời trước khi đăng**; khoản 3 — *“Nhà báo không được dùng những ý kiến phát biểu tại hội nghị, hội thảo, các cuộc gặp gỡ … có nhà báo tham dự để chuyển thành bài phỏng vấn nếu không được sự đồng ý của người phát biểu.”* → dùng cho 11.2: briefing người phát ngôn của An Phát trước sự kiện có báo.
+  - **Điều 34, 36:** cải chính và **phản hồi thông tin** (tổ chức có quyền gửi ý kiến phản hồi bằng văn bản; báo phải đăng hoặc trả lời bằng văn bản lý do) → nối Buổi 12 (sự cố truyền thông).
+  - **Điều 31 khoản 5:** chế độ người phát ngôn bắt buộc chỉ áp dụng cho **cơ quan hành chính nhà nước**; doanh nghiệp tự chọn người phát ngôn (nhận định).
+  - **Điều 38:** quảng cáo trên báo chí theo Luật này và pháp luật về quảng cáo. **Điều 49:** **đặc san** (ấn phẩm theo sự kiện, chủ đề) phải có giấy phép, thời hạn ≤ 1 năm → nếu An Phát muốn làm kỷ yếu/đặc san cho sự kiện, cần thủ tục `[VERIFY: pháp chế]`.
+  - **Điều 39 khoản 3:** cơ quan báo chí, tác giả dùng AI phải tuân thủ pháp luật về sở hữu trí tuệ, trí tuệ nhân tạo và đạo đức nghề nghiệp.
+  - Luật Báo chí 2016 hết hiệu lực từ 1/7/2026 (Điều 50 khoản 4) → **không dẫn Điều 41 Luật 2016** trong slide nữa.
 
 ### X11 — Hội Nhà báo Việt Nam: *10 điều Quy định đạo đức nghề nghiệp người làm báo Việt Nam* (QĐ 483/QĐ-HNBVN, 16/12/2016; hiệu lực 1/1/2017)
 - **Nguồn:** Hội Nhà báo Việt Nam (hoinhabao.vn); Tuổi Trẻ; Nhân Dân (theo kết quả tìm kiếm).

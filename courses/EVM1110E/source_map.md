@@ -184,3 +184,17 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 - Slide về "sai phạm điển hình của nhà báo" (bài 2) là nội dung nhạy cảm. Nếu dùng thì chỉ đặt trong phần đạo đức quan hệ báo chí, không nêu cơ quan báo cụ thể.
 - Bài 6 trích "Cẩm nang kinh doanh Harvard – Quản lý khủng hoảng" (bản dịch). Năm xuất bản cần kiểm tra [VERIFY].
 - Bài 7: mô hình lập kế hoạch PR theo Parkinson & Ekachai (2006); đánh giá đầu ra và kết quả theo Paine. Cần đối chiếu với AMEC Barcelona Principles 3.0 (2020) để cập nhật.
+
+## 13. Cập nhật 4/10/2026 (lần 6): tài liệu GV tải lên
+
+| Tài liệu | Kết quả | Cập nhật vào |
+|---|---|---|
+| Luật Báo chí 2025 (126/2025/QH15), bản scan 28 trang | Đã đọc các Điều 1–8, 29–43, 49–51. Hiệu lực 1/7/2026. Luật không ghi mốc 24 giờ cho họp báo (Điều 37 giao Chính phủ quy định) | `buoi-11` X10 |
+| Luật Quảng cáo sửa đổi 2025 (75/2025/QH15). Thư viện Pháp luật chặn truy cập, đã lấy bản PDF chính thức trên cổng vnportal Hà Nội | Đã đọc toàn văn. Người tổ chức chương trình văn hóa, thể thao là "người phát hành quảng cáo" (Điều 2 khoản 7). Mục 2 Chương IV Luật Thương mại (quảng cáo thương mại) bị bãi bỏ | `buoi-11` X05 (liên quan B9) |
+| AMEC Barcelona Principles 3.0 (2020), bản webinar | Đã đọc. Tư liệu Buổi 11 đã dùng bản 4.0 (2025); bản 3.0 chỉ dùng để nói về tiến trình phát triển | Không đổi |
+| Larson & Wikström (2001), *Event Management* 7(1) | Đã đọc toàn văn | `buoi-12` Y11 (mới) |
+| Anderson, Narus & van Rossum (2006), HBR | Đã đọc toàn văn. Gỡ [VERIFY] về ba kiểu CVP | `buoi-05` E02, `w05.js` slide 6 (đã build lại và kiểm tra) |
+
+**Đính chính báo cáo ngày 4/10:**
+- Báo cáo khoảng trống trước đó (mục 12) đánh giá B11–B12 thiếu nhiều. Thực tế, tư liệu Buổi 9–12 đã được tổng hợp và GV duyệt ngày 27/9/2026: B11 có X01–X13 (có BP 4.0 và Luật 75), B12 có Y01–Y10 (có Getz và cộng sự 2006, Coombs 2007).
+- Khoảng trống thực sự là các mục 5 của từng file tư liệu.

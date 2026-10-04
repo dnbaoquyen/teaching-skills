@@ -90,6 +90,18 @@
 - **Nội dung chính:** mạng lưới dự án làm marketing cho một lễ hội được mô tả bằng ẩn dụ **“quảng trường chợ chính trị” (political market square)**, nơi có **lợi ích, xung đột và quyền lực**. Các quá trình chính trị được nhận diện: **gác cổng (gatekeeping), đàm phán, xây liên minh, xây niềm tin, xây bản sắc**. Việc các bên ra vào mạng lưới gây **xáo trộn**, thay đổi cấu trúc quyền lực — có thể thúc đẩy đổi mới; **bản sắc chung** và hình ảnh tích cực ổn định của lễ hội giúp **giảm xáo trộn**.
 - **Gợi ý cách dùng:** 12.2 — xung đột là **bình thường** trong mạng lưới sự kiện; nhiệm vụ của agency không phải xóa xung đột mà **quản lý** nó. “Bản sắc chung” trong tình huống của môn = **cùng phục vụ khách của An Phát** (nhận định).
 
+### Y11 — Larson & Wikström (2001): *Organizing Events: Managing Conflict and Consensus in a Political Market Square* (bổ sung 4/10/2026)
+- **Loại:** bài học thuật, *Event Management, 7*(1), 51–65 — **đã đọc toàn văn** (PDF do GV cung cấp). Bài nền của Y05.
+- **Nội dung chính:**
+  - Sự kiện được tổ chức bởi một **mạng lưới dự án (project network)**: tạm thời, thay đổi liên tục, ranh giới mở, **không có cơ quan có quyền hợp pháp đối với toàn mạng lưới** (dẫn Hellgren & Stjernberg, 1995).
+  - **Bảng 1 — hai góc nhìn về quá trình chính trị:** *đồng thuận* (lợi ích chung, hài hòa, hợp tác, cam kết chung, niềm tin, đối thoại) ↔ *xung đột* (lợi ích khác nhau, căng thẳng, trò chơi quyền lực, cam kết riêng, nghi ngờ, đàm phán).
+  - Kết luận: đồng thuận và xung đột **không phải hai cực**, chúng **đan xen và cùng tồn tại** trong quan hệ.
+  - Hai **chiến lược quan hệ**: **xây tính chính danh (legitimacy building)** — khi dự án chưa được thừa nhận, ví dụ dùng tiền ngân sách hoặc cần xin tài trợ; kèm “giữ tầm nhìn mơ hồ” để thu hút nhiều bên và “thuyết phục bằng lời lẽ theo góc nhìn từng bên” — và **xây cam kết chung (mutual commitment building)** — khi đã có chính danh; họp nhóm liên ngành, chuyển từ văn bản sang trao đổi trực tiếp → từ nghi ngờ sang tin tưởng.
+  - Phát hiện: **mức chính danh thấp → quá trình thiên về xung đột; chính danh cao → thiên về đồng thuận.**
+  - Case: Giải Vô địch Điền kinh Thế giới 1995 (Göteborg) và lễ hội Storsjöyran (Östersund).
+- **Gợi ý cách dùng:** 12.2 — khung chẩn đoán nhanh cho từng quan hệ trong mạng lưới Nova–An Phát: quan hệ này đang ở cột “đồng thuận” hay “xung đột” trên 6 chiều của Bảng 1? Nếu Nova là agency mới với một nhà cung cấp, việc đầu tiên là **xây chính danh** (nhận định). Bảng 1 dùng tốt làm công cụ cho Buổi 13 (SMP).
+- **Kiểm chứng:** nguồn gốc, đã đọc toàn văn.
+
 ### Y06 — Lee, Padmanabhan & Whang (1997): *Information Distortion in a Supply Chain: The Bullwhip Effect*
 - **Loại:** bài học thuật, *Management Science, 43*(4), 546–558 (đã đọc tóm tắt).
 - **Nội dung chính:** thông tin truyền qua từng mắt xích chuỗi cung ứng **bị bóp méo** và **càng đi xa càng lệch** (hiệu ứng roi da — bullwhip), khiến các bên phía trên ra quyết định sai.
@@ -176,6 +188,8 @@ Nhiều xung đột cùng lúc trong mạng lưới Buổi 9–11, ví dụ: B�
 **Y04** Getz, D., Andersson, T., & Larson, M. (2006). Festival stakeholder roles: Concepts and case studies. *Event Management, 10*(2), 103–122. https://doi.org/10.3727/152599507780676689
 
 **Y05** Larson, M. (2002). A political approach to relationship marketing: Case study of the Storsjöyran festival. *International Journal of Tourism Research, 4*(2), 119–143. https://doi.org/10.1002/jtr.366
+
+**Y11** Larson, M., & Wikström, E. (2001). Organizing events: Managing conflict and consensus in a political market square. *Event Management, 7*(1), 51–65. (DOI chưa tra — bổ sung khi có)
 
 **Y06** Lee, H. L., Padmanabhan, V., & Whang, S. (1997). Information distortion in a supply chain: The bullwhip effect. *Management Science, 43*(4), 546–558. https://doi.org/10.1287/mnsc.43.4.546
 

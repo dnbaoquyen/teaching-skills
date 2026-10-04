@@ -88,10 +88,10 @@ function defCards(s, defs, synth, fs = 16) {
   s = slide("Phần lớn CVP tuyên bố mà không chứng minh — hãy chọn “trọng tâm cộng hưởng”");
   const ty = [["All benefits", "Liệt kê mọi lợi ích", "Dễ hứa lợi ích không có thật với khách hàng này", PINK], ["Favorable points of difference", "Điểm khác biệt có lợi so với đối thủ", "Khác biệt chưa chắc có giá trị với khách hàng này", ORA], ["Resonating focus", "1–2 điểm khác biệt tạo giá trị lớn nhất cho khách hàng", "Cần hiểu sâu khách hàng — nên dùng", TEAL]];
   ty.forEach(([a, b, c, col], i) => { const x = 0.6 + i * 4.13; box(s, x, 1.95, 3.9, 0.85, col); T(s, a, x + 0.2, 1.95, 3.5, 0.85, { bold: true, fontSize: 17, color: NAVY }); box(s, x, 2.95, 3.9, 3.0); T(s, b, x + 0.2, 3.05, 3.5, 1.3, { fontSize: 17, bold: true, valign: "top" }); T(s, c, x + 0.2, 4.4, 3.5, 1.45, { fontSize: 15, color: MU, valign: "top" }); });
-  src(s, "Nguồn: Anderson, Narus & van Rossum (2006), HBR — khách hàng coi nhiều CVP là “marketing puffery”. [VERIFY: ba kiểu CVP — đọc qua nguồn thứ cấp]", 6.2);
+  src(s, "Nguồn: Anderson, Narus & van Rossum (2006), HBR 84(3) — exhibit “Which Alternative Conveys Value to Customers?”; khách hàng coi nhiều CVP là “marketing puffery”.", 6.2);
   notes(s, {
     say: "Anderson, Narus và van Rossum, 2006, trên Harvard Business Review: không có sự thống nhất CVP là gì; phần lớn CVP tuyên bố tiết kiệm và lợi ích mà không chứng minh, nên khách hàng coi là “marketing puffery” — quảng cáo thổi phồng. Họ chia ba kiểu. All benefits: liệt kê mọi lợi ích — dễ hứa điều không có thật với khách hàng này. Favorable points of difference: điểm khác biệt có lợi so với đối thủ — nhưng khác biệt chưa chắc có giá trị với khách hàng này. Resonating focus — trọng tâm cộng hưởng: một hai điểm khác biệt tạo giá trị lớn nhất cho khách hàng. Kiểu thứ ba cần hiểu sâu khách hàng — và đó là kiểu nên dùng.",
-    gv: "E02 — đã đọc phần mở đầu trên HBR; nội dung ba kiểu theo nguồn thứ cấp [VERIFY]. Hồ sơ năng lực ở slide 2 là kiểu “all benefits” (đáp án bước 1 của Thực hành 1).",
+    gv: "E02 — đã đối chiếu bản đầy đủ (HBR reprint R0603F, tr.2–3 bản reprint): ba kiểu all benefits / favorable points of difference / resonating focus; bài còn phân biệt points of parity, points of difference, points of contention. Hồ sơ năng lực ở slide 2 là kiểu “all benefits” (đáp án bước 1 của Thực hành 1).",
     next: "Một CVP tốt có ba phần.",
   });
 
