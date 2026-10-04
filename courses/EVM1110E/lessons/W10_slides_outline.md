@@ -55,7 +55,9 @@ Deck có **40 slide**, mỗi slide có lời giảng và ghi chú GV. Phần th�
 | 27–28 | Ba bước dựng sơ đồ; nhân viên kinh doanh và nhân viên vận hành; function sheet | Dowson tr. 116–124 |
 | 29 | Điều khoản chuyển rủi ro (hủy, attrition, thay đổi, bất khả kháng…) | Silvers Bảng 3.3; Dowson tr. 222–223, 247 |
 
-**Chờ GV:**
+**Quyết định GV (4/10/2026):** (1) giữ số V08 cho phiếu Thực hành 1 — ở Việt Nam không nhiều mặt bằng đáp ứng mức của Dowson; (2) đồng ý đánh dấu các slide có thể bỏ; (3) giữ điều khoản hợp đồng như hiện tại, GV tự điều chỉnh khi dạy; (4) phụ đề sách: *Principle, planning and practice*.
+
+**Ghi chú gốc (trước quyết định):**
 - **Số liệu diện tích cho phiếu Thực hành 1** (slide 26). Phiếu đang dùng 860–920 m² theo V08. Nếu dùng mức 4 m²/khách của Price (2004), cả ba khách sạn đều không đủ chỗ.
 - **Slide 21 và 22** có thể bỏ nếu trễ giờ. Slide 18 (cặp số 97%/94%) bỏ theo giáo án.
 - **Bối cảnh Việt Nam:** các điều khoản hợp đồng ở slide 29 lấy từ bối cảnh Anh/Mỹ, cần pháp chế kiểm tra `[VERIFY]`.

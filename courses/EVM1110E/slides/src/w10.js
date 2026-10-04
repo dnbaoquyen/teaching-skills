@@ -384,7 +384,7 @@ function table(s, x, y, colW, head, rows, o = {}) {
   src(s, "*Quy đổi từ sq ft (đứng 6, bàn tròn 11–12; nhà hát 6–8 — blog, chưa KCC); 1 m² ≈ 10,76 sq ft. Dowson et al. (2023, tr. 120) (V14). Ví dụ trung tâm hội nghị: V12, không nêu tên.", 6.45);
   notes(s, {
     say: "Cần bao nhiêu mét vuông? Quy tắc: sức chứa xấp xỉ diện tích dùng được chia diện tích mỗi người theo kiểu bố trí. Nhưng các quy tắc vênh nhau rất nhiều. Theo blog Social Tables, bàn tròn tiệc khoảng 1,0 đến 1,1 mét vuông mỗi khách. Theo Price, 2004, được giáo trình Dowson dẫn: cabaret hoặc bàn tiệc 4 mét vuông mỗi khách. Với 600 khách: khoảng 610–670 mét vuông chỉ cho khu bàn — hay khoảng 2.400 mét vuông? Chênh nhau gần bốn lần. Bài học: không tin một con số. Xin bảng sức chứa và sơ đồ chính thức của địa điểm, hỏi “diện tích này là gì”, và đo khi site check. Ví dụ: cùng một trung tâm hội nghị ở TP.HCM, các trang ghi từ hơn 4.000 đến khoảng 10.000 mét vuông.",
-    gv: "Tính trên bảng cùng lớp (giáo án). Phiếu Thực hành 1 dùng 860–920 m² theo V08 (610–670 m² khu bàn + ~250 m² sân khấu, lối đi, buffet, nhà tài trợ). Chưa xác định Price (2004) và Social Tables có dùng cùng định nghĩa “diện tích mỗi người” không — [NEEDS PROFESSOR INPUT: giữ số V08 cho phiếu, hay đổi theo giáo trình]. Không nêu tên địa điểm thật (quyết định GV 4). Sức chứa chính thức theo giấy phép → môn Quản trị rủi ro.",
+    gv: "Tính trên bảng cùng lớp (giáo án). Phiếu Thực hành 1 dùng 860–920 m² theo V08 (610–670 m² khu bàn + ~250 m² sân khấu, lối đi, buffet, nhà tài trợ). Quyết định GV (4/10/2026): giữ số V08 cho phiếu — ở Việt Nam không nhiều mặt bằng đáp ứng được mức của Dowson/Price. Có thể nói với lớp: mức 4 m²/khách là chuẩn rộng rãi trong giáo trình Anh; thực tế khách sạn Việt Nam thường bố trí dày hơn, nên càng phải kiểm tra tầm nhìn và lối đi khi site check. Không nêu tên địa điểm thật (quyết định GV 4). Sức chứa chính thức theo giấy phép → môn Quản trị rủi ro.",
     ask: "“Ballroom 1.200 m² có chắc chứa thoải mái 600 khách?”",
     next: "Sơ đồ mặt bằng làm thế nào?",
   });
@@ -531,14 +531,14 @@ function table(s, x, y, colW, head, rows, o = {}) {
   // 40 refs
   s = L.refs([
     [["Chartered Institute of Procurement & Supply. (n.d.). "], ["Tender evaluation", 1], [". https://www.cips.org"]],
-    [["Dowson, R., Albert, B., & Lomax, D. (2023). "], ["Event planning and management: Principles, planning and practice", 1], [" (3rd ed.). Kogan Page. (Chương 5, 9)"]],
+    [["Dowson, R., Albert, B., & Lomax, D. (2023). "], ["Event planning and management: Principle, planning and practice", 1], [" (3rd ed.). Kogan Page. (Chương 5, 9)"]],
     [["Events Industry Council. (n.d.). "], ["APEX RFP templates", 1], [". https://news.eventscouncil.org/apex/rfp-templates/"]],
     [["Ho, W., Xu, X., & Dey, P. K. (2010). Multi-criteria decision making approaches for supplier evaluation and selection: A literature review. "], ["European Journal of Operational Research, 202", 1], ["(1), 16–24."]],
     [["Lemon, K. N., & Verhoef, P. C. (2016). Understanding customer experience throughout the customer journey. "], ["Journal of Marketing, 80", 1], ["(6), 69–96."]],
     [["Silvers, J. R. (2008). "], ["Risk management for meetings and events", 1], [". Butterworth-Heinemann. (Chương 3, 7)"]],
     [["Weber, C. A., Current, J. R., & Benton, W. C. (1991). Vendor selection criteria and methods. "], ["European Journal of Operational Research, 50", 1], ["(1), 2–18."]],
   ]);
-  notes(s, { say: "Tài liệu tham khảo của Buổi 10, theo APA 7. Chương 5 và 9 của Dowson và cộng sự là phần đọc thêm.", gv: "Trang hiệp hội, khảo sát và báo chí (V01, V03, V06–V08, V10–V12): danh mục APA đầy đủ trong buoi-10_tu-lieu-tong-hop.md, mục 6 và 8. [VERIFY: phụ đề sách Dowson theo trang bìa.]", next: "—" });
+  notes(s, { say: "Tài liệu tham khảo của Buổi 10, theo APA 7. Chương 5 và 9 của Dowson và cộng sự là phần đọc thêm.", gv: "Trang hiệp hội, khảo sát và báo chí (V01, V03, V06–V08, V10–V12): danh mục APA đầy đủ trong buoi-10_tu-lieu-tong-hop.md, mục 6 và 8.", next: "—" });
 
   await L.pres.writeFile({ fileName: OUT });
   console.log("wrote", OUT, L.n, "slides");

@@ -277,3 +277,28 @@ Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). 
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 11 đã soạn: `W11_lesson_plan.md`, `W11_lecture_notes.md`, `W11_slides_outline.md`, `W11_activity_S3_chon_dien_gia_kol.md`, `W11_activity_S6_khuech_dai_truoc_su_kien.md` (chờ GV xác nhận).
+
+---
+
+## 8. Bổ sung 4/10/2026 (dùng khi dựng deck)
+
+### X15 — Slide học phần “PR trong tổ chức sự kiện” (ThS. Nguyễn Quốc Vương), bài 2, 3, 7
+- **Loại:** tài liệu giảng dạy nội bộ (GV cung cấp qua Drive). Dùng để **nối kiến thức SV đã học**, không dùng như nguồn học thuật.
+- **Bài 2 — Truyền thông:**
+  - **5C của thông điệp:** Credibility (uy tín nguồn phát), Context (phạm vi), Channel (kênh), Content (nội dung), Capability (khả năng tiếp nhận).
+  - 7 hình thức làm việc với giới truyền thông: điện thoại, email/SMS, họp báo, thông cáo báo chí, gặp trực tiếp, trả lời phỏng vấn, mời dự sự kiện.
+  - Việc cần làm khi xây danh sách nhà báo: tìm đúng người viết về lĩnh vực của tổ chức; hỏi họ thích nhận thông tin qua kênh nào.
+- **Bài 3 — Thông cáo báo chí:**
+  - Viết theo **kim tự tháp ngược**; đoạn mở đầu đủ **5W1H** và đứng độc lập được.
+  - Có trích dẫn người có thẩm quyền; cuối thông cáo có thông tin doanh nghiệp và **người liên hệ** (có quyền trả lời báo chí; ghi cả người của agency nếu có).
+  - Độ dài lý tưởng 1 trang A4; tránh cường điệu, hạn chế thuật ngữ; theo dõi sau khi gửi.
+- **Bài 7 — Đánh giá PR:**
+  - Mô hình lập kế hoạch PR: nghiên cứu → mục tiêu → chiến lược → chiến thuật → đánh giá (dẫn Parkinson & Ekachai, 2006).
+  - Đánh giá chia thành “kết quả đầu ra” và “hiệu quả: nhận thức, thái độ, hành vi” (dẫn Paine).
+  - Gần với outputs/outcomes của Barcelona Principles (X13).
+- **Lưu ý:** các số liệu trong slide gốc (Marketing Report 1999…) chưa kiểm chứng chéo → không dùng.
+
+### X10 — cập nhật cách dạy
+- Đã đối chiếu nguyên văn Luật Báo chí 2025 (xem X10 ở trên).
+- Slide họp báo nói **“theo quy định của Chính phủ”** (Điều 37), **không** ghi mốc 24 giờ như quy định của luật.
+- Thêm **Điều 33** (trả lời phỏng vấn) cho phần briefing người phát ngôn của An Phát.

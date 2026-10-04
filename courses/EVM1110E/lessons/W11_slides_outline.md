@@ -33,3 +33,20 @@ EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 24 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 12 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi lựa chọn diễn giả/KOL của 6 nhóm ở S3; phân loại output/outcome do lớp đưa ra ở S4; ghi các lo ngại “chị Vy” lặp lại nhiều nhất khi chốt S6.
+
+---
+
+## Cập nhật 4/10/2026: deck đã dựng (`slides/W11_slides.pptx`, bản Roboto `W11_slides_Roboto.pptx`)
+
+Deck có **32 slide**, mỗi slide có lời giảng và ghi chú GV. Thay đổi so với outline:
+
+| Slide | Thay đổi | Nguồn |
+|---|---|---|
+| 4 | Thêm định nghĩa “người chuyển tải sản phẩm quảng cáo” (nguyên văn Điều 2 khoản 8); nối câu “PR là người khác nói về mình” của môn PR | Luật 75/2025 (X05); X15 |
+| 12 | **Mới:** thông cáo báo chí theo kim tự tháp ngược, 5W1H — nhắc lại kiến thức môn PR | X15 (slide bộ môn, bài 3) |
+| 13 | **Sửa:** họp báo theo Điều 37 Luật Báo chí 2025 (“theo quy định của Chính phủ”) — **bỏ mốc 24 giờ** vì luật mới không ghi; thêm Điều 33 (xem lại câu trả lời phỏng vấn) để briefing người phát ngôn | Luật 126/2025, đã đối chiếu nguyên văn |
+| 18 | Tách due diligence thành slide riêng có 4 câu hỏi | Nhận định |
+| 19 | Nghĩa vụ KOL trích nguyên văn Điều 15a; danh sách điều khoản gợi ý | X05 |
+| 21 | Thêm câu “AVEs are not the value of communication” (BP 3.0) và nối “kết quả đầu ra / hiệu quả” của môn PR bài 7 | X13, X15 |
+
+**Vẫn [VERIFY]:** nghị định hướng dẫn họp báo; quảng cáo dịch vụ ngân hàng; khấu trừ thuế TNCN; nguyên văn Điều 3 quy định đạo đức người làm báo.

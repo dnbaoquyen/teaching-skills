@@ -260,7 +260,7 @@ Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026; 10.3 theo phương
 ## 8. Tài liệu GV bổ sung (4/10/2026): đã đọc toàn văn
 
 ### V14 — Dowson, Albert & Lomax (2023), Chương 5: *Venue selection and site planning essentials* (tr. 97–127)
-- **Nguồn:** Dowson, R., Albert, B., & Lomax, D. (2023). *Event planning and management: Principles, planning and practice* (3rd ed.). Kogan Page. `[VERIFY: phụ đề theo trang bìa]`. PDF chương do GV cung cấp.
+- **Nguồn:** Dowson, R., Albert, B., & Lomax, D. (2023). *Event planning and management: Principle, planning and practice* (3rd ed.). Kogan Page. *(phụ đề theo trang bìa — GV xác nhận 4/10/2026)*. PDF chương do GV cung cấp.
 - **Nội dung dùng được:**
   - **Quy trình chọn địa điểm (Hình 5.2, tr. 102–103):** bắt đầu từ **bản brief tìm địa điểm**, xác định mức khớp giữa mục tiêu sự kiện và các điều kiện “phải có” (must-haves): vị trí, giao thông, **hình ảnh – phong cách hợp văn hóa doanh nghiệp**, loại địa điểm, không khí, quy mô tương đối, sức chứa và bố trí, tiện ích, công nghệ, tiếp cận cho người khuyết tật, **chi phí/value for money**, chỗ ở. Mẫu brief: Hình 5.3; mẫu yêu cầu chuẩn của doanh nghiệp: Hình 5.4.
   - **Hình ảnh của địa điểm (tr. 99):** doanh nghiệp ngày càng chọn địa điểm theo giá trị họ công khai và tự hỏi *“What would this look like as a story in the Daily Mail?”*. Địa điểm xa hoa có thể làm hại hình ảnh. Câu hỏi này được nhắc lại ở chương 9 (tr. 245–246, “AIG effect”).
@@ -271,7 +271,7 @@ Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026; 10.3 theo phương
   - **Làm việc với địa điểm (tr. 116–118):** *“At first this will be with sales staff who may promise you the earth, but operational staff will tell you that it’s not that simple.”* Phản hồi cho nhân viên **trong và sau** sự kiện. Mẫu **function sheet** gửi địa điểm: Hình 5.7.
   - **Bố trí mặt bằng (tr. 119–122):** ba yếu tố **Space – Movement – Atmosphere**. **ICE** = ingress (vào), circulation (di chuyển), egress (ra). Ước lượng diện tích (dẫn Price, 2004): **kiểu nhà hát 2 m²/người; cabaret hoặc bàn tiệc 4 m²/người; bàn họp 8–12 m²/người** (gồm ghế và đồ đạc). Khu hậu cần (back-of-house). Đứng tối thiểu 0,5 m²/người theo *Purple Guide* — thuộc quản lý đám đông, ngoài phạm vi môn.
   - **Ba bước dựng sơ đồ (tr. 122–124):** xin sơ đồ chi tiết, xếp bố trí, **xin góp ý của địa điểm, nhà cung cấp và khách hàng**. Làm nhiều loại bản đồ cho khách và cho nhân sự, nhà cung cấp (Bảng 5.2).
-- **Lưu ý vênh số liệu:** 4 m²/người (bàn tiệc, Price 2004 qua Dowson) gấp khoảng 4 lần mức 1,0–1,1 m² (V08, blog). Với 600 khách: khoảng 2.400 m² so với khoảng 610–670 m² cho khu bàn. **Chưa xác định được** hai nguồn tính trên cùng một định nghĩa hay không. → Dạy như minh chứng cho việc “quy tắc ước lượng vênh nhau; luôn xin bảng sức chứa và sơ đồ của địa điểm”. Phiếu Thực hành 1 giữ số theo V08 `[NEEDS PROFESSOR INPUT: giữ hay đổi]`.
+- **Lưu ý vênh số liệu:** 4 m²/người (bàn tiệc, Price 2004 qua Dowson) gấp khoảng 4 lần mức 1,0–1,1 m² (V08, blog). Với 600 khách: khoảng 2.400 m² so với khoảng 610–670 m² cho khu bàn. **Chưa xác định được** hai nguồn tính trên cùng một định nghĩa hay không. → Dạy như minh chứng cho việc “quy tắc ước lượng vênh nhau; luôn xin bảng sức chứa và sơ đồ của địa điểm”. Phiếu Thực hành 1 giữ số theo V08 — **quyết định GV 4/10/2026:** ở Việt Nam không nhiều mặt bằng đáp ứng được mức của Dowson.
 
 ### V15 — Dowson, Albert & Lomax (2023), Chương 9: *Finance, budgeting and procurement in events* (tr. 216–249)
 - **Nội dung dùng được:**
