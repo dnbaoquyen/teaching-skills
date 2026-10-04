@@ -222,3 +222,27 @@ Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). 
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 12 đã soạn: `W12_lesson_plan.md`, `W12_lecture_notes.md`, `W12_slides_outline.md`, `W12_activity_S3_tuan_cuoi_truoc_gala.md`, `W12_activity_S6_mang_luoi_smp.md` (chờ GV xác nhận).
+
+---
+
+## 8. Bổ sung 4/10/2026 (dùng khi dựng deck)
+
+### Y12 — Slide học phần “PR trong tổ chức sự kiện”, Bài 6: *Giải quyết khủng hoảng* (ThS. Nguyễn Quốc Vương)
+- **Loại:** tài liệu giảng dạy nội bộ (GV cung cấp). Dùng để nối kiến thức SV đã học.
+- **Nội dung dùng được:**
+  - **Ba giai đoạn:** trước khủng hoảng (nhận biết, chuẩn bị: nhóm truyền thông khủng hoảng, người phát ngôn, kế hoạch hành động, số liên lạc khẩn) → trong khủng hoảng (ngăn tổn thất: làm việc với báo chí, thông điệp cho từng đối tượng, thông cáo) → sau khủng hoảng (phục hồi, rút kinh nghiệm: nhật ký hành động, bản sao thông cáo, tin đã đăng, chi phí thiệt hại, câu hỏi “dấu hiệu nào đã bị bỏ qua?”).
+  - **Ma trận đối tượng × thông điệp chính × phương tiện × thời gian × người phát ngôn**, cho nhân viên, khách hàng, nhà cung cấp, nhà đầu tư, lãnh đạo địa phương, cơ quan quản lý, công chúng.
+  - Nguyên tắc **“nói sớm và nói sự thật”**; không nói dối, chối bỏ, che giấu.
+  - Định nghĩa khủng hoảng dẫn *Cẩm nang kinh doanh Harvard — Quản lý khủng hoảng* `[VERIFY: năm bản dịch]`.
+- **Gợi ý cách dùng:** S5 — ma trận chuyển sang mạng lưới gala An Phát: **Nova soạn, An Phát quyết và phát ngôn**.
+- **Lưu ý:** slide gốc còn ghi chú “Không đọc ra, cần sửa nội dung” ở một số trang → chỉ dùng phần khung.
+
+### Y13 — Luật Báo chí 2025 (126/2025/QH15), Điều 34 và 36 — đã đối chiếu nguyên văn
+- **Điều 36 (Phản hồi thông tin):** khi có căn cứ cho rằng cơ quan báo chí thông tin sai sự thật, xuyên tạc… hoặc gây hiểu nhầm làm ảnh hưởng uy tín, tổ chức có quyền **gửi ý kiến phản hồi bằng văn bản** đến cơ quan báo chí, cơ quan chủ quản, cơ quan quản lý nhà nước về báo chí, hoặc khởi kiện. Cơ quan báo chí phải đăng ý kiến phản hồi hoặc trả lời bằng văn bản nêu rõ lý do nếu không đăng.
+- **Điều 34 (Cải chính):** báo thông tin sai sự thật… phải đăng lời cải chính, xin lỗi.
+- **Gợi ý cách dùng:** S5 — khi báo chí đưa tin chưa chính xác về một bên trong mạng lưới (ví dụ diễn giả), con đường chính thức là **phản hồi bằng văn bản**; Nova soạn hồ sơ, An Phát quyết.
+
+### Dùng lại
+- **Y11** Larson & Wikström (2001), toàn văn — Bảng 1 (đồng thuận ↔ xung đột) và hai chiến lược xây tính chính danh / xây cam kết chung (S4).
+- **V15** Dowson et al. (2023, tr. 223–224, 246): nhiều bên cùng chi → áp **quy định tài chính chặt nhất**; tranh chấp tài chính sau sự kiện làm các đối tác *“choose not to do business with the others again”* (S2, nối case Y09).
+- **U22** Cornwell (2020, tr. 186–187): năm khoảng cách làm quan hệ tài trợ rạn nứt (Farrelly, 2010) — đã dạy ở Buổi 9.

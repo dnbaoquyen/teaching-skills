@@ -33,3 +33,19 @@ EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 24 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 13 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi thứ tự ưu tiên của 6 nhóm ở S3; ghi các câu hỏi phản biện lặp lại ở S6 (danh sách ôn tập bảo vệ SMP).
+
+---
+
+## Cập nhật 4/10/2026: deck đã dựng (`slides/W12_slides.pptx`, bản Roboto `W12_slides_Roboto.pptx`)
+
+Deck có **29 slide**, mỗi slide có lời giảng và ghi chú GV. Thay đổi so với outline:
+
+| Slide | Thay đổi | Nguồn |
+|---|---|---|
+| 4 | Thêm mặt trái: tranh chấp chi phí làm đối tác không làm việc với nhau nữa | Dowson et al. (2023, tr. 224) (V15) |
+| 15 | “Quảng trường chợ chính trị” nay dựa trên toàn văn | Larson & Wikström (2001) (Y11) |
+| 16 | **Mới:** bảng 6 chiều đồng thuận ↔ xung đột; chính danh thấp/cao; hai chiến lược (xây chính danh, xây cam kết chung) | Y11, Bảng 1 và kết luận |
+| 18 | Tin nhắn 4 ý gửi anh Minh có ví dụ cụ thể (giả định) | Nhận định |
+| 21 | **Mới:** ma trận đối tượng × thông điệp × kênh × thời điểm × người nói — Nova soạn, An Phát quyết | Slide môn PR, Bài 6 (Y12) |
+| 22 | Thêm quyền phản hồi thông tin với báo chí | Luật Báo chí 2025, Điều 34, 36 (Y13) — đã đối chiếu nguyên văn |
+| — | Bỏ slide riêng về Mỹ Đình (giáo án cho phép bỏ; đã học ở Buổi 10) | — |
