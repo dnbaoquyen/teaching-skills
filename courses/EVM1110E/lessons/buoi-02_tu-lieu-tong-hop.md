@@ -133,3 +133,18 @@ Buổi 2 không cần số liệu thị trường; không đưa số liệu chư
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 2 đã soạn: `W02_lesson_plan.md`, `W02_lecture_notes.md`, `W02_slides_outline.md`, `W02_activity_S3_*.md`, `W02_activity_S6_*.md` (chờ GV xác nhận).
+
+---
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp nguồn
+
+**B01 — Marcos et al. (2018), đã đọc chương 1–2 (bản PDF trên Drive của GV, trích xuất đến khoảng tr. 61):**
+- Ba câu hỏi chọn Key Account, nguyên văn (tr. 44) — **trùng ba tiêu chí của đề cương**; hai câu đầu điều chỉnh từ GE–McKinsey; câu 3 là tiêu chí mới nhất, từ phỏng vấn lãnh đạo KAM.
+- Hình 2.3 yếu tố sức hấp dẫn (quá khứ/hiện tại – tương lai × định lượng – định tính), khuyến nghị 4–7 yếu tố (tr. 45–47); tám yếu tố vị thế cạnh tranh (tr. 47–48); năm câu đo mức sẵn lòng cùng đầu tư, chấm 1–10, trọng số mặc định 20% (Bảng 2.3, tr. 51); Hình 2.4 ma trận, ví dụ khách B và F (tr. 52–53); đội liên chức năng, “720 độ”, góc nhìn bên ngoài (tr. 53).
+- Case công ty chế biến gỗ: 17 nhân viên kinh doanh chọn 60 “Key Account” (tr. 43–44); so sánh Key Account với bạn thân, “hơn 100 key accounts” (tr. 42–43).
+- Hình 1.2 bốn dịch chuyển tạo giá trị (tr. 7); khi nào không nên làm KAM (tr. 7–8); “KAM is an integrated process for the profitable management of customer relationships” (chương 1).
+- → Tiêu chí con của **vị thế cạnh tranh** và **đồng đầu tư** nay **có nguồn** (trước đây là nhận định). Tiêu chí con cho agency trong phiếu S6 vẫn là nhận định đã duyệt.
+
+**Slide bộ môn Chương 1 (Trần Nguyễn Huỳnh Như, 2023):** định nghĩa Key account và KAM (1.1.1), 4 mục tiêu KAM, lợi ích cho agency và cho client (1.4.1), 6 khó khăn khi triển khai.
+
+**Deck:** `slides/W02_slides.pptx` (33 slide). Câu hỏi giơ tay mới (Hãng hàng không Sao Việt, giả định) không trùng phiếu S6 và bài trắc nghiệm.

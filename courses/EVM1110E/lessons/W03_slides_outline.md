@@ -2,6 +2,8 @@
 
 EVM1110E · 20 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text; bảng phân biệt bằng ký hiệu, không chỉ màu. Nguồn ghi mã nhỏ ở chân slide.
 
+> **Cập nhật 4/10/2026:** đã có deck đầy đủ `slides/W03_slides.pptx` (32 slide, khuôn MKT1107; bản Roboto; mã nguồn `slides/src/w03.js`), lời giảng 4 phần ở mọi slide; nguồn mới đọc trực tiếp: Wheel of Customer Understanding (Marcos et al., 2018, Hình 3.1), slide bộ môn Chương 2–3 (cấu trúc brief, 6 vai DMU, GRASP, cấu trúc phòng marketing client). **GRASP dùng định nghĩa slide bộ môn — chữ G khác bản làm việc, chờ GV xác nhận.** Xem `buoi-03_tu-lieu-tong-hop.md` mục 8. Bảng dưới giữ để đối chiếu.
+
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |
 |---|---|---|---|---|
 | 1 | — | Quản trị mối quan hệ trong tổ chức sự kiện — Buổi 3 | Tên HP, mã, GV; phụ đề | |

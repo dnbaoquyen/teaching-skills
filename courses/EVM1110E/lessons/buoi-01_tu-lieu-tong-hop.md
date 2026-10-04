@@ -185,3 +185,19 @@ Cổng thông tin điện tử Chính phủ – Xây dựng chính sách. (2026)
 | A24 | Định nghĩa bên liên quan và 6 nhóm bên liên quan của sự kiện (khách mời & người tham gia, vendors, chính quyền, nhà tài trợ, truyền thông & PR, đối tác nội dung) | Slide bộ môn Chương 2 (Trần Nguyễn Huỳnh Như, 2023) | **Đã đối chiếu** trực tiếp |
 
 **Đưa vào deck `slides/W01_slides.pptx`:** A11–A17, A24 (trên slide); A18–A21 (trong ghi chú GV, có `[VERIFY]`). Không dùng A22, A23.
+
+---
+
+## 9. Bổ sung từ bài báo GV cung cấp (4/10/2026) — đã đọc toàn văn
+
+| Mã | Nguồn | Nội dung dùng được | Dùng ở |
+|---|---|---|---|
+| A25 | Reid, S. (2011). Event stakeholder management: Developing sustainable rural event practices. *IJEFM, 2*(1), 20–36. https://doi.org/10.1108/17582951111116597 | Định nghĩa bên liên quan của sự kiện (tr. 32): *"Primary event stakeholders are those individuals or groups who incur risk and without whose support and/or involvement the event would cease to exist. Secondary event stakeholders are those groups or individuals who may or may not be involved, yet can seriously impede the event's success."*; trích Clarkson (1995, p. 5) *"without the element of risk there is no stake"*; bên liên quan giữ nhiều vai, khác nhau theo rủi ro; 54 phỏng vấn, 3 cộng đồng nông thôn Queensland | W01 slide 21 (mới) |
+| A26 | Todd, L., Leask, A., & Ensor, J. (2017). *Tourism Management, 59*, 494–509. https://doi.org/10.1016/j.tourman.2016.09.010 | Edinburgh Fringe: 5 nhóm primary (organising, participating, attending, supporting, supplying); 21 phỏng vấn — 19 có vai thứ hai, 7 có vai thứ ba (Bảng 2); nhà cung cấp là primary khi cung cấp trực tiếp (tr. 501) | W01 slide 18 (mới) |
+| A27 | Wallace, K., & Michopoulou, E. (2019). The stakeholder sandwich. *Event Management*. https://doi.org/10.3727/152599519X15506259855742 | Không mô hình bên liên quan nào được người làm nghề dùng phổ biến; Freeman (1984) vẫn đúng; mô hình Sandwich: affector / sự kiện–địa điểm–thời gian / affectee × output / outcome; thử trên Tour de Yorkshire | W01 slide 38 (mới, tùy chọn); Buổi 12 |
+| A28 | Wallace, K., & Michopoulou, E. (2023). Stakeholder requirements and value cocreation in events. *Event Management, 27*, 281–299. https://doi.org/10.3727/152599521X16367300695744 | Đo thành công theo tiêu chí của từng bên; nối với đồng kiến tạo giá trị; nghiên cứu dọc 18 tháng | Buổi 5, 8, 12 (chưa dùng) |
+| A29 | Andersson, T. D., & Getz, D. (2008). Stakeholder management strategies of festivals. *Journal of Convention & Event Tourism, 9*(3), 199–220. https://doi.org/10.1080/15470140802323801 | 14 lễ hội Thụy Điển; chiến lược hiệu quả nhất: thuyết phục báo chí thành nhà tài trợ chính thức (6 lễ hội, 6,83/7), biến nhà cung cấp thành nhà tài trợ (9; 6,33/7); vận động chính quyền phổ biến nhưng kém hiệu quả hơn | Buổi 9, 10, 12 (chưa dùng) |
+| A30 | Reid, S., & Arcodia, C. (2002). Understanding the role of the stakeholder in event management. *Journal of Sport & Tourism, 7*(3), 20–22 | Bản tóm tắt 1 trang; **không** chứa câu định nghĩa tr. 346 mà Holmes et al. dẫn (câu đó thuộc bản kỷ yếu hội thảo) → giữ cách dẫn qua Holmes et al. (2015) hoặc Reid (2011) | — |
+| A31 | Van Niekerk & Getz (2019) — mục lục và lời nói đầu | Xác nhận có Hình 3.1 “Continuous planning process for stakeholder management” (tr. 60), mục 3 “Generic stakeholder management strategies”, mục 5.5 “Stakeholder management for business events” (tr. 139) | W01 slide 39 (ghi chú GV); cần bản đầy đủ để đối chiếu tên 5 bước |
+
+**Thay đổi deck W01 (bản 4/10/2026, 47 slide):** thêm slide 18 (Todd et al.), 21 (Reid — rủi ro), 38 (Stakeholder Sandwich, tùy chọn); cập nhật nguồn slide 20, ghi chú slide 39 và 41, danh mục tài liệu tham khảo.

@@ -132,3 +132,11 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 2. GV chạy **Bước 2 — Buổi 1** với danh sách tick ở mục 6. Nhớ bỏ chọn `Introduction.pdf`.
 3. Claude dựng **deck thử `slides/W01_slides.pptx`** theo khuôn MKT1107 sau khi có kết quả Bước 2
    Buổi 1.
+
+---
+
+## 8. Cập nhật 4/10/2026
+
+- **Sửa nguồn:** *Events and sustainability-1.pdf* là Holmes, Hughes, Mair & Carlsen (2015, Routledge), không phải “Getz & Page (2012)”. Các câu NotebookLM gán “Getz & Page, 2012, tr. 24–26” thực ra ở Holmes et al. (2015) tr. 24–26; câu “analogous to an ecosystem” (tr. 192) không tìm thấy.
+- **Nguồn GV bổ sung** (bài báo PDF): Reid (2011), Todd et al. (2017), Wallace & Michopoulou (2019, 2023), Andersson & Getz (2008), Reid & Arcodia (2002, bản JST), mục lục Van Niekerk & Getz (2019) — chi tiết và buổi dùng: `lessons/buoi-01_tu-lieu-tong-hop.md` mục 9. Nên tải các bài này lên NotebookLM và bỏ chọn các blog thương mại khi trích xuất Buổi 9 và 12.
+- **Đọc trực tiếp trên Drive (được GV cho phép):** *Implementing KAM* (Marcos et al., 2018) — bản trích xuất đọc được đến khoảng tr. 61 (chương 1–2, đầu chương 3); các chương 4–12 (Buổi 4–8, 13) cần bản đầy đủ hơn.

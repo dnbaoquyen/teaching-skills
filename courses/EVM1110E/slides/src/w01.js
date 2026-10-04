@@ -278,7 +278,7 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   }
   notes(s, {
     say: "Môn học dùng một định nghĩa làm việc: hệ sinh thái bên liên quan bên ngoài là mạng lưới các tổ chức, cá nhân ngoài agency cùng góp nguồn lực, nhận giá trị, chịu tác động hoặc có quyền cho phép sự kiện — và phụ thuộc lẫn nhau. Bốn thành tố: một, ngoài agency; hai, có “phần” trong sự kiện — góp nguồn lực, nhận giá trị, chịu tác động, hoặc có quyền cho phép; ba, phụ thuộc lẫn nhau; bốn, thay đổi theo giai đoạn.",
-    gv: "Định nghĩa làm việc đã được GV duyệt (tư liệu Buổi 1, A05), dựng từ Freeman (1984), Van Niekerk & Getz (2019), Getz, Andersson & Larson (2006). Không trình bày như định nghĩa của một tác giả. Thành tố 4 thêm cho khớp slide 18. Câu NotebookLM đưa ra “The environment for events is analogous to an ecosystem…” (gán Getz & Page 2012, tr. 192) KHÔNG tìm thấy trong sách — không dùng.",
+    gv: "Định nghĩa làm việc đã được GV duyệt (tư liệu Buổi 1, A05), dựng từ Freeman (1984), Van Niekerk & Getz (2019), Getz, Andersson & Larson (2006). Không trình bày như định nghĩa của một tác giả. Thành tố 4 thêm cho khớp slide 19. Câu NotebookLM đưa ra “The environment for events is analogous to an ecosystem…” (gán Getz & Page 2012, tr. 192) KHÔNG tìm thấy trong sách — không dùng.",
     next: "Chữ “hệ sinh thái” khác chữ “danh sách” ở đâu?",
   });
 
@@ -375,6 +375,23 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
     say: "Getz, Andersson và Larson phân loại bên liên quan theo quan hệ với sự kiện, không theo chức năng: đồng minh và cộng tác; đồng sản xuất; bên tạo điều kiện — như nhà tài trợ, bên cấp vốn; nhà cung cấp và địa điểm; bên chịu tác động — như khán giả, cư dân; và bên quản lý. Điều quan trọng: một bên có thể giữ nhiều vai. Chính quyền địa phương có thể vừa cấp kinh phí, vừa cho thuê địa điểm công, vừa cấp phép. Trong tình huống của chúng ta, khách sạn vừa là địa điểm, vừa cung cấp tiệc, vừa có dịch vụ AV nội bộ, lại vừa là láng giềng của khu dân cư.",
     gv: "Đã đối chiếu Holmes et al. (2015, tr. 26): sáu vai và ví dụ chính quyền (theo Getz, 2012). Holmes ghi năm Getz, Andersson & Larson là 2007; bài gốc trên Event Management thường ghi 2006 — giữ 2006 như W01, [VERIFY năm/số tạp chí]. Ý “một bên nhiều vai” sẽ quay lại ở Buổi 12 (xung đột lợi ích). Ví dụ khách sạn là giả định của môn; AV nội bộ nối sang Buổi 7 (Bottleneck).",
     ask: "“Trong dự án cũ của nhóm, có bên nào giữ hai vai cùng lúc không?”",
+    next: "Ý này có bằng chứng nghiên cứu rõ ràng.",
+  });
+
+  // ---------- 17b Todd et al. 2017
+  s = slide("Bằng chứng: ở Edinburgh Fringe, gần như mọi bên liên quan chính đều giữ hai, ba vai");
+  const grp = [["Tổ chức", TEAL], ["Tham gia biểu diễn", YEL], ["Khán giả", PINK], ["Hỗ trợ (tài trợ, cấp vốn)", BLUE], ["Cung cấp", ORA]];
+  T(s, "Năm nhóm bên liên quan chính của một lễ hội", 0.6, 1.85, 6.0, 0.5, { fontSize: 15, color: MU });
+  grp.forEach(([t, c], i) => { box(s, 0.6, 2.4 + i * 0.75, 5.6, 0.62, c); T(s, t, 0.8, 2.4 + i * 0.75, 5.2, 0.62, { bold: true, color: NAVY, fontSize: 17 }); });
+  const st = [["21", "người được phỏng vấn sâu", TEAL], ["19", "có thêm vai thứ hai", YEL], ["7", "có cả vai thứ ba", PINK]];
+  st.forEach(([k, t, c], i) => { box(s, 6.6 + i * 2.08, 1.95, 1.9, 2.2); T(s, k, 6.6 + i * 2.08, 2.05, 1.9, 1.1, { align: "center", bold: true, fontSize: 44, color: c }); T(s, t, 6.7 + i * 2.08, 3.15, 1.7, 0.9, { align: "center", fontSize: 14, color: MU, valign: "top" }); });
+  box(s, 6.6, 4.4, 6.13, 1.9, YEL);
+  T(s, "Nhà cung cấp trở thành bên liên quan chính khi cung cấp trực tiếp dịch vụ thiết yếu — ở Fringe là đơn vị bán vé và agency thiết kế.", 6.85, 4.4, 5.7, 1.9, { fontSize: 16, bold: true, color: NAVY });
+  src(s, "Nguồn: Todd, Leask & Ensor (2017), Tourism Management, 59, tr. 501–502.", 6.6);
+  notes(s, {
+    say: "Ý “một bên nhiều vai” có bằng chứng nghiên cứu. Todd, Leask và Ensor, 2017, nghiên cứu Edinburgh Festival Fringe — một lễ hội lớn ở Scotland. Họ xác định năm nhóm bên liên quan chính: tổ chức; tham gia biểu diễn; khán giả; hỗ trợ — các quỹ, cơ quan tài trợ, nhà tài trợ; và cung cấp. Phỏng vấn sâu 21 người: 19 người có thêm vai thứ hai, 7 người có cả vai thứ ba — ví dụ một người quản lý địa điểm cũng là khán giả, một người từng là nhân viên nay là nghệ sĩ. Điểm đáng chú ý cho agency: nhà cung cấp trở thành bên liên quan chính khi cung cấp trực tiếp một dịch vụ thiết yếu — ở Fringe là đơn vị bán vé và agency thiết kế.",
+    gv: "Đã đối chiếu toàn văn do GV cung cấp: Todd, Leask & Ensor (2017), Tourism Management 59, 494–509 — năm nhóm (organising, participating, attending, supporting, supplying) mục 5.1 (tr. 501); Bảng 2 (tr. 502): 21 ‘main’, 19 ‘subsequent’, 7 ‘additional’; nhà cung cấp là primary “when goods or services are provided directly (Reid, 2006)” (tr. 501). Nhóm “tổ chức” trong bài gồm cả nhân viên và tình nguyện viên — nằm ngoài phạm vi môn, nhắc nhanh. Lấp khoảng trống “Todd et al.” trong tư liệu Buổi 1.",
+    ask: "“Bạn từng vừa là khán giả vừa là người làm của cùng một sự kiện chưa?”",
     next: "Vai trò quan trọng nhất còn thay đổi theo thời gian.",
   });
 
@@ -408,10 +425,27 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   T(s, "Ví dụ: báo chí, nhóm lợi ích", 7.1, 4.45, 5.4, 0.6, { fontSize: 16, color: MU });
   box(s, 0.6, 5.45, 12.13, 0.85, YEL);
   T(s, "Câu kiểm tra: Không có họ, sự kiện có diễn ra được không?", 0.85, 5.45, 11.6, 0.85, { fontSize: 22, bold: true, color: NAVY });
-  src(s, "Nguồn: Holmes et al. (2015, tr. 24). Gốc của cách chia này cho doanh nghiệp: Clarkson (1995).", 6.4);
+  src(s, "Nguồn: Holmes et al. (2015, tr. 24); Reid (2011). Gốc cho doanh nghiệp: Clarkson (1995).", 6.4);
   notes(s, {
     say: "Đề cương mục 1.2: phân nhóm ảnh hưởng thành primary và secondary. Primary — bên liên quan chính: những người và tổ chức mà thiếu sự hỗ trợ của họ, sự kiện sẽ không diễn ra. Ví dụ: khách hàng, địa điểm. Secondary — bên liên quan thứ yếu: nhóm hoặc cá nhân không trực tiếp tham gia sự kiện nhưng vẫn có thể tác động đáng kể đến thành công của nó. Ví dụ: báo chí, các nhóm lợi ích. Câu kiểm tra nhanh: không có họ, sự kiện có diễn ra được không? Không → primary. Có → thường là secondary.",
     gv: "Đã đối chiếu nguyên văn Holmes et al. (2015, tr. 24): “primary stakeholders – people and organisations without whose support the event would not take place – and secondary stakeholders – groups or individuals not directly involved in the event but nonetheless can still have a significant impact on its success”. Sách KHÔNG gán câu này cho Clarkson (NotebookLM gán sai). Định nghĩa gốc của Clarkson (1995) cho doanh nghiệp: primary là bên mà thiếu sự tham gia liên tục của họ tổ chức không thể tồn tại; secondary ảnh hưởng hoặc bị ảnh hưởng nhưng không giao dịch và không thiết yếu — [VERIFY số trang 106–107]. Nhắc: nhân sự, TNV thường được xếp primary trong sách nhưng nằm ngoài phạm vi môn.",
+    next: "Reid còn thêm một yếu tố quan trọng: rủi ro.",
+  });
+
+  // ---------- 19b Reid 2011 risk
+  s = slide("Reid (2011): bên liên quan chính là bên chịu rủi ro — “không có rủi ro thì không có phần”");
+  box(s, 0.6, 1.95, 7.4, 3.6);
+  T(s, "“Primary event stakeholders are those individuals or groups who incur risk and without whose support and/or involvement the event would cease to exist. Secondary event stakeholders are those groups or individuals who may or may not be involved, yet can seriously impede the event’s success.”", 0.85, 2.05, 6.95, 3.0, { fontSize: 17, italic: true, valign: "top" });
+  T(s, "(Reid, 2011, tr. 32)", 0.85, 5.0, 6.9, 0.45, { fontSize: 13, color: MU });
+  box(s, 8.3, 1.95, 4.43, 3.6, YEL);
+  T(s, "“Without the element of risk there is no stake.”", 8.55, 2.1, 3.95, 1.6, { fontSize: 20, bold: true, italic: true, color: NAVY, valign: "top" });
+  T(s, "Clarkson (1995), dẫn theo Reid (2011)", 8.55, 3.7, 3.95, 0.5, { fontSize: 13, color: NAVY });
+  T(s, "Chịu rủi ro tự nguyện: góp tiền, công sức. Chịu rủi ro không tự nguyện: cư dân chịu tiếng ồn.", 8.55, 4.2, 3.95, 1.25, { fontSize: 14, color: NAVY, valign: "top" });
+  T(s, "Với agency: ai đang chịu rủi ro nếu sự kiện hỏng — khách hàng, nhà tài trợ, nhà cung cấp, hay cư dân?", 0.6, 5.85, 12.13, 0.65, { fontSize: 17, bold: true, color: YEL });
+  notes(s, {
+    say: "Reid, 2011, nghiên cứu sự kiện ở các cộng đồng nông thôn Úc qua 54 cuộc phỏng vấn, và đưa ra định nghĩa riêng cho sự kiện. Bên liên quan chính là những cá nhân hay nhóm chịu rủi ro và nếu thiếu sự ủng hộ hoặc tham gia của họ, sự kiện sẽ không còn. Bên liên quan thứ yếu có thể tham gia hoặc không, nhưng có thể cản trở nghiêm trọng thành công của sự kiện. Reid dẫn Clarkson: không có rủi ro thì không có “phần” — no stake. Clarkson phân biệt người chịu rủi ro tự nguyện — họ góp tiền, góp công — và người chịu rủi ro không tự nguyện — như cư dân chịu tiếng ồn. Câu hỏi cho agency: nếu sự kiện hỏng, ai đang chịu rủi ro?",
+    gv: "Đã đối chiếu toàn văn do GV cung cấp: Reid, S. (2011), International Journal of Event and Festival Management 2(1), 20–36; định nghĩa và trích Clarkson (1995, p. 5) ở tr. 32 (trang 13 của file PDF); 54 phỏng vấn, ba cộng đồng Southwest Queensland (tóm tắt). Định nghĩa của Reid mở đầu bằng đúng câu Reid & Arcodia (2002) mà Holmes et al. (2015) dẫn. Ý “tự nguyện / không tự nguyện” trước đây chỉ có trong video Boateng (2021) — nay có gốc học thuật: Clarkson (1995) qua Reid (2011); câu diễn giải ví dụ (góp tiền, cư dân) là của người soạn [VERIFY: định nghĩa voluntary/involuntary nguyên văn trong Clarkson, 1995].",
+    ask: "“Trong hội nghị An Phát, ai chịu rủi ro không tự nguyện?”",
     next: "Thử ngay với tình huống của môn.",
   });
 
@@ -452,7 +486,7 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   });
   notes(s, {
     say: "Đáp án. Ngân hàng An Phát: primary — người đặt hàng và trả tiền; không có họ, không có sự kiện. Khách sạn: primary — đổi địa điểm phút chót gần như bất khả. Công ty bảo hiểm: tùy bối cảnh — primary nếu ngân sách sự kiện phụ thuộc vào khoản tài trợ; secondary nếu đó chỉ là phần cộng thêm. Báo tài chính: secondary — sự kiện vẫn diễn ra nếu báo không đến, nhưng họ ảnh hưởng hình ảnh sau sự kiện. Cư dân lân cận: secondary — không giao dịch, nhưng có thể trở nên rất quan trọng; tôi sẽ quay lại với họ sau giờ giải lao.",
-    gv: "Theo W01 lecture notes §2.3. Cư dân để dành làm ví dụ tính động của Salience Model (slide 34).",
+    gv: "Theo W01 lecture notes §2.3. Cư dân để dành làm ví dụ tính động của Salience Model (slide 36).",
     next: "Điều này dẫn tới một nguyên tắc.",
   });
 
@@ -705,6 +739,25 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
     next: "Hai công cụ là bước đầu của một việc làm liên tục.",
   });
 
+  // ---------- 35b Stakeholder Sandwich
+  s = slide("Người làm nghề ít dùng các ma trận trên giấy — Stakeholder Sandwich là một cách vẽ khác");
+  box(s, 0.6, 1.95, 7.3, 1.25, PINK);
+  T(s, "Affectors — bên có thể ảnh hưởng đến sự kiện", 0.85, 1.95, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
+  box(s, 0.6, 3.35, 7.3, 1.25, YEL);
+  T(s, "Sự kiện · địa điểm · thời gian (ở giữa)", 0.85, 3.35, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
+  box(s, 0.6, 4.75, 7.3, 1.25, TEAL);
+  T(s, "Affectees — bên bị sự kiện ảnh hưởng", 0.85, 4.75, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
+  box(s, 8.2, 1.95, 4.53, 4.05);
+  T(s, "Mỗi bên ghi thêm điều họ quan tâm chính:", 8.45, 2.1, 4.1, 0.8, { fontSize: 16, color: MU, valign: "top" });
+  T(s, [{ text: "Outputs", options: { bold: true, color: BLUE } }, { text: " — kết quả đo được (số khách, doanh thu)", options: { breakLine: true } }, { text: "Outcomes", options: { bold: true, color: ORA } }, { text: " — tác động định tính (hình ảnh, cộng đồng, trải nghiệm)" }], 8.45, 2.95, 4.1, 2.9, { fontSize: 16, valign: "top", paraSpaceAfter: 10 });
+  src(s, "Nguồn: Wallace & Michopoulou (2019), Event Management.", 6.4);
+  notes(s, {
+    say: "Một phát hiện đáng suy nghĩ: Wallace và Michopoulou, 2019, phỏng vấn người làm nghề sự kiện và thấy không mô hình bên liên quan quen thuộc nào — kể cả các mô hình riêng cho sự kiện — được dùng phổ biến trong thực tế; nhưng định nghĩa của Freeman năm 1984 vẫn đúng. Họ đề xuất Stakeholder Sandwich — chiếc bánh kẹp: lớp trên là affectors — bên có thể ảnh hưởng đến sự kiện; lớp dưới là affectees — bên bị sự kiện ảnh hưởng; và ở giữa là chính sự kiện, địa điểm và thời gian. Mỗi bên ghi thêm điều họ quan tâm chính: outputs — kết quả đo được như số khách, doanh thu; hay outcomes — tác động định tính như hình ảnh, cộng đồng, trải nghiệm. Mô hình được thử trên Tour de Yorkshire. Ý nghĩa cho các bạn: công cụ chỉ có giá trị khi dùng được; nếu Grid hay Salience khó áp dụng, Sandwich là một cách vẽ đơn giản hơn.",
+    gv: "Đã đối chiếu bản tác giả do GV cung cấp: Wallace & Michopoulou (2019), “The stakeholder sandwich: A new stakeholder analysis model for events and festivals”, Event Management, DOI 10.3727/152599519X15506259855742 — tóm tắt (không mô hình nào “in common usage”, Freeman 1984 “continues to be valid”) và Hình 7 (affector/affectee × output/outcome, sự kiện–địa điểm–thời gian ở giữa). [VERIFY: số tập/kỳ/trang bản in.] Bài tiếp theo của cùng tác giả (Wallace & Michopoulou, 2023, Event Management 27, 281–299) dùng Sandwich để đo thành công theo cách của từng bên — để dành cho Buổi 5, 8, 12. Slide là tùy chọn: nếu thiếu giờ, bỏ slide này.",
+    ask: "“Trong hội nghị An Phát, cư dân là affector hay affectee? Có thể là cả hai không?”",
+    next: "Hai công cụ — hay ba — là bước đầu của một việc làm liên tục.",
+  });
+
   // ---------- 36 process
   s = slide("Quản trị bên liên quan là vòng lặp năm việc, không làm một lần rồi thôi");
   const pr = [["Nhận diện các bên", PINK], ["Phân tích và ưu tiên (Grid, Salience)", ORA], ["Chọn cách ứng xử cho từng nhóm", YEL], ["Giao tiếp hai chiều", TEAL], ["Theo dõi, đánh giá, vẽ lại bản đồ", BLUE]];
@@ -713,7 +766,7 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   T(s, "lặp lại theo giai đoạn", 10.4, 4.6, 2.3, 0.6, { align: "center", fontSize: 14, color: MU });
   notes(s, {
     say: "Quản trị bên liên quan là một vòng lặp năm việc. Một, nhận diện các bên. Hai, phân tích và ưu tiên — bằng Grid và Salience vừa học. Ba, chọn cách ứng xử cho từng nhóm. Bốn, giao tiếp hai chiều — không chỉ gửi thông tin, mà lắng nghe. Năm, theo dõi, đánh giá và vẽ lại bản đồ. Rồi lặp lại theo từng giai đoạn của sự kiện.",
-    gv: "Năm bước theo Van Niekerk & Getz (2019) qua video Mark N (2019) trên NotebookLM — [VERIFY: đối chiếu sách Van Niekerk & Getz, 2019, tài liệu tham khảo chính] trước khi gán tên tác giả trước lớp. Trên slide không ghi tác giả.",
+    gv: "Năm bước theo Van Niekerk & Getz (2019) qua video Mark N (2019) trên NotebookLM. Mục lục sách do GV cung cấp xác nhận có Hình 3.1 “Continuous planning process for stakeholder management” (tr. 60) — nhưng tên từng bước chưa đối chiếu được [VERIFY: tr. 60]. Trên slide không ghi tác giả. Sách có mục 5.5 “Stakeholder management for business events” (tr. 139) — sát bối cảnh agency, nên đọc nếu có bản đầy đủ.",
     next: "Ba lỗi khiến bản đồ bên liên quan vô dụng.",
   });
 
@@ -747,7 +800,7 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   T(s, "Chỉ hứa điều mình kiểm soát được; ghi lại điều đã hứa.", 0.6, 5.0, 12.13, 0.7, { fontSize: 22, bold: true, color: YEL });
   notes(s, {
     say: "Một điều về đạo đức nghề nghiệp. Có hai loại cam kết với bên liên quan. Có hợp đồng: quyền lợi ghi rõ, bên kia có thể đòi theo luật. Chỉ là lời hứa: không kiện được, nhưng mất uy tín — như chủ quầy pizza ở Fremantle: “Họ hứa 200.000 người…”. Uy tín mất rồi thì sự kiện sau không ai tham gia. Nguyên tắc: chỉ hứa điều mình kiểm soát được, và ghi lại điều đã hứa.",
-    gv: "Ý “legal stake / moral stake” lấy từ video Boateng (2021) qua NotebookLM — chưa đối chiếu, dùng ở mức ý tưởng, không trích tên. Nối CLO8 (đạo đức và trách nhiệm nghề nghiệp). Không rõ trong sách ai đã hứa con số 200.000 với người bán hàng — đừng khẳng định đó là ban tổ chức.",
+    gv: "Ý “legal stake / moral stake” lấy từ video Boateng (2021) qua NotebookLM — chưa đối chiếu, dùng ở mức ý tưởng, không trích tên; ý “rủi ro” liên quan đã có nguồn ở slide 21 (Reid, 2011). Nối CLO8 (đạo đức và trách nhiệm nghề nghiệp). Không rõ trong sách ai đã hứa con số 200.000 với người bán hàng — đừng khẳng định đó là ban tổ chức.",
     ask: "“Trong dự án cũ, nhóm đã từng hứa điều gì với một bên mà không chắc làm được?”",
     next: "Giờ áp dụng tất cả lên khách hàng thật của nhóm: Thực hành 2.",
   });
@@ -840,12 +893,15 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
     [P("Holmes, K., Hughes, M., Mair, J., & Carlsen, J. (2015). "), I("Events and sustainability"), P(". Routledge.")],
     [P("Mendelow, A. L. (1981). Environmental scanning: The impact of the stakeholder concept. "), I("ICIS 1981 Proceedings"), P(", 20. https://aisel.aisnet.org/icis1981/20/")],
     [P("Mitchell, R. K., Agle, B. R., & Wood, D. J. (1997). Toward a theory of stakeholder identification and salience: Defining the principle of who and what really counts. "), I("Academy of Management Review, 22"), P("(4), 853–886.")],
+    [P("Reid, S. (2011). Event stakeholder management: Developing sustainable rural event practices. "), I("International Journal of Event and Festival Management, 2"), P("(1), 20–36. https://doi.org/10.1108/17582951111116597")],
+    [P("Todd, L., Leask, A., & Ensor, J. (2017). Understanding primary stakeholders’ multiple roles in hallmark event tourism management. "), I("Tourism Management, 59"), P(", 494–509. https://doi.org/10.1016/j.tourman.2016.09.010")],
     [P("Trần Nguyễn Huỳnh Như. (2023). "), I("Chương 2: Khách hàng trọng yếu trong sự kiện"), P(" [Slide bài giảng].")],
     [P("Van Niekerk, M., & Getz, D. (2019). "), I("Event stakeholders: Theory and methods for event management and tourism"), P(". Goodfellow Publishers.")],
+    [P("Wallace, K., & Michopoulou, E. (2019). The stakeholder sandwich: A new stakeholder analysis model for events and festivals. "), I("Event Management"), P(". https://doi.org/10.3727/152599519X15506259855742")],
   ];
   const runs = [];
   refs.forEach((r, i) => r.forEach((x, j) => runs.push({ text: x.text, options: { ...x.options, breakLine: j === r.length - 1 && i < refs.length - 1 } })));
-  T(s, runs, 0.6, 1.75, 12.13, 5.1, { fontSize: 14, valign: "top", paraSpaceAfter: 6 });
+  T(s, runs, 0.6, 1.7, 12.13, 5.2, { fontSize: 12, valign: "top", paraSpaceAfter: 4 });
   notes(s, {
     say: "Đây là tài liệu tham khảo của buổi học, trình bày theo APA 7. Tài liệu tham khảo chính của học phần là Van Niekerk và Getz, 2019; giáo trình chính là tài liệu nội bộ.",
     gv: "Sửa nguồn so với NotebookLM: “Events and sustainability-1.pdf” là Holmes et al. (2015), không phải Getz & Page (2012). [VERIFY: số tạp chí của Getz et al. (2006) — 10(2) hay 10(2–3); năm và tên chính thức của slide bộ môn; NEEDS PROFESSOR INPUT: tên đơn vị phát hành slide.] Reid & Arcodia (2002) và Theodoraki (2007) dẫn qua Holmes et al. (2015) nên không liệt kê riêng.",

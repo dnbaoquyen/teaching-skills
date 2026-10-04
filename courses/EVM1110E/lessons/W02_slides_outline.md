@@ -2,6 +2,8 @@
 
 EVM1110E · 21 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text; bảng phân biệt bằng ký hiệu, không chỉ màu. Nguồn ghi mã nhỏ ở chân slide.
 
+> **Cập nhật 4/10/2026:** đã có deck đầy đủ `slides/W02_slides.pptx` (33 slide, khuôn MKT1107; bản Roboto; mã nguồn `slides/src/w02.js`), lời giảng 4 phần ở mọi slide; nguồn mới đọc trực tiếp: Marcos et al. (2018) chương 1–2 (ba câu hỏi chọn Key Account, yếu tố hấp dẫn và vị thế, năm câu đồng đầu tư, case 17 người bán – 60 Key Account), slide bộ môn Chương 1. Xem `buoi-02_tu-lieu-tong-hop.md` mục 8. Bảng dưới giữ để đối chiếu.
+
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |
 |---|---|---|---|---|
 | 1 | — | Quản trị mối quan hệ trong tổ chức sự kiện — Buổi 2 | Tên HP, mã, GV; phụ đề *KAM Mindset & Key Account Selection* | Mở Phần 2 |

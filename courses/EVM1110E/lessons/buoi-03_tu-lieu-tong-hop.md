@@ -123,3 +123,17 @@ VnExpress. (2026). *Tăng trưởng tín dụng năm 2026 dự kiến 15%*. http
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 3 đã soạn: `W03_lesson_plan.md`, `W03_lecture_notes.md`, `W03_slides_outline.md`, `W03_activity_S3_*.md`, `W03_activity_S6_*.md` (chờ GV xác nhận).
+
+---
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp nguồn
+
+**C02 — Marcos et al. (2018), chương 3 (đọc được phần đầu, tr. 58–61):** nghiên cứu Cranfield — phần làm kém nhất của kế hoạch Key Account là hiểu thế giới của khách hàng (tr. 60); **Wheel of Customer Understanding** (Holt, 2003, cập nhật 2016; Hình 3.1, tr. 61): trung tâm “understanding the customer better than they do” và các vùng: ngành và động lực ngành; chiến lược và mô hình kinh doanh; đối thủ; vận hành; khách hàng và nhà cung cấp của khách; năng lực cốt lõi; địa bàn; người chủ chốt, văn hóa và chính trị. → **lấp khoảng trống C02**.
+
+**C06 — GRASP: đã có nguồn** — slide bộ môn Chương 3 (Trần Nguyễn Huỳnh Như, 2023): G – *Mục tiêu và kế hoạch hành động của chúng tôi đối với thành viên DMU này là gì?*; R – vai trò trong đơn vị ra quyết định; A – điều gì hấp dẫn thành viên này về phương án; S – mối quan hệ với thành viên này; P – trình độ và quyền lực. **Khác định nghĩa làm việc ở chữ G** (bản làm việc: mục tiêu của chính người đó). Deck W03 dùng bản slide bộ môn (theo quyết định 2 và Q1) — `[NEEDS PROFESSOR INPUT: xác nhận]`.
+
+**C04 — Vai trò DMU:** slide bộ môn Chương 3 có 6 vai: người khởi xướng, người dùng cuối, người ảnh hưởng, người quyết định, người kiểm soát (gatekeeper), người thực hiện quy trình mua. Dùng theo Q4; gán cho Webster & Wind vẫn `[VERIFY]`.
+
+**Khác:** slide Chương 3 có ba giai đoạn hành trình và câu “mục tiêu đầu tiên là xác định tất cả các điểm tiếp xúc…”; sơ đồ cấu trúc phòng Marketing tại client. Slide Chương 2 có cấu trúc bảng brief (thông tin công ty: khách hàng, đối thủ cạnh tranh).
+
+**Deck:** `slides/W03_slides.pptx` (32 slide).
