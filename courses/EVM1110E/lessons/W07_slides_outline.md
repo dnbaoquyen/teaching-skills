@@ -35,3 +35,5 @@ EVM1110E · 26 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 26 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 8 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi số phiếu A/B/C/D ở S1; vẽ nhanh ma trận 2×2 khi chốt S3 để đặt các hạng mục gây tranh cãi; ghi biên bản 3 dòng của từng cặp khi tổng kết S6.
+
+> **Cập nhật 4/10/2026:** deck đầy đủ theo khuôn MKT1107 đã dựng tại `slides/W07_slides.pptx` (và bản Roboto); xem `buoi-07_tu-lieu-tong-hop.md` mục 8.

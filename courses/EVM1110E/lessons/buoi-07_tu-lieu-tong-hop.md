@@ -568,3 +568,15 @@ Prestige Events Magazine. (2025, November). *Cost pressures are forcing price ri
 2. ~~“Customer of choice”~~ → **ĐÃ QUYẾT (27/9/2026):** đưa vào như **hành động của agency**. Xem ghi chú ở S06 và quyết định số 5 trong `W07_khung_goc_nhin.md`.
 3. ~~Thuật ngữ tiếng Việt cho bốn ô~~ → **ĐÃ QUYẾT (27/9/2026):** **giữ thuật ngữ gốc** tiếng Anh; chỉ giải thích nghĩa bằng tiếng Việt lần đầu. Xem quyết định số 6 trong file khung.
 4. ~~Tìm thêm tư liệu cho các khoảng trống~~ → **ĐÃ LÀM vòng bổ sung (27/9/2026):** thêm S21–S26 và Case 5. Còn thiếu và cần GV hỗ trợ nếu muốn lấp: B3 (case agency xây đối tác chiến lược **thành công**, nguồn độc lập), C2 (thực tiễn quản lý nhà cung cấp của agency Việt Nam), D3 (biên lợi nhuận riêng của event agency; một bảng dự toán thật đã ẩn danh sẽ là tư liệu tốt nhất) `[NEEDS PROFESSOR INPUT]`.
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp giáo trình Chương 10
+
+Marcos et al. (2018), Chương 10 “KAM and procurement: the buyer’s perspective and value-based negotiation” (tr. 238–262):
+- **Hình 10.1 Kraljic** (tr. 242) — cùng bốn ô và chiến lược như CIPS (S01); “one of the dominant strategic tools guiding purchasing activities”. **Lưu ý góc nhìn:** sách dùng Kraljic theo chiều phòng mua của **khách hàng** nhìn nhà cung cấp (“How do buyers look at you?”). Deck giữ khung của môn (agency là người mua — quyết định GV 3), chỉ ghi chú điều này cho GV ở slide 8 và 25.
+- **Hình 10.5–10.6 Procurement vs Buying** (tr. 246–247): procurement = chiến lược, C-level, tập trung giá trị, cởi mở đổi mới; buying = vận hành, tập trung chi phí, ngại rủi ro — dùng làm định nghĩa, áp vào **bên trong agency**.
+- **Hình 10.8 Cost : price : value : risk** (tr. 255–256) — nguồn trực tiếp cho “distinguishing Risk and Value” của 7.3.
+- **Hình 10.9 lựa chọn cách tính giá** cost-plus / value-based / outcome-based (tr. 257–258) — thêm thành slide công cụ.
+- Phỏng vấn GS. Carlos Mena (tr. 248–249): “make the pie grow… fight over the size of the slices” — bổ trợ PON (S12).
+- Mẹo cuối chương (tr. 260–261): “Dropping your price is not adding value”; khuyên đọc Fisher & Ury, *Getting to Yes*.
+- Hình 10.7 Supplier assessment framework (tr. 249–255) — **không dùng** (góc nhìn phòng mua đánh giá nhà cung cấp; quyết định GV 2–3).
+- Deck: `slides/W07_slides.pptx` (39 slide) + bản Roboto. Phiếu S3 ghi An Phát là Key Account “3 năm”, Buổi 3–4 dùng “4 năm” — `[NEEDS PROFESSOR INPUT: thống nhất]`.

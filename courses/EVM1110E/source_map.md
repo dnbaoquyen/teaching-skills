@@ -160,3 +160,9 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 | Lỗi slide Ch.4 | “1.4 inch” → ¼ inch (Levitt) | Deck dùng ¼ inch |
 
 **Việc tiếp theo:** GV duyệt deck W04–W06; sau đó Buổi 7–9 (giáo trình Ch.7 KAM team, Ch.8 đo hiệu quả; Kraljic từ SSE).
+
+## 11. Cập nhật 4/10/2026 (lần 4) — Buổi 7–8; nguồn thay thế Cranfield
+
+- Giáo trình đã thay được Cranfield KAM 2023 cho: **khung Value Planning A–E** (Ch.3, Hình 3.4–3.5, tr. 72–90 → Buổi 13), **bow-tie/diamond** (Ch.10, tr. 243–245 → Buổi 8), **Kraljic + value-based negotiation** (Ch.10 → Buổi 7), **đo hiệu quả KAM** (Ch.8 → Buổi 6, 8).
+- Deck W07 (39), W08 (37) đã dựng. Còn chờ GV gửi: Kraljic (1983) toàn văn, Gelderman & van Weele (2003), mẫu hợp đồng #61; nguồn sự kiện cho Buổi 9–12 (Farrelly & Quester 2005; Cornwell; Bowdin et al.; EIC CMP-IS; Campbell & Farrell 2020; AMEC Barcelona Principles 3.0; Larson & Wikström 2001; Getz, Andersson & Larson 2007).
+- Mâu thuẫn số năm Nova – An Phát: Buổi 3–4 “4 năm”, Buổi 7–8 “3 năm” `[NEEDS PROFESSOR INPUT]`.

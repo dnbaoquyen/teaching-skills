@@ -34,3 +34,5 @@ EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 25 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 9 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi số phiếu giơ tay ở S1; vẽ nhanh Bow-tie của Nova – An Phát khi chốt S3; ghi biên bản 3 dòng của từng cặp khi tổng kết S6.
+
+> **Cập nhật 4/10/2026:** deck đầy đủ theo khuôn MKT1107 đã dựng tại `slides/W08_slides.pptx` (và bản Roboto); xem `buoi-08_tu-lieu-tong-hop.md` mục 8.

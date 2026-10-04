@@ -406,3 +406,12 @@ Event ROI Institute. (n.d.). *Methodology*. Retrieved September 27, 2026, from h
 
 ### Trạng thái các quyết định
 Cả 5 mục đã được GV quyết định ngày 27/9/2026 (xem đầu file). Mục 7.3 đã được GV duyệt (27/9/2026). Gói bài giảng Buổi 8 đã soạn: `W08_lesson_plan.md`, `W08_lecture_notes.md`, `W08_slides_outline.md`, `W08_activity_S3_so_do_tiep_xuc.md`, `W08_activity_S6_danh_gia_chung.md` (chờ GV xác nhận).
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp giáo trình
+
+- **Bow-tie / Diamond có nguồn trực tiếp:** Marcos et al. (2018), Chương 10, Hình 10.2 “Diamonds and bow ties” (tr. 243) và Hình 10.3 “scaled by value” (tr. 244–245) — lưu ý thực tế: khách lớn hơn agency rất nhiều → vẽ theo giá trị tạo ra. Không còn phụ thuộc nguồn thứ cấp T03 cho mô hình.
+- **Tên giai đoạn — đóng [VERIFY]:** tr. 101 (dẫn McDonald & Rogers, 2017): exploratory → basic → co-operative → interdependent → integrated. Việc ghép giai đoạn ↔ bow-tie/diamond vẫn theo T03.
+- **Vai trò KAMgr và Hình 4.7** “Relationship links…” (tr. 111–112); **top management support** (tr. 110–111) kèm rủi ro lãnh đạo không nắm việc.
+- **8.2:** Hình 8.1 dùng đúng thuật ngữ “results-driven / processes-driven metrics” của đề cương (tr. 192–193); kết quả quan hệ = hài lòng (Hình 8.2), trung thành thái độ/hành vi gồm share of purchases (Hình 8.3), chất lượng quan hệ (Hình 8.4; “get both perspectives to identify possible gaps”, tr. 205).
+- **8.3:** “Linking performance to insights” (tr. 214–215): họp với khách để hiểu “vì sao” qua các cặp chức năng — vừa có insight vừa xây gắn kết (= mở rộng Diamond). Wipro: “quarterly account reviews” (tr. 183).
+- Deck: `slides/W08_slides.pptx` (37 slide) + bản Roboto. Phiếu S3/S6 ghi Nova làm cho An Phát “3 năm” — `[NEEDS PROFESSOR INPUT: thống nhất với “4 năm” của Buổi 3–4]`.
