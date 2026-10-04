@@ -166,3 +166,21 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 - Giáo trình đã thay được Cranfield KAM 2023 cho: **khung Value Planning A–E** (Ch.3, Hình 3.4–3.5, tr. 72–90 → Buổi 13), **bow-tie/diamond** (Ch.10, tr. 243–245 → Buổi 8), **Kraljic + value-based negotiation** (Ch.10 → Buổi 7), **đo hiệu quả KAM** (Ch.8 → Buổi 6, 8).
 - Deck W07 (39), W08 (37) đã dựng. Còn chờ GV gửi: Kraljic (1983) toàn văn, Gelderman & van Weele (2003), mẫu hợp đồng #61; nguồn sự kiện cho Buổi 9–12 (Farrelly & Quester 2005; Cornwell; Bowdin et al.; EIC CMP-IS; Campbell & Farrell 2020; AMEC Barcelona Principles 3.0; Larson & Wikström 2001; Getz, Andersson & Larson 2007).
 - Mâu thuẫn số năm Nova – An Phát: Buổi 3–4 “4 năm”, Buổi 7–8 “3 năm” `[NEEDS PROFESSOR INPUT]`.
+
+## 12. Cập nhật 4/10/2026 (lần 5): tư liệu Drive cho Buổi 9–12
+
+| Nguồn | Trạng thái | Dùng cho |
+|---|---|---|
+| Cornwell (2020), *Sponsorship in Marketing*, 2nd ed. (bản đầy đủ) | Đã đọc | B9 (ch.2, 3, 6, 8–9, 10, 11); B12 một phần |
+| Silvers (2008), *Risk Management for Meetings and Events* | Đã đọc | B10 (ch.3 hợp đồng, ch.7, ch.11) |
+| Dowson, Albert & Lomax (2023), *Event Planning and Management*, 3rd ed. | Chỉ đọc được phần đầu (file > 10MB) | B10: cần ch.5, ch.9 [NEEDS PROFESSOR INPUT] |
+| "Events Marketing Management.pdf" | Bản scan, không trích được chữ | Chưa xác định |
+| Slide môn Tài trợ (ThS. Nguyễn Quốc Vương) | Đã đọc | B9, B12: khung tiếng Việt; ambush (McKelvey & Grady 2008) |
+| Slide môn PR trong TCSK, bài 1–7 (ThS. Nguyễn Quốc Vương) | Đã đọc | B11 (bài 2, 3, 6, 7); B9 (bài 4); B12 (bài 1, 6) |
+| Đề án sinh viên "Đời" (2025): kế hoạch và hồ sơ tài trợ | Đã đọc. Chỉ dùng cấu trúc, đã ẩn danh. Không dùng phiếu đánh giá đóng góp, tên, SĐT, số tài khoản | B9 (gói quyền lợi; hợp đồng ngân hàng trả theo kết quả); B10 (dự trù kinh phí, điều khoản 70/30, thanh lý); B11 (kế hoạch truyền thông 5 giai đoạn) [NEEDS PROFESSOR INPUT: được phép dùng?] |
+
+**Ghi chú khi dùng slide PR:**
+- Số liệu "Marketing Report 1999" (2/3, 80%), Beamish (50%/92%), Samsung 2005 và APEC 2006 là số liệu thứ cấp, chưa kiểm chứng chéo. Chỉ dùng kèm [VERIFY].
+- Slide về "sai phạm điển hình của nhà báo" (bài 2) là nội dung nhạy cảm. Nếu dùng thì chỉ đặt trong phần đạo đức quan hệ báo chí, không nêu cơ quan báo cụ thể.
+- Bài 6 trích "Cẩm nang kinh doanh Harvard – Quản lý khủng hoảng" (bản dịch). Năm xuất bản cần kiểm tra [VERIFY].
+- Bài 7: mô hình lập kế hoạch PR theo Parkinson & Ekachai (2006); đánh giá đầu ra và kết quả theo Paine. Cần đối chiếu với AMEC Barcelona Principles 3.0 (2020) để cập nhật.
