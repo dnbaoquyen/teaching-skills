@@ -49,9 +49,10 @@ Nguyên tắc bắt buộc:
    doanh nghiệp, quốc gia, số liệu — không tự Việt hóa, không tự thêm ví dụ.
 ```
 
-**Chọn nguồn trước mỗi lần hỏi:** sau Bước 1, chỉ tick các nguồn mà `source_map.md` gắn với buổi
-đó. Bỏ chọn đề cương và các slide đã tạo bằng NotebookLM (nếu có) khi trích xuất nội dung, để
-NotebookLM không diễn giải lại chính slide.
+**Chọn nguồn trước mỗi lần hỏi:** sau Bước 1, chỉ tick các nguồn mà `source_map.md` (mục 6) gắn với
+buổi đó. **Bắt buộc bỏ chọn `Introduction.pdf` (đề cương) và 5 file slide `Chương 1–5`.** Ở Bước 1,
+NotebookLM đã chép tên mục đề cương rồi ghi là "trích từ slide" (xem `source_map.md` mục 1). Claude
+đọc trực tiếp slide Chương 1–5 từ Drive nên không cần NotebookLM trích lại.
 
 ---
 
