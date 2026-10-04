@@ -198,3 +198,11 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 **Đính chính báo cáo ngày 4/10:**
 - Báo cáo khoảng trống trước đó (mục 12) đánh giá B11–B12 thiếu nhiều. Thực tế, tư liệu Buổi 9–12 đã được tổng hợp và GV duyệt ngày 27/9/2026: B11 có X01–X13 (có BP 4.0 và Luật 75), B12 có Y01–Y10 (có Getz và cộng sự 2006, Coombs 2007).
 - Khoảng trống thực sự là các mục 5 của từng file tư liệu.
+
+## 14. Cập nhật 4/10/2026 (lần 7): đề thi chính thức, Buổi 13
+
+| Tài liệu | Kết quả | Cập nhật vào |
+|---|---|---|
+| Đề thi cuối kỳ EVM1110E HK1A 2026–2027 (.docx, GV tải lên) | Đã đọc toàn văn: yêu cầu, rubric 11 tiêu chí, câu hỏi theo từng phần A–E | `buoi-13` Z10; `w13.js` (slide 2–3, 8, 24–28); checklist tự rà soát (căn lại theo rubric); `course_passport.yaml` (late_policy, ai_use_policy) |
+| Quyết định GV về AI (4/10): “Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp” | Ghi nhận | passport; W13 lesson plan, lecture notes, slide 27 |
+| Marcos et al. (2018), Ch.3, tr. 58–83 (Drive GV) | Đã đọc toàn văn phần Value Planning Framework và bộ công cụ | `buoi-13` Z11; `w13.js` (slide 5–7, 9, 18) |

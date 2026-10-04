@@ -200,3 +200,73 @@ Cả 7 đề xuất đã được GV duyệt ngày 28/9/2026 (xem đầu file). 
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 13 đã soạn: `W13_lesson_plan.md`, `W13_lecture_notes.md`, `W13_slides_outline.md`, `W13_activity_S3_rap_khung_A_E.md`, `W13_activity_S6_value_delivery_exec_summary.md`, `W13_checklist_tu_ra_soat_SMP.md` (chờ GV xác nhận).
+
+---
+
+## 8. Bổ sung 4/10/2026 — đề thi chính thức, quyết định GV, toàn văn Marcos Ch.3
+
+### Quyết định GV (4/10/2026)
+
+> “Trong đề cương đã bao gồm rubric chấm điểm. Về việc sử dụng AI: Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp. Tôi bổ sung thêm đề thi chính thức của môn này để bạn lấy thêm thông tin.”
+
+- **Quyết định GV 4 (rubric):** đã có, nằm trong đề thi (Z10). Checklist tự rà soát đã căn theo 11 tiêu chí.
+- **Quyết định GV 5 (AI):** thay mức D đề xuất bằng nguyên văn quy định của GV ở trên. Phụ lục công bố theo ba cột của đề thi (mục 3). Không dùng công cụ phát hiện AI. Đã ghi vào `course_passport.yaml`.
+- **Quyết định GV 2 (nội dung A–E):** câu hỏi của từng phần theo **đề thi** (Z10). Khung và bộ công cụ theo **Z11**. Không còn dựa vào định nghĩa làm việc ở Z09 cho những phần đã có nguồn.
+
+### Z10 — Đề thi cuối kỳ EVM1110E, HK1A 2026–2027 (Khoa Marketing, UEF)
+
+- **Loại:** tài liệu chính thức do GV cung cấp (.docx, 4/10/2026). **Đã KCC** (nguồn gốc).
+- **Hình thức:** tiểu luận nhóm (SMP) kèm thuyết trình, bảo vệ và phản biện trực tiếp (AM7 + AM9). Bảo vệ ở Buổi 14–15, mỗi nhóm 30 phút: 15 phút trình bày, 15 phút hỏi đáp.
+- **Đối tượng:** 01 khách hàng là tổ chức, lấy từ dự án sự kiện nhóm đã làm; không làm dự án mới. Phạm vi chỉ gồm các bên liên quan bên ngoài; không đi sâu nhân sự nội bộ, an toàn đám đông, PCCC.
+- **Định dạng:** A4, Times New Roman 13, giãn dòng 1,3, lề 2/2/3/2 cm. Nội dung chính 20–30 trang.
+- **Cấu trúc bắt buộc:** E (≤ 1 trang, đặt đầu) → A → B → C → D → tài liệu tham khảo (APA 7) → phụ lục.
+- **Bốn phụ lục bắt buộc:**
+  1. Phân công và tự đánh giá đóng góp.
+  2. Bảng truy vết Buổi 1–13, kèm ảnh chụp.
+  3. Giả định chính.
+  4. Công bố AI (nếu có).
+- **Số liệu:** có nguồn, hoặc ghi “Giả định: … vì …”. Không dùng thông tin cá nhân của người thật; dùng chức danh.
+- **Nộp bài:** trên LMS trước 23:59 ngày 14/10/2026, gồm 1 PDF và 1 file slide. Trễ 1 ngày trừ 20%; không nộp trễ quá 3 ngày.
+- **Bảo vệ:** hội đồng tập trung vào logic tài chính (giá trị, CLV, cost-to-serve, giả định) và điểm chạm. Mỗi thành viên trả lời ít nhất 1 câu; hội đồng có thể chỉ định người trả lời.
+- **Rubric:**
+  - Phần I (60%, điểm nhóm): E 5% · A 12% · B 10% · C 10% · D quan hệ Key Account 8% · D bên ngoài 10% · trình bày, nguồn, liêm chính 5%.
+  - Phần II (40%): trình bày 10% (điểm nhóm). Ba tiêu chí điểm cá nhân, mỗi tiêu chí 10%: bảo vệ logic tài chính · bảo vệ chiến lược điểm chạm · phản biện và làm việc nhóm.
+  - AM9 chấm dựa trên phụ lục đóng góp.
+- **Phần C chấm theo năm nguồn giá trị** (top line, bottom line, HSSEQ, advisory, khách của khách hàng) — năm nguồn của Buổi 5, không phải bốn cách của Z05.
+- **APA:** Trường Đại học Kinh tế – Tài chính TP.HCM. (2026). *Đề thi học kỳ 1A năm học 2026–2027: EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện* [Tài liệu nội bộ].
+
+### Z11 — Marcos et al. (2018), Ch.3 *Building customer understanding and value planning* (toàn văn, tr. 58–83)
+
+- **Đã đọc toàn văn**: bản ProQuest trên Drive GV, được GV cho phép.
+- **Tr. 71–72:** nghiên cứu ở Cranfield KAM Best Practice Club.
+  - Áp dụng tốt việc lập kế hoạch key account thì khả năng triển khai KAM thành công cao hơn rõ rệt.
+  - Không tổ chức nào tự chấm kế hoạch của mình cao.
+  - Phần làm kém nhất là hiểu thế giới của khách hàng.
+- **Tr. 72–73:** khung do Davies & Holt trình bày năm 2013, gốc từ Ryals & McDonald, bổ sung phát triển value proposition do khách hàng dẫn dắt.
+  - A — analysing the customer’s world.
+  - B — analysing the supplier’s world.
+  - C — creating and selling value.
+  - D — demonstrating, planning, quantifying and delivering value.
+  - E — executive summary.
+- **Bộ công cụ (Hình 3.5):**
+  - A1 PESTEL · A2 đối thủ của khách hàng · A3 nội bộ khách hàng · A4 SWOT 9 ô.
+  - B1 đối thủ của ta · B2 nội bộ ta · B3 SWOT 9 ô của ta · B4 bản đồ quan hệ, ra quyết định.
+  - C1.
+  - D1 kế hoạch hành động · D2 giao và ghi nhận giá trị · D3 tài chính.
+  - E1.
+- **Tr. 81:** kế hoạch hành động có các cột: việc chính, người phụ trách, bộ phận phối hợp, nguồn lực, đo tiến độ, KPI, hạn, ngày xong. *“The key account plan should be working to a three-year time horizon.”*
+- **Tr. 82:** executive summary *“confine it to one page using the four main section headings”*. Bảng 3.4–3.5 tự chấm kế hoạch (thang 1–5).
+- **Khác biệt với đề thi (nhận định):**
+  - Phần B của giáo trình phân tích phía nhà cung cấp. Đề thi dùng công cụ của môn (ba tiêu chí Key Account, chất lượng quan hệ, CLV, cost-to-serve).
+  - Hai cách cùng trả lời câu hỏi “ta có cơ hội gì với khách hàng này”. Deck nói rõ khác biệt này (slide 7) và yêu cầu SV làm theo đề thi.
+- **Ghi chú:** tầm nhìn 3 năm (Z11) và 3–5 năm (Z02) không mâu thuẫn. Việc chọn “3 hay 4 năm” cho Nova – An Phát vẫn chờ GV quyết.
+- **APA:** Marcos, J., Davies, M., Guesalaga, R., & Holt, S. (2018). *Implementing key account management: Designing customer-centric processes for mutual growth*. Kogan Page.
+
+### Khoảng trống ở mục 5 — cập nhật
+
+| Mục | Trạng thái |
+|---|---|
+| Nội dung B–E theo Cranfield | **Đã có** (Z11) |
+| Rubric AM7/AM9 | **Đã có** (Z10) |
+| Chính sách AI | **Đã có** (GV 4/10) |
+| Toàn văn Z03, Z04 | Vẫn chưa đọc; không còn cần thiết cho Buổi 13 |

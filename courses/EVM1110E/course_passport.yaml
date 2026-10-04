@@ -79,8 +79,8 @@ schedule:
 
 policies:
   grading_scheme: "Quá trình 30% (chuyên cần 10%, bài tập 20%) · Giữa kỳ 20% · Cuối kỳ 50%"
-  late_policy: "Nộp bài trên LMS theo thời hạn quy định. [NEEDS PROFESSOR INPUT: xử lý bài nộp trễ]"
-  ai_use_policy: "[NEEDS PROFESSOR INPUT: quy định sử dụng AI]"
+  late_policy: "SMP cuối kỳ: nộp trên LMS trước 23:59 ngày 14/10/2026; trễ 1 ngày trừ 20% số điểm; không nộp trễ quá 3 ngày (đề thi HK1A 2026–2027). Bài khác: [NEEDS PROFESSOR INPUT]"
+  ai_use_policy: "Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp (GV, 4/10/2026). SMP: phụ lục công bố gồm công cụ, dùng cho phần nào, nhóm đã kiểm tra và sửa gì; mọi thành viên tự giải thích được mọi phần (đề thi mục 3). Không dùng công cụ phát hiện AI."
   integrity_policy: "[NEEDS PROFESSOR INPUT]"
   attendance_policy: "[NEEDS PROFESSOR INPUT]"
 

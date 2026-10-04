@@ -13,7 +13,7 @@ EVM1110E · Buổi 13 · Dùng cho các đoạn S1, S2, S4, S5, S7 của giáo �
 
 ## S1 — Khởi động (5 phút)
 
-*[Chiếu slide 2: "Buổi 14. Nhóm bạn bước vào phòng. Customer Board — ba giảng viên — ngồi đối diện. Câu hỏi đầu tiên của họ nhiều khả năng là gì?"]*
+*[Chiếu slide 2: "Buổi 14. Nhóm bạn bước vào phòng. Customer Board (giảng viên) ngồi đối diện. Câu hỏi đầu tiên của họ nhiều khả năng là gì?"]*
 
 Giơ tay: *(A) "Nhóm đã làm những gì?" · (B) "Kế hoạch này mang lại cho chúng tôi bao nhiêu giá trị?" · (C) "Nhóm có bao nhiêu slide?"*
 
@@ -84,6 +84,8 @@ Khi chưa có đủ thông tin về khách hàng, Cranfield khuyên: được **
 
 Ba cách tạo giá trị tiền tệ cho khách hàng: **tăng giá trị** (doanh thu, năng suất, tốc độ…), **giảm chi phí**, **tránh chi phí**; thêm **đóng góp cảm xúc** — khó định lượng nhưng có thật (Z05).
 
+> **Cập nhật 4/10/2026 — theo đề thi (Z10):** phần C chấm theo **năm nguồn giá trị** đã học ở Buổi 5 (Marcos et al., 2018, Hình 5.4): top line · bottom line · uy tín và tính liên tục (HSSEQ) · advisory · khách của khách hàng. Slide 15 dùng năm nguồn; bảng bốn cách dưới đây giữ để đối chiếu (tăng giá trị ≈ top line; giảm chi phí ≈ bottom line; tránh chi phí ≈ HSSEQ).
+
 Với agency sự kiện (nhận định của người soạn):
 
 | Cách | Ví dụ cho Key Account | Buổi |
@@ -139,7 +141,7 @@ Kế hoạch là của riêng người KAM · KAM làm một mình · lãnh đ�
 
 #### 3.3 Chính sách AI cho SMP (quyết định GV 5)
 
-- Mức **D — cho phép kèm công bố**: nhóm **được** dùng công cụ AI, nhưng phải có **phụ lục** ghi: công cụ nào, dùng cho việc gì, nhóm đã **kiểm tra và sửa** gì. `[NEEDS PROFESSOR INPUT: mẫu phụ lục]`
+- **Quy định của GV (4/10/2026):** *“Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp.”* Phụ lục công bố (đề thi mục 3): công cụ nào, dùng cho phần nào, nhóm đã **kiểm tra và sửa** gì. Mọi thành viên tự giải thích được mọi phần; hội đồng có thể chỉ định người trả lời.
 - Phần **bảo vệ trực tiếp** là nơi hội đồng thấy nhóm hiểu kế hoạch của mình đến đâu.
 - Các trang làm trên lớp (Buổi 1, 7–13) là **dấu vết quá trình** của nhóm.
 
@@ -157,7 +159,7 @@ Giới thiệu **checklist tự rà soát** (`W13_checklist_tu_ra_soat_SMP.md`) 
 2. **Phần C có số, phần D có cách đo**; 13.2 là **một bảng** gắn mọi bên liên quan vào hành trình của khách hàng.
 3. **Phần E viết cuối, đọc đầu**; tự rà soát bằng checklist trước Buổi 14.
 
-**Việc nhóm cần làm trước Buổi 14:** hoàn thiện các ô “cần bổ sung” trong bảng truy vết; sửa theo note của Customer Board; chạy checklist; chuẩn bị phụ lục công bố AI (nếu có dùng).
+**Việc nhóm cần làm trước hạn nộp (23:59 ngày 14/10/2026):** hoàn thiện các ô “cần bổ sung” trong bảng truy vết; sửa theo note của Customer Board; chạy checklist; hoàn thiện **bốn phụ lục bắt buộc** (phân công – đóng góp; truy vết Buổi 1–13 kèm ảnh; giả định chính; công bố AI nếu có).
 
 ---
 
@@ -168,3 +170,12 @@ Giới thiệu **checklist tự rà soát** (`W13_checklist_tu_ra_soat_SMP.md`) 
 - Ryals, L., & McDonald, M. (2010). *Key account plans*. Routledge.
 
 Nguồn Cranfield, SAMA và đề cương: xem danh mục APA đầy đủ (Z01–Z09) trong `buoi-13_tu-lieu-tong-hop.md`, mục 6.
+
+---
+
+## Cập nhật 4/10/2026 — đề thi chính thức và Marcos et al. (2018, Ch.3)
+
+- **§1.3:** câu hỏi của từng phần A–E nay theo **đề thi** (Z10), không còn là định nghĩa làm việc. Khung và bộ công cụ A1–A4, B1–B4, C1, D1–D3, E1 theo Marcos et al. (2018, Hình 3.4–3.5, tr. 72–82) (Z11). Lưu ý: phần B của giáo trình là “thế giới của nhà cung cấp” (đối thủ của ta, nội bộ ta, SWOT 9 ô của ta, bản đồ quan hệ); đề thi chọn công cụ của môn (ba tiêu chí Key Account, chất lượng quan hệ, CLV, cost-to-serve).
+- **Phần D:** thêm kế hoạch hành động tám cột (D.1), giao và ghi nhận giá trị (D.2), tài chính khoảng ba năm (D.3) — Marcos et al. (2018, tr. 81–82). Phần D tách hai mảnh theo rubric: tiêu chí 5 (quan hệ Key Account, 8%) và tiêu chí 6 (bên ngoài, 10%).
+- **Phần E:** giáo trình — một trang, dùng bốn tiêu đề A–D (tr. 82); đề thi — đặt đầu kế hoạch.
+- **Mới trong deck:** rubric 11 tiêu chí (slide 24); hình thức, hạn nộp (slide 25); bốn phụ lục (slide 26); buổi bảo vệ (slide 28).

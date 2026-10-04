@@ -8,16 +8,16 @@ EVM1110E · Buổi 13 · Đoạn S6 (35 phút)
 
 ## Nhiệm vụ
 
-**Bước 1 — Bảng Value Delivery (12 phút).** Trên giấy A1, lập bảng cho **ít nhất 3 bên liên quan bên ngoài** — mỗi nhóm sau ít nhất 1 bên: (i) nhà đầu tư/nhà tài trợ, (ii) nhà cung cấp/địa điểm, (iii) báo chí/KOL. Lấy từ các trang đã làm ở Buổi 9–12.
+**Bước 1 — Bảng Value Delivery (12 phút).** Trên giấy A1, lập bảng cho **ít nhất 3 bên liên quan bên ngoài** — mỗi nhóm sau ít nhất 1 bên: (i) nhà đầu tư/nhà tài trợ, (ii) nhà cung cấp/địa điểm, (iii) báo chí/KOL. Lấy từ các trang đã làm ở Buổi 9–12. Dưới bảng, ghi **ít nhất 2 xung đột** có thể xảy ra trong mạng lưới và cách bảo vệ deliverables (rubric tiêu chí 6).
 
 | Bên liên quan | Điểm chạm trên hành trình (trước / trong / sau) | Giá trị cho khách của khách hàng | Quản lý bằng gì (hợp đồng, ESG, KPI, người phụ trách) | Rủi ro/xung đột & cách bảo vệ deliverable | Chỉ số đo (cấp mấy trong ROI 6 cấp) |
 |---|---|---|---|---|---|
 | … | … | … | … | … | … |
 
-**Bước 2 — Executive Summary (5 phút).** Trên giấy A3, viết **5 câu** theo khung ở slide 16:
+**Bước 2 — Executive Summary (5 phút).** Trên giấy A3, viết **5 câu** theo khung ở slide 22:
 1. Khách hàng là ai, đang cần gì · 2. Cơ hội lớn nhất · 3. Đề xuất của nhóm · 4. Giá trị có số và cách đo (ghi giả định) · 5. Hội đồng cần quyết gì
 
-**Bước 3 — Customer Board (10 phút).** Để bảng và Executive Summary trên bàn; **một thành viên ở lại** trình bày 1 phút. Các thành viên còn lại di chuyển theo chiều kim đồng hồ (2 vòng, mỗi vòng 5 phút). Tại mỗi bàn, nhóm đóng vai **Customer Board** và để lại:
+**Bước 3 — Customer Board (10 phút).** Để bảng và Executive Summary trên bàn; **một thành viên ở lại** trình bày 1 phút. Khi đặt câu hỏi, nhóm khách **chỉ định người trả lời** (giống luật buổi bảo vệ: Customer Board có thể chỉ định người trả lời). Các thành viên còn lại di chuyển theo chiều kim đồng hồ (2 vòng, mỗi vòng 5 phút). Tại mỗi bàn, nhóm đóng vai **Customer Board** và để lại:
 - 🟨 **1 câu hỏi về logic tài chính** (giấy note vàng) — ví dụ: “Con số này từ đâu?”, “Chi phí tăng thì giá trị còn không?”
 - 🟥 **1 câu hỏi về chiến lược điểm chạm** (giấy note hồng) — ví dụ: “Nhà tài trợ này chạm khách của chúng tôi ở đâu, khách được gì?”
 

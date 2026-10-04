@@ -10,7 +10,8 @@
 **Trạng thái:** BẢN SOẠN (28/9/2026). **Chờ GV xác nhận.**
 
 **Góc nhìn (quyết định GV):** SV là **agency**, Key Account là trung tâm. Buổi 13 là **buổi ráp**: mọi trang nhóm đã làm (Buổi 1, 7–12) đi vào **một kế hoạch** cho **khách hàng từ dự án cũ của nhóm**, theo **Value Planning Framework** A–E (Cranfield). Nội dung A–E dùng **định nghĩa làm việc** của người soạn (Z09). Ví dụ An Phát chỉ là **bộ khung**, không phải bài mẫu.
-**Chính sách AI cho SMP (quyết định GV 5):** mức **D — cho phép kèm công bố**; bảo vệ trực tiếp là phần neo; **không dùng công cụ phát hiện AI**.
+**Chính sách AI (GV, 4/10/2026):** “Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp.” Phụ lục công bố theo đề thi mục 3; **không dùng công cụ phát hiện AI**.
+**Đề thi chính thức (Z10):** cấu trúc E → A → B → C → D; 11 tiêu chí; 4 phụ lục bắt buộc; hạn nộp 23:59 ngày 14/10/2026.
 
 ## Chuẩn đầu ra phục vụ
 
@@ -30,7 +31,7 @@
 
 | Hạng mục | Người chuẩn bị | Trạng thái |
 |------|--------------|--------|
-| Slide Buổi 13 (theo `W13_slides_outline.md`) | GV | chưa |
+| Slide Buổi 13 — `slides/W13_slides.pptx` (33 slide; bản Roboto kèm theo) | GV | đã có bản dựng 4/10 |
 | Phiếu S3 `W13_activity_S3_rap_khung_A_E.md` — in 6 bản (phần SV) | GV | chưa |
 | Phiếu S6 `W13_activity_S6_value_delivery_exec_summary.md` — in 6 bản (phần SV) | GV | chưa |
 | Checklist `W13_checklist_tu_ra_soat_SMP.md` — in 1 bản/SV hoặc đăng LMS | GV | chưa |
@@ -43,14 +44,14 @@
 | Thời gian | Đoạn | Loại | Giảng viên | Sinh viên | Học liệu |
 |------|-----|------|--------------------------|------------------|-----------|
 | 00–05 | S1 | Khởi động (thực hành) | “Customer Board hỏi câu đầu tiên là gì?” — giơ tay 3 lựa chọn | Giơ tay, trả lời nhanh | Slide 2 |
-| 05–25 | S2 | **Lý thuyết 1** | §1 13.1: kế hoạch Key Account là gì, vì sao (Z02, Z03); Value Planning Framework A–E (Z01); câu hỏi của từng phần; bản đồ nội dung đã học → A–E (Z09); ghi rõ giả định; bộ khung An Phát | Nghe | Slide 3–9; lecture notes §1 |
+| 05–25 | S2 | **Lý thuyết 1** | §1 13.1: đề thi; SMP = KAP + bên ngoài; Value Planning Framework A–E và bộ công cụ (Z11); câu hỏi của từng phần (Z10); ghi rõ giả định; bộ khung An Phát | Nghe | Slide 3–11; lecture notes §1 |
 | 25–55 | S3 | **Thực hành 1** | Phát phiếu S3; đi vòng từng nhóm; 52–55 chốt | Nhóm: ráp khung A–E từ các trang cũ + bảng truy vết + danh sách giả định | Phiếu S3; A1; trang SMP cũ |
 | 55–63 | — | Giải lao | Thông báo giờ quay lại | | |
-| 63–78 | S4 | **Lý thuyết 2** | §2 13.1 phần C: value proposition định lượng (Z05, Z06); 13.2: tích hợp bên liên quan bên ngoài vào phần D theo hành trình (Z09) | Nghe; tính nhanh cùng GV | Slide 10–15; lecture notes §2 |
-| 78–85 | S5 | **Lý thuyết 3** | §3 phần E: Executive Summary 5 câu; 10 lỗi thường gặp (Z02); chính sách AI mức D; giới thiệu checklist tự rà soát | Nghe | Slide 16–19; lecture notes §3 |
+| 63–78 | S4 | **Lý thuyết 2** | §2 13.1 phần C: value proposition định lượng (Z05, Z06); 13.2: tích hợp bên liên quan bên ngoài vào phần D theo hành trình (Z09) | Nghe; tính nhanh cùng GV | Slide 14–21; lecture notes §2 |
+| 78–85 | S5 | **Lý thuyết 3** | §3 phần E: Executive Summary 5 câu; 10 lỗi thường gặp (Z02); rubric, hình thức, phụ lục, chính sách AI, buổi bảo vệ (Z10); giới thiệu checklist tự rà soát | Nghe | Slide 22–28; lecture notes §3 (slide 24–26 lướt nhanh — SV đã có đề) |
 | 85–120 | S6 | **Thực hành 2** | 85–88 mở đầu; 88–100 phần D; 100–105 phần E; 105–115 xoay trạm 2 vòng (vai Customer Board); 115–120 sửa | Nhóm: bảng Value Delivery + Executive Summary; phản biện chéo | Phiếu S6; A1/A3; note vàng/hồng |
-| 120–123 | S7 | Tổng hợp (lý thuyết) | 3 câu chốt; việc nhóm cần hoàn thiện trước Buổi 14 | Nghe | Slide 20 |
-| 123–129 | S8 | Kết thúc (thực hành) | Phiếu kiểm tra cuối giờ + câu nối Buổi 14 | Viết cá nhân | Slide 21 |
+| 120–123 | S7 | Tổng hợp (lý thuyết) | 3 câu chốt; việc nhóm cần hoàn thiện trước Buổi 14 | Nghe | Slide 30 |
+| 123–129 | S8 | Kết thúc (thực hành) | Phiếu kiểm tra cuối giờ + câu nối Buổi 14 | Viết cá nhân | Slide 31–32 |
 | 129–135 | — | Dự phòng / hỏi đáp SMP | | | |
 
 **Cân đối thời lượng (quyết định GV 3 — buổi xưởng):** Lý thuyết 45 phút (S2 20 + S4 15 + S5 7 + S7 3) · Thực hành 76 phút (S1 5 + S3 30 + S6 35 + S8 6) · Giải lao 8 · Dự phòng/hỏi đáp 6.
@@ -75,14 +76,17 @@
 - Không chấm điểm SMP trong buổi này; checklist **chỉ để tự rà soát**, không thay rubric chính thức của đề cương.
 - Không phát bài mẫu SMP hoàn chỉnh (quyết định GV 6).
 - Không ghi thông tin cá nhân của khách hàng thật trên giấy dán, ảnh chụp; dùng tên tổ chức hoặc tên viết tắt.
-- Chính sách AI mức D: SV **được** dùng AI khi viết SMP nhưng phải có **phụ lục công bố**; buổi này không dùng và không nhắc đến công cụ phát hiện AI.
+- Chính sách AI (GV 4/10/2026): SV **được** dùng AI, chỉ cần khai báo và trả lời được câu hỏi vấn đáp khi viết SMP nhưng phải có **phụ lục công bố**; buổi này không dùng và không nhắc đến công cụ phát hiện AI.
 
 ## Các mục [VERIFY] / [NEEDS PROFESSOR INPUT]
 
-1. `[NEEDS PROFESSOR INPUT: rubric chính thức AM7/AM9 (phụ lục đề cương)]` — để đối chiếu checklist tự rà soát.
-2. `[VERIFY: định nghĩa phần B–E theo giáo trình nội bộ UEF, nếu có]` — lecture notes §1.3.
-3. `[NEEDS PROFESSOR INPUT: mẫu phụ lục công bố sử dụng AI — dùng mẫu đề xuất trong checklist hay mẫu của Khoa/Trường]`.
-4. Chính sách AI mức D chưa ghi vào `course_passport.yaml` (chờ GV xác nhận gói bài giảng).
+1. ~~Rubric chính thức~~ — **đã có** (đề thi, Z10); checklist đã căn theo 11 tiêu chí (4/10/2026).
+2. ~~Định nghĩa B–E~~ — **đã có**: câu hỏi từng phần theo đề thi (Z10); khung và bộ công cụ theo Marcos et al. (2018, Ch.3) (Z11).
+3. ~~Mẫu phụ lục AI~~ — theo ba cột của đề thi mục 3.
+4. ~~Chính sách AI trong passport~~ — đã ghi (4/10/2026).
+5. `[NEEDS PROFESSOR INPUT: giờ quay lại sau giải lao]` (slide 13).
+6. `[NEEDS PROFESSOR INPUT: thứ tự nhóm bảo vệ Buổi 14 và 15]` (slide 28).
+7. Thời lượng S5 (7 phút) nay có 7 slide (22–28); đề xuất lướt nhanh slide 24–26 hoặc đăng LMS. GV quyết.
 
 **Nội dung là quyết định/nhận định (không phải nguồn chuẩn):** câu hỏi chính và bản đồ nội dung của B–E; công thức giá trị minh họa; khung Executive Summary 5 câu; checklist tự rà soát; bộ khung An Phát và mọi con số trong đó.
 

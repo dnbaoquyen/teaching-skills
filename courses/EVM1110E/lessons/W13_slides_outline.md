@@ -30,3 +30,32 @@ EVM1110E · 21 slide (buổi xưởng — ít slide hơn các buổi trước) �
 | 21 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 14 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi các phần có 🔴 của 6 nhóm ở S3 (để GV biết nhóm nào cần hỗ trợ); ghi các câu hỏi tài chính lặp lại ở S6.
+
+---
+
+## Cập nhật 4/10/2026 — bản dựng `slides/W13_slides.pptx` (33 slide)
+
+Dựng theo đề thi chính thức (Z10) và Marcos et al. (2018, Ch.3) (Z11). Thay đổi so với dàn ý 21 slide ở trên:
+
+| Slide | Nội dung | Thay đổi |
+|---|---|---|
+| 2 | Hook: Customer Board | Bỏ “ba giảng viên” vì đề thi chỉ ghi “giảng viên” |
+| 3 | Đề thi: khách hàng, vai, phạm vi, sản phẩm | **Mới** |
+| 5 | Phần làm kém nhất: hiểu thế giới của khách hàng | Thay Ryals & Rogers bằng Marcos tr. 71–72 |
+| 6–7 | Khung và bộ công cụ A1–E1 so với yêu cầu của đề thi | **Mới** (Z11) |
+| 8 | Câu hỏi của mỗi phần | Lấy từ đề thi, thay định nghĩa làm việc |
+| 9 | Viết A → D → E, đặt E đầu | Thêm “một trang, bốn tiêu đề” (Marcos tr. 82) |
+| 15 | Năm nguồn giá trị | Thay bốn cách của Z05 để khớp tiêu chí 4 |
+| 16 | Công thức và độ nhạy | Thêm ví dụ độ nhạy CLV Buổi 6 (tiêu chí 9) |
+| 18 | Kế hoạch hành động D1–D3 | **Mới** (Marcos tr. 81–82) |
+| 19–20 | Phần D tách hai mảnh | Theo tiêu chí 5 và 6 |
+| 24 | Rubric 11 tiêu chí | **Mới** |
+| 25 | Hình thức và nộp bài | **Mới** |
+| 26 | Bốn phụ lục bắt buộc | **Mới** |
+| 27 | Chính sách AI | Nguyên văn quy định GV 4/10/2026 |
+| 28 | Buổi bảo vệ | **Mới** |
+| 32 | Hạn nộp 14/10/2026 | |
+
+Trong Thực hành 2, trạm sẽ chỉ định người trả lời để tập đúng luật bảo vệ.
+
+**Thời lượng:** S5 (7 phút) nay có 7 slide (22–28). Đề xuất lướt nhanh slide 24–26 (SV đã có đề) hoặc đăng lên LMS. GV quyết. `[NEEDS PROFESSOR INPUT]`

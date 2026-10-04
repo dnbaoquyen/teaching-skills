@@ -14,7 +14,7 @@ Bày tất cả trang SMP nhóm đã làm lên bàn (giấy hoặc ảnh chụp)
 
 **Bước 1 — Khung một dòng (10 phút).** Trên giấy A1, kẻ 5 ô A–E. Viết **một câu** cho mỗi ô A–D (E để trống — sẽ viết ở S6):
 
-| Ô | Câu hỏi (slide 7) |
+| Ô | Câu hỏi (slide 8; đầy đủ trong đề thi, phần Đề tài) |
 |---|---|
 | A. Value Insights | Khách hàng của nhóm là ai, đang ở hoàn cảnh nào, ai quyết định, khách của họ đi hành trình nào? |
 | B. Value Opportunities | Cơ hội lớn nhất để tạo thêm giá trị là gì? Rủi ro lớn nhất của quan hệ là gì? |
@@ -39,7 +39,7 @@ Mỗi phần A–D phải có **ít nhất 1 trang** đã làm đưa vào. Phầ
 
 ## Nộp gì
 
-Không nộp, không tính điểm. Chụp ảnh khung và bảng truy vết: đây là **mục lục làm việc** của SMP để nhóm chia việc trước Buổi 14.
+Không nộp, không tính điểm. Chụp ảnh khung và bảng truy vết: đây là **mục lục làm việc** của SMP để nhóm chia việc, đồng thời là nháp của **Phụ lục 2** (bảng truy vết Buổi 1–13, kèm ảnh chụp) và **Phụ lục 3** (giả định chính) — hai phụ lục bắt buộc của đề thi.
 
 ## Thảo luận chung sau hoạt động
 
