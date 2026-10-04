@@ -156,3 +156,32 @@ Cổng thông tin điện tử Chính phủ – Xây dựng chính sách. (2026)
 
 ### Trạng thái
 Đã duyệt. Gói W01 đã cập nhật nhẹ theo quyết định 2.
+
+---
+
+## 8. Bổ sung từ NotebookLM (Bước 2, 4/10/2026) — đã đối chiếu
+
+**Quyết định GV (4/10/2026) về `source_map.md`:** Q1 được trích slide bộ môn (ThS. Trần Nguyễn Huỳnh Như); Q2 giữ 5 nguồn giá trị theo đề cương (ghi chú mục thứ 6 của slide); Q3–Q5 đồng ý; cho phép Claude đọc trực tiếp *Implementing KAM* và tài liệu Cranfield trên Drive.
+
+**Nguồn NotebookLM dùng:** *Events and sustainability-1.pdf*; video Mark N (2019); video Boateng (2021); Bazzanella et al. (2019).
+
+**Sửa nguồn quan trọng:** file *Events and sustainability-1.pdf* là sách của **Holmes, K., Hughes, M., Mair, J., & Carlsen, J. (2015). *Events and sustainability*. Routledge** (trang bản quyền), **không phải** "Getz & Page (2012)" như NotebookLM ghi. Claude đã đọc trực tiếp bản trên Drive (bản trích xuất dừng ở tr. 68).
+
+| Mã | Nội dung | Nguồn | Trạng thái |
+|---|---|---|---|
+| A11 | Định nghĩa bên liên quan của sự kiện: *"Groups or individuals who are affected or could be affected by an event's existence"* (Reid & Arcodia, 2002, tr. 346) | Holmes et al. (2015, tr. 24) | **Đã đối chiếu** nguyên văn |
+| A12 | Primary = *"people and organisations without whose support the event would not take place"*; secondary = *"groups or individuals not directly involved in the event but nonetheless can still have a significant impact on its success"* | Holmes et al. (2015, tr. 24) — sách **không** gán cho Clarkson | **Đã đối chiếu**. Định nghĩa gốc của Clarkson (1995) cho doanh nghiệp giữ ở W01, `[VERIFY]` số trang 106–107 |
+| A13 | Danh sách 12 nhóm bên liên quan điển hình của sự kiện (tổ chức sự kiện, địa điểm, khách hàng nếu agency tổ chức, người biểu diễn, khán giả, nhân sự, cộng đồng, doanh nghiệp địa phương, chính quyền, nhà tài trợ, truyền thông, nhóm lợi ích) | Holmes et al. (2015, tr. 24) | **Đã đối chiếu** |
+| A14 | Hình 2.3: các bên liên quan của Olympic London 2012 (Government, Media, Sport, Contributors, Internal, Nations and regions, City & communities, Other), phỏng theo Theodoraki (2007) | Holmes et al. (2015, tr. 24–25) | **Đã đối chiếu** |
+| A15 | Ba thuộc tính salience: *"Power – the ability of the stakeholder to impose their will; Legitimacy – the perception that the stakeholder's actions are appropriate; Urgency – the immediacy of the stakeholder's concerns"*; ví dụ loài chim quý làm tổ tại địa điểm là bên "cấp bách nhất" | Holmes et al. (2015, tr. 25–26), dẫn Mitchell et al. (1997) | **Đã đối chiếu** |
+| A16 | Sáu vai của Getz, Andersson & Larson: allies & collaborators, co-producers, facilitators, suppliers & venues, the impacted, regulators; "một bên có thể nhiều vai" — ví dụ chính quyền vừa cấp kinh phí, cho thuê địa điểm, vừa quản lý | Holmes et al. (2015, tr. 26) — sách ghi năm **2007**, bài gốc trên *Event Management* thường ghi **2006** | **Đã đối chiếu**; giữ năm 2006 như W01, ghi chú năm |
+| A17 | Case ISAF World Sailing Championships, Fremantle 2011: AU$17,6 triệu tiền thuế; 789 VĐV, 76 quốc gia; xung đột thương hiệu Perth – Fremantle; chủ quầy pizza ở World's Festival lỗ "probably four or five thousand dollars", "They promised us 200,000 to 250,000 people"; Bộ trưởng Du lịch WA: hơn 7.800 người, lợi ích AU$38,6 triệu; câu hỏi thảo luận 1–4 | Holmes et al. (2015, tr. 29–31) | **Đã đối chiếu**. Số liệu là phát biểu của các bên, **chưa kiểm chứng chéo** |
+| A18 | Power có tác động mạnh nhất tới salience, sau đó là urgency và legitimacy | Parent & Deephouse (2007), dẫn qua Bazzanella et al. (2019) | Chưa đọc bản gốc `[VERIFY]` |
+| A19 | Tên 4 ô lưới: Key players / Keep satisfied / Keep informed / Minimal effort, kèm việc cụ thể từng ô (FAQ, bản tin, họp cộng đồng, họp an toàn, gọi 1-1) | Video Mark N (2019) | Video, chưa đối chiếu; dùng làm **gợi ý thực hành**, giữ tên ô của W01 và ghi tên gọi khác |
+| A20 | Quy trình 5 bước: nhận diện → phân tích & ưu tiên → chiến lược → giao tiếp hai chiều → giám sát & đánh giá (Van Niekerk & Getz, 2019) | Video Mark N (2019) | `[VERIFY]` với sách gốc |
+| A21 | Legal stake (có hợp đồng) và moral stake (lời hứa, chuẩn mực); voluntary và involuntary risk bearers | Video Boateng (2021) | Video, chưa đối chiếu; dùng ở mức ý tưởng, không trích |
+| A22 | Câu "The environment for events is analogous to an ecosystem…" (NotebookLM ghi tr. 192) | — | **Không tìm thấy** trong phần sách đọc được → không dùng |
+| A23 | Case Peats Ridge Festival (Box 10.1, tr. 151) | Holmes et al. (2015) | Ngoài phần đọc được (dừng tr. 68) → **chưa dùng** |
+| A24 | Định nghĩa bên liên quan và 6 nhóm bên liên quan của sự kiện (khách mời & người tham gia, vendors, chính quyền, nhà tài trợ, truyền thông & PR, đối tác nội dung) | Slide bộ môn Chương 2 (Trần Nguyễn Huỳnh Như, 2023) | **Đã đối chiếu** trực tiếp |
+
+**Đưa vào deck `slides/W01_slides.pptx`:** A11–A17, A24 (trên slide); A18–A21 (trong ghi chú GV, có `[VERIFY]`). Không dùng A22, A23.
