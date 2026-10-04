@@ -137,3 +137,11 @@ VnExpress. (2026). *Tăng trưởng tín dụng năm 2026 dự kiến 15%*. http
 **Khác:** slide Chương 3 có ba giai đoạn hành trình và câu “mục tiêu đầu tiên là xác định tất cả các điểm tiếp xúc…”; sơ đồ cấu trúc phòng Marketing tại client. Slide Chương 2 có cấu trúc bảng brief (thông tin công ty: khách hàng, đối thủ cạnh tranh).
 
 **Deck:** `slides/W03_slides.pptx` (32 slide).
+
+## 9. Bổ sung từ giáo trình đầy đủ và Drakeley — 4/10/2026
+
+- **GRASP**: Marcos et al. (2018, Bảng 4.1, tr. 107) định nghĩa G là “our goals and action plans with respect to this DMU member” — **trùng slide bộ môn**. Vấn đề “G khác nhau” trước đây chỉ là khác với định nghĩa làm việc cũ của gói W03. Thêm mẹo của sách: phân tích R-A-S-P trước, để G sau cùng.
+  - Khuyến nghị (chờ GV): phiếu S6 cột Goal hiểu theo nghĩa “mục tiêu của Nova với người đó”; câu 3 trắc nghiệm B1–B8 sửa chữ “Goal”.
+- **DMU**: sách có 7 vai (Hình 4.6, tr. 106–107; dẫn Johnston & Marshall, 2016): Initiator, User, Influencer, Gatekeeper, Decider, Controller, Buyer. Deck giữ 6 vai của slide (Q4) và ghi chú vai Controller; gợi ý anh Khoa giữ Controller + Buyer.
+- **Hành trình**: sách Hình 4.5 (tr. 104) — pre-purchase/purchase/post-purchase cho khách B2B; quy trình 5 bước xác định điểm chạm (tr. 104–106) có thể dùng cho Buổi 5/9.
+- **Kỳ vọng**: thêm 2 slide (19b, 19c) — mô hình xác nhận/không xác nhận kỳ vọng và 4 nguồn hình thành kỳ vọng, quy trình 7 bước của slide bộ môn.

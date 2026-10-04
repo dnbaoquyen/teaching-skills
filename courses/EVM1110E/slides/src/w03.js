@@ -141,10 +141,10 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   st.forEach(([a, b, d, c], i) => { const x = 0.6 + i * 4.13; box(s, x, 1.95, 3.9, 2.6, c); T(s, a, x + 0.2, 2.05, 3.5, 0.7, { bold: true, fontSize: 22, color: NAVY }); T(s, b, x + 0.2, 2.75, 3.5, 0.45, { fontSize: 15, color: NAVY, italic: true }); T(s, d, x + 0.2, 3.25, 3.5, 1.2, { fontSize: 16, color: NAVY, valign: "top" }); if (i < 2) arrow(s, x + 3.92, 3.05, 0.2, 0.4); });
   box(s, 0.6, 4.85, 12.13, 1.4);
   T(s, "“Mục tiêu đầu tiên là xác định tất cả các điểm tiếp xúc có liên quan và đánh giá tầm quan trọng tương đối của chúng trong toàn bộ hành trình của khách hàng.”", 0.85, 4.85, 11.7, 1.4, { fontSize: 17, italic: true });
-  src(s, "Nguồn: Lemon & Verhoef (2016); Trần Nguyễn Huỳnh Như (2023), Chương 3.", 6.45);
+  src(s, "Nguồn: Lemon & Verhoef (2016); Marcos et al. (2018, Hình 4.5, tr. 104); Trần Nguyễn Huỳnh Như (2023), Chương 3.", 6.45);
   notes(s, {
     say: "Lemon và Verhoef, 2016, chia hành trình khách hàng thành ba giai đoạn: trước khi mua — prepurchase; trong khi mua — purchase; và sau khi mua — postpurchase. Slide bộ môn nói rõ: trong mỗi giai đoạn có một số điểm tiếp xúc giữa nhà cung cấp và khách hàng, và một số quan trọng hơn những cái khác. Mục tiêu đầu tiên là xác định tất cả các điểm tiếp xúc có liên quan và đánh giá tầm quan trọng tương đối của chúng trong toàn bộ hành trình.",
-    gv: "Đã đối chiếu: C03 Lemon & Verhoef (2016), Journal of Marketing 80(6) — đã đọc toàn văn khi soạn tư liệu; câu trích nguyên văn từ slide gốc Chương 3, mục “Yếu tố để có được MQH thành công”. Mô tả hoạt động mỗi giai đoạn (dòng nhỏ) là diễn giải cho bối cảnh sự kiện.",
+    gv: "Đã đối chiếu: C03 Lemon & Verhoef (2016), Journal of Marketing 80(6) — đã đọc toàn văn khi soạn tư liệu; câu trích nguyên văn từ slide gốc Chương 3, mục “Yếu tố để có được MQH thành công”. Mô tả hoạt động mỗi giai đoạn (dòng nhỏ) là diễn giải cho bối cảnh sự kiện. Marcos et al. (2018, Hình 4.5, tr. 104) dùng cùng ba giai đoạn cho khách B2B: pre-purchase (nhận diện nhu cầu, tìm kiếm, đánh giá), purchase (lựa chọn, đặt hàng, thanh toán), post-purchase (sử dụng, gắn kết, yêu cầu dịch vụ); sách đề xuất quy trình 5 bước xác định điểm chạm (tr. 104–106).",
     next: "Điểm chạm lại chia theo ai sở hữu nó.",
   });
 
@@ -226,17 +226,49 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   T(s, "Điểm chạm social năm nay được tạo ra bởi trải nghiệm năm ngoái.", 8.45, 1.95, 4.05, 3.3, { fontSize: 20, bold: true, color: NAVY });
   notes(s, {
     say: "Đáp án: social hoặc external. Người nói là đồng nghiệp, không phải An Phát hay Nova; ta không kiểm soát trực tiếp được. Nhưng có thể chuẩn bị: điểm chạm social năm nay được tạo ra bởi trải nghiệm năm ngoái. Đó là lý do quan hệ dài hạn quan trọng.",
-    next: "Mục 3.3: ai trong An Phát quyết định chọn Nova?",
+    next: "Điểm chạm social năm nay được tạo bởi trải nghiệm năm ngoái — vì khách luôn so với kỳ vọng.",
+  });
+
+  // 19b expectation disconfirmation
+  s = slide("Ở mỗi điểm chạm, khách so điều nhận được với điều họ kỳ vọng");
+  const ed = [["Vượt kỳ vọng", "positive disconfirmation", "khách thích thú", TEAL], ["Bằng kỳ vọng", "zero disconfirmation", "khách hài lòng", YEL], ["Dưới kỳ vọng", "negative disconfirmation", "khách không hài lòng", PINK]];
+  ed.forEach(([a, b, c2, c], i) => { const x = 0.6 + i * 4.13; box(s, x, 1.95, 3.9, 2.5, c); T(s, a, x + 0.2, 2.05, 3.5, 0.7, { bold: true, fontSize: 22, color: NAVY }); T(s, b, x + 0.2, 2.75, 3.5, 0.5, { fontSize: 14, italic: true, color: NAVY }); T(s, "→ " + c2, x + 0.2, 3.35, 3.5, 0.8, { fontSize: 18, bold: true, color: NAVY }); });
+  box(s, 0.6, 4.7, 12.13, 1.55);
+  T(s, "Slide bộ môn: “khách hàng sẽ đánh giá trải nghiệm … dựa trên sự so sánh giữa kỳ vọng của họ (expectations) và kết quả thực tế mà họ nhận được (performance or outcome)”.", 0.85, 4.7, 11.7, 1.55, { fontSize: 17, italic: true });
+  src(s, "Nguồn: Trần Nguyễn Huỳnh Như (2023), Chương 2 — Disconfirmation Theory; Oliver (1996, 2010), dẫn theo Drakeley (2022).", 6.45);
+  notes(s, {
+    say: "Mỗi điểm chạm đều bị khách đem ra so. Lý thuyết bất xác nhận kỳ vọng — expectation disconfirmation — nói: khách hàng đánh giá trải nghiệm bằng cách so kết quả thực tế với kỳ vọng của họ. Ba kết quả: vượt kỳ vọng — positive disconfirmation — khách thích thú; bằng kỳ vọng — khách hài lòng; dưới kỳ vọng — negative disconfirmation — khách không hài lòng. Slide bộ môn cũng viết đúng ý này. Hệ quả: muốn vượt kỳ vọng thì trước hết phải biết kỳ vọng là gì.",
+    gv: "Đã đối chiếu: slide gốc Chương 2, mục 2.3.1 (Disconfirmation Theory — câu trích nguyên văn); ba kết quả theo Drakeley (2022, tr. 4), dẫn Oliver (1996, 2010). Đây là nền cho Buổi 4 (chất lượng quan hệ) và Buổi 8 (đánh giá).",
+    ask: "“Livestream năm ngoái của chị Lan bị chậm 15 phút: kết quả nào?”",
+    next: "Nhưng kỳ vọng của khách hàng thường không được nói ra.",
+  });
+
+  // 19c clarifying expectations
+  s = slide("Kỳ vọng của khách hàng thường mờ, ngầm định — agency phải chủ động làm rõ");
+  box(s, 0.6, 1.95, 5.3, 4.35);
+  T(s, "Kỳ vọng hình thành từ", 0.85, 2.05, 4.8, 0.55, { bold: true, fontSize: 18, color: YEL });
+  T(s, bullets(["Truyền miệng", "Nhu cầu riêng", "Trải nghiệm trước đây", "Thông tin agency đã đưa ra"]), 0.9, 2.65, 4.8, 2.2, { fontSize: 17, valign: "top", paraSpaceAfter: 6 });
+  T(s, "Với dịch vụ chuyên môn, kỳ vọng thường “fuzzy, implicit and unrealistic”.", 0.85, 4.95, 4.8, 1.2, { fontSize: 15, italic: true, color: MU, valign: "top" });
+  T(s, "Bảy bước cụ thể hóa kỳ vọng (slide bộ môn)", 6.2, 1.95, 6.5, 0.5, { bold: true, fontSize: 16, color: TEAL });
+  const st7 = ["Thu thập thông tin về kỳ vọng", "Phân tích: mục tiêu, mong muốn, ưu tiên", "Xác định khả năng đáp ứng", "Định rõ và thống nhất kỳ vọng", "Giao tiếp và đồng thuận", "Ghi nhận và theo dõi", "Đánh giá sau cùng"];
+  st7.forEach((t, i) => { const y = 2.5 + i * 0.55; num(s, i + 1, 6.2, y + 0.04, 0.42, [TEAL, YEL, ORA, BLUE, PINK, TEAL, YEL][i], 13); box(s, 6.75, y, 5.98, 0.48); T(s, t, 6.9, y, 5.7, 0.48, { fontSize: 14 }); });
+  src(s, "Nguồn: Zeithaml et al. (1993) và Ojasalo (2001), dẫn theo Drakeley (2022); Trần Nguyễn Huỳnh Như (2023), Chương 2.", 6.45);
+  notes(s, {
+    say: "Kỳ vọng của khách hàng hình thành từ bốn nguồn: truyền miệng; nhu cầu riêng; trải nghiệm trước đây; và chính những gì agency đã nói, đã hứa trong hồ sơ năng lực, đề xuất. Với dịch vụ chuyên môn như tổ chức sự kiện, kỳ vọng thường mờ, ngầm định và thiếu thực tế — nên agency phải chủ động làm rõ. Slide bộ môn đưa ra bảy bước: thu thập thông tin về kỳ vọng; phân tích mục tiêu, mong muốn, ưu tiên; xác định khả năng đáp ứng của mình; định rõ và thống nhất kỳ vọng — tính năng, chất lượng, thời gian, phạm vi; giao tiếp và đồng thuận; ghi nhận và theo dõi; và đánh giá sau cùng. Mỗi người trong DMU của An Phát có một bộ kỳ vọng riêng — đó là lý do ta phân tích từng người.",
+    gv: "Đã đối chiếu: bốn nguồn hình thành kỳ vọng (Zeithaml, Parasuraman & Berry; Zeithaml et al., 1993) và câu “fuzzy, implicit and unrealistic” (Ojasalo, 2001, tr. 200) — dẫn theo Drakeley (2022, tr. 3–5, 12), chưa đọc bản gốc; bảy bước — slide gốc Chương 2, mục 2.3.1 “Cụ thể hóa kỳ vọng của khách hàng”. Tình huống Drakeley Case 1 (khách mở rộng phạm vi sau khi ký) là minh họa nếu cần, đã dùng ở Buổi 2.",
+    ask: "“Trong dự án cũ, kỳ vọng nào của khách hàng nhóm chỉ phát hiện ra khi đã quá muộn?”",
+    next: "Vì mỗi người có kỳ vọng riêng, ta phải biết ai tham gia quyết định.",
   });
 
   // 20 DMU roles
   s = slide("Quyết định mua của một tổ chức do nhiều người: sáu vai trong nhóm ra quyết định (DMU)");
   const roles = [["Người khởi xướng", "nêu nhu cầu", TEAL], ["Người dùng cuối", "dùng dịch vụ", YEL], ["Người ảnh hưởng", "góp ý, đánh giá", ORA], ["Người quyết định", "chọn nhà cung cấp", PINK], ["Người kiểm soát (gatekeeper)", "lọc thông tin, lịch hẹn", BLUE], ["Người thực hiện quy trình mua", "đấu thầu, hợp đồng, thanh toán", PUR]];
   roles.forEach(([a, b, c], i) => { const x = 0.6 + (i % 3) * 4.13, y = 1.95 + Math.floor(i / 3) * 2.05; box(s, x, y, 3.9, 1.85, c); T(s, a, x + 0.2, y + 0.15, 3.5, 0.9, { bold: true, fontSize: 18, color: c === PUR ? TX : NAVY, valign: "top" }); T(s, b, x + 0.2, y + 1.1, 3.5, 0.6, { fontSize: 15, color: c === PUR ? TX : NAVY }); });
-  src(s, "Nguồn: Trần Nguyễn Huỳnh Như (2023), Chương 3; nền tảng: Webster & Wind (1972) — buying center.", 6.2);
+  T(s, "Giáo trình thêm vai thứ bảy: người kiểm soát ngân sách (controller) — định ngân sách, ràng buộc tài chính.", 0.6, 6.0, 12.13, 0.45, { fontSize: 15, bold: true, color: YEL });
+  src(s, "Nguồn: Trần Nguyễn Huỳnh Như (2023), Chương 3; Marcos et al. (2018, Hình 4.6, tr. 106–107); nền tảng: Webster & Wind (1972).", 6.55);
   notes(s, {
-    say: "Webster và Wind, 1972, xem hành vi mua của tổ chức là một quá trình ra quyết định của tổ chức — không phải của một người. Nhóm người tham gia gọi là trung tâm mua hay nhóm ra quyết định — DMU, decision-making unit. Slide bộ môn chỉ ra sáu vai: người khởi xướng — nêu nhu cầu; người dùng cuối — dùng dịch vụ; người ảnh hưởng — góp ý, đánh giá; người quyết định — chọn nhà cung cấp; người kiểm soát hay gatekeeper — lọc thông tin, giữ lịch hẹn; và người thực hiện quy trình mua — đấu thầu, hợp đồng, thanh toán. Một người có thể giữ nhiều vai.",
-    gv: "Sáu vai đã đối chiếu slide gốc Chương 3 (sơ đồ: người khởi xướng, người dùng cuối, người kiểm soát/gatekeeper, người ảnh hưởng, người quyết định, người thực hiện quy trình mua). Quyết định Q4 (4/10/2026): dùng sáu vai của slide; khi gán cho Webster & Wind (1972) giữ [VERIFY: danh sách vai trò trong toàn văn]. Dòng mô tả nhỏ là diễn giải của người soạn.",
+    say: "Webster và Wind, 1972, xem hành vi mua của tổ chức là một quá trình ra quyết định của tổ chức — không phải của một người. Nhóm người tham gia gọi là trung tâm mua hay nhóm ra quyết định — DMU, decision-making unit. Slide bộ môn chỉ ra sáu vai: người khởi xướng — nêu nhu cầu; người dùng cuối — dùng dịch vụ; người ảnh hưởng — góp ý, đánh giá; người quyết định — chọn nhà cung cấp; người kiểm soát hay gatekeeper — lọc thông tin, giữ lịch hẹn; và người thực hiện quy trình mua — đấu thầu, hợp đồng, thanh toán. Một người có thể giữ nhiều vai. Giáo trình Marcos và cộng sự còn tách thêm một vai: người kiểm soát ngân sách — controller — người quyết định ngân sách và các ràng buộc tài chính. Ở An Phát, các bạn đoán ai giữ vai này?",
+    gv: "Sáu vai đã đối chiếu slide gốc Chương 3 (sơ đồ: người khởi xướng, người dùng cuối, người kiểm soát/gatekeeper, người ảnh hưởng, người quyết định, người thực hiện quy trình mua). Quyết định Q4 (4/10/2026): dùng sáu vai của slide; khi gán cho Webster & Wind (1972) giữ [VERIFY: danh sách vai trò trong toàn văn]. Dòng mô tả nhỏ là diễn giải của người soạn. Marcos et al. (2018, Hình 4.6, tr. 106–107, dẫn Johnston & Marshall, 2016) liệt kê bảy vai: Initiator, User, Influencer, Gatekeeper, Decider, Controller (“determines the budget for the purchase and other restrictions”), Buyer (“makes the purchase and leads the ordering process”). Buyer ≈ “người thực hiện quy trình mua” của slide; Controller là vai slide không có — gợi ý: anh Khoa (ngân sách – mua sắm) có thể giữ cả Controller lẫn Buyer.",
     next: "Năm người của An Phát.",
   });
 
@@ -256,10 +288,11 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   s = slide("GRASP: năm câu hỏi về từng thành viên của DMU");
   const gr = [["G", "Goal · Mục tiêu", "Mục tiêu và kế hoạch hành động của chúng ta đối với thành viên DMU này là gì?", TEAL], ["R", "Role · Vai trò", "Vai trò của thành viên này trong đơn vị ra quyết định?", YEL], ["A", "Appeal · Hấp dẫn", "Điều gì hấp dẫn thành viên này về phương án?", ORA], ["S", "State · Tình trạng", "Mối quan hệ với thành viên này như thế nào?", BLUE], ["P", "Power · Quyền lực", "Trình độ và quyền lực của thành viên này như thế nào?", PINK]];
   gr.forEach(([k, h, q, c], i) => { const y = 1.85 + i * 0.9; box(s, 0.6, y, 0.85, 0.78, c); T(s, k, 0.6, y, 0.85, 0.78, { align: "center", bold: true, color: NAVY, fontSize: 24 }); box(s, 1.6, y, 11.13, 0.78); T(s, h, 1.8, y, 3.0, 0.78, { bold: true, fontSize: 17, color: c }); T(s, q, 4.8, y, 7.8, 0.78, { fontSize: 16 }); });
-  src(s, "Nguồn: Trần Nguyễn Huỳnh Như (2023), Chương 3 — Phương pháp GRASP để phân tích DMU.", 6.45);
+  T(s, "Mẹo: phân tích R, A, S, P trước; để G sau cùng — vì cần bốn chữ kia mới đặt được mục tiêu.", 0.6, 6.4, 12.13, 0.4, { fontSize: 15, bold: true, color: YEL });
+  src(s, "Nguồn: Marcos et al. (2018, Bảng 4.1, tr. 107); Trần Nguyễn Huỳnh Như (2023), Chương 3.", 6.85);
   notes(s, {
-    say: "GRASP — năm câu hỏi về từng thành viên trong nhóm ra quyết định, theo slide bộ môn. G — Goal: mục tiêu và kế hoạch hành động của chúng ta đối với thành viên này là gì? R — Role: vai trò của người này trong đơn vị ra quyết định. A — Appeal: điều gì hấp dẫn người này về phương án của ta? S — State: mối quan hệ của ta với người này hiện thế nào? P — Power: trình độ và quyền lực của người này. Chú ý chữ G: đó là mục tiêu của chúng ta với người đó — muốn đặt đúng mục tiêu thì trước hết phải hiểu người đó cần gì.",
-    gv: "Đã đối chiếu nguyên văn slide gốc Chương 3 (GRASP). THAY ĐỔI so với gói W03 đã duyệt: định nghĩa làm việc cũ hiểu G là “mục tiêu của chính người đó (tổ chức và cá nhân)”; slide bộ môn định nghĩa G là “mục tiêu và kế hoạch hành động của chúng ta đối với thành viên DMU này”. Deck dùng bản slide bộ môn theo quyết định GV 2 (“GV có thể thay bằng định nghĩa trong giáo trình nội bộ”) và Q1 (được trích slide bộ môn). [NEEDS PROFESSOR INPUT: xác nhận dùng bản slide; nếu đồng ý, cột Goal trong phiếu S6 hiểu theo nghĩa mới, và câu 3 bài trắc nghiệm B1–B8 nên sửa chữ “Goal” thành “Appeal/mục tiêu của ông Tuấn”.]",
+    say: "GRASP — năm câu hỏi về từng thành viên trong nhóm ra quyết định, theo slide bộ môn. G — Goal: mục tiêu và kế hoạch hành động của chúng ta đối với thành viên này là gì? R — Role: vai trò của người này trong đơn vị ra quyết định. A — Appeal: điều gì hấp dẫn người này về phương án của ta? S — State: mối quan hệ của ta với người này hiện thế nào? P — Power: trình độ và quyền lực của người này. Chú ý chữ G: đó là mục tiêu của chúng ta với người đó. Giáo trình khuyên để G sau cùng — phân tích vai trò, điều hấp dẫn, tình trạng quan hệ và quyền lực trước, rồi mới đặt mục tiêu.",
+    gv: "Đã đối chiếu hai nguồn khớp nhau: slide gốc Chương 3 và Marcos et al. (2018), Bảng 4.1 tr. 107 — “G Goal: What are our goals and action plans with respect to this DMU member?”; mẹo tr. 107: “leave the ‘goal’ element until the end, as the examination of the other elements provides inputs that are needed to define the ‘goal’ aspect.” Như vậy G = mục tiêu của agency với người đó là định nghĩa của giáo trình, không chỉ của slide bộ môn. Hệ quả (khuyến nghị, chờ GV xác nhận): cột Goal trong phiếu S6 hiểu theo nghĩa này; câu 3 bài trắc nghiệm B1–B8 nên sửa chữ “Goal” thành “Appeal/mục tiêu của ông Tuấn”.",
     next: "Áp GRASP cho chị Hạnh.",
   });
 
@@ -339,7 +372,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
 
   // 29 quick check
   s = L.quickCheck(["Vì sao một agency sự kiện cần biết chính sách tín dụng năm 2026?", "Khác nhau giữa điểm chạm partner-owned và social/external là gì? Mỗi loại một ví dụ.", "Trong GRASP, chữ G hỏi về mục tiêu của ai?"]);
-  notes(s, { say: "Ba câu kiểm tra nhanh. Một: vì sao một agency sự kiện cần biết chính sách tín dụng năm 2026? Hai: khác nhau giữa điểm chạm partner-owned và social hay external — mỗi loại một ví dụ. Ba: trong GRASP, chữ G hỏi về mục tiêu của ai?", gv: "Gợi ý: (1) vì nó tạo ra nhu cầu của khách hàng là ngân hàng; (2) partner do đối tác như agency làm thay thương hiệu; social do người khác, báo chí — không kiểm soát; (3) của chúng ta (agency) đối với người đó — theo slide bộ môn.", ask: "Gọi ngẫu nhiên 1 bạn cho mỗi câu.", next: "Phiếu cuối giờ." });
+  notes(s, { say: "Ba câu kiểm tra nhanh. Một: vì sao một agency sự kiện cần biết chính sách tín dụng năm 2026? Hai: khác nhau giữa điểm chạm partner-owned và social hay external — mỗi loại một ví dụ. Ba: trong GRASP, chữ G hỏi về mục tiêu của ai?", gv: "Gợi ý: (1) vì nó tạo ra nhu cầu của khách hàng là ngân hàng; (2) partner do đối tác như agency làm thay thương hiệu; social do người khác, báo chí — không kiểm soát; (3) của chúng ta (agency) đối với người đó — theo slide bộ môn và Marcos et al. (2018, Bảng 4.1).", ask: "Gọi ngẫu nhiên 1 bạn cho mỗi câu.", next: "Phiếu cuối giờ." });
 
   // 30 exit
   s = await L.exitTicket("Một yếu tố PESTEL của khách hàng trong dự án cũ, và nó tạo ra nhu cầu gì cho khách hàng đó?", "Người có quyền lực cao nhất trong DMU của khách hàng đó là ai? Nhóm đã từng làm việc trực tiếp với người đó chưa?");
@@ -352,6 +385,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   // 32 refs
   s = L.refs([
     [["Davies, M. (n.d.). "], ["The value planning framework for key accounts", 1], [". Key Account Management Forum."]],
+    [["Drakeley, C. (2022). "], ["Managing event stakeholders: Expect the unexpected", 1], [" [Chương sách]."]],
     [["Lemon, K. N., & Verhoef, P. C. (2016). Understanding customer experience throughout the customer journey. "], ["Journal of Marketing, 80", 1], ["(6), 69–96."]],
     [["Marcos, J., Davies, M., Guesalaga, R., & Holt, S. (2018). "], ["Implementing key account management: Designing customer-centric processes for mutual growth", 1], [". Kogan Page."]],
     [["Trần Nguyễn Huỳnh Như. (2023). "], ["Chương 2: Khách hàng trọng yếu trong sự kiện", 1], [" [Slide bài giảng]."]],

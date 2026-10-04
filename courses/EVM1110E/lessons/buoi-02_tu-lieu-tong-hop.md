@@ -148,3 +148,9 @@ Buổi 2 không cần số liệu thị trường; không đưa số liệu chư
 **Slide bộ môn Chương 1 (Trần Nguyễn Huỳnh Như, 2023):** định nghĩa Key account và KAM (1.1.1), 4 mục tiêu KAM, lợi ích cho agency và cho client (1.4.1), 6 khó khăn khi triển khai.
 
 **Deck:** `slides/W02_slides.pptx` (33 slide). Câu hỏi giơ tay mới (Hãng hàng không Sao Việt, giả định) không trùng phiếu S6 và bài trắc nghiệm.
+
+## 9. Bổ sung Drakeley (2022) và giáo trình đầy đủ — 4/10/2026
+
+- Thêm slide vòng đời khách hàng (Buttle, qua Drakeley): Sales phụ trách tiếp cận – thu hút – chuyển đổi; KAM phụ trách giữ chân – trung thành; agency thường hụt khâu “thực hiện dịch vụ”.
+- Thêm ca Drakeley: agency Anh 2016, chương trình khu vực công 15 sự kiện/12 tháng, phình phạm vi, không lãi, không giữ được khách — minh họa vì sao phải chọn Key Account có cân nhắc.
+- Số trang giáo trình đã kiểm với bản đầy đủ: định nghĩa KAM tr. 20; “intimate friends” tr. 42 (bỏ [VERIFY]).

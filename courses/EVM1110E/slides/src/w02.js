@@ -31,7 +31,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   s = slide("Hai nguồn, cùng một ý: KAM là chiến lược quan hệ dài hạn, không phải một hoạt động bán");
   const defs = [["Slide bộ môn — Key account", TEAL, "Người hoặc tổ chức mà doanh nghiệp đã xây dựng mối quan hệ không chỉ là quan hệ kinh doanh tiêu chuẩn, dựa trên mức độ tin cậy.", "(Trần Nguyễn Huỳnh Như, 2023, Chương 1)"],
     ["Slide bộ môn — KAM", YEL, "Chiến lược kinh doanh nhằm phát triển lâu dài, bền vững thông qua quan hệ đối tác có lợi nhuận với các khách hàng quan trọng về mặt chiến lược; là một phần tích hợp của chiến lược doanh nghiệp.", "(Trần Nguyễn Huỳnh Như, 2023, Chương 1)"],
-    ["Marcos et al. (2018)", BLUE, "“KAM is an integrated process for the profitable management of customer relationships.”", "(Marcos et al., 2018, Chương 1)"]];
+    ["Marcos et al. (2018)", BLUE, "“KAM is an integrated process for the profitable management of customer relationships.”", "(Marcos et al., 2018, tr. 20)"]];
   defs.forEach(([h, c, t, r], i) => {
     const x = 0.6 + i * 4.13;
     box(s, x, 1.95, 3.9, 0.65, c); T(s, h, x + 0.2, 1.95, 3.5, 0.65, { bold: true, color: NAVY, fontSize: 16 });
@@ -41,7 +41,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   T(s, "Ba điểm chung: chiến lược · dài hạn, có lợi nhuận · số ít khách hàng chọn lọc", 0.6, 6.35, 12.13, 0.5, { fontSize: 17, bold: true, color: YEL });
   notes(s, {
     say: "Slide bộ môn định nghĩa Key Account là người hoặc tổ chức mà doanh nghiệp đã xây dựng mối quan hệ không chỉ là quan hệ kinh doanh tiêu chuẩn, mà dựa trên mức độ tin cậy. Và KAM — quản trị khách hàng trọng yếu — là một chiến lược kinh doanh nhằm phát triển lâu dài, bền vững thông qua quan hệ đối tác có lợi nhuận với các khách hàng quan trọng về mặt chiến lược; KAM không phải một quy trình biệt lập mà là một phần tích hợp của chiến lược doanh nghiệp. Giáo trình của Marcos và cộng sự viết ngắn hơn: KAM là một quá trình tích hợp để quản trị có lợi nhuận các mối quan hệ khách hàng. Ba điểm chung: chiến lược; dài hạn và có lợi nhuận; và chỉ dành cho số ít khách hàng được chọn lọc.",
-    gv: "Đã đối chiếu: slide gốc Chương 1, mục 1.1.1 (Drive của GV); Marcos, Davies, Guesalaga & Holt (2018), Implementing KAM, Kogan Page, Chương 1 (câu nguyên văn, khoảng tr. 18–20 — [VERIFY số trang]). Giáo trình này là tài liệu đọc thêm của môn.",
+    gv: "Đã đối chiếu: slide gốc Chương 1, mục 1.1.1 (Drive của GV); Marcos, Davies, Guesalaga & Holt (2018), Implementing KAM, Kogan Page, Chương 1 (câu nguyên văn, tr. 20). Giáo trình này là tài liệu đọc thêm của môn.",
     ask: "“Trong ba định nghĩa, chữ nào cho thấy KAM không dành cho mọi khách hàng?”",
     next: "Vậy KAM khác bán hàng ở đâu?",
   });
@@ -107,7 +107,23 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   notes(s, {
     say: "Nova đã làm gala cho An Phát bốn năm. Cách Sales: tháng 10 gọi chị Hạnh hỏi “năm nay ngân hàng có làm gala không ạ?”, làm đề xuất, chào giá, giảm giá khi bị ép, làm xong gala thì chờ năm sau. Cách KAM: hiểu mục tiêu năm tới của An Phát — giữ khách doanh nghiệp tốt; đề xuất một chương trình khách hàng cả năm thay vì một đêm gala; có đầu mối nhiều cấp ở hai bên; và sau mỗi sự kiện, cùng An Phát đánh giá chung.",
     gv: "Theo W02 lecture notes §1.4. Chị Hạnh là GĐ Marketing An Phát (Buổi 1–7).",
-    next: "Nhưng KAM có lợi cho ai — và tốn gì?",
+    next: "Còn một cách nữa để thấy khác biệt: vòng đời khách hàng.",
+  });
+
+  // 8b customer lifecycle
+  s = slide("Sales dừng ở chốt hợp đồng; KAM bắt đầu từ đó — giữ chân, trung thành, giới thiệu");
+  const lc = [["Tiếp cận", "Reach", PINK], ["Thu hút", "Acquisition", PINK], ["Chốt", "Conversion", PINK], ["Giữ chân", "Retention", TEAL], ["Trung thành", "Loyalty", TEAL]];
+  lc.forEach(([v, e, c], i) => { const x = 0.6 + i * 2.5; box(s, x, 2.0, 2.2, 1.5, c); T(s, v, x, 2.05, 2.2, 0.8, { align: "center", bold: true, fontSize: 19, color: NAVY }); T(s, e, x, 2.8, 2.2, 0.5, { align: "center", fontSize: 14, color: NAVY, italic: true }); if (i < 4) arrow(s, x + 2.22, 2.55, 0.26, 0.4); });
+  T(s, "Phần Sales giỏi", 0.6, 3.6, 7.2, 0.45, { fontSize: 15, bold: true, color: PINK, align: "center" });
+  T(s, "Phần KAM phải làm", 8.1, 3.6, 4.6, 0.45, { fontSize: 15, bold: true, color: TEAL, align: "center" });
+  box(s, 0.6, 4.3, 12.13, 1.85);
+  T(s, [{ text: "Bài học từ một agency ở Anh: ", options: { bold: true, color: YEL } }, { text: "thắng ở tiếp cận, thu hút, chốt — nhưng giao dịch vụ không đạt kỳ vọng nên không giữ được khách, mất luôn giá trị vòng đời khách hàng. Giữa “chốt” và “giữ chân” còn một bước bị quên: giao dịch vụ." }], 0.85, 4.3, 11.7, 1.85, { fontSize: 17 });
+  src(s, "Nguồn: vòng đời khách hàng của Buttle (2009), áp dụng trong Drakeley (2022).", 6.4);
+  notes(s, {
+    say: "Một cách khác để thấy khác biệt giữa Sales và KAM: vòng đời khách hàng của Buttle — tiếp cận, thu hút, chốt, giữ chân, trung thành. Bán hàng giỏi ở ba bước đầu. KAM chịu trách nhiệm hai bước sau — giữ chân và trung thành — và xa hơn là biến khách thành người giới thiệu agency. Drakeley, người từng điều hành một agency sự kiện ở Anh, phân tích hai dự án của chính mình: agency thắng ở tiếp cận, thu hút và chốt hợp đồng, nhưng giao dịch vụ không đạt kỳ vọng nên không giữ được khách — mất luôn giá trị vòng đời khách hàng. Bà chỉ ra: giữa “chốt” và “giữ chân” còn một bước bị quên trong mô hình — giao dịch vụ.",
+    gv: "Theo Drakeley (2022), chương do GV cung cấp: Hình 5 vòng đời khách hàng (Buttle, 2009), Bảng 4 áp dụng cho hai case, nhận xét “missing stage… Service Delivery”, và thang khách hàng prospect → advocate (Christopher et al., 1991). [VERIFY: thông tin xuất bản của chương Drakeley — tên sách, nhà xuất bản.] Nối Buổi 6 (CLV).",
+    ask: "“Trong dự án cũ, nhóm đã đi đến bước nào của vòng đời với khách hàng?”",
+    next: "KAM có lợi cho ai?",
   });
 
   // 9 benefits both sides
@@ -178,7 +194,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   T(s, "Chọn theo tiềm năng lợi nhuận khoảng 3 năm và thế mạnh cạnh tranh của mình.", 0.9, 5.45, 11.6, 0.7, { fontSize: 17, color: NAVY });
   notes(s, {
     say: "Giáo trình so sánh Key Account với bạn thân: bạn có thể có bao nhiêu người bạn thân thật sự — người bạn hiểu rõ, tin tưởng, có mặt khi họ cần? Chỉ vài người. Vậy mà nhiều công ty tuyên bố có hơn 100 Key Account! McDonald còn nói mạnh hơn: một trong những cách nhanh nhất để phá sản là cố làm mọi khách hàng “hài lòng tuyệt đối”. Phải chọn — theo tiềm năng lợi nhuận trong khoảng ba năm và thế mạnh cạnh tranh của chính mình.",
-    gv: "Đã đối chiếu Marcos et al. (2018), mục “Selection of key accounts”, tr. 42–43 ([VERIFY: trang bắt đầu đoạn — bản trích xuất cho thấy đoạn nằm ngay trước tr. 43]). Câu McDonald và ý “3 năm” từ B05 (Cranfield blog).",
+    gv: "Đã đối chiếu Marcos et al. (2018), mục “Selection of key accounts”, tr. 42 (đã kiểm với bản đầy đủ của giáo trình). Câu McDonald và ý “3 năm” từ B05 (Cranfield blog).",
     next: "Và khi mỗi người tự chọn Key Account thì chuyện gì xảy ra?",
   });
 
@@ -297,6 +313,23 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
   notes(s, {
     say: "Với agency sự kiện, khách hàng muốn cùng đầu tư thường thể hiện qua bốn dấu hiệu: chấp nhận hợp đồng khung nhiều năm thay vì đấu thầu từng sự kiện; chia sẻ thông tin — mục tiêu kinh doanh, dữ liệu khách mời, kết quả sau sự kiện; cử đầu mối cấp cao và mời agency vào họp kế hoạch năm; và chấp nhận thí điểm cùng làm, chia chi phí, chia rủi ro. Một ví dụ thật nhưng là tương tự: Techcombank từ nhà tài trợ một concert năm 2024 đã trở thành nhà đồng đầu tư năm 2025. Đó là quan hệ nhà sản xuất – nhà tài trợ, không phải agency – khách hàng, nhưng cho thấy khi đối tác muốn đầu tư lại, quan hệ đổi hẳn chất.",
     gv: "Bốn biểu hiện là nhận định của người soạn (đã duyệt, tư liệu Buổi 2). Techcombank – Yeah1: B08 = U08, U11 trong tư liệu Buổi 9 — nhắc rõ là “tương tự”. Câu của một lãnh đạo ngành dịch vụ chuyên nghiệp trong Marcos et al. (2018, tr. 49): mức sẵn lòng cùng đầu tư là “a signal of commitment”.",
+    next: "Khi khách hàng không muốn cùng đầu tư, chuyện gì xảy ra? Một tình huống thật.",
+  });
+
+  // 23b Drakeley case
+  s = slide("Thắng thầu chưa chắc là thắng: một năm làm việc, không lời, không giữ được khách");
+  box(s, 0.6, 1.95, 6.5, 4.4);
+  T(s, "Agency sự kiện ở Anh, 2016 — chương trình 15 sự kiện trong 12 tháng cho một cơ quan công", 0.85, 2.05, 6.0, 0.95, { fontSize: 16, bold: true, color: YEL, valign: "top" });
+  T(s, bullets(["Sau ký, khách muốn phạm vi lớn hơn trong cùng ngân sách", "Khách đổi nội dung liên tục, không hỏi agency; từ chối mọi đề xuất điều chỉnh của agency", "Agency không được chuyển ngân sách, không được tìm tài trợ thêm", "Hoàn thành đủ 15 sự kiện — nhưng gần như không có lợi nhuận, đội kiệt sức, hết dự án là hết quan hệ"]), 0.9, 3.05, 6.0, 3.2, { fontSize: 15, valign: "top", paraSpaceAfter: 6 });
+  box(s, 7.4, 1.95, 5.33, 4.4, PINK);
+  T(s, "Bài học cho việc chọn Key Account", 7.65, 2.1, 4.9, 0.6, { bold: true, fontSize: 18, color: NAVY });
+  T(s, "“Make sure you are clear about who has the responsibility and the power and if it’s not the right balance, then maybe it’s not the right project for you to be delivering.”", 7.65, 2.75, 4.9, 2.4, { fontSize: 16, italic: true, color: NAVY, valign: "top" });
+  T(s, "→ Kiểm tra mức sẵn lòng hợp tác trước khi ký, không phải sau.", 7.65, 5.25, 4.9, 1.0, { fontSize: 16, bold: true, color: NAVY, valign: "top" });
+  src(s, "Nguồn: Drakeley (2022), Case study 1 — trải nghiệm của tác giả với agency của mình.", 6.5);
+  notes(s, {
+    say: "Một tình huống thật, do chính người điều hành agency kể lại. Năm 2016, một agency sự kiện ở Anh thắng thầu một chương trình 15 sự kiện trong 12 tháng cho một cơ quan công, để khuyến khích người dân đi xe đạp. Ngay sau khi ký, khách hàng muốn phạm vi lớn hơn nhưng trong cùng ngân sách. Khách đổi nội dung liên tục mà không hỏi agency, nhưng từ chối mọi đề xuất điều chỉnh của agency; agency không được chuyển ngân sách giữa các sự kiện, không được tìm tài trợ thêm. Kết quả: agency làm đủ 15 sự kiện, khán giả phản hồi tốt, nhưng gần như không có lợi nhuận, đội ngũ kiệt sức, và hết dự án là hết quan hệ. Bài học của tác giả: hãy rõ ai có trách nhiệm và ai có quyền — nếu không cân bằng, có thể đó không phải dự án dành cho bạn. Với chọn Key Account: kiểm tra mức sẵn lòng hợp tác trước khi ký, không phải sau.",
+    gv: "Đã đọc toàn văn Drakeley (2022), Case study 1 (tr. 18–20 bản PDF) và danh sách “best practices” cuối chương (tr. 35–36) — câu trích nguyên văn. Lưu ý: khách hàng là cơ quan công, đấu thầu một lần — không phải Key Account theo nghĩa của môn; dùng như phản ví dụ về thiếu “đồng đầu tư”. Nối Buổi 6 (chi phí phục vụ) và Buổi 7 (điều khoản). [VERIFY: thông tin xuất bản của chương.]",
+    ask: "“Ở bước chấm ba tiêu chí, dấu hiệu nào lẽ ra đã cảnh báo agency?”",
     next: "Thử nhanh một ứng viên.",
   });
 
@@ -396,6 +429,7 @@ const { TEAL, YEL, PINK, PUR, BLUE, ORA, NAVY, CARD, TX, MU } = C;
 
   // 33 refs
   s = L.refs([
+    [["Drakeley, C. (2022). "], ["Managing event stakeholders: Expect the unexpected", 1], [" [Chương sách]."]],
     [["Guesalaga, R. (n.d.). "], ["Adopting key account management – Choose me and I will choose you", 1], [". Cranfield School of Management Executive Development Blog."]],
     [["Homburg, C., Workman, J. P., Jr., & Jensen, O. (2002). A configurational perspective on key account management. "], ["Journal of Marketing, 66", 1], ["(2), 38–60."]],
     [["Marcos, J., Davies, M., Guesalaga, R., & Holt, S. (2018). "], ["Implementing key account management: Designing customer-centric processes for mutual growth", 1], [". Kogan Page."]],

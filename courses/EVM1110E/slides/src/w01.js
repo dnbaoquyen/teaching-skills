@@ -741,21 +741,22 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
 
   // ---------- 35b Stakeholder Sandwich
   s = slide("Người làm nghề ít dùng các ma trận trên giấy — Stakeholder Sandwich là một cách vẽ khác");
-  box(s, 0.6, 1.95, 7.3, 1.25, PINK);
-  T(s, "Affectors — bên có thể ảnh hưởng đến sự kiện", 0.85, 1.95, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
-  box(s, 0.6, 3.35, 7.3, 1.25, YEL);
-  T(s, "Sự kiện · địa điểm · thời gian (ở giữa)", 0.85, 3.35, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
-  box(s, 0.6, 4.75, 7.3, 1.25, TEAL);
-  T(s, "Affectees — bên bị sự kiện ảnh hưởng", 0.85, 4.75, 6.9, 1.25, { fontSize: 18, bold: true, color: NAVY });
-  box(s, 8.2, 1.95, 4.53, 4.05);
-  T(s, "Mỗi bên ghi thêm điều họ quan tâm chính:", 8.45, 2.1, 4.1, 0.8, { fontSize: 16, color: MU, valign: "top" });
-  T(s, [{ text: "Outputs", options: { bold: true, color: BLUE } }, { text: " — kết quả đo được (số khách, doanh thu)", options: { breakLine: true } }, { text: "Outcomes", options: { bold: true, color: ORA } }, { text: " — tác động định tính (hình ảnh, cộng đồng, trải nghiệm)" }], 8.45, 2.95, 4.1, 2.9, { fontSize: 16, valign: "top", paraSpaceAfter: 10 });
-  src(s, "Nguồn: Wallace & Michopoulou (2019), Event Management.", 6.4);
+  T(s, "Outputs — kết quả đo được", 3.2, 1.8, 4.6, 0.45, { bold: true, fontSize: 15, color: BLUE, align: "center" });
+  T(s, "Outcomes — tác động định tính", 8.0, 1.8, 4.7, 0.45, { bold: true, fontSize: 15, color: ORA, align: "center" });
+  const rowsS = [["Affectors\n(có thể ảnh hưởng)", PINK, "Chính quyền: cấp phép, an toàn", "Địa điểm: hình ảnh, khán giả"], ["Sự kiện · địa điểm · thời gian", YEL, "Lễ hội âm nhạc 3 ngày, bãi cỏ ngoài trời, tháng 9", null], ["Affectees\n(bị ảnh hưởng)", TEAL, "Cư dân: tiếng ồn, giao thông", "Khán giả: trải nghiệm, giao lưu"]];
+  rowsS.forEach(([h, c, o1, o2], i) => {
+    const y = 2.35 + i * 1.35;
+    box(s, 0.6, y, 2.4, 1.15, c); T(s, h, 0.7, y, 2.2, 1.15, { fontSize: 15, bold: true, color: NAVY, align: "center" });
+    if (o2) { box(s, 3.2, y, 4.6, 1.15); T(s, o1, 3.4, y, 4.2, 1.15, { fontSize: 16 }); box(s, 8.0, y, 4.73, 1.15); T(s, o2, 8.2, y, 4.35, 1.15, { fontSize: 16 }); }
+    else { box(s, 3.2, y, 9.53, 1.15, c); T(s, o1, 3.4, y, 9.1, 1.15, { fontSize: 17, bold: true, color: NAVY, align: "center" }); }
+  });
+  T(s, "(ví dụ minh họa của Drakeley, 2022)", 9.3, 6.4, 3.4, 0.4, { fontSize: 13, color: MU, italic: true, align: "right" });
+  src(s, "Nguồn: Wallace & Michopoulou (2019); ví dụ theo Drakeley (2022).", 6.4);
   notes(s, {
-    say: "Một phát hiện đáng suy nghĩ: Wallace và Michopoulou, 2019, phỏng vấn người làm nghề sự kiện và thấy không mô hình bên liên quan quen thuộc nào — kể cả các mô hình riêng cho sự kiện — được dùng phổ biến trong thực tế; nhưng định nghĩa của Freeman năm 1984 vẫn đúng. Họ đề xuất Stakeholder Sandwich — chiếc bánh kẹp: lớp trên là affectors — bên có thể ảnh hưởng đến sự kiện; lớp dưới là affectees — bên bị sự kiện ảnh hưởng; và ở giữa là chính sự kiện, địa điểm và thời gian. Mỗi bên ghi thêm điều họ quan tâm chính: outputs — kết quả đo được như số khách, doanh thu; hay outcomes — tác động định tính như hình ảnh, cộng đồng, trải nghiệm. Mô hình được thử trên Tour de Yorkshire. Ý nghĩa cho các bạn: công cụ chỉ có giá trị khi dùng được; nếu Grid hay Salience khó áp dụng, Sandwich là một cách vẽ đơn giản hơn.",
-    gv: "Đã đối chiếu bản tác giả do GV cung cấp: Wallace & Michopoulou (2019), “The stakeholder sandwich: A new stakeholder analysis model for events and festivals”, Event Management, DOI 10.3727/152599519X15506259855742 — tóm tắt (không mô hình nào “in common usage”, Freeman 1984 “continues to be valid”) và Hình 7 (affector/affectee × output/outcome, sự kiện–địa điểm–thời gian ở giữa). [VERIFY: số tập/kỳ/trang bản in.] Bài tiếp theo của cùng tác giả (Wallace & Michopoulou, 2023, Event Management 27, 281–299) dùng Sandwich để đo thành công theo cách của từng bên — để dành cho Buổi 5, 8, 12. Slide là tùy chọn: nếu thiếu giờ, bỏ slide này.",
+    say: "Một phát hiện đáng suy nghĩ: Wallace và Michopoulou, 2019, phỏng vấn người làm nghề sự kiện và thấy không mô hình bên liên quan quen thuộc nào được dùng phổ biến trong thực tế; nhưng định nghĩa của Freeman năm 1984 vẫn đúng. Họ đề xuất Stakeholder Sandwich — chiếc bánh kẹp. Lớp trên là affectors — bên có thể ảnh hưởng đến sự kiện; lớp dưới là affectees — bên bị sự kiện ảnh hưởng; ở giữa là chính sự kiện, địa điểm và thời gian. Mỗi bên được ghi theo điều họ quan tâm: outputs — kết quả đo được; hay outcomes — tác động định tính. Ví dụ một lễ hội âm nhạc ba ngày trên bãi cỏ vào tháng 9: chính quyền là affector quan tâm output — cấp phép, an toàn; địa điểm là affector quan tâm outcome — hình ảnh, khán giả; cư dân là affectee quan tâm output — tiếng ồn, giao thông; khán giả là affectee quan tâm outcome — trải nghiệm, giao lưu. Từ đó, với cư dân, ban tổ chức có thể chọn cách hợp tác và thông tin sớm, chính xác.",
+    gv: "Đã đối chiếu: Wallace & Michopoulou (2019), Event Management, DOI 10.3727/152599519X15506259855742 — tóm tắt và Hình 7 [VERIFY: số tập/kỳ/trang bản in]. Ví dụ lễ hội âm nhạc là Hình 3 trong chương của Drakeley (2022) “Managing event stakeholders: Expect the unexpected” (tài liệu GV cung cấp) — Drakeley mô tả Sandwich là bước phát triển từ Salience Model, vì bên liên quan sự kiện hiếm khi đứng yên ở một nhóm. Bài 2023 của cùng tác giả để dành cho Buổi 5, 8, 12. Slide tùy chọn: nếu thiếu giờ, bỏ.",
     ask: "“Trong hội nghị An Phát, cư dân là affector hay affectee? Có thể là cả hai không?”",
-    next: "Hai công cụ — hay ba — là bước đầu của một việc làm liên tục.",
+    next: "Các công cụ này là bước đầu của một việc làm liên tục.",
   });
 
   // ---------- 36 process
@@ -788,19 +789,17 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   });
 
   // ---------- 38 ethics
-  s = slide("Một lời hứa với bên liên quan là một cam kết — có hợp đồng hay không");
-  box(s, 0.6, 1.95, 6.0, 2.7);
-  await ic(s, "FaFileContract", 0.85, 2.2, 0.85, TEAL);
-  T(s, "Có hợp đồng", 1.9, 2.2, 4.5, 0.85, { bold: true, fontSize: 20, color: TEAL });
-  T(s, "Quyền lợi ghi rõ; bên kia có thể đòi theo luật.", 0.85, 3.25, 5.5, 1.8, { fontSize: 18, valign: "top" });
-  box(s, 6.85, 1.95, 5.88, 2.7);
-  await ic(s, "FaComments", 7.1, 2.2, 0.85, PINK);
-  T(s, "Chỉ là lời hứa", 8.15, 2.2, 4.4, 0.85, { bold: true, fontSize: 20, color: PINK });
-  T(s, "Không kiện được — nhưng mất uy tín. “Họ hứa 200.000 người…”", 7.1, 3.25, 5.4, 1.8, { fontSize: 18, valign: "top" });
-  T(s, "Chỉ hứa điều mình kiểm soát được; ghi lại điều đã hứa.", 0.6, 5.0, 12.13, 0.7, { fontSize: 22, bold: true, color: YEL });
+  s = slide("Đạo đức với bên liên quan: lắng nghe, thông tin, thích ứng — và chỉ hứa điều làm được");
+  T(s, "Nguyên tắc Clarkson về quản trị bên liên quan", 0.6, 1.8, 6.6, 0.5, { fontSize: 16, bold: true, color: TEAL });
+  const cp = [["FaEye", "Thừa nhận và theo dõi chủ động các bên"], ["FaComments", "Lắng nghe và trao đổi với họ"], ["FaSyncAlt", "Điều chỉnh hành vi theo nhu cầu của họ"], ["FaHandshake", "Thừa nhận sự phụ thuộc lẫn nhau, coi trọng hợp tác"]];
+  for (let i = 0; i < 4; i++) { const y = 2.35 + i * 0.95; box(s, 0.6, y, 6.6, 0.8); await ic(s, cp[i][0], 0.75, y + 0.1, 0.6, TEAL); T(s, cp[i][1], 1.5, y, 5.6, 0.8, { fontSize: 16 }); }
+  box(s, 7.5, 1.95, 5.23, 3.95, YEL);
+  T(s, "“Họ hứa 200.000 người… Họ đâu rồi?”", 7.75, 2.1, 4.8, 1.0, { fontSize: 19, bold: true, italic: true, color: NAVY });
+  T(s, "Lời hứa không có hợp đồng thì không kiện được — nhưng mất uy tín. Chỉ hứa điều mình kiểm soát được; ghi lại điều đã hứa.", 7.75, 3.15, 4.8, 2.6, { fontSize: 17, color: NAVY, valign: "top" });
+  src(s, "Nguồn: Clarkson Principles (Maines, 2018), dẫn theo Drakeley (2022); Holmes et al. (2015, tr. 30).", 6.25);
   notes(s, {
-    say: "Một điều về đạo đức nghề nghiệp. Có hai loại cam kết với bên liên quan. Có hợp đồng: quyền lợi ghi rõ, bên kia có thể đòi theo luật. Chỉ là lời hứa: không kiện được, nhưng mất uy tín — như chủ quầy pizza ở Fremantle: “Họ hứa 200.000 người…”. Uy tín mất rồi thì sự kiện sau không ai tham gia. Nguyên tắc: chỉ hứa điều mình kiểm soát được, và ghi lại điều đã hứa.",
-    gv: "Ý “legal stake / moral stake” lấy từ video Boateng (2021) qua NotebookLM — chưa đối chiếu, dùng ở mức ý tưởng, không trích tên; ý “rủi ro” liên quan đã có nguồn ở slide 21 (Reid, 2011). Nối CLO8 (đạo đức và trách nhiệm nghề nghiệp). Không rõ trong sách ai đã hứa con số 200.000 với người bán hàng — đừng khẳng định đó là ban tổ chức.",
+    say: "Một điều về đạo đức nghề nghiệp. Các Nguyên tắc Clarkson về quản trị bên liên quan nêu bốn việc: thừa nhận và theo dõi chủ động các bên; lắng nghe và trao đổi với họ; điều chỉnh hành vi theo nhu cầu của họ; và thừa nhận sự phụ thuộc lẫn nhau, coi trọng hợp tác. Với sự kiện — một hoạt động diễn ra trước công chúng — các nguyên tắc này càng quan trọng. Và một bài học từ Fremantle: chủ quầy pizza nói “Họ hứa 200.000 người… Họ đâu rồi?”. Lời hứa không có hợp đồng thì không kiện được — nhưng mất uy tín. Chỉ hứa điều mình kiểm soát được, và ghi lại điều đã hứa.",
+    gv: "Nguyên tắc Clarkson: theo Drakeley (2022), chương do GV cung cấp, dẫn Maines (2018) — chưa đọc bản gốc nguyên tắc [VERIFY: Clarkson Centre for Business Ethics (1999), Principles of Stakeholder Management — bản gốc có 7 nguyên tắc; slide chỉ dùng 4 ý Drakeley nêu]. Thay cho ý “legal/moral stake” từ video Boateng (chưa đối chiếu được). Không rõ trong sách ai đã hứa con số 200.000 — đừng khẳng định đó là ban tổ chức. Nối CLO8.",
     ask: "“Trong dự án cũ, nhóm đã từng hứa điều gì với một bên mà không chắc làm được?”",
     next: "Giờ áp dụng tất cả lên khách hàng thật của nhóm: Thực hành 2.",
   });
@@ -888,6 +887,7 @@ const src = (s, text, y = 6.55) => T(s, text, 0.6, y, 11.4, 0.4, { fontSize: 12,
   const I = (t) => ({ text: t, options: { italic: true } }), P = (t) => ({ text: t, options: {} });
   const refs = [
     [P("Clarkson, M. B. E. (1995). A stakeholder framework for analyzing and evaluating corporate social performance. "), I("Academy of Management Review, 20"), P("(1), 92–117.")],
+    [P("Drakeley, C. (2022). "), I("Managing event stakeholders: Expect the unexpected"), P(" [Chương sách]."), ],
     [P("Freeman, R. E. (1984). "), I("Strategic management: A stakeholder approach"), P(". Pitman.")],
     [P("Getz, D., Andersson, T., & Larson, M. (2006). Festival stakeholder roles: Concepts and case studies. "), I("Event Management, 10"), P("(2), 103–122.")],
     [P("Holmes, K., Hughes, M., Mair, J., & Carlsen, J. (2015). "), I("Events and sustainability"), P(". Routledge.")],

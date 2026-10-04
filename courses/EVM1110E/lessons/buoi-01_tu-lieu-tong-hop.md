@@ -201,3 +201,9 @@ Cổng thông tin điện tử Chính phủ – Xây dựng chính sách. (2026)
 | A31 | Van Niekerk & Getz (2019) — mục lục và lời nói đầu | Xác nhận có Hình 3.1 “Continuous planning process for stakeholder management” (tr. 60), mục 3 “Generic stakeholder management strategies”, mục 5.5 “Stakeholder management for business events” (tr. 139) | W01 slide 39 (ghi chú GV); cần bản đầy đủ để đối chiếu tên 5 bước |
 
 **Thay đổi deck W01 (bản 4/10/2026, 47 slide):** thêm slide 18 (Todd et al.), 21 (Reid — rủi ro), 38 (Stakeholder Sandwich, tùy chọn); cập nhật nguồn slide 20, ghi chú slide 39 và 41, danh mục tài liệu tham khảo.
+
+## 10. Bổ sung Drakeley (2022) và Korstanje (2024) — 4/10/2026
+
+- **Drakeley (2022)**: ví dụ lễ hội âm nhạc trên ma trận quyền lực – quan tâm → thay slide “Stakeholder Sandwich” trong W01 (khối 35b). [NEEDS PROFESSOR INPUT: thông tin xuất bản đầy đủ của chương.]
+- **Korstanje (2024)**: không đổi nội dung Buổi 1; ý “xung đột do kỳ vọng quá mức” và ba mô hình xung đột chuyển sang Buổi 4/12.
+- Slide đạo đức W01 đổi sang Nguyên tắc Clarkson (4 nguyên tắc + cam kết ISAF) — xem deck.
