@@ -33,3 +33,29 @@ EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 24 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 11 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi lựa chọn khách sạn của 6 nhóm ở S3; tính diện tích 600 khách từng bước ở S4; ghi các câu hỏi “anh Khoa” lặp lại nhiều nhất khi chốt S6.
+
+---
+
+## Cập nhật 4/10/2026: deck đã dựng (`slides/W10_slides.pptx`, bản Roboto `W10_slides_Roboto.pptx`)
+
+Deck có **40 slide**, mỗi slide có lời giảng và ghi chú GV. Phần thêm so với outline 24 slide lấy từ **Dowson, Albert & Lomax (2023), chương 5 và 9** (V14, V15) và **Silvers (2008)** (V16):
+
+| Slide | Nội dung thêm | Nguồn |
+|---|---|---|
+| 4 | Vì sao thuê ngoài; thuê ngoài vẫn phải quản lý quan hệ | Dowson tr. 217–218 |
+| 7 | Ba cách mua: ba báo giá, đấu thầu, nhà cung cấp ưu tiên | Dowson tr. 229–230 |
+| 8 | Nhà cung cấp độc quyền giới hạn lựa chọn | Silvers tr. 175 |
+| 10 | Đặc tả theo chức năng, kỹ thuật, kết quả | Dowson tr. 234–236 |
+| 12–13 | Chấm có trọng số giảm ảnh hưởng cá nhân; “bên được chọn phải là bên điểm cao nhất” | Silvers tr. 176–177; Dowson tr. 231 |
+| 19 | “AIG effect”, phép thử trang báo — hình ảnh địa điểm với Key Account | Dowson tr. 99, 245–246 |
+| 21 | Câu chuyện “lâu đài” — đạo đức khi khách muốn địa điểm vì sở thích cá nhân | Dowson tr. 105 |
+| 22 | Đơn vị tìm địa điểm: hoa hồng 8–15%, giữ chỗ lựa chọn thứ nhất/thứ hai | Dowson tr. 110–111 |
+| 25 | Không gian – di chuyển (ICE) – không khí | Dowson tr. 119–122 |
+| 26 | Quy tắc ước lượng diện tích vênh nhau (V08 so với Price 2004 qua Dowson) | Dowson tr. 120 |
+| 27–28 | Ba bước dựng sơ đồ; nhân viên kinh doanh và nhân viên vận hành; function sheet | Dowson tr. 116–124 |
+| 29 | Điều khoản chuyển rủi ro (hủy, attrition, thay đổi, bất khả kháng…) | Silvers Bảng 3.3; Dowson tr. 222–223, 247 |
+
+**Chờ GV:**
+- **Số liệu diện tích cho phiếu Thực hành 1** (slide 26). Phiếu đang dùng 860–920 m² theo V08. Nếu dùng mức 4 m²/khách của Price (2004), cả ba khách sạn đều không đủ chỗ.
+- **Slide 21 và 22** có thể bỏ nếu trễ giờ. Slide 18 (cặp số 97%/94%) bỏ theo giáo án.
+- **Bối cảnh Việt Nam:** các điều khoản hợp đồng ở slide 29 lấy từ bối cảnh Anh/Mỹ, cần pháp chế kiểm tra `[VERIFY]`.

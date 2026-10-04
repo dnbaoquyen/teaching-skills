@@ -254,3 +254,44 @@ Cả 7 đề xuất đã được GV duyệt ngày 27/9/2026; 10.3 theo phương
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 10 đã soạn: `W10_lesson_plan.md`, `W10_lecture_notes.md`, `W10_slides_outline.md`, `W10_activity_S3_cham_ho_so_khach_san.md`, `W10_activity_S6_phan_bo_nha_cung_cap.md` (chờ GV xác nhận).
+
+---
+
+## 8. Tài liệu GV bổ sung (4/10/2026): đã đọc toàn văn
+
+### V14 — Dowson, Albert & Lomax (2023), Chương 5: *Venue selection and site planning essentials* (tr. 97–127)
+- **Nguồn:** Dowson, R., Albert, B., & Lomax, D. (2023). *Event planning and management: Principles, planning and practice* (3rd ed.). Kogan Page. `[VERIFY: phụ đề theo trang bìa]`. PDF chương do GV cung cấp.
+- **Nội dung dùng được:**
+  - **Quy trình chọn địa điểm (Hình 5.2, tr. 102–103):** bắt đầu từ **bản brief tìm địa điểm**, xác định mức khớp giữa mục tiêu sự kiện và các điều kiện “phải có” (must-haves): vị trí, giao thông, **hình ảnh – phong cách hợp văn hóa doanh nghiệp**, loại địa điểm, không khí, quy mô tương đối, sức chứa và bố trí, tiện ích, công nghệ, tiếp cận cho người khuyết tật, **chi phí/value for money**, chỗ ở. Mẫu brief: Hình 5.3; mẫu yêu cầu chuẩn của doanh nghiệp: Hình 5.4.
+  - **Hình ảnh của địa điểm (tr. 99):** doanh nghiệp ngày càng chọn địa điểm theo giá trị họ công khai và tự hỏi *“What would this look like as a story in the Daily Mail?”*. Địa điểm xa hoa có thể làm hại hình ảnh. Câu hỏi này được nhắc lại ở chương 9 (tr. 245–246, “AIG effect”).
+  - **Mẹo nghề (tr. 104):** *“The MVP (Most Valuable Player) of an event is the venue and location.”*
+  - **Ví dụ “lâu đài” (tr. 105):** khách muốn tổ chức ở lâu đài; agency nhận ra người đó chỉ muốn ở lâu đài, nên đặt cho họ một chuyến nghỉ ở lâu đài và tổ chức sự kiện ở địa điểm phù hợp hơn — *“Consider the ethical aspects of such actions!”*
+  - **Đơn vị tìm địa điểm (tr. 110–111):** thu hoa hồng **8–15%** từ địa điểm. Có đơn vị đặt mức hoa hồng khác nhau theo hạng “Vàng/Đồng”, và địa điểm trả mức cao xuất hiện trong danh sách ngắn nhiều hơn. Không gửi brief cho nhiều đơn vị cùng lúc. Địa điểm được giữ chỗ theo **lựa chọn thứ nhất/thứ hai** (*first/second option*). Nên lưu cả danh sách địa điểm bị loại để minh bạch. Bảng so sánh: Bảng 5.1.
+  - **Site visit (tr. 114–116):** mẫu Hình 5.5 (vị trí, sức chứa theo kiểu bố trí, AV, âm học, tiếng ồn, ánh sáng tự nhiên, tiếp cận cho người khuyết tật, ăn kiêng, bãi xe, **ngày thử chuông báo cháy**). Câu hỏi chuông báo cháy được thêm vào sau một lần chuông kêu ban đêm vì nồi hơi hỏng. *“There’s no substitute for a physical inspection … always inspect [the toilets]!”*
+  - **Làm việc với địa điểm (tr. 116–118):** *“At first this will be with sales staff who may promise you the earth, but operational staff will tell you that it’s not that simple.”* Phản hồi cho nhân viên **trong và sau** sự kiện. Mẫu **function sheet** gửi địa điểm: Hình 5.7.
+  - **Bố trí mặt bằng (tr. 119–122):** ba yếu tố **Space – Movement – Atmosphere**. **ICE** = ingress (vào), circulation (di chuyển), egress (ra). Ước lượng diện tích (dẫn Price, 2004): **kiểu nhà hát 2 m²/người; cabaret hoặc bàn tiệc 4 m²/người; bàn họp 8–12 m²/người** (gồm ghế và đồ đạc). Khu hậu cần (back-of-house). Đứng tối thiểu 0,5 m²/người theo *Purple Guide* — thuộc quản lý đám đông, ngoài phạm vi môn.
+  - **Ba bước dựng sơ đồ (tr. 122–124):** xin sơ đồ chi tiết, xếp bố trí, **xin góp ý của địa điểm, nhà cung cấp và khách hàng**. Làm nhiều loại bản đồ cho khách và cho nhân sự, nhà cung cấp (Bảng 5.2).
+- **Lưu ý vênh số liệu:** 4 m²/người (bàn tiệc, Price 2004 qua Dowson) gấp khoảng 4 lần mức 1,0–1,1 m² (V08, blog). Với 600 khách: khoảng 2.400 m² so với khoảng 610–670 m² cho khu bàn. **Chưa xác định được** hai nguồn tính trên cùng một định nghĩa hay không. → Dạy như minh chứng cho việc “quy tắc ước lượng vênh nhau; luôn xin bảng sức chứa và sơ đồ của địa điểm”. Phiếu Thực hành 1 giữ số theo V08 `[NEEDS PROFESSOR INPUT: giữ hay đổi]`.
+
+### V15 — Dowson, Albert & Lomax (2023), Chương 9: *Finance, budgeting and procurement in events* (tr. 216–249)
+- **Nội dung dùng được:**
+  - **Thuê ngoài (tr. 217–218):** *“Outsourcing is the transfer of an organizational function to a third party.”* Lý do: chi phí, thời gian, chuyên môn và thiết bị, chia sẻ rủi ro, chất lượng. Nhưng *“outsourcing an activity does not make the cost problem go away, as considerable time is spent in managing the relationship with the outsourcing provider.”*
+  - **Purchasing và procurement (tr. 228):** purchasing là mua đứt bằng tiền; procurement là có được hàng hóa, dịch vụ **bằng mọi cách**: thuê, mượn, trao đổi (contra-deal). *(Khác cách CIPS phân biệt ở Buổi 7 — nói rõ có nhiều cách định nghĩa.)*
+  - **Ba lựa chọn mua (tr. 229–230):** (1) **ba báo giá**; (2) **đấu thầu**; (3) **nhà cung cấp ưu tiên** (preferred supplier). Ví dụ “nhà cung cấp ưu tiên” thiếu chặt chẽ ở công ty nhỏ: *“using a supplier because your brother-in-law owns it”*.
+  - **Bốn giai đoạn đấu thầu (tr. 230–231):** (1) trước thầu: nhóm, kế hoạch, **đặc tả và tiêu chí đánh giá**, hồ sơ mời thầu; (2) mời thầu: PQQ, gặp và giải đáp, **hồ sơ dự thầu được giữ bảo mật để đối xử công bằng**; (3) đánh giá: **khai báo thiên vị và quan hệ trước đó**, danh sách ngắn, phỏng vấn, tham chiếu; (4) chọn: *“The company that is appointed must be the highest scorer”*, ký hợp đồng, theo dõi bằng KPI, **phản hồi cho bên trượt**.
+  - **Ba cách đặc tả (tr. 236):** theo **chức năng** (dịch vụ để làm gì), **kỹ thuật** (nhân sự, thiết bị, số lượng), theo **kết quả** (an toàn, đạo đức, chất lượng, bền vững; KPI).
+  - **Tiêu chí đánh giá mẫu (Bảng 9.6, tr. 237):** chất lượng, đáp ứng đặc tả, chi phí so với ngân sách, khả năng đáp ứng lịch, kinh nghiệm. Bảng so sánh 4 hồ sơ AV (Bảng 9.7, tr. 238–239): có bên **từ chối**, bên **báo thiếu hạng mục**, bên chỉ báo giá 1 ngày → **phải quy về cùng một nền** trước khi so.
+  - **Hủy sự kiện (tr. 222–223):** *“once the contract is agreed (not necessarily signed, as verbal agreements can be binding), you are liable for up to the full amount.”* Bảng 9.3: ví dụ chi phí khi hủy.
+  - **Nhiều bên cùng chi (tr. 223):** áp dụng **quy định tài chính chặt nhất** trong các bên.
+  - **Kiểm tra năng lực tài chính của nhà cung cấp/khách hàng** trước khi ký (tr. 227; ví dụ Companies House ở Anh).
+  - **“AIG effect” (tr. 245–246):** năm 2008, sự kiện xa hoa của một công ty con AIG ngay sau gói cứu trợ khiến báo chí chỉ trích, nhiều doanh nghiệp hủy sự kiện. Phép thử *“would it pass the test of appearing in a national newspaper?”*
+  - **Việc cần làm (tr. 247):** người có thẩm quyền ký duyệt chi (cả phía khách); bảo hiểm; **thỏa thuận thay đổi dịch vụ** (variation to services agreement); lịch cọc và thanh toán; **phản hồi hai chiều** với nhà cung cấp; coi chừng **phí phát sinh** trong ngày.
+- **Gợi ý cách dùng:** 10.1 (quy trình, đặc tả, chấm điểm, phản hồi bên trượt); 10.3 (Nova như “tổng thầu” quản lý nhà cung cấp — Silvers).
+
+### V16 — Silvers (2008), *Risk management for meetings and events* — Chương 3 (tr. 61–62) và Chương 7 (tr. 175–177)
+- **Nguồn:** Silvers, J. R. (2008). *Risk management for meetings and events*. Butterworth-Heinemann. PDF đầy đủ do GV cung cấp.
+- **Nội dung dùng được:**
+  - **Bảng 3.3 — điều khoản hợp đồng quan trọng (tr. 61):** bồi hoàn (indemnification); bảo hiểm; giấy phép; giải quyết tranh chấp; luật áp dụng; **thẩm quyền ký**; **hủy, attrition** (phạt khi số khách thấp hơn cam kết), chuyển trách nhiệm; chấm dứt hợp đồng, gồm **bất khả kháng** (tr. 61–62). Tr. 62 (Hilliard): hợp đồng chỉ gồm những gì trong “bốn góc tờ giấy”; điều đã nói miệng phải ghi vào văn bản; tham khảo pháp chế trước khi ký.
+  - **Chương 7, tr. 175:** xác định nhu cầu, phân tích giá trị; địa điểm có **nhà cung cấp ưu tiên hoặc độc quyền** *“may limit an organizer’s choices (or increase costs)”* và phải được phân tích khi đánh giá hồ sơ. Bảng 7.6 liệt kê các loại hồ sơ mời: IFB, RFB, RFI, RFP, RFO, RFQ, specification brief, tender brief.
+  - **Tr. 176–177 — chấm điểm có trọng số:** nên gán trọng số cho tiêu chí để có điểm định lượng, *“eliminates (or at least lessens) personal influence or preference”* (phương pháp decision matrix, MAUT). **Hình 7.5** ví dụ chấm 4 khách sạn theo vị trí, không gian, giá phòng, F&B, tiện ích, **an ninh**, **kế hoạch khẩn cấp**… Nhà tổ chức như **“tổng thầu”** (general contractor) quản lý mọi nhà cung cấp; nhắc *“difference between cost and value”* (MPI, 2005).
+- **Gợi ý cách dùng:** lấp khoảng trống mục 5 (“hướng dẫn chấm điểm có trọng số từ nguồn uy tín”). Trọng số 60/40 trong bài vẫn là giả định.
