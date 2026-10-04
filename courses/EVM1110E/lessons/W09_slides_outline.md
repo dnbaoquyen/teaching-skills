@@ -33,3 +33,29 @@ EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu k
 | 24 | S8 | Phiếu kiểm tra cuối giờ | 2 câu hỏi (giáo án) + câu nối Buổi 10 | QR/Form nếu thu online |
 
 **Nên dùng bảng thay vì slide:** ghi số phiếu S1; tính ví dụ ROI từng bước ở S4; ghi các “lo ngại” lặp lại nhiều nhất khi chốt S6.
+
+---
+
+## Cập nhật 4/10/2026: deck đã dựng (`slides/W09_slides.pptx`, bản Roboto `W09_slides_Roboto.pptx`)
+
+Deck có **40 slide** (outline gốc 24 slide), mỗi slide có lời giảng và ghi chú GV. Phần thêm chủ yếu lấy từ **Cornwell (2020) bản đầy đủ** (U22) và Luật Quảng cáo 2025 (U23):
+
+| Slide | Nội dung thêm | Nguồn |
+|---|---|---|
+| 5 | Ba định nghĩa: Meenaghan · Cornwell (tr. 92) · Farrelly & Quester | U01, U22, U20 |
+| 6 | Mô hình quy trình tài trợ 6 bước, có vòng lặp | Cornwell Hình 2.2, tr. 28–30 |
+| 12 | Năm đặc điểm hợp tác thành công; cam kết của nhà tài trợ → hài lòng | Cornwell Hình 3.3; U19 |
+| 14 | Luật Quảng cáo 2025: người tổ chức chương trình là “người phát hành quảng cáo” | U23 `[VERIFY: pháp chế]` |
+| 16 | Bảng 100 điểm đánh giá nhà tài trợ tiềm năng | Cornwell Bảng 3.1 |
+| 21–22 | Gói chuẩn hay đề xuất may đo; yếu tố quyết định giá tài trợ | Cornwell tr. 36–41 |
+| 24, 26 | Leveraging khác activation; các việc phục vụ nhà tài trợ (servicing) | Cornwell tr. 92–94, 108 |
+| 27 | Các loại lợi tức: ROI, ROO, ROP, ROE | Cornwell Bảng 9.1 |
+| 30 | Năm khoảng cách làm quan hệ tài trợ rạn nứt (Farrelly, 2010) | Cornwell tr. 186–187 |
+
+**Thay đổi so với lecture notes:**
+- Cấu trúc đề xuất 7 phần (§2.1) **nay có nguồn đối chiếu**: Cornwell tr. 37–38. Việc gộp thành 7 phần vẫn là quyết định của người soạn.
+- §2.2 dùng “activation” theo nghĩa rộng. Slide 24 tách theo Cornwell: leveraging là mọi chi tiêu đi kèm, activation là phần tạo tương tác.
+
+**Thời lượng:** S2 có 13 slide trong 25 phút và S4 có 12 slide trong 25 phút, nên khá dày. Ghi chú GV đã đánh dấu chỗ có thể lướt nhanh: slide 10 (bỏ VIB), slide 22, slide 30 (chỉ đọc cột 1 và 3).
+
+**Chờ GV:** dùng ví dụ đề án sinh viên (U25, hợp đồng ngân hàng trả theo số tài khoản mở) hay không. Hiện ví dụ này chỉ nằm trong ghi chú GV ở slide 10, chưa chiếu.

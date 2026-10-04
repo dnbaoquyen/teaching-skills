@@ -121,6 +121,8 @@ Nova không “xin tài trợ cho mình”. Nova giúp An Phát **biến quan h�
 
 *Cấu trúc dưới đây do người soạn dựng từ các nguồn U01 (mục tiêu), U04–U05 (kích hoạt), U06 (đo lường), U07 (điểm chạm); chưa có hướng dẫn chuẩn từ một hiệp hội.*
 
+> *Cập nhật 4/10/2026:* các thành phần này đã đối chiếu với Cornwell (2020, tr. 37–38) (U22). Cornwell liệt kê lý do tài trợ theo mục tiêu của nhà tài trợ, tổng quan sự kiện theo những gì nhà tài trợ quan tâm, điều khoản (gồm độc quyền, rủi ro, bảo hiểm), kỳ vọng đóng góp của nhà tài trợ, và đo lường. Gộp thành 7 phần vẫn là quyết định của người soạn. Mã U15–U18 cũ ở mục 8 của tư liệu nay là U19–U22.
+
 | Phần | Nội dung | Nguồn căn cứ |
 |---|---|---|
 | 1. **Mục tiêu của nhà tài trợ** | Nhà tài trợ muốn gì: nhận biết, thái độ, khách hàng tiềm năng, doanh số, quan hệ với Key Account | U01 |
