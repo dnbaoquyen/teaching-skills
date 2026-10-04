@@ -133,3 +133,13 @@
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 6 đã soạn: `W06_lesson_plan.md`, `W06_lecture_notes.md`, `W06_slides_outline.md`, `W06_activity_S3_*.md`, `W06_activity_S6_*.md` (chờ GV xác nhận).
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp giáo trình Chương 8
+
+- **Khung đo hiệu quả KAM** (Marcos et al., 2018, Hình 8.1, tr. 192–193): kết quả tài chính (tăng trưởng doanh thu, lợi nhuận, **lifetime value**), kết quả quan hệ; chỉ số quá trình gồm **cost to serve**.
+- **Công thức CLV của giáo trình** (tr. 197): CLV = Σ (rₜ − eₜ)/(1 + i)ᵗ, t = 1…n — dùng **dự báo** doanh thu, chi phí. Dạng trên lớp (m × pᵗ⁻¹ /(1+d)ᵗ) là giáo trình + xác suất giữ chân; deck đổi ký hiệu tỷ lệ giữ chân từ r sang **p** để không trùng rₜ của sách (phiếu S3 vẫn dùng r — nhắc SV). `[VERIFY ký hiệu với Gupta et al., 2006]`
+- **Case Construmart** (tr. 197–200): B lãi nhất 2017 (2.800) nhưng CLV 8 năm thấp nhất (9.311); A lãi ít nhất (500) nhưng CLV cao nhất (18.737); C 12.044 — lý do nằm ở kế hoạch tương lai của khách.
+- **Bảng 8.1** chi phí trước bán – trong bán – sau bán (tr. 195); **Bảng 8.2** khách M và Z cùng lãi 500 (tr. 196); định nghĩa **cost to serve** (tr. 210).
+- **Hình 8.6 “cost to serve vs average price”** (tr. 210–211): vùng có lợi cho nhà cung cấp, có lợi cho khách, và **dải công bằng** — nguồn trực tiếp cho “bilateral benefits and fair relationships” của đề cương 6.2.
+- Ma trận Shapiro (biến thể biên gộp) giữ như quyết định GV 3; tên ô vẫn `[VERIFY]`; tên gốc “Gross margin matrix” vẫn `[NEEDS PROFESSOR INPUT]`.
+- Deck: `slides/W06_slides.pptx` (34 slide) + bản Roboto.

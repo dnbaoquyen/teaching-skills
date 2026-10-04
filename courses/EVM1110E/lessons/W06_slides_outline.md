@@ -27,3 +27,5 @@ EVM1110E · 20 slide · Mỗi slide một ý; tiêu đề là **câu khẳng đ�
 | — | S6 | *(phiếu Thực hành 2 — ma trận 5 khách hàng + xoay trạm hai vai)* | | Đồng hồ 5 / 8 / 4 / 4 / 6 |
 | 19 | S7 | Ba ý của Buổi 6 | 6.1 CLV · 6.2 cost-to-serve · ma trận và công bằng hai chiều; dòng cuối: phần B của SMP, logic tài chính Buổi 14 | |
 | 20 | S8 | Phiếu kiểm tra cuối giờ | 2 câu + câu nối Buổi 7 | |
+
+> **Cập nhật 4/10/2026:** deck đầy đủ theo khuôn MKT1107 đã dựng tại `slides/W06_slides.pptx` (và bản Roboto), thay cho dàn ý này; xem `buoi-06_tu-lieu-tong-hop.md` mục 8 về nguồn mới từ giáo trình.

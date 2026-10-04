@@ -27,3 +27,5 @@ EVM1110E · 20 slide · Mỗi slide một ý; tiêu đề là **câu khẳng đ�
 | — | S6 | *(phiếu Thực hành 2 — đóng vai bộ ba + lộ trình)* | | Đồng hồ 10 / 10 / 7 |
 | 19 | S7 | Ba ý của Buổi 4 | Ba trụ cột · đo hai chiều · lộ trình; dòng cuối: SMP | |
 | 20 | S8 | Phiếu kiểm tra cuối giờ | 2 câu + câu nối Buổi 5 | |
+
+> **Cập nhật 4/10/2026:** deck đầy đủ theo khuôn MKT1107 đã dựng tại `slides/W04_slides.pptx` (và bản Roboto), thay cho dàn ý này; xem `buoi-04_tu-lieu-tong-hop.md` mục 8 về nguồn mới từ giáo trình.

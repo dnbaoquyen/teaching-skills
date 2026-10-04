@@ -131,3 +131,18 @@ Buổi 4 chủ yếu là khái niệm; không đưa số liệu thị trường.
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 4 đã soạn: `W04_lesson_plan.md`, `W04_lecture_notes.md`, `W04_slides_outline.md`, `W04_activity_S3_*.md`, `W04_activity_S6_*.md` (chờ GV xác nhận).
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp giáo trình và slide bộ môn
+
+- **Nguồn của “ba trụ cột” đã tìm được:** Marcos et al. (2018), Chương 4, Hình 4.2 “The dimensions of relationship quality” (tr. 96) — xung đột, niềm tin (chuyên môn, trung thực, thiện chí), cam kết. Slide bộ môn Chương 3 mục 3.1.2 sao lại hình này. Định nghĩa trong sách:
+  - Conflict (dẫn Menon et al., 1996): căng thẳng do khác biệt thực tế hoặc nhận thức; dysfunctional ↔ functional; “find the right balance” (tr. 96–97).
+  - Trust (dẫn Moorman et al., 1992): “willingness to rely on an exchange partner in whom one has confidence”; hai thành phần **trust in credibility** và **trust in benevolence** (tr. 97–98).
+  - Commitment (dẫn Anderson & Weitz, 1992): mong muốn quan hệ ổn định, sẵn sàng hy sinh ngắn hạn; **idiosyncratic investment**; “claim to have key accounts, but without making any idiosyncratic investment… mistaken idea of what KAM really is” (tr. 98).
+- **Deck dùng định nghĩa nhiều nguồn** (Q5): Morgan & Hunt (1994) nguyên văn + slide bộ môn/giáo trình → câu tổng hợp.
+- **Bốn động lực của chất lượng quan hệ** (Hình 4.3, tr. 99) và **bộ 12 câu khảo sát thang 1–7** (tr. 100–101) — GV có thể phát kèm bộ 9 câu của môn.
+- **4.2:** Hình 4.1 sáu kiểu quan hệ (tr. 94, dẫn Tangpong et al., 2015) — nguồn đầy đủ của sơ đồ A–B trong slide bộ môn 3.1.1; hai bước dùng (tr. 94–95); Hình 4.4 hướng vulnerable → inviting → collaborative partnership (tr. 102).
+- **Giai đoạn quan hệ key account:** giáo trình (tr. 101, dẫn McDonald & Rogers, 2017) nêu exploratory → basic → co-operative → interdependent → integrated. Deck nêu tên kèm nguồn thứ cấp; **vẫn không nêu tên giai đoạn của Dwyer et al.** (quyết định GV 4). `[NEEDS PROFESSOR INPUT: đồng ý nêu ở Buổi 4 hay để Buổi 8]`
+- **Case mới:** SAF — công ty dịch vụ chuyên nghiệp, bốn năm từ thua thầu đến “critical friend” (tr. 113–114).
+- **Korstanje (2024):** hợp tác và xung đột “well combined” làm tăng gắn kết trong tổ chức sự kiện — dẫn trong ghi chú slide 7 `[VERIFY số trang chương]`.
+- **Lỗi slide bộ môn:** câu trích Maxwell, Huffington, Hoffman không ghi nguồn — không dùng.
+- Deck: `slides/W04_slides.pptx` (40 slide) + bản Roboto.

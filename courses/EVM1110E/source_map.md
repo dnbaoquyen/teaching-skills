@@ -148,3 +148,15 @@ reporting" → "chưa kiểm chứng chéo"; không đưa lên slide nếu khôn
 |---|---|---|
 | Drakeley (2022), *Managing event stakeholders: Expect the unexpected* (chương sách — [NEEDS PROFESSOR INPUT: tên sách, NXB, trang]) | Ma trận 2×2 với ví dụ lễ hội âm nhạc; vòng đời khách hàng (Buttle) — Sales lo tiếp cận/chuyển đổi, KAM lo giữ chân/trung thành; ca agency Anh 2016 (15 sự kiện/12 tháng, phình phạm vi, không lãi, không giữ được khách) | W01 (2×2), W02 (vòng đời, ca Drakeley) |
 | Korstanje (2024), *Managing events stakeholders*, trong Raj & Griffin (Eds.), *Sustainable events management*, CABI, DOI 10.1079/9781800621381.0005 | Mô hình xung đột (can thiệp, đối kháng, thờ ơ); “quá trình chính trị = niềm tin, cam kết, giao tiếp”; xung đột do kỳ vọng quá mức. Số liệu Eventsforce 72% (COVID) chỉ một nguồn — chưa kiểm chứng chéo | Ít liên quan B1–3; để dành **B4** (chất lượng quan hệ, xung đột) và **B12** |
+
+## 10. Cập nhật 4/10/2026 (lần 3) — Buổi 4–6 đối chiếu giáo trình đầy đủ
+
+| Mục | Kết quả | Hệ quả |
+|---|---|---|
+| Q5 / Buổi 4 | Ba trụ cột của slide Ch.3 = Marcos et al. (2018) Hình 4.2, tr. 96; sơ đồ A–B = Hình 4.1 (sáu kiểu quan hệ) | Deck W04 dùng cả Morgan & Hunt và giáo trình |
+| **Q2 / Buổi 5** | Giáo trình Hình 5.4: **5 nguồn**, HSSEQ là mô tả của “business reputation and continuity” | **Đề cương đúng; slide bộ môn tách nhầm thành 6** — không cần ghi chú “nguồn thứ 6” |
+| Buổi 5 | Cấu trúc CVP 3 phần (Hình 5.3), CPIs (tr. 127), Bảng 6.1 co-creation | Bỏ nhãn “định nghĩa làm việc của môn” (chờ GV sửa lecture notes) |
+| Buổi 6 | CLV formula tr. 197; Hình 8.6 vùng công bằng; Construmart | Nguồn trực tiếp cho 6.1 và 6.2 |
+| Lỗi slide Ch.4 | “1.4 inch” → ¼ inch (Levitt) | Deck dùng ¼ inch |
+
+**Việc tiếp theo:** GV duyệt deck W04–W06; sau đó Buổi 7–9 (giáo trình Ch.7 KAM team, Ch.8 đo hiệu quả; Kraljic từ SSE).

@@ -132,3 +132,15 @@ Không đưa số liệu mới. Không dùng các con số trong E04 (quyết đ
 
 ### Trạng thái
 Đã duyệt. Gói bài giảng Buổi 5 đã soạn: `W05_lesson_plan.md`, `W05_lecture_notes.md`, `W05_slides_outline.md`, `W05_activity_S3_*.md`, `W05_activity_S6_*.md` (chờ GV xác nhận).
+
+## 8. Bổ sung khi dựng deck (4/10/2026) — đọc trực tiếp giáo trình (E01) và slide bộ môn
+
+- **E01 đã đọc toàn văn Chương 5–6.** Đóng khoảng trống A và B của mục 5:
+  - **Cấu trúc CVP ba phần** = Marcos et al. (2018), Hình 5.3 (tr. 122–123): customer future state – supplier offer – value appraisal; slide bộ môn Chương 4 mục 4.2 dịch lại. Quy trình 4 bước Hình 5.8 (tr. 133–134) thêm bước **Evidence and credibility**.
+  - **Năm nguồn giá trị** = Hình 5.4 (tr. 124): top line · bottom line · **business reputation and continuity (mô tả bằng HSSEQ)** · strategy, organizational and other advisory · the customer’s customer. → **Q2 được giải quyết:** đề cương (5 nguồn) khớp giáo trình; slide bộ môn vẽ HSSEQ và “Business reputation and continuity” thành hai ô nên trông như 6.
+  - **Định nghĩa CVP** (tr. 120, phỏng theo Davies, 2017); tảng băng Hình 5.1; 7P Hình 5.5 (“people become your product”); value appraisal + **CPIs** gắn với năm nguồn (tr. 127) — chữ “CPIs” NotebookLM ghi là có thật trong giáo trình, không có trong slide bộ môn.
+  - Case CVP thật (nhà sản xuất thiết bị điều khiển → nhà phân phối, tr. 134–135); 10 mẹo (tr. 135–136; slide bộ môn dịch 8); “Dropping your price is not a source of value!” (tr. 139).
+  - **Chương 6:** value in exchange → value in use; ba vùng (provider, customer, joint sphere); Bảng 6.1 định nghĩa trùng nguyên văn E05; ba nhóm theo sách **Connecting – Developing – Reinforcing** (bài báo E05: Linking – Materializing – Institutionalizing); sáu năng lực tương tác (Hình 6.1, dẫn Karpen et al., 2011); case Unilever Food Solutions; “compelling events”, “co-creation readiness”, chia sẻ rủi ro – lợi ích (tr. 153–154).
+- **THAY ĐỔI so với gói W05 đã duyệt:** cấu trúc CVP và năm nguồn giá trị **không còn là “định nghĩa làm việc của môn”** — đã có nguồn công khai. Lecture notes §1.3, §2 và lesson plan nên sửa nhãn này (chờ GV).
+- **Lỗi slide bộ môn Chương 4:** câu Levitt ghi “khoan 1.4 inch… lỗ 1,4 inch” — đúng là **¼ inch (quarter-inch)** (giáo trình tr. 128); chính tả “giá tác động”, “trng CVP”. Mục 4.4 không có nội dung chữ `[NEEDS PROFESSOR INPUT]`.
+- Deck: `slides/W05_slides.pptx` (37 slide) + bản Roboto.

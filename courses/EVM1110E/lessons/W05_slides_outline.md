@@ -28,3 +28,5 @@ EVM1110E · 21 slide · Mỗi slide một ý; tiêu đề là **câu khẳng đ�
 | — | S6 | *(phiếu Thực hành 2 — kế hoạch 4 bước + xoay trạm vai chị Hạnh)* | | Đồng hồ 13 / 4 / 4 / 6 |
 | 20 | S7 | Ba ý của Buổi 5 | 5.1 · 5.2 · 5.3; dòng cuối: phần C của SMP | |
 | 21 | S8 | Phiếu kiểm tra cuối giờ | 2 câu + câu nối Buổi 6 | |
+
+> **Cập nhật 4/10/2026:** deck đầy đủ theo khuôn MKT1107 đã dựng tại `slides/W05_slides.pptx` (và bản Roboto), thay cho dàn ý này; xem `buoi-05_tu-lieu-tong-hop.md` mục 8 về nguồn mới từ giáo trình.
