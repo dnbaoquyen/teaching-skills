@@ -300,3 +300,12 @@ Nguyễn, T. Á. N., & Nguyễn, T. D. (2022, December 15). Bancassurance tại 
 
 ### Trạng thái
 Cả 5 đề xuất đã được GV duyệt ngày 27/9/2026 (xem đầu file). Gói bài giảng Buổi 9 đã soạn: `W09_lesson_plan.md`, `W09_lecture_notes.md`, `W09_slides_outline.md`, `W09_activity_S3_chon_nha_tai_tro.md`, `W09_activity_S6_ban_do_diem_cham.md` (chờ GV xác nhận).
+
+## 8. Tài liệu GV bổ sung (4/10/2026) — đã đọc
+
+| Mã | Tài liệu | Nội dung chính dùng được | Mục |
+|---|---|---|---|
+| U15 | Farrelly, F. J., & Quester, P. G. (2005). Examining important relationship quality constructs of the focal sponsorship exchange. *Industrial Marketing Management, 34*(3), 211–219. https://doi.org/10.1016/j.indmarman.2004.09.003 | Khảo sát nhà tài trợ “protected” của AFL (Úc): **cam kết** (đo bằng đầu tư kích hoạt) → hài lòng kinh tế; **niềm tin** → hài lòng kinh tế và phi kinh tế; nhà tài trợ thấy nỗ lực của mình không được bên nhận tài trợ đáp lại thì kém hài lòng | 9.1, 9.2 — nối Buổi 4 (Morgan & Hunt) |
+| U16 | Farrelly, F., & Quester, P. (2005). Investigating large-scale sponsorship relationships as co-marketing alliances. *Business Horizons, 48*(1), 55–62. | Tài trợ như **liên minh đồng tiếp thị**; yếu tố thành công: tương thích chiến lược, hội tụ mục tiêu, cam kết, hài lòng; trở ngại: lệch ý đồ chiến lược, thiếu thời gian hội tụ mục tiêu | 9.1, 9.2 (win-win) |
+| U17 | Farrelly, F., Quester, P., & Greyser, S. A. (2005). Defending the co-branding benefits of sponsorship B2B partnerships: The case of ambush marketing. *Journal of Advertising Research, 45*(3), 339–348. https://doi.org/10.1017/S0021849905050348 | 20 phỏng vấn chuyên gia 4 châu lục; **ambush marketing**; phòng vệ tốt nhất là kích hoạt nhiều lớp, quan hệ dài hạn, tính chính danh | 9.2 (bảo vệ quyền lợi nhà tài trợ trong đề xuất), nối Buổi 12 |
+| U18 | Cornwell, T. B. (2020). *Sponsorship in marketing: Effective partnerships in sports, arts and events* (2nd ed.). Routledge. https://doi.org/10.4324/9780429325106 — **bản xem trước** | Có mục lục + Chương 1 (lịch sử, hệ sinh thái tài trợ, chi tiêu tài trợ và kích hoạt 2010–2020) + Chương 14 (chính sách công, CSR). **Thiếu** các chương cần nhất: 3 (Becoming partners), 6 (Leveraging and activation), 8–9 (đo lường, đánh giá), 11 (quan hệ: bắt đầu, quản lý, kết thúc) | 9.1 (bối cảnh) |
