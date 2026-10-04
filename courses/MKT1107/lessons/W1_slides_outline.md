@@ -212,14 +212,14 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
   không đội lốt nghiên cứu · trung thực khi báo cáo. `[VERIFY: chuẩn ICC/ESOMAR; quy định của trường]`
 - Lời giảng: "Các bạn sắp đi hỏi người thật — 4 nguyên tắc này áp dụng cho dự án của các bạn."
 
-**Slide 34 — Tình báo marketing theo dõi liên tục; nghiên cứu marketing trả lời một câu hỏi cụ thể**
+**Slide 34 — Thông tin bên ngoài được theo dõi liên tục; nghiên cứu marketing trả lời một câu hỏi cụ thể**
   [UEF #14 + #15 + #17]
 - Hình: sơ đồ MIS 4 bộ phận (giữ hình UEF #14) + dải thời gian UEF #17 (dòng liên tục báo cáo nội bộ &
-  tình báo, các "dự án nghiên cứu" nằm rải trên đó). Chú thích thay thế: "Hệ thống thông tin marketing
+  thông tin bên ngoài, các "dự án nghiên cứu" nằm rải trên đó). Chú thích thay thế: "Hệ thống thông tin marketing
   gồm 4 bộ phận; nghiên cứu marketing là các dự án riêng lẻ trên dòng thông tin liên tục."
-- Nội dung: Báo cáo nội bộ = nhìn vào trong · Tình báo = nhìn ra ngoài · MDSS = công cụ ra quyết định ·
+- Nội dung: Báo cáo nội bộ = nhìn vào trong · Thông tin bên ngoài = nhìn ra ngoài · MDSS = công cụ ra quyết định ·
   Nghiên cứu = dự án.
-- Lời giảng: "Báo cáo nội bộ cho biết doanh số giảm; chỉ nghiên cứu cho biết vì sao." MDSS chỉ nêu 1
+- Lời giảng: "Báo cáo nội bộ cho biết doanh số giảm; chỉ nghiên cứu cho biết vì sao." Đề cương (1.4.2) gọi là "hệ thống tình báo marketing" — nói 1 câu đối chiếu; trên slide dùng "thông tin bên ngoài". MDSS chỉ nêu 1
   câu (UEF #16 có thể bỏ nếu thiếu giờ).
 
 **Slide 35 — Bạn sẽ hoặc làm, hoặc dùng nghiên cứu — người dùng giỏi biết nghiên cứu nào đáng tin**
@@ -232,8 +232,8 @@ MKT1107 Nghiên cứu Marketing · Buổi 1 · 39 slide
 ## S6 · Kiểm tra nhanh (90–94')
 
 **Slide 36 — Ba câu hỏi kiểm tra nhanh**
-- Nội dung: (1) Bước nào quan trọng nhất, vì sao? (2) Nghiên cứu marketing khác tình báo marketing ở
-  đâu? (3) Doanh nghiệp nhỏ nên tự làm hay thuê công ty nghiên cứu?
+- Nội dung: (1) Bước nào quan trọng nhất, vì sao? (2) Nghiên cứu marketing khác thu thập thông tin bên
+  ngoài ở điểm nào? (3) Doanh nghiệp nhỏ nên tự làm hay thuê công ty nghiên cứu?
 - Lời giảng: Chỉ định phát biểu, mỗi câu 1 bạn. Đáp án mong đợi trong bài giảng S6.
 
 ## S7 · Thực hành nhóm (94–139')

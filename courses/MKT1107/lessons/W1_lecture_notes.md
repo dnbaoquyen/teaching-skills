@@ -412,17 +412,21 @@ thập, phân tích và phân phối thông tin chính xác, kịp thời, hỗ 
 
 1. **Hệ thống báo cáo nội bộ** — *nhìn vào trong*: đơn hàng, doanh số, tồn kho, kế toán. Sẵn có, chi
    phí thấp; dùng để đánh giá kết quả đã qua.
-2. **Hệ thống tình báo marketing** — *nhìn ra ngoài*: theo dõi **liên tục** đối thủ, xu hướng, môi
+2. **Hệ thống thu thập thông tin marketing bên ngoài** (marketing intelligence) — *nhìn ra ngoài*: theo dõi **liên tục** đối thủ, xu hướng, môi
    trường, qua báo chí, nhân viên bán hàng, nhà phân phối, người mua bí mật (mystery shopper), dữ liệu
    mua ngoài. Ví dụ từ video: các ứng dụng giao đồ ăn theo dõi chương trình khuyến mãi của nhau trước
-   khi tung ưu đãi của mình.
+   khi tung ưu đãi của mình. Đây là thu thập **công khai, hợp pháp**.
+
+   *(Đối chiếu đề cương: mục 1.4.2 gọi bộ phận này là "Hệ thống tình báo Marketing". Nói 1 câu để sinh
+   viên khớp với đề cương: "Đề cương gọi là tình báo marketing — dịch từ marketing intelligence; lớp
+   mình gọi là thu thập thông tin bên ngoài cho đúng bản chất.")*
 3. **Hệ thống hỗ trợ ra quyết định (MDSS)** — cơ sở dữ liệu, mô hình phân tích, giao diện và kho tri
    thức giúp nhà quản lý ra quyết định nhanh dựa trên bằng chứng — ví dụ mô hình dự báo doanh số.
 4. **Hệ thống nghiên cứu marketing** — giải quyết các **bài toán cụ thể, tại một thời điểm**, mà ba
    bộ phận kia không trả lời được.
 
-Cách phân biệt dễ nhớ nhất: **tình báo marketing là một dòng chảy thông tin liên tục; nghiên cứu
-marketing là trả lời một câu hỏi cụ thể**. Báo cáo nội bộ cho giám đốc trà sữa biết doanh số giảm;
+Cách phân biệt dễ nhớ nhất: **thông tin bên ngoài là một dòng chảy được theo dõi liên tục; nghiên
+cứu marketing là trả lời một câu hỏi cụ thể**. Báo cáo nội bộ cho giám đốc trà sữa biết doanh số giảm;
 chỉ nghiên cứu marketing mới trả lời được **vì sao**.
 
 ### 5.4 Ai làm nghiên cứu, ai dùng nghiên cứu (khoảng 4')
@@ -462,9 +466,9 @@ nào đáng tin.
 
 1. **Trong 6 bước, bước nào quan trọng nhất? Vì sao?**
    *Mong đợi:* bước 1 — xác định sai vấn đề thì cả nghiên cứu đi sai hướng.
-2. **Nghiên cứu marketing khác tình báo marketing ở điểm nào?**
-   *Mong đợi:* nghiên cứu = trả lời câu hỏi cụ thể, tại một thời điểm, dạng dự án; tình báo = theo
-   dõi liên tục môi trường bên ngoài.
+2. **Nghiên cứu marketing khác thu thập thông tin bên ngoài ở điểm nào?**
+   *Mong đợi:* nghiên cứu = trả lời câu hỏi cụ thể, tại một thời điểm, dạng dự án; thu thập thông tin
+   bên ngoài = theo dõi liên tục môi trường bên ngoài.
 3. **Một doanh nghiệp nhỏ có nên tự làm nghiên cứu hay thuê công ty chuyên nghiệp?**
    *Mong đợi:* tùy — tự làm thì rẻ, hiểu doanh nghiệp nhưng dễ chủ quan; thuê thì chuyên nghiệp,
    khách quan nhưng tốn kém. Câu trả lời tốt nêu được cả hai mặt.
