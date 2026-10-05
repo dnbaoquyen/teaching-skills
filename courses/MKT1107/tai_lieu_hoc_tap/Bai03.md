@@ -80,7 +80,7 @@ Một cách phân loại phổ biến chia AI thành bốn cấp theo khả năn
 | Làm việc liên tục, không mệt mỏi | **Thiên lệch** theo dữ liệu huấn luyện (ví dụ thiên về nguồn tiếng Anh, thị trường phương Tây) |
 | Tự động hóa việc lặp lại: tóm tắt, dịch, định dạng | **Kiến thức có hạn thời gian**, có thể không biết sự kiện mới |
 | Gợi ý ý tưởng, mở rộng góc nhìn khi bí | **Thiếu hiểu biết bối cảnh** địa phương, văn hóa, ngành cụ thể |
-| Phát hiện mẫu hình trong dữ liệu mà con người dễ bỏ sót | **Khó giải thích** vì sao đưa ra kết quả (“hiệp đen”) |
+| Phát hiện mẫu hình trong dữ liệu mà con người dễ bỏ sót | **Khó giải thích** vì sao đưa ra kết quả (“hộp đen”) |
 | Hỗ trợ người không chuyên tiếp cận kỹ thuật phức tạp | **Rủi ro bảo mật và quyền riêng tư** khi đưa dữ liệu cá nhân lên công cụ |
 | | **Phụ thuộc:** dùng thay vì học làm người dùng mất kỹ năng tư duy |
 
