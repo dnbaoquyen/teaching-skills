@@ -11,7 +11,8 @@ MKT1107 Nghiên cứu Marketing · Buổi 8 · 150 phút · Giảng viên: Đoà
 > **Nguồn:** tài liệu học tập Bài 6 (`tai_lieu_hoc_tap/Bai06.md` — nội dung chuẩn, đã sửa lỗi; bài
 > giảng nhất quán với tài liệu này về thuật ngữ, công thức, ví dụ và số liệu); slide UEF Bài 6 (21
 > slide, có một số slide cần sửa — liệt kê trong `W8_slides_outline.md`); các video bài giảng trong
-> notebook (ví dụ minh họa: bốc thăm, xe buýt, hỏi người giàu về điện thoại giá rẻ). Video **không có**
+> notebook (ví dụ minh họa: bốc thăm, xe buýt, hỏi người giàu về điện thoại giá rẻ). Khung lý thuyết
+> chọn mẫu của tài liệu học tập dựa trên Malhotra (2019) và Brown et al. (2014). Video **không có**
 > công thức tính cỡ mẫu — phần công thức theo tài liệu học tập. Tình huống ghi **(giả định)** là do
 > Claude dựng để minh họa, không phải sự kiện thật. Mọi chỗ cần giảng viên kiểm tra đều gắn `[VERIFY]`
 > và được tổng hợp ở cuối tài liệu. Đáp án phiếu bài tập tính toán nằm ở **S8 – Phần A** (phiếu phát
