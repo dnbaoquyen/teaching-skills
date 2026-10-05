@@ -58,7 +58,7 @@ EVM1110E · Dùng từ Buổi 13 đến trước hạn nộp (23:59 ngày 14/10/
 
 | # | Câu hỏi | ✅ ⚠️ ❌ |
 |---|---|---|
-| 22 | Có chiến lược mua sắm và đàm phán (Kraljic: khách hàng mua dịch vụ của agency thế nào)? | |
+| 22 | Có chiến lược mua sắm các hạng mục chính (Kraljic, Buổi 7) và cách đàm phán dựa trên giá trị với Key Account (tách Risk và Value, nhượng có điều kiện)? | |
 | 23 | Có sơ đồ tiếp xúc nhiều cấp (Bow-tie → Diamond)? | |
 | 24 | Có chỉ số **kết quả** và **quá trình**, ROI 6 cấp (không chỉ đo “hài lòng”)? | |
 | 25 | **Mỗi lời hứa ở phần C có một cách đo** ở phần D? | |

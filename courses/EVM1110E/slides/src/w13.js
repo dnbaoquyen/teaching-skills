@@ -285,7 +285,7 @@ const AE = [["A", "Value Insights", TEAL], ["B", "Value Opportunities", BLUE], [
 
   // 19 D part 1
   s = slide("Phần D, mảnh 1: quản trị quan hệ với Key Account (tiêu chí 5 — 8%)");
-  const d1 = [["Mua sắm, đàm phán", "Kraljic: khách hàng mua dịch vụ của ta thế nào; chiến lược đàm phán", "Buổi 7", TEAL, "FaHandshake"], ["Tiếp xúc nhiều cấp", "Bow-tie → Diamond: cặp đối ứng, nhịp gặp", "Buổi 8", BLUE, "FaProjectDiagram"], ["Chỉ số", "Kết quả + quá trình; ROI 6 cấp (0–3 agency cam kết, 4–5 đo cùng khách)", "Buổi 8", YEL, "FaTachometerAlt"], ["Đánh giá chung", "Họp hai bên định kỳ, hai chiều", "Buổi 8", PINK, "FaSyncAlt"]];
+  const d1 = [["Mua sắm, đàm phán", "Kraljic: hạng mục agency mua để giao giá trị; đàm phán giá trị với Key Account", "Buổi 7", TEAL, "FaHandshake"], ["Tiếp xúc nhiều cấp", "Bow-tie → Diamond: cặp đối ứng, nhịp gặp", "Buổi 8", BLUE, "FaProjectDiagram"], ["Chỉ số", "Kết quả + quá trình; ROI 6 cấp (0–3 agency cam kết, 4–5 đo cùng khách)", "Buổi 8", YEL, "FaTachometerAlt"], ["Đánh giá chung", "Họp hai bên định kỳ, hai chiều", "Buổi 8", PINK, "FaSyncAlt"]];
   for (let i = 0; i < 4; i++) { const [h, t, b, c, icn] = d1[i]; const x = 0.6 + i * 3.08; box(s, x, 1.95, 2.9, 3.9); await ic(s, icn, x + 0.95, 2.1, 1.0, c); T(s, h, x + 0.15, 3.2, 2.6, 0.6, { bold: true, fontSize: 16.5, color: c, align: "center" }); T(s, t, x + 0.2, 3.8, 2.5, 1.6, { fontSize: 14.5, align: "center", valign: "top" }); T(s, b, x, 5.45, 2.9, 0.35, { fontSize: 12, color: MU, align: "center" }); }
   box(s, 0.6, 6.05, 12.13, 0.7, YEL);
   T(s, "Mức Kém của rubric: chỉ số yếu — chỉ đo “hài lòng”. Mức Xuất sắc: tiếp xúc nhiều cấp, chỉ số đo được, có lịch đánh giá chung.", 0.8, 6.05, 11.7, 0.7, { fontSize: 15, bold: true, color: NAVY });
