@@ -176,8 +176,7 @@ hiếm khi như vậy:
 điều này quyết định phương pháp chọn mẫu của nhóm.
 
 *(Nhắc về đạo đức: danh sách lớp, danh sách sinh viên chứa dữ liệu cá nhân — chỉ dùng khi được phép.
-`[NEEDS PROFESSOR INPUT: quy định của trường về việc sinh viên dùng danh sách lớp/danh sách sinh viên
-làm khung mẫu]`)*
+`[NEEDS PROFESSOR INPUT: quy định của trường về việc sinh viên dùng danh sách lớp/danh sách sinh viên làm khung mẫu]`)*
 
 ### 3.5 Kiểm tra nhanh — phần tử, đơn vị hay khung mẫu? (khoảng 2')
 
@@ -299,8 +298,7 @@ Nhiều nghiên cứu kinh doanh xác định cỡ mẫu theo kỹ thuật phân
 *(Nói rõ: EFA và hồi quy là **điểm cộng** trong học phần này, không bắt buộc. Nhóm nào định làm thì dùng
 quy tắc này làm căn cứ cỡ mẫu và **phải trích dẫn nguồn**.)*
 
-`[VERIFY: số trang của quy tắc 5:1/10:1 trong Hair et al. (2019) và n ≥ 50 + 8m trong Tabachnick &
-Fidell (2019)]`
+`[VERIFY: số trang của quy tắc 5:1/10:1 trong Hair et al. (2019) và n ≥ 50 + 8m trong Tabachnick & Fidell (2019)]`
 
 ### 4.7 Lưu ý quan trọng — công thức chỉ đúng với mẫu xác suất (khoảng 3')
 
@@ -704,8 +702,7 @@ phương pháp** (Chương 3 định lượng / Chương 2 định tính). Hoàn
 
 **Nhắc mốc giữa kỳ:** bài giữa kỳ nộp **trên LMS trước Buổi 11** — Chương 1–3 (định lượng) hoặc Chương
 1–2 (định tính) kèm bản nháp bảng hỏi. Kế hoạch chọn mẫu hôm nay là một phần của chương phương pháp trong
-bài giữa kỳ. `[NEEDS PROFESSOR INPUT: ngày giờ cụ thể, tên mục nộp trên LMS, định dạng và tiêu chí chấm
-bài giữa kỳ]`
+bài giữa kỳ. `[NEEDS PROFESSOR INPUT: ngày giờ cụ thể, tên mục nộp trên LMS, định dạng và tiêu chí chấm bài giữa kỳ]`
 
 **Tự học:** đọc tài liệu học tập Bài 6 và `W8_tai_lieu_doc_them.md`; làm các bài tập ôn tập cuối tài
 liệu học tập Bài 6.

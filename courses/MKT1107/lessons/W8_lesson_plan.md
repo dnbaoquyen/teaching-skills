@@ -29,8 +29,7 @@ cụ bình chọn). Nhóm giữ nguyên từ Buổi 1.
 **Due this meeting:** bài tập về nhà Buổi 7 (không chấm điểm) — phần bối cảnh có số liệu thứ cấp và
 mô tả phương pháp thu thập dữ liệu sơ cấp đã chọn; dùng cho phần khởi động.
 **Giao trong buổi:** bài tập về nhà — **Kế hoạch chọn mẫu** (theo lộ trình dự án), hoàn thiện trước
-Buổi 9. Nhắc mốc **bài giữa kỳ nộp trên LMS trước Buổi 11** `[NEEDS PROFESSOR INPUT: ngày giờ, tên mục
-nộp trên LMS, định dạng và tiêu chí chấm bài giữa kỳ]`.
+Buổi 9. Nhắc mốc **bài giữa kỳ nộp trên LMS trước Buổi 11** `[NEEDS PROFESSOR INPUT: ngày giờ, tên mục nộp trên LMS, định dạng và tiêu chí chấm bài giữa kỳ]`.
 
 ## Segment plan
 
