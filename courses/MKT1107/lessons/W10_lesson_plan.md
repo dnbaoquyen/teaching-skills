@@ -33,8 +33,7 @@ nghiệm (giới thiệu ngắn).
 nghiên cứu — bài tập Buổi 9 (không chấm điểm riêng; dùng làm nguyên liệu cho thực hành hôm nay).
 **Giao trong buổi:** hoàn thiện nháp; phỏng vấn thử 3–5 người ngoài lớp; **nộp bài giữa kỳ trên LMS
 trước Buổi 11** (Chương 1–3 định lượng / Chương 1–2 định tính, kèm bản nháp bảng hỏi / dàn bài).
-`[NEEDS PROFESSOR INPUT: hạn nộp cụ thể (ngày, giờ), tên mục nộp trên LMS, định dạng file, thang
-chấm giữa kỳ, quy định nộp trễ]`
+`[NEEDS PROFESSOR INPUT: hạn nộp cụ thể (ngày, giờ), tên mục nộp trên LMS, định dạng file, thang chấm giữa kỳ, quy định nộp trễ]`
 
 ## Segment plan
 
@@ -70,8 +69,7 @@ GV, dựng Google Form / lịch phỏng vấn, **phát hành sau Buổi 11**.
    phát hiện – câu đã sửa". Không ghi họ tên / thông tin định danh của người thử.
 3. **Nộp bài giữa kỳ trên LMS trước Buổi 11** — theo lộ trình: Chương 1–3 (định lượng) hoặc Chương
    1–2 (định tính), **kèm bản nháp bảng hỏi / dàn bài phỏng vấn** (nên là bản đã sửa sau phỏng vấn
-   thử). `[NEEDS PROFESSOR INPUT: hạn nộp, tên mục nộp trên LMS, định dạng, thang chấm, có yêu cầu
-   đính kèm bảng ghi phỏng vấn thử hay không, quy định nộp trễ]` — buổi này **không** phát đề giữa kỳ
+   thử). `[NEEDS PROFESSOR INPUT: hạn nộp, tên mục nộp trên LMS, định dạng, thang chấm, có yêu cầu đính kèm bảng ghi phỏng vấn thử hay không, quy định nộp trễ]` — buổi này **không** phát đề giữa kỳ
    chi tiết.
 4. Tự học: `tai_lieu_hoc_tap/Bai08.md` (8.2.1–8.2.4 trước Buổi 11) và `W10_tai_lieu_doc_them.md`.
 

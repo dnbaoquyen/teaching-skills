@@ -122,8 +122,7 @@ thử, không phải đoán.
 Hệ quả thực tế: mô hình của nhóm có 4–5 khái niệm × 3–5 biến là đã khoảng 15–25 câu Likert. Cộng
 thêm gạn lọc, hành vi và nhân khẩu học là chạm ngưỡng. **Không còn chỗ cho câu "tiện thì hỏi luôn".**
 
-`[VERIFY: "5 phút ≈ 2 trang" và "tối đa 2 câu hỏi mở" là quy tắc kinh nghiệm trong video, chưa có nguồn
-học thuật; bài giảng nêu như vậy.]`
+`[VERIFY: "5 phút ≈ 2 trang" và "tối đa 2 câu hỏi mở" là quy tắc kinh nghiệm trong video, chưa có nguồn học thuật; bài giảng nêu như vậy.]`
 
 ### 2.5 Tổng quan quy trình 8 bước
 
@@ -552,13 +551,11 @@ dừng (cần đổi thành câu mở), câu nào cần thêm câu gợi mở, v
 
 Tài liệu học tập ghi thử nghiệm với 5–10 người: lần thử tuần này (3–5 người) là vòng đầu trước khi nộp
 giữa kỳ; sau khi sửa ở Buổi 11–12 nhóm thử thêm để đủ. Dữ liệu phỏng vấn thử **không gộp** vào dữ liệu
-chính thức nếu bảng hỏi đã thay đổi. `[NEEDS PROFESSOR INPUT: xác nhận cách diễn đạt 3–5 người (lộ
-trình) và 5–10 người (tài liệu học tập).]`
+chính thức nếu bảng hỏi đã thay đổi. `[NEEDS PROFESSOR INPUT: xác nhận cách diễn đạt 3–5 người (lộ trình) và 5–10 người (tài liệu học tập).]`
 
 *(Video phân biệt hai mức: pre-test — vài người, kiểm tra câu chữ; pilot survey — chạy thử cả quy trình
 với mẫu lớn hơn, kiểm tra thời gian, lỗi kỹ thuật, tỷ lệ bỏ giữa chừng. Buổi 10 không cần đi sâu; nếu
-sinh viên hỏi, trả lời 1 câu và hẹn Buổi 12. `[VERIFY: cỡ mẫu pilot trong video không có nguồn — không
-nêu con số]`)*
+sinh viên hỏi, trả lời 1 câu và hẹn Buổi 12. `[VERIFY: cỡ mẫu pilot trong video không có nguồn — không nêu con số]`)*
 
 ---
 
@@ -583,8 +580,7 @@ gom thành 2–3 lỗi chung để mở đầu Buổi 11.)*
 2. **Phỏng vấn thử 3–5 người ngoài lớp**, ghi bảng "câu gốc – vấn đề – câu đã sửa".
 3. **Nộp bài giữa kỳ trên LMS trước Buổi 11:** Chương 1–3 (định lượng) hoặc Chương 1–2 (định tính),
    **kèm bản nháp bảng hỏi / dàn bài phỏng vấn** — nên là bản đã sửa sau phỏng vấn thử. Giảng viên góp ý
-   trước khi nhóm phát hành. `[NEEDS PROFESSOR INPUT: hạn nộp (ngày, giờ), tên mục nộp trên LMS, định
-   dạng file, thang chấm, có yêu cầu đính kèm bảng ghi phỏng vấn thử không, quy định nộp trễ]`
+   trước khi nhóm phát hành. `[NEEDS PROFESSOR INPUT: hạn nộp (ngày, giờ), tên mục nộp trên LMS, định dạng file, thang chấm, có yêu cầu đính kèm bảng ghi phỏng vấn thử không, quy định nộp trễ]`
 4. Đọc `Bai08.md` mục 8.2.1–8.2.4 và `W10_tai_lieu_doc_them.md`.
 
 *(Nhắc quy định AI một câu: nếu dùng AI để gợi ý hay rà câu hỏi, khai báo trong nhật ký AI; AI cũng hay

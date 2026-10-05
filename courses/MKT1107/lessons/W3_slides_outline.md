@@ -153,6 +153,8 @@ MKT1107 Nghiên cứu Marketing · Buổi 3 · 36 slide (+ 1 slide tài liệu t
 **Slide 20 — Giải lao 15 phút**
 - Nội dung: đồng hồ 15 phút; "Quay lại lúc …" `[giảng viên điền giờ]`. Dòng phụ: "Sau giải lao: trang
   web, báo cáo, luận văn — và 10 lỗi hay gặp nhất."
+- Lời giảng: "Trong giờ giải lao, nhóm nào muốn thì soát trước tên tác giả trong danh mục của mình —
+  sau giải lao sẽ có bảng lỗi để đối chiếu."
 
 ## S4 · 2.3 Danh mục (2) (63–78')
 
