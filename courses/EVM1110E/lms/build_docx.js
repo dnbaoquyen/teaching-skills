@@ -1,5 +1,5 @@
 // Build student summary documents (Markdown subset -> DOCX) for LMS upload.
-// usage: NODE_PATH=<node_modules with docx> node build_docx.js <in.md> <out.docx>
+// usage: NODE_PATH=<node_modules with docx> node build_docx.js <in.md> <out.docx> [footer text]
 // Supported: # / ## / ### headings, paragraphs, "- " bullets, "1. " numbered lists,
 // "> " callouts, pipe tables, **bold**, *italic*.
 const fs = require("fs");
@@ -8,18 +8,20 @@ const {
   WidthType, ShadingType, BorderStyle, AlignmentType, LevelFormat, Footer, PageNumber,
 } = require("docx");
 
-const [, , IN, OUT] = process.argv;
+const [, , IN, OUT, FOOTER = "EVM1110E · Tài liệu tóm tắt dành cho sinh viên"] = process.argv;
 const FONT = "Arial", NAVY = "172849", TEAL = "2E8B74", GREY = "5A6478", LIGHT = "E8F4F0", HEAD = "D6ECE5";
 const PAGE_W = 11906, MARGIN = 1134, CONTENT_W = PAGE_W - 2 * MARGIN;
 
 function runs(text, base = {}) {
   const out = [];
-  const re = /(\*\*[^*]+\*\*|\*[^*]+\*)/g;
+  text = text.replace(/^\[ \] /, "☐ ");
+  const re = /(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)/g;
   let last = 0, m;
   while ((m = re.exec(text))) {
     if (m.index > last) out.push(new TextRun({ text: text.slice(last, m.index), ...base }));
     const t = m[0];
-    if (t.startsWith("**")) out.push(new TextRun({ text: t.slice(2, -2), bold: true, ...base }));
+    if (t.startsWith("`")) out.push(new TextRun({ text: t.slice(1, -1), font: "Courier New", ...base }));
+    else if (t.startsWith("**")) out.push(new TextRun({ text: t.slice(2, -2), bold: true, ...base }));
     else out.push(new TextRun({ text: t.slice(1, -1), italics: true, ...base }));
     last = m.index + t.length;
   }
@@ -58,6 +60,16 @@ const body = [];
 let numId = 0;
 for (let i = 0; i < src.length; i++) {
   const l = src[i];
+  if (l.startsWith("```")) {
+    i++;
+    while (i < src.length && !src[i].startsWith("```")) {
+      body.push(new Paragraph({ shading: { type: ShadingType.CLEAR, fill: "F4F6F9", color: "auto" }, spacing: { before: 0, after: 0, line: 260 }, indent: { left: 120, right: 120 },
+        children: [new TextRun({ text: src[i] || " ", font: "Courier New", size: 18 })] }));
+      i++;
+    }
+    body.push(new Paragraph({ spacing: { after: 120 }, children: [] }));
+    continue;
+  }
   if (!l.trim()) continue;
   if (l.startsWith("|")) {
     const blk = [];
@@ -112,7 +124,7 @@ const doc = new Document({
   },
   sections: [{
     properties: { page: { size: { width: PAGE_W, height: 16838 }, margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN } } },
-    footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "EVM1110E · Tài liệu tóm tắt dành cho sinh viên · Trang ", size: 16, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], size: 16, color: GREY })] })] }) },
+    footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: FOOTER + " · Trang ", size: 16, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], size: 16, color: GREY })] })] }) },
     children: body,
   }],
 });

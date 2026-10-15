@@ -4,12 +4,17 @@
 const fs = require("fs");
 const [, , IN, OUT] = process.argv;
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-const inline = (s) => esc(s).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/\*([^*]+)\*/g, "<em>$1</em>");
+const inline = (s) => esc(s).replace(/`([^`]+)`/g, "<code>$1</code>").replace(/^\[ \] /, "☐ ").replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/\*([^*]+)\*/g, "<em>$1</em>");
 const src = fs.readFileSync(IN, "utf8").split("\n");
 let html = [], list = null, nonEmpty = 0;
 const close = () => { if (list) { html.push(`</${list}>`); list = null; } };
 for (let i = 0; i < src.length; i++) {
   const l = src[i];
+  if (l.startsWith("```")) {
+    close(); const buf = [];
+    i++; while (i < src.length && !src[i].startsWith("```")) buf.push(src[i++]);
+    html.push(`<pre>${esc(buf.join("\n"))}</pre>`); continue;
+  }
   if (!l.trim()) { close(); continue; }
   nonEmpty++;
   let m;
@@ -46,6 +51,9 @@ table { border-collapse: collapse; width: 100%; margin: 6px 0 12px; font-size: 1
 th, td { border: 1px solid #b7c4d6; padding: 4px 7px; vertical-align: top; text-align: left; }
 th { background: #d6ece5; color: #172849; }
 tr { break-inside: avoid; }
+pre { background: #f4f6f9; border: 1px solid #d5dbe5; padding: 8px 10px; font: 9.5pt/1.45 "DejaVu Sans Mono", monospace; white-space: pre-wrap; break-inside: avoid-page; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 9.5pt; background: #f4f6f9; padding: 0 2px; }
+td code { word-break: break-all; }
 ul, ol { margin: 4px 0 10px; padding-left: 24px; } li { margin-bottom: 3px; }
 </style></head><body>${html.join("\n")}</body></html>`);
 console.log("wrote", OUT);
