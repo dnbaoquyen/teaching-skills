@@ -22,6 +22,11 @@
 > **3. Ma trận nguồn giá trị ưu tiên:** dùng định nghĩa GV cung cấp (Bài 5, slide 12), chép trong `ho_so_trich_xuat/GHI_CHU_THUC_TE_GV_sau_hoc_ky.md`.
 >
 > **4. Slide:** không chọn một trong hai bộ. Khi GV đưa yêu cầu, đối chiếu cả hai bộ (repo này và `academic-pptx-skill`) rồi tổng hợp thành một bộ hoàn chỉnh nhất (quyết định GV ngày 9/11).
+>
+> **5. Case minh họa bài giảng (quyết định GV 9/11/2026):** thay Nova – An Phát bằng một **case thật do GV thực hiện**, đã ẩn danh, dùng ở càng nhiều buổi càng tốt. Case này **không** được dùng làm đối tượng bài cuối kỳ. Mục giấy phép trong case chỉ dùng như tình huống đạo đức ở B12.
+> - Hồ sơ case **chỉ lưu trên Google Drive riêng tư** của môn (thư mục "Quản trị mối quan hệ trong tổ chức sự kiện", ID `1RP9UW7LsLMGANPSNcIFI4F_cBXhD7dKU`). Đọc tệp `00 – Bàn giao ngữ cảnh EVM1110E` ở đó trước.
+> - Repo này đang công khai: **không** đưa tên thật, ngành, số liệu hay tình huống của case vào repo (QT-13).
+> - Hồ sơ danh mục Hải Đăng vẫn là dữ liệu thực hành B1–B8 và giữa kỳ (P4); bản Google Doc nằm trong thư mục "Học liệu" trên Drive.
 
 > **Nguyên tắc.**
 > - Tệp không chứa dữ liệu sinh viên khóa trước (tên, điểm, bài nộp). Chỉ giữ phương pháp chấm, quyết định của GV và bài học rút ra.

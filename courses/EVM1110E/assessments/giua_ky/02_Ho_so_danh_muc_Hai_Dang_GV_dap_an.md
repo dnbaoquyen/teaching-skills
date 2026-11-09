@@ -140,13 +140,14 @@ Câu này dùng lại cho D05 và đề AM2.
 - **XĐ-03:** chữ G trong GRASP. Hồ sơ cho đủ dữ kiện để làm theo cả hai cách hiểu: điều người đó muốn, và điều agency muốn đạt với người đó.
 - **Mục 3:** cách phân khách cho các nhóm; lớp có 7 nhóm thì xử lý ra sao.
 - **Mục 4:** cách xếp KH5.
-- **Cập nhật D02:** khi GV duyệt, bảng dữ kiện của danh mục Hải Đăng sẽ được đưa vào D02 cùng với dữ kiện Nova – An Phát, để mọi tài liệu dùng một chuẩn chung (QT-07).
+- **Cập nhật D02:** khi GV duyệt, bảng dữ kiện của danh mục Hải Đăng sẽ được đưa vào D02 cùng với dữ kiện của case minh họa bài giảng (case thật ẩn danh, lưu trên Drive riêng tư của GV; thay Nova – An Phát theo quyết định GV 9/11/2026), để mọi tài liệu dùng một chuẩn chung (QT-07).
 
 ## Bảng tự kiểm (hạng mục 1)
 
 | QT/YC | Trạng thái | Bằng chứng |
 |---|---|---|
 | P4: danh mục 5–6 khách, khác Nova – An Phát | ✅ | 8 khách (6 được chọn + 2 dùng để phân tích danh mục); ngành, tên, số liệu đều khác. Không dùng ngân hàng |
+| Khác case minh họa mới của bài giảng (case thật ẩn danh, quyết định GV 9/11/2026) | ✅ | Không khách nào trùng ngành hay hành vi mua với case minh họa (đối chiếu trong bản lưu riêng tư của GV) |
 | U04 / TT-04: mọi nhóm thực hành và bị đánh giá đủ phần KAM | ✅ | Mỗi khách được chọn có đủ dữ liệu cho B2–B8 (bảng mục 1) |
 | U01 / TT-01: dữ liệu cài sẵn để phân biệt công cụ | ✅ | Bẫy Kraljic (giấy phép, trường, nhà tài trợ, mẫu thử); cùng một khách chạy qua 4 công cụ (mục 6) |
 | U02 / TT-02: tình huống ngành sự kiện, gắn với quyết định quản trị | ✅ | Mọi dữ kiện là việc của agency sự kiện; mục 6 có cột "quyết định quản trị" |

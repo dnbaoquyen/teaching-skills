@@ -313,6 +313,7 @@ Mọi quy tắc đều kiểm tra được. Cột "Cách kiểm tra" là thao t�
 | **QT-10** Bố cục slide sạch | Không chồng chữ, không tràn, không ngắt từ, không dùng ký tự font không hỗ trợ | Validator đạt; render toàn bộ deck và xem từng ảnh; mọi phần tử nằm trong lề 0,6 inch và y < 6,9 inch; nhãn sơ đồ ngoài hình; tiêu đề cột 1 dòng; thử emoji và ký tự đặc biệt trên máy dạy |
 | **QT-11** Chuyển kế hoạch → slide không rơi | Mỗi đoạn và hoạt động của lesson plan có slide tương ứng. Hoạt động có slide thực hành ghi bước, giờ, sản phẩm. Notes đủ mục đích, lời dẫn, câu chốt. Câu nối và mục tiêu khớp kế hoạch. Số slide khớp thời lượng | (1) Ma trận đoạn lesson plan ↔ slide: không có ô trống. (2) Mỗi slide có notes ≥ 3 thành phần. (3) Câu nối cuối deck kiểm theo QT-01 và QT-07. (4) Tổng thời lượng theo notes bằng 135 ± 5 phút |
 | **QT-12** Kỹ thuật và lưu trữ | Commit mọi script dựng; không để tệp tạm; mỗi môn một tệp bối cảnh; xin `.xlsx` thay vì link khi không có quyền | `git status` sạch sau mỗi lần dựng; script dựng có trong repo; chỉ có một tệp bối cảnh được trỏ tới |
+| **QT-13** Case thật và nơi lưu (bổ sung 9/11/2026, quyết định GV Q1–Q4) | Case thật của GV chỉ dùng bản ẩn danh: không tên cá nhân; không tên doanh nghiệp, khách sạn, đài, báo; không hotline, slogan, mã sản phẩm tra ngược được; giữ nguyên số liệu. Hồ sơ case chỉ lưu trên Drive riêng tư; repo công khai không chứa tên, ngành, số liệu hay tình huống của case | Rà `grep` tên thật trước mỗi commit; tài liệu SV không có tên thật; ảnh có logo được che |
 
 ### 5.2. Sổ lỗi hợp nhất
 

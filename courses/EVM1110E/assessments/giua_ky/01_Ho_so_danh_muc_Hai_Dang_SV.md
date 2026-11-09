@@ -8,7 +8,7 @@
 > - Toàn bộ tên công ty, chức danh, con số và sự việc dưới đây đều do giảng viên đặt ra.
 > - Nếu tên nào trùng với một doanh nghiệp có thật thì đó là trùng hợp ngẫu nhiên, không mô tả doanh nghiệp đó.
 > - Khi dùng số liệu này trong bài, ghi "Giả định (hồ sơ danh mục Hải Đăng)".
-> - Hồ sơ này **khác** tình huống Nova Events – Ngân hàng An Phát dùng trong bài giảng. Đừng chép đáp án của bài giảng sang.
+> - Hồ sơ này **khác** các tình huống minh họa dùng trong bài giảng. Đừng chép đáp án của bài giảng sang.
 
 ## 1. Bạn là ai trong tình huống này
 
