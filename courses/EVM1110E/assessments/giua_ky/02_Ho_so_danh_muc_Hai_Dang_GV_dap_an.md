@@ -83,9 +83,9 @@
 | KH1 | Doanh nghiệp Tài chính | Bottom-line · Advisory | Advisory: Hải Đăng góp ý cách giữ đại lý năm đầu |
 | KH2 | Nhóm Tăng trưởng | Top-line · Customer's Customer | Doanh thu 30 ngày đầu của cửa hàng; trải nghiệm của khách đến quán |
 | KH3 | Tập đoàn Đa quốc gia | HSSEQ · Advisory | Tuân thủ, bền vững; tư vấn để hội nghị thành sự kiện khoa học uy tín |
-| KH4 | Nhóm Tối ưu chi phí | Bottom-line · Hiệu quả quy trình | "Hiệu quả quy trình" chưa thuộc 5 nguồn của đề cương: **XĐ-02** |
+| KH4 | Nhóm Tối ưu chi phí | Bottom-line · Advisory (tổ chức, quy trình) | Ô "Hiệu quả quy trình" trên ma trận được hiểu là Advisory về tổ chức, quy trình (XĐ-02 đã chốt theo giáo trình: năm nguồn) |
 | KH5 | **[CẦN GV CHỐT]** Tăng trưởng hay Tài chính | Tăng trưởng → Top-line · Customer's Customer. Tài chính → Bottom-line · Advisory | Cài sẵn để thảo luận: **xếp theo điều khách đang ưu tiên, không xếp theo tên ngành**. Ma trận của GV dùng nhãn "Doanh nghiệp Tài chính" (nhãn theo ngành), nên cần GV chốt cách dạy |
-| KH6 | Tối ưu chi phí, có dấu hiệu chuyển sang HSSEQ (áp lực bao bì xanh) | Bottom-line · Hiệu quả quy trình (hoặc HSSEQ) | Chấp nhận nếu có lập luận |
+| KH6 | Tối ưu chi phí, có dấu hiệu chuyển sang HSSEQ (áp lực bao bì xanh) | Bottom-line · Advisory (tổ chức, quy trình), hoặc HSSEQ | Chấp nhận nếu có lập luận |
 | KH7 | Tập đoàn Đa quốc gia | HSSEQ · Advisory | Advisory: hiểu khách hàng Việt (lời khen của Giám đốc Thương hiệu) |
 
 ## 5. Kraljic (Buổi 7): xếp hạng mục tham khảo
@@ -136,7 +136,7 @@ Câu này dùng lại cho D05 và đề AM2.
 
 ## 7. Phụ thuộc và điểm còn chờ GV
 
-- **XĐ-02:** "Hiệu quả quy trình" và số nguồn giá trị, ảnh hưởng mục 4.
+- **XĐ-02 (đã chốt 9/11/2026):** dùng năm nguồn theo giáo trình; "Hiệu quả quy trình" trên ma trận = Advisory về tổ chức, quy trình (xem D13, mục 3.4).
 - **XĐ-03:** chữ G trong GRASP. Hồ sơ cho đủ dữ kiện để làm theo cả hai cách hiểu: điều người đó muốn, và điều agency muốn đạt với người đó.
 - **Mục 3:** cách phân khách cho các nhóm; lớp có 7 nhóm thì xử lý ra sao.
 - **Mục 4:** cách xếp KH5.
@@ -159,4 +159,5 @@ Câu này dùng lại cho D05 và đề AM2.
 | QT-05: không tự thêm ngoài phạm vi | ✅ | Chỉ dữ liệu phục vụ B1–B8 và giữa kỳ |
 | QT-08: hỏi khi chưa rõ | ✅ | Mục 7: 4 điểm chờ GV |
 | U31: không có dữ liệu sinh viên | ✅ | — |
-| XĐ-02, XĐ-03 | ➖ | Chưa chốt; đã ghi rõ ảnh hưởng |
+| XĐ-02 | ✅ | Đã chốt: năm nguồn theo giáo trình |
+| XĐ-03 | ➖ | Chưa chốt; đã ghi rõ ảnh hưởng |

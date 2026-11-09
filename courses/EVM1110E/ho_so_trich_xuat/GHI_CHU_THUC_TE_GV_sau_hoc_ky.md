@@ -106,6 +106,10 @@ Mục đích: ghi lại các dữ kiện tra được lúc nạp ghi chú, để
 **Chỗ cần GV xác nhận khi đến bước TT-01.** Claude chỉ ghi nhận các điểm dưới đây, chưa sửa gì:
 - Tệp này là một bộ slide Bài 5 thứ ba, khác `slides/W05_slides.pptx` và khác deck W05 của hồ sơ C. Bộ nào dùng cho học kỳ mới: [NEEDS PROFESSOR INPUT].
 - "Hiệu quả quy trình" không thuộc năm nguồn giá trị của đề cương.
+- **XĐ-02 đã chốt 9/11/2026 (GV: chọn theo giáo trình):**
+  - Dạy **năm nguồn** theo Marcos et al. (2018), Hình 5.4.
+  - Ô "Hiệu quả quy trình" được hiểu là Advisory về tổ chức, quy trình ("strategy, organisational and other advisory").
+  - [CẦN XÁC MINH tr. 124–127]
 - Slide không ghi nguồn học thuật cho ma trận.
 - Bản W05 hiện có trong repo **không có** ma trận này. Đây có thể là một phần nguyên nhân của TT-01.
 

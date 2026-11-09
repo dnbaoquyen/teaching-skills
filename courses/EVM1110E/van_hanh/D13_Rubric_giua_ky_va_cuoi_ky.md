@@ -123,7 +123,7 @@ Mỗi bậc **cộng thêm** yêu cầu vào các bậc thấp hơn.
 |---|---|
 | 5 | Có CVP, nhưng chủ yếu giới thiệu agency hoặc liệt kê lợi ích |
 | 6 | CVP theo cấu trúc future state – offering (7P) – value appraisal |
-| 7 | Xếp Key Account vào **một nhóm khách hàng** trên Ma trận nguồn giá trị ưu tiên, chọn **2 nguồn giá trị** đúng với nhóm đó, có lý do từ phần A |
+| 7 | Xếp Key Account vào **một nhóm khách hàng** trên Ma trận nguồn giá trị ưu tiên, chọn **2 nguồn giá trị** (trong năm nguồn của giáo trình) đúng với nhóm đó, có lý do từ phần A |
 | 8 | Định lượng nguồn giá trị chính; có kế hoạch đồng kiến tạo theo bước, trong đó khách cùng làm |
 | 9 | Giải thích vì sao **không** xếp Key Account vào nhóm gần nhất với nhóm đã chọn |
 | 10 | CVP có trọng tâm sắc (1–2 điểm khác biệt), và chỉ rõ ai trong DMU sẽ bị thuyết phục bởi điểm nào |
@@ -232,7 +232,14 @@ Các điểm trong bản đáp án `01b` giúp tách bài bậc 8 với bài b�
 3. **Nhóm không nộp hoặc không qua cổng duyệt ở B8:** TC2 và TC3 cuối kỳ tối đa 6.
 4. **Đ3:** phần nào cả nhóm không bảo vệ được thì tiêu chí của phần đó tối đa 6.
 
-**Còn mở:** XĐ-02. Tiêu chí C4 (cuối kỳ) và G4 (giữa kỳ) đang dùng "năm nguồn giá trị", còn Ma trận nguồn giá trị ưu tiên có thêm "Hiệu quả quy trình". Khi GV chốt XĐ-02, sửa mô tả bậc 7 của G4 và mục C4.
+**XĐ-02 đã chốt (9/11/2026).** GV giao chọn theo giáo trình. Giáo trình Marcos et al. (2018), Hình 5.4 (tr. 124) có **năm nguồn giá trị**: top line · bottom line · business reputation and continuity (mô tả bằng HSSEQ) · strategy, organisational and other advisory · the customer's customer. Đề cương cũng ghi 5 nguồn.
+- **Cách áp dụng:**
+  - Rubric dùng **năm nguồn** (C4, G4).
+  - Trên Ma trận nguồn giá trị ưu tiên, ô "Hiệu quả quy trình" của Nhóm Tối ưu chi phí được hiểu là **Advisory (tư vấn tổ chức và quy trình)**. Lý do: tên đầy đủ của nguồn này trong giáo trình là "strategy, **organisational** and other advisory".
+  - Nhóm Tối ưu chi phí và Nhóm Doanh nghiệp Tài chính có cùng cặp Bottom-line · Advisory, nhưng nội dung Advisory khác nhau:
+    - Tối ưu chi phí: tư vấn tổ chức, quy trình.
+    - Tài chính: tư vấn chiến lược, tri thức thị trường.
+- **[CẦN XÁC MINH]** Cách diễn giải "Hiệu quả quy trình" thuộc Advisory là nhận định của người soạn, dựa trên tên nguồn trong Hình 5.4. Khi mở lại giáo trình tr. 124–127, cần kiểm tra mô tả của nguồn bottom line và advisory.
 
 ## Bảng tự kiểm (hạng mục 3 – D13)
 
@@ -248,7 +255,7 @@ Các điểm trong bản đáp án `01b` giúp tách bài bậc 8 với bài b�
 | L03, L30, E08 khóa trước | ✅ | Đ3, Đ4, Đ5 |
 | D01: buổi luyện, ngày nộp | ✅ | Cột "Buổi luyện"; hạn 18/12 và 31/12 khớp D01 |
 | QT-06: không bịa | ✅ | Không có quy định Trường nào ngoài điều GV nêu; các điểm chưa chắc ở 3.4 |
-| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt 4 điểm (3.4); còn XĐ-02 |
+| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt 4 điểm (3.4) và XĐ-02 |
 | QT-13: không có case thật trong tài liệu công khai | ✅ | Không nhắc case minh họa |
 | Không có dữ liệu SV | ✅ | — |
 | Phụ thuộc chưa xong | ➖ | Định dạng giữa kỳ (D11), bảng thuật ngữ (D09), biên bản bảo vệ (D16), hướng dẫn chấm (D14) |
