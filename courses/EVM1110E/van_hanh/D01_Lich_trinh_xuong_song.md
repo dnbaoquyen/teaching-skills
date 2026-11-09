@@ -47,12 +47,12 @@ Ghi chú về các cột:
 | **B6** | **T7 05/12/2026** | 3 | Năng lực tài chính trong KAM | CLV · CTS · ma trận biên × CTS | CLV, CTS cho **cả danh mục**; xếp ma trận | **Giữa kỳ:** phần B (tài chính) | — |
 | **B7** | **T4 09/12/2026** | 4 | Mua sắm và đàm phán dựa trên giá trị | **Kraljic** (xếp hạng mục mua) | Kraljic cho sự kiện của Key Account; đóng vai đàm phán | **Giữa kỳ:** phần D (KAM) | **Hạn nộp "một trang mô tả đối tượng cuối kỳ":** 23:59 **Thứ 5 10/12/2026**, trên LMS |
 | **B8** | **T7 12/12/2026** | 4 | Quản trị quan hệ với Key Account và đo lường | Bow-tie → Diamond · **D04 bài tập đa công cụ** | Chạy một khách qua Grid, Salience, ma trận ưu tiên, Kraljic | **Giữa kỳ:** ráp và kiểm tra lần cuối | **AM2 bài 2** (cá nhân, tình huống, trọng tâm B5–B7): 20 phút **đầu buổi**. **Cổng duyệt đối tượng cuối kỳ:** GV trả kết quả trong buổi. **Kết thúc phần KAM** |
-| **B9** | **T4 16/12/2026** | 5 | Nhà đầu tư và nhà tài trợ | (công cụ B1 dùng lại cho đối tượng mới) | Bối cảnh ngắn cho khách hàng của nhóm; chọn nhà tài trợ | **Cuối kỳ:** phần A + phần D (tài trợ) | Nhóm chưa đạt cổng nộp lại "một trang mô tả" trước 23:59 **Thứ 3 15/12** |
+| **B9** | **T4 16/12/2026** | 5 | Nhà đầu tư và nhà tài trợ | (công cụ B1 dùng lại cho đối tượng mới) | Bối cảnh ngắn cho khách hàng của nhóm; chọn nhà tài trợ | **Cuối kỳ:** phần A + phần D (tài trợ) | — |
 | **B10** | **T7 19/12/2026** | 5 | Nhà cung cấp và địa điểm | Kraljic (dùng lại) | Kraljic cho sự kiện của nhóm; phân bổ nhà cung cấp | **Cuối kỳ:** phần D (nhà cung cấp, địa điểm) + D1 | **HẠN NỘP GIỮA KỲ: 23:59 Thứ 6 18/12/2026**, trên LMS (giữa B9 và B10). **Không nhận bài trễ** |
 | **B11** | **T4 23/12/2026** | 6 | Báo chí và KOL | CVP · ma trận ưu tiên (dùng lại) | Kế hoạch khuếch đại trước sự kiện | **Cuối kỳ:** phần C + phần D (báo chí, KOL) | — |
 | **B12** | **T7 26/12/2026** | 6 | Đòn bẩy và xung đột mạng lưới | CLV / CTS (dùng lại) | Chạy thử mạng lưới SMP của nhóm | **Cuối kỳ:** phần B + phần D (xung đột) | **Trả điểm và nhận xét chung giữa kỳ** trong buổi này |
 | **B13** | **T4 30/12/2026** | 7 | Xưởng ráp SMP quanh KAP | SMP (ráp A–E) | Tập dượt với Customer Board bằng bản nháp; checklist = rubric cuối kỳ | **Cuối kỳ:** toàn bài | **AM2 bài 3** (cá nhân, tình huống, trọng tâm B8–B12): 20 phút **đầu buổi**. **Hạn nộp SMP bản viết: 23:59 Thứ 5 31/12/2026**, trên LMS (mọi nhóm, kể cả nhóm bảo vệ ở B15). **Không nhận bài trễ** |
-| **B14** | **T7 02/01/2027** | 7 | **Thi kết thúc môn (1):** bảo vệ SMP trước Customer Board | — | — | **Cuối kỳ (50%)** | Khoảng 3 nhóm, 30 phút mỗi nhóm. **[CẦN XÁC MINH]** 02/01/2027 là ngày ngay sau Tết Dương lịch; cần xác nhận Trường không đổi lịch |
+| **B14** | **T7 02/01/2027** | 7 | **Thi kết thúc môn (1):** bảo vệ SMP trước Customer Board | — | — | **Cuối kỳ (50%)** | Khoảng 3 nhóm, 30 phút mỗi nhóm. GV xác nhận vẫn giữ buổi 02/01/2027 |
 | **B15** | **T4 06/01/2027** | 8 | **Thi kết thúc môn (2):** bảo vệ SMP trước Customer Board | — | — | **Cuối kỳ (50%)** | Các nhóm còn lại |
 
 **Chuyên cần (AM1, 10%):** theo hệ thống điểm danh chung của Trường. Không có mốc riêng.
@@ -62,13 +62,12 @@ Ghi chú về các cột:
 | Ngày | Mốc đánh giá | Tỷ trọng |
 |---|---|---|
 | 18/11 (B1) | Công bố đề, rubric giữa kỳ và cuối kỳ | — |
-| 02/12 (B5) | AM2 bài 1 | AM2 = trung bình 3 bài (mỗi bài ≈ 6,67%) [CẦN GV XÁC NHẬN cách chia] |
+| 02/12 (B5) | AM2 bài 1 | Thuộc **điểm quá trình 30%** (chuyên cần + bài kiểm tra cá nhân) |
 | 10/12 (Thứ 5) | Nộp "một trang mô tả đối tượng cuối kỳ" | Cổng duyệt, không tính điểm |
-| 12/12 (B8) | AM2 bài 2 · Kết quả cổng duyệt | AM2 (xem dòng B5) |
-| 15/12 (Thứ 3) | Nộp lại "một trang mô tả" (nếu chưa đạt) | — |
+| 12/12 (B8) | AM2 bài 2 · Kết quả cổng duyệt | Thuộc điểm quá trình 30% |
 | **18/12 (Thứ 6)** | **Nộp giữa kỳ** | 20% |
 | 26/12 (B12) | Trả điểm và nhận xét chung giữa kỳ | — |
-| 30/12 (B13) | AM2 bài 3 | AM2 (xem dòng B5) |
+| 30/12 (B13) | AM2 bài 3 | Thuộc điểm quá trình 30% |
 | **31/12 (Thứ 5)** | **Nộp SMP bản viết** | Thuộc 50% cuối kỳ |
 | **02/01 và 06/01 (B14, B15)** | **Bảo vệ SMP** | Thuộc 50% cuối kỳ |
 
@@ -76,7 +75,6 @@ Ghi chú về các cột:
 1. **Phần KAM kết thúc ở B8.** Bài D04 ở B8 là lần tập dượt cuối, chạy cả 4 công cụ trên một khách. Nếu hạn nộp đặt trước B8, nhóm mất buổi tập dượt này.
 2. **Hạn 18/12 (Thứ 6)** cho nhóm 6 ngày sau B8 để hoàn thiện, và rơi giữa B9 và B10.
    - Không đặt ngay sau B9, vì B9 là buổi nhóm chuyển sang khách hàng của mình. Nộp sát B9 làm hai việc chồng lên nhau.
-   - Phương án sớm hơn, nếu GV muốn: 23:59 Thứ 3 15/12.
 3. **Cổng duyệt đặt trước hạn giữa kỳ.** Nhóm biết đối tượng cuối kỳ của mình được duyệt hay chưa ngay từ B8, nên có thể thu thập dữ liệu khách thật song song với lúc hoàn thiện giữa kỳ.
 4. **Trả điểm giữa kỳ ở B12 (26/12).** GV có 8 ngày để chấm 2 lớp. Nhóm vẫn còn B13 để sửa những lỗi chung trước khi ráp SMP.
 5. **SMP bản viết nộp cùng một hạn (31/12) cho mọi nhóm.** Nhóm bảo vệ ở B15 không có thêm 4 ngày so với nhóm bảo vệ ở B14. Điều này giữ công bằng giữa các nhóm.
@@ -85,7 +83,8 @@ Ghi chú về các cột:
    - Bài 2 ở B8: kết thúc phần KAM.
    - Bài 3 ở B13: phần các bên liên quan khác.
    - Mỗi bài làm 20 phút đầu buổi, để không cắt vào phần thực hành cuối buổi trước, và chỉ kiểm tra kiến thức các buổi **trước đó**.
-   - Tổng tỷ trọng giữ nguyên 20% (cơ cấu điểm không đổi).
+   - Theo cách tính của Trường (GV xác nhận 9/11/2026): **điểm quá trình 30%** gồm chuyên cần và các bài kiểm tra cá nhân; **giữa kỳ 20%**; **cuối kỳ 50%**. Ba cột điểm nhập riêng, không cộng gộp.
+   - **Hai lớp làm hai đề tương đương** (GV đồng ý): cùng ma trận đề, cùng tiêu chí chấm, cùng độ khó, chỉ khác tình huống. Mục tiêu là đánh giá cả hai lớp trên cùng một tiêu chí.
 
 ## 4. Nhịp thông báo trước buổi (D19)
 
@@ -105,8 +104,8 @@ Các thông báo đặc biệt:
   - Thẻ, phiếu in ra phải đủ cho **cả hai lớp**: 21 + 23 = 44 SV, khoảng 12 nhóm.
   - Các tình huống trong buổi dùng chung, nhưng mọi hoạt động có điểm **không gộp lớp**.
   - Đề AM2 của hai lớp nên khác nhau, vì hai lớp làm bài cùng ngày, cách nhau 30 phút [CẦN GV XÁC NHẬN].
-- **Số nhóm mỗi lớp:** [CẦN GV CHỐT]. Đề xuất 6 nhóm mỗi lớp:
-  - Lớp 21 SV: 3 nhóm 4 người + 3 nhóm 3 người.
+- **Số nhóm mỗi lớp (GV chốt 9/11/2026):** **6 nhóm mỗi lớp**; lớp đông thì tăng số SV mỗi nhóm, không tăng số nhóm.
+  - Lớp 21 SV: 3 nhóm 4 người + 3 nhóm 3 người (hoặc chia 4-4-4-3-3-3).
   - Lớp 23 SV: 5 nhóm 4 người + 1 nhóm 3 người.
   - Hồ sơ Hải Đăng có 6 khách để chọn, nên mỗi lớp tối đa 6 nhóm.
   - Lịch bảo vệ: 3 nhóm × 30 phút = 90 phút mỗi buổi thi, còn dư 50 phút cho chuyển nhóm và chấm.
@@ -116,7 +115,7 @@ Các thông báo đặc biệt:
   - 01/01 → 06/01: SMP bản viết và bảo vệ.
   - Lịch công việc GV chi tiết nằm ở D18.
 - **Nộp trễ (quy định của Trường, GV xác nhận 9/11/2026):** **không chấp nhận nộp bài trễ.** Nộp trễ = **vắng thi, không chấm điểm, áp dụng mọi trường hợp.** Áp dụng cho giữa kỳ (18/12) và SMP bản viết (31/12). Quy định cũ "trễ 1 ngày trừ 20%" **đã bị thay thế**; đề cuối kỳ cũ còn câu này, sẽ sửa trong D12.
-  - "Một trang mô tả" (cổng duyệt, không tính điểm): nộp trễ hạn 10/12 thì xem như **chưa đạt cổng**. Nhóm chỉ còn một lần nộp duy nhất trước 23:59 15/12 [CẦN GV XÁC NHẬN].
+  - "Một trang mô tả" (cổng duyệt, không tính điểm): **chỉ có một mốc 23:59 10/12, không có lần nộp lại** (GV chốt 9/11/2026). SV tự chịu trách nhiệm nộp đúng hạn. Hệ quả khi không nộp hoặc không đạt: đối tượng cuối kỳ không được duyệt trước; điều kiện "đối tượng đạt checklist tối thiểu" được xét thẳng khi chấm cuối kỳ (D13) [CẦN GV XÁC NHẬN hệ quả này].
 - **Mốc của Trường** (hạn rút môn, nghỉ lễ, ngày công bố điểm): [CẦN XÁC MINH]. Tôi không tự đặt các mốc này.
 
 ## Bảng tự kiểm (hạng mục 2 – D01)
@@ -127,12 +126,12 @@ Các thông báo đặc biệt:
 | Yêu cầu GV: giữa kỳ nộp khoảng B8 – B10, sau phần KAM | ✅ | Hạn 18/12, giữa B9 và B10; phần KAM kết thúc ở B8; mục 3 giải thích lý do |
 | Yêu cầu GV: B14, B15 là thi kết thúc môn | ✅ | Bảng mục 2 |
 | TT-04 / QT-04: mỗi buổi thực hành nối với một phần của bài đánh giá | ✅ | Cột "Bài đánh giá được nuôi": B1–B8 → giữa kỳ; B9–B13 → cuối kỳ |
-| P4: cổng duyệt đối tượng ở B8 | ✅ | Hạn nộp 10/12, duyệt ở B8, nộp lại 15/12 |
+| P4: cổng duyệt đối tượng ở B8 | ✅ | Một mốc duy nhất 10/12, duyệt ở B8, không nộp lại (GV chốt) |
 | AM2: bài kiểm tra cá nhân trên lớp (2 bài theo kế hoạch cũ + 1 bài GV yêu cầu thêm) | ✅ | B5, B8, B13; mỗi bài 20 phút đầu buổi; tổng vẫn 20% |
 | Quy định nộp trễ của Trường | ✅ | Mục 5; mọi mốc nộp trên LMS ghi rõ "không nhận bài trễ" |
 | U14: bài tập trên lớp không giao về nhà | ✅ | Ghi chú trên bảng; không có mốc nộp bài tập trên lớp |
 | D04 ở B8 | ✅ | Hàng B8 |
 | Bản theo từng lớp | ✅ | Hai lớp chung ngày; mục 1 tách giờ và phòng của từng lớp |
 | QT-12: một nguồn ngày tháng; cập nhật passport | ✅ | `course_passport.yaml`: đã cập nhật `term_calendar` và `schedule` (có ngày từng buổi) |
-| QT-08: hỏi khi chưa rõ | ✅ | 6 mốc và 3 điểm [CẦN XÁC MINH / CẦN GV CHỐT] được liệt kê để GV duyệt |
+| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt mọi mốc, số nhóm, ngày 02/01. Còn mở: hệ quả khi không nộp "một trang mô tả" |
 | Không có dữ liệu SV | ✅ | Chỉ có sĩ số |

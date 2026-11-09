@@ -81,7 +81,7 @@ schedule:
   - { id: W15, date: "2027-01-06", topic: "Thuyết trình & bảo vệ kế hoạch (2)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
 
 policies:
-  grading_scheme: "Quá trình 30% (chuyên cần 10%, bài tập 20%) · Giữa kỳ 20% · Cuối kỳ 50%"
+  grading_scheme: "Theo cách tính của Trường (GV 9/11/2026): Điểm quá trình 30% (chuyên cần 10% + 3 bài kiểm tra cá nhân 20%) · Giữa kỳ 20% · Cuối kỳ 50%; ba cột nhập riêng, không cộng gộp. Giữa kỳ và cuối kỳ: rubric thiết kế cho phổ điểm cân đối trong 5–10 (QT-14)."
   late_policy: "Quy định của Trường (GV xác nhận 9/11/2026): KHÔNG chấp nhận nộp bài trễ. Nộp trễ = vắng thi, không chấm điểm, áp dụng mọi trường hợp. Giữa kỳ: 23:59 18/12/2026; SMP bản viết: 23:59 31/12/2026 (D01). Thay thế quy định cũ 'trễ 1 ngày trừ 20%'."
   ai_use_policy: "Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp (GV, 4/10/2026). SMP: phụ lục công bố gồm công cụ, dùng cho phần nào, nhóm đã kiểm tra và sửa gì; mọi thành viên tự giải thích được mọi phần (đề thi mục 3). Không dùng công cụ phát hiện AI."
   integrity_policy: "[NEEDS PROFESSOR INPUT]"
