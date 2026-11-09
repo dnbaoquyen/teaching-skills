@@ -12,8 +12,11 @@ course:
   level: "undergraduate"
   credits: 3
   modality: "in-person"
-  class_size: 40
-  contact_hours_per_week: 3          # 1 buổi/tuần? — số buổi mỗi tuần chưa xác nhận; mỗi buổi 3 tiết = 135 phút
+  class_size: 23                     # lớp lớn hơn trong 2 lớp (B01E 21 SV, B02E 23 SV) — xem sections
+  contact_hours_per_week: 4.7        # 2 buổi/tuần (Thứ 4, Thứ 7) × 140 phút (lịch GV gửi 9/11/2026)
+  sections:
+    - { group: "B01E", class: "24D1EVM-COR01", size: 21, days: "Thứ 4, Thứ 7", time: "09:50-12:10 (ca 2)", room: "A.13-02" }
+    - { group: "B02E", class: "24D1EVM-LEI01", size: 23, days: "Thứ 4, Thứ 7", time: "07:00-09:20 (ca 1)", room: "A.13-02" }
   weeks: 15                          # 15 buổi theo đề cương
   language_of_instruction: "Tiếng Việt (thuật ngữ chuyên ngành giữ tiếng Anh)"
   prerequisites: ["EVM1103 Nhập môn quản trị sự kiện"]
@@ -27,10 +30,10 @@ course:
     - "Phòng học không dán được poster lên tường — hoạt động poster dùng bàn nhóm làm trạm."
 
 term_calendar:
-  start_date: null                   # [NEEDS PROFESSOR INPUT: ngày buổi 1]
-  end_date: null
-  holidays: []
-  exam_weeks: []
+  start_date: "2026-11-18"           # B1, Thứ 4 (lịch GV gửi 9/11/2026); nguồn ngày tháng duy nhất: van_hanh/D01_Lich_trinh_xuong_song.md
+  end_date: "2027-01-06"             # B15
+  holidays: []                       # [CẦN XÁC MINH] Tết Dương lịch 2027 — B14 rơi vào 02/01/2027
+  exam_weeks: [W14, W15]             # W = buổi trong passport này; B14, B15 là thi kết thúc môn (bảo vệ SMP)
   add_drop_deadline: null
   withdrawal_deadline: null
 
@@ -44,7 +47,7 @@ learner_profile:
   cohort_evidence: null
 
 learning_outcomes:
-  - { id: LO1, statement: "Vận dụng kiến thức về Quản trị sự kiện vào Quản trị các mối quan hệ với khách hàng (KAM)", bloom_level: apply, assessed_by: [A4], taught_in: [W2, W3, W4, W5, W6, W7, W8, W13] }
+  - { id: LO1, statement: "Vận dụng kiến thức về Quản trị sự kiện vào Quản trị các mối quan hệ với khách hàng (KAM)", bloom_level: apply, assessed_by: [A2, A3, A4], taught_in: [W2, W3, W4, W5, W6, W7, W8, W13] }
   - { id: LO2, statement: "Vận dụng kiến thức về Quản trị sự kiện để phân tích các mối quan hệ đối tác và mối quan hệ khác trong sự kiện", bloom_level: analyze, assessed_by: [A1, A2], taught_in: [W1, W9, W10, W11, W12] }
   - { id: LO3, statement: "Giải thích được kiến thức cơ bản và có hệ thống về truyền thông, marketing để triển khai quản trị các mối quan hệ tổ chức truyền thông, quảng bá trong sự kiện", bloom_level: understand, assessed_by: [A1, A2], taught_in: [W11] }
   - { id: LO4, statement: "Phát triển kỹ năng tự nghiên cứu, tư duy phân tích – tổng hợp, hệ thống, phản biện, sáng tạo trong quản lý các mối quan hệ (bên ngoài) của tổ chức sự kiện — GV quyết định bỏ phạm vi 'nội bộ'", bloom_level: analyze, assessed_by: [A3], taught_in: [W1, W3, W12] }
@@ -56,30 +59,30 @@ learning_outcomes:
 
 assessment_plan:
   - { id: A1, type: participation, title: "AM1 – Chuyên cần", weight: 10, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
-  - { id: A2, type: homework, title: "AM2 – Bài tập (nộp LMS)", weight: 20, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
-  - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (tổ chức ngoài giờ/trên LMS, không chiếm buổi học — quyết định GV)", weight: 20, outcomes_assessed: [LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
-  - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho 1 khách hàng từ dự án cũ của nhóm + phản biện (AM7 + AM9)", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A2, type: quiz, title: "AM2 – 2 bài kiểm tra cá nhân tình huống trên lớp: bài 1 đầu B8 (12/12), bài 2 đầu B13 (30/12) [ngày: đề xuất, chờ GV duyệt]; GV đồng ý gán CLO1", weight: 20, outcomes_assessed: [LO1, LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (tổ chức ngoài giờ/trên LMS, không chiếm buổi học — quyết định GV). Làm trên danh mục Hải Đăng (P4); nộp 23:59 18/12/2026 [đề xuất]", weight: 20, week: W10, outcomes_assessed: [LO1, LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho khách hàng thật do nhóm tự chọn (qua cổng duyệt B8) + bảo vệ trước Customer Board ở B14–B15 (AM7 + AM9); bản viết nộp 23:59 31/12/2026 [đề xuất]", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
 
 schedule:
-  - { id: W1,  topic: "Hệ sinh thái các bên liên quan bên ngoài: primary/secondary; Power-Interest Grid; Salience Model", outcomes: [LO2, LO4, LO5, LO6, LO7], activities: ["S4 brainstorm + sơ đồ tư duy phân loại bên liên quan (tình huống giả định Ngân hàng An Phát)", "S6 poster Grid + Salience cho khách hàng dự án cũ + xoay vòng trạm tại bàn (1 câu hỏi + 1 phản biện)", "S7 sửa poster trên lớp theo phản biện", "S8 phiếu kiểm tra cuối giờ (không chấm điểm)"], assessments_due: [], artifact_refs: ["lessons/W01_lesson_plan.md", "lessons/W01_lecture_notes.md", "lessons/W01_slides_outline.md", "lessons/W01_activity_S4_phan_loai_ben_lien_quan.md", "lessons/W01_activity_S6_ban_do_quyen_luc.md"] }
-  - { id: W2,  topic: "KAM Mindset & chọn Key Account", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W3,  topic: "Hiểu khách hàng & Customer Journey; DMU/GRASP", outcomes: [LO1, LO4], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W4,  topic: "Đo lường chất lượng mối quan hệ", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W5,  topic: "CVP & đồng kiến tạo giá trị", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W6,  topic: "Năng lực tài chính trong KAM: CLV, Cost-to-serve", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W7,  topic: "Procurement, Kraljic & đàm phán dựa trên giá trị (role-play)", outcomes: [LO1, LO5], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W8,  topic: "Quản trị quan hệ với Key Account (mô hình Bow-tie → Diamond, đánh giá định kỳ cùng khách hàng) & đo lường hiệu quả đa chiều — đã bỏ nội dung quản lý nhân sự KAM (nội bộ); GV đã xác nhận hướng này", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W9,  topic: "Nhà đầu tư & nhà tài trợ", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W10, topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W11, topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W12, topic: "Đòn bẩy & giải quyết xung đột trong mạng lưới", outcomes: [LO2, LO4, LO5], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W13, topic: "Xây dựng Stakeholder Management Plan quanh Key Account Plan (KAP là phần lõi)", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
-  - { id: W14, topic: "Thuyết trình & bảo vệ kế hoạch (1)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
-  - { id: W15, topic: "Thuyết trình & bảo vệ kế hoạch (2)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
+  - { id: W1,  date: "2026-11-18", topic: "Hệ sinh thái các bên liên quan bên ngoài: primary/secondary; Power-Interest Grid; Salience Model", outcomes: [LO2, LO4, LO5, LO6, LO7], activities: ["S4 brainstorm + sơ đồ tư duy phân loại bên liên quan (tình huống giả định Ngân hàng An Phát)", "S6 poster Grid + Salience cho khách hàng dự án cũ + xoay vòng trạm tại bàn (1 câu hỏi + 1 phản biện)", "S7 sửa poster trên lớp theo phản biện", "S8 phiếu kiểm tra cuối giờ (không chấm điểm)"], assessments_due: [], artifact_refs: ["lessons/W01_lesson_plan.md", "lessons/W01_lecture_notes.md", "lessons/W01_slides_outline.md", "lessons/W01_activity_S4_phan_loai_ben_lien_quan.md", "lessons/W01_activity_S6_ban_do_quyen_luc.md"] }
+  - { id: W2,  date: "2026-11-21", topic: "KAM Mindset & chọn Key Account", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W3,  date: "2026-11-25", topic: "Hiểu khách hàng & Customer Journey; DMU/GRASP", outcomes: [LO1, LO4], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W4,  date: "2026-11-28", topic: "Đo lường chất lượng mối quan hệ", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W5,  date: "2026-12-02", topic: "CVP & đồng kiến tạo giá trị", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W6,  date: "2026-12-05", topic: "Năng lực tài chính trong KAM: CLV, Cost-to-serve", outcomes: [LO1], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W7,  date: "2026-12-09", topic: "Procurement, Kraljic & đàm phán dựa trên giá trị (role-play)", outcomes: [LO1, LO5], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W8,  date: "2026-12-12", topic: "Quản trị quan hệ với Key Account (mô hình Bow-tie → Diamond, đánh giá định kỳ cùng khách hàng) & đo lường hiệu quả đa chiều — đã bỏ nội dung quản lý nhân sự KAM (nội bộ); GV đã xác nhận hướng này", outcomes: [LO1], activities: [], assessments_due: [A2], artifact_refs: [] }
+  - { id: W9,  date: "2026-12-16", topic: "Nhà đầu tư & nhà tài trợ", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W10, date: "2026-12-19", topic: "Nhà cung ứng & địa điểm", outcomes: [LO2, LO5, LO6], activities: [], assessments_due: [A3], artifact_refs: [] }
+  - { id: W11, date: "2026-12-23", topic: "Truyền thông & KOL/Influencer", outcomes: [LO2, LO3, LO5, LO6], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W12, date: "2026-12-26", topic: "Đòn bẩy & giải quyết xung đột trong mạng lưới", outcomes: [LO2, LO4, LO5], activities: [], assessments_due: [], artifact_refs: [] }
+  - { id: W13, date: "2026-12-30", topic: "Xây dựng Stakeholder Management Plan quanh Key Account Plan (KAP là phần lõi)", outcomes: [LO1], activities: [], assessments_due: [A2], artifact_refs: [] }
+  - { id: W14, date: "2027-01-02", topic: "Thuyết trình & bảo vệ kế hoạch (1)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
+  - { id: W15, date: "2027-01-06", topic: "Thuyết trình & bảo vệ kế hoạch (2)", outcomes: [LO7], activities: [], assessments_due: [A4], artifact_refs: [] }
 
 policies:
   grading_scheme: "Quá trình 30% (chuyên cần 10%, bài tập 20%) · Giữa kỳ 20% · Cuối kỳ 50%"
-  late_policy: "SMP cuối kỳ: nộp trên LMS trước 23:59 ngày 14/10/2026; trễ 1 ngày trừ 20% số điểm; không nộp trễ quá 3 ngày (đề thi HK1A 2026–2027). Bài khác: [NEEDS PROFESSOR INPUT]"
+  late_policy: "SMP cuối kỳ: nộp trên LMS trước 23:59 ngày 31/12/2026 [đề xuất, D01] (học kỳ trước: 14/10/2026); trễ 1 ngày trừ 20% số điểm; không nộp trễ quá 3 ngày (đề thi HK1A 2026–2027). Bài khác: [NEEDS PROFESSOR INPUT]"
   ai_use_policy: "Cho phép, chỉ cần khai báo và phải hiểu bài thông qua việc trả lời được các câu hỏi vấn đáp (GV, 4/10/2026). SMP: phụ lục công bố gồm công cụ, dùng cho phần nào, nhóm đã kiểm tra và sửa gì; mọi thành viên tự giải thích được mọi phần (đề thi mục 3). Không dùng công cụ phát hiện AI."
   integrity_policy: "[NEEDS PROFESSOR INPUT]"
   attendance_policy: "[NEEDS PROFESSOR INPUT]"
