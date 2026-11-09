@@ -115,7 +115,7 @@ Các thông báo đặc biệt:
   - 01/01 → 06/01: SMP bản viết và bảo vệ.
   - Lịch công việc GV chi tiết nằm ở D18.
 - **Nộp trễ (quy định của Trường, GV xác nhận 9/11/2026):** **không chấp nhận nộp bài trễ.** Nộp trễ = **vắng thi, không chấm điểm, áp dụng mọi trường hợp.** Áp dụng cho giữa kỳ (18/12) và SMP bản viết (31/12). Quy định cũ "trễ 1 ngày trừ 20%" **đã bị thay thế**; đề cuối kỳ cũ còn câu này, sẽ sửa trong D12.
-  - "Một trang mô tả" (cổng duyệt, không tính điểm): **chỉ có một mốc 23:59 10/12, không có lần nộp lại** (GV chốt 9/11/2026). SV tự chịu trách nhiệm nộp đúng hạn. Hệ quả khi không nộp hoặc không đạt: đối tượng cuối kỳ không được duyệt trước; điều kiện "đối tượng đạt checklist tối thiểu" được xét thẳng khi chấm cuối kỳ (D13) [CẦN GV XÁC NHẬN hệ quả này].
+  - "Một trang mô tả" (cổng duyệt, không tính điểm): **chỉ có một mốc 23:59 10/12, không có lần nộp lại** (GV chốt 9/11/2026). SV tự chịu trách nhiệm nộp đúng hạn. Hệ quả khi không nộp hoặc không đạt: đối tượng cuối kỳ không được duyệt trước; TC2 và TC3 của cuối kỳ **tối đa 6** (GV chốt, D13).
 - **Mốc của Trường** (hạn rút môn, nghỉ lễ, ngày công bố điểm): [CẦN XÁC MINH]. Tôi không tự đặt các mốc này.
 
 ## Bảng tự kiểm (hạng mục 2 – D01)
@@ -133,5 +133,5 @@ Các thông báo đặc biệt:
 | D04 ở B8 | ✅ | Hàng B8 |
 | Bản theo từng lớp | ✅ | Hai lớp chung ngày; mục 1 tách giờ và phòng của từng lớp |
 | QT-12: một nguồn ngày tháng; cập nhật passport | ✅ | `course_passport.yaml`: đã cập nhật `term_calendar` và `schedule` (có ngày từng buổi) |
-| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt mọi mốc, số nhóm, ngày 02/01. Còn mở: hệ quả khi không nộp "một trang mô tả" |
+| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt mọi mốc, số nhóm, ngày 02/01. Không còn điểm mở |
 | Không có dữ liệu SV | ✅ | Chỉ có sĩ số |

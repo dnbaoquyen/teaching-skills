@@ -19,8 +19,8 @@
 | Điều kiện | Nếu không đạt |
 |---|---|
 | Nộp trên LMS **đúng hạn**: giữa kỳ 23:59 18/12/2026; SMP bản viết 23:59 31/12/2026 | **Vắng thi, không chấm**, áp dụng mọi trường hợp (quy định của Trường) |
-| Đúng đối tượng: giữa kỳ làm trên **Key Account nhóm đã chọn ở B2** trong danh mục Hải Đăng; cuối kỳ làm trên **khách hàng thật của nhóm** | GV xử lý theo mục 3.4 [CẦN GV XÁC NHẬN] |
-| Có đủ các phần bắt buộc theo đề | Phần bị bỏ trống: tiêu chí tương ứng được **0 điểm**. Đây là trường hợp duy nhất một tiêu chí nằm ngoài thang 5–10 [CẦN GV XÁC NHẬN] |
+| Đúng đối tượng: giữa kỳ làm trên **Key Account nhóm đã chọn ở B2** trong danh mục Hải Đăng; cuối kỳ làm trên **khách hàng thật của nhóm** | Cuối kỳ: nhóm không nộp hoặc không qua cổng duyệt ở B8 thì TC2 và TC3 **tối đa 6** |
+| Có đủ các phần bắt buộc theo đề | Phần bị bỏ trống: tiêu chí tương ứng được **0 điểm**. Đây là trường hợp duy nhất một tiêu chí nằm ngoài thang 5–10 |
 
 ### 1.2. Thang bậc 5–10
 
@@ -45,14 +45,16 @@ Giữa kỳ (G1–G7) và Phần II cuối kỳ (TC8–11) chấm trên **thang 
 2. Bậc 9 và 10 đòi hỏi việc mà chỉ bài thật sự tốt mới làm: tự phản biện, ra quyết định có ưu tiên.
 3. Một bài làm đúng và chăm chỉ sẽ dừng ở 7–8. Đây là phần giữa của thang 5–10, nên phổ điểm có thể cân đối quanh **7,5**.
 
-### 1.3. Điểm cá nhân trong bài nhóm
+### 1.3. Điểm cá nhân trong bài nhóm (GV chốt 9/11/2026)
 
-- **Giữa kỳ** (AM3 thuyết trình + AM9 đánh giá làm việc nhóm):
-  - Điểm cá nhân = điểm nhóm × **hệ số đóng góp**.
-  - Hệ số đóng góp lấy từ phụ lục phân công và phiếu đánh giá chéo (AM9), nằm trong khoảng **0,8 – 1,0**. Thành viên đóng góp đầy đủ có hệ số 1,0 [CẦN GV XÁC NHẬN khoảng hệ số].
-- **Cuối kỳ:**
-  - Phần I (bài viết) và tiêu chí 8 (trình bày): điểm chung của nhóm. Phần I nhân hệ số đóng góp như giữa kỳ.
-  - Tiêu chí 9–11: điểm cá nhân, chấm tại buổi bảo vệ.
+- Nhóm **khai báo tỷ lệ phần trăm đóng góp** của từng thành viên trong phụ lục phân công của bài.
+- **Điểm của nhóm được xem là 100%.** Điểm cá nhân = điểm nhóm × tỷ lệ đóng góp của thành viên đó.
+  - Ví dụ: nhóm 8,0 điểm; thành viên khai báo 100% → 8,0; thành viên khai báo 80% → 6,4.
+- Áp dụng cho:
+  - **Giữa kỳ:** toàn bộ điểm bài (G1–G7).
+  - **Cuối kỳ:** Phần I (TC1–7) và TC8 (trình bày).
+- **TC9–11 cuối kỳ** là điểm cá nhân, chấm trực tiếp tại buổi bảo vệ, không nhân tỷ lệ.
+- **Lưu ý:** thang 5–10 (QT-14) áp dụng cho **điểm nhóm**. Điểm cá nhân sau khi nhân tỷ lệ có thể thấp hơn 5. Đây là hệ quả của mức đóng góp thấp, không phải lỗi thiết kế đề.
 
 ### 1.4. Hai lớp, một chuẩn
 
@@ -223,13 +225,14 @@ Các điểm trong bản đáp án `01b` giúp tách bài bậc 8 với bài b�
 | G4 | KH5 nằm giữa hai nhóm trên ma trận ưu tiên |
 | G5, G6 | Các hạng mục **không** được xếp vào Kraljic: giấy phép, không gian trường đại học, nhà tài trợ, mẫu thử |
 
-### 3.4. Các điểm cần GV xác nhận
+### 3.4. Các điểm GV đã chốt (9/11/2026)
 
-1. **Phần bị bỏ trống được 0 điểm** (mục 1.1). Đây là ngoại lệ duy nhất của thang 5–10.
-2. **Hệ số đóng góp trong khoảng 0,8 – 1,0** (mục 1.3).
-3. **Đối tượng cuối kỳ không đạt checklist tối thiểu**, vì nhóm không nộp hoặc không qua cổng ở B8 (theo D01, chỉ có một mốc nộp). Đề xuất: TC2 và TC3 tối đa 6, vì phân tích dựa trên một đối tượng không đủ dữ liệu.
-4. **Đ3:** mức trần 6 khi cả nhóm không bảo vệ được một phần.
-5. **XĐ-02 (chưa chốt):** tiêu chí C4 của cuối kỳ và G4 của giữa kỳ đang dùng "năm nguồn giá trị", còn Ma trận nguồn giá trị ưu tiên có thêm "Hiệu quả quy trình". Khi GV chốt XĐ-02, sửa mô tả bậc 7 của G4 và mục C4.
+1. **Phần bị bỏ trống được 0 điểm** cho tiêu chí đó. Đây là ngoại lệ duy nhất nằm ngoài thang 5–10.
+2. **Điểm cá nhân** = điểm nhóm (100%) × tỷ lệ % đóng góp khai báo trong bài (mục 1.3).
+3. **Nhóm không nộp hoặc không qua cổng duyệt ở B8:** TC2 và TC3 cuối kỳ tối đa 6.
+4. **Đ3:** phần nào cả nhóm không bảo vệ được thì tiêu chí của phần đó tối đa 6.
+
+**Còn mở:** XĐ-02. Tiêu chí C4 (cuối kỳ) và G4 (giữa kỳ) đang dùng "năm nguồn giá trị", còn Ma trận nguồn giá trị ưu tiên có thêm "Hiệu quả quy trình". Khi GV chốt XĐ-02, sửa mô tả bậc 7 của G4 và mục C4.
 
 ## Bảng tự kiểm (hạng mục 3 – D13)
 
@@ -245,7 +248,7 @@ Các điểm trong bản đáp án `01b` giúp tách bài bậc 8 với bài b�
 | L03, L30, E08 khóa trước | ✅ | Đ3, Đ4, Đ5 |
 | D01: buổi luyện, ngày nộp | ✅ | Cột "Buổi luyện"; hạn 18/12 và 31/12 khớp D01 |
 | QT-06: không bịa | ✅ | Không có quy định Trường nào ngoài điều GV nêu; các điểm chưa chắc ở 3.4 |
-| QT-08: hỏi khi chưa rõ | ✅ | 5 điểm ở 3.4 |
+| QT-08: hỏi khi chưa rõ | ✅ | GV đã chốt 4 điểm (3.4); còn XĐ-02 |
 | QT-13: không có case thật trong tài liệu công khai | ✅ | Không nhắc case minh họa |
 | Không có dữ liệu SV | ✅ | — |
 | Phụ thuộc chưa xong | ➖ | Định dạng giữa kỳ (D11), bảng thuật ngữ (D09), biên bản bảo vệ (D16), hướng dẫn chấm (D14) |
