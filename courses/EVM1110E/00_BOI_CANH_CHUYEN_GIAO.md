@@ -19,7 +19,9 @@
 > - `PHIEN_B_Ho_so_mon_hoc.md`: bài giảng, đánh giá, chấm bài khóa trước.
 > - `PHIEN_C_Ho_so_mon_hoc_slide.md`: 13 deck ở repo `academic-pptx-skill`, đặc tả slide, nội dung 354 slide.
 >
-> **3. Không tự định nghĩa "Ma trận nguồn giá trị ưu tiên".** Không hồ sơ nào có định nghĩa này, phải hỏi GV.
+> **3. Ma trận nguồn giá trị ưu tiên:** dùng định nghĩa GV cung cấp (Bài 5, slide 12), chép trong `ho_so_trich_xuat/GHI_CHU_THUC_TE_GV_sau_hoc_ky.md`.
+>
+> **4. Slide:** không chọn một trong hai bộ. Khi GV đưa yêu cầu, đối chiếu cả hai bộ (repo này và `academic-pptx-skill`) rồi tổng hợp thành một bộ hoàn chỉnh nhất (quyết định GV ngày 9/11).
 
 > **Nguyên tắc.**
 > - Tệp không chứa dữ liệu sinh viên khóa trước (tên, điểm, bài nộp). Chỉ giữ phương pháp chấm, quyết định của GV và bài học rút ra.

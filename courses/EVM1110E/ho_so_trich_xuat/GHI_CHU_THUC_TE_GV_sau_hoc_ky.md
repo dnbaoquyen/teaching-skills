@@ -108,3 +108,16 @@ Mục đích: ghi lại các dữ kiện tra được lúc nạp ghi chú, để
 - "Hiệu quả quy trình" không thuộc năm nguồn giá trị của đề cương.
 - Slide không ghi nguồn học thuật cho ma trận.
 - Bản W05 hiện có trong repo **không có** ma trận này. Đây có thể là một phần nguyên nhân của TT-01.
+
+---
+
+## Quyết định GV 9/11/2026: hai bộ slide song song
+
+**Nguyên văn:** "Đối chiếu cả 2 bộ slide với truy vấn tiếp theo của tôi và tổng hợp thành bộ slide hoàn chỉnh nhất dựa trên các yêu cầu tôi sẽ đưa sau. Còn hiện giờ chỉ ghi nhớ."
+
+**Diễn giải:**
+- Không chọn một bộ làm bản dạy chính. Khi GV đưa yêu cầu, đối chiếu cả hai bộ và tổng hợp thành **một bộ hoàn chỉnh nhất**. Hai bộ là:
+  - `slides/WNN_slides.pptx` trong repo này;
+  - `examples/EVM1110E_WNN/` trong repo `dnbaoquyen/academic-pptx-skill` (hồ sơ C).
+- Bộ Bài 5 GV gửi ngày 9/11 (`EVM1110E_Session5_minimal.pptx`, có Ma trận nguồn giá trị ưu tiên) cũng là đầu vào cần đối chiếu cho Buổi 5. [VERIFY với GV khi làm Buổi 5]
+- **Hiện tại chưa làm gì.** Chờ yêu cầu tiếp theo.
