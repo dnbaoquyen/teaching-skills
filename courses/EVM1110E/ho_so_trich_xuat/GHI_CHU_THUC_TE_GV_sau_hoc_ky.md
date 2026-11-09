@@ -77,3 +77,34 @@ Mục đích: ghi lại các dữ kiện tra được lúc nạp ghi chú, để
    - Bộ nào là bản dạy chính: [NEEDS PROFESSOR INPUT].
 5. **Tên nhân vật "chị Thảo (KAMer)"** xuất hiện trong deck của hồ sơ C (W12). Cần đưa vào bảng dữ kiện tình huống chung.
 6. **Số năm Nova – An Phát (3 hay 4)** bị cả ba hồ sơ ghi nhận là mâu thuẫn: B-L23, C-L-15, A/TONG_HOP.
+
+---
+
+## Bổ sung 9/11/2026: định nghĩa "Ma trận nguồn giá trị ưu tiên" (GV cung cấp)
+
+**Nguồn:** GV gửi tệp `EVM1110E_Session5_minimal.pptx`, slide 12 của Bài 5, ngày 9/11/2026. Tệp gốc không lưu trong repo. Dưới đây là chữ trích nguyên văn. Đây là căn cứ chính thức cho TT-01 và **thay thế mục 1 của Phụ lục ở trên**.
+
+**Chữ trên slide 12**
+- Nhãn và tiêu đề: "NHẬN DIỆN ƯU TIÊN" · "Ma trận nguồn giá trị ưu tiên".
+
+| Nhóm khách hàng | ƯU TIÊN |
+|---|---|
+| Nhóm Tăng trưởng | Top-line · Customer's Customer |
+| Nhóm Tối ưu chi phí | Bottom-line · Hiệu quả quy trình |
+| Tập đoàn Đa quốc gia | HSSEQ · Advisory |
+| Doanh nghiệp Tài chính | Bottom-line · Advisory |
+
+- Câu chốt: "KAMer phải chẩn đoán đúng nhóm ưu tiên của khách qua các buổi họp với nhóm ra quyết định."
+
+**Ghi chú giảng (speaker notes), nguyên văn:**
+> "Một sai lầm phổ biến khi viết CVP là đưa cả 5 nguồn giá trị vào bản đề xuất một cách tràn lan. Người quản trị chuyên nghiệp phải biết lập ma trận nhận diện nguồn giá trị ưu tiên cho từng khách hàng. Ví dụ: với một công ty công nghệ đang cần mở rộng thị trường, nguồn giá trị ưu tiên số một là Top-line Value — thu hút người dùng mới. Nhưng với một tập đoàn đa quốc gia, ưu tiên hàng đầu lại là HSSEQ Value — tuân thủ an toàn, tiêu chuẩn xanh — và Advisory Value — tư vấn sáng tạo. Việc chẩn đoán đúng nguồn giá trị ưu tiên giúp CVP của các em xoáy sâu vào đúng "điểm đau" của người quyết định. Theo các em, với một ngân hàng thương mại trong mùa báo cáo tài chính, họ sẽ ưu tiên nguồn giá trị nào nhất?"
+
+**Bối cảnh trong cùng tệp**
+- Slide 11 "5.2 · GIÁ TRỊ CHIẾN LƯỢC": HSSEQ, Advisory, Customer's Customer.
+- Slide 13 "5.3 · ĐỒNG KIẾN TẠO" (Prahalad & Ramaswamy, 2004).
+
+**Chỗ cần GV xác nhận khi đến bước TT-01.** Claude chỉ ghi nhận các điểm dưới đây, chưa sửa gì:
+- Tệp này là một bộ slide Bài 5 thứ ba, khác `slides/W05_slides.pptx` và khác deck W05 của hồ sơ C. Bộ nào dùng cho học kỳ mới: [NEEDS PROFESSOR INPUT].
+- "Hiệu quả quy trình" không thuộc năm nguồn giá trị của đề cương.
+- Slide không ghi nguồn học thuật cho ma trận.
+- Bản W05 hiện có trong repo **không có** ma trận này. Đây có thể là một phần nguyên nhân của TT-01.
