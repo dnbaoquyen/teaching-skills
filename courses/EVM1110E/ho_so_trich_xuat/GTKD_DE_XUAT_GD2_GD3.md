@@ -236,3 +236,14 @@ Cần GV trả lời kèm theo:
 - Chọn vị trí cho D04: B8 hay B13?
 - D15 (ghi nhận quá trình) có ảnh hưởng tới điểm không?
 - Chương trình UEF có môn giao tiếp trước hoặc song hành với EVM1110E không?
+
+---
+
+## Quyết định GV (9/11/2026)
+
+1. **Danh sách tài liệu: "Làm hết".** Duyệt D01–D21 và N1–N2, **trừ D15** (xem mục 3).
+2. **D04 đặt ở Buổi 8.** Lý do của GV: "buổi 13 là đã kết thúc phần lí thuyết, sinh viên chỉ còn thi kết thúc môn và không có cơ hội hỏi lại hay sửa sai".
+3. **D15 (Phiếu ghi nhận quá trình): BỎ.** Lý do của GV: "đã có chế độ điểm danh trên hệ thống chung của trường".
+4. **Môn giao tiếp học trước hoặc song hành:** "hãy xem như là không có".
+   - Hệ quả: các điểm liên môn **không được giả định** SV đã có kỹ năng của GTKD.
+   - Khi cần kỹ năng nào thì QTMQH tự hướng dẫn ngắn ngay trong phiếu thực hành (D07).
