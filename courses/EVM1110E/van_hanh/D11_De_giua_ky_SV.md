@@ -8,7 +8,7 @@
 
 > **HẠN NỘP DUY NHẤT: 23:59 THỨ 6, 18/12/2026, TRÊN LMS.**
 > - Theo quy định của Trường, **không nhận bài nộp trễ**. Nộp trễ = vắng thi, không chấm điểm, áp dụng mọi trường hợp.
-> - **Không có lần nộp lại.** Hãy nộp sớm và kiểm tra tệp đã tải lên đủ chưa.
+> - **Không có lần nộp lại.** Hãy nộp sớm và kiểm tra tệp đã tải lên đủ chưa. Không có kênh nộp dự phòng ngoài LMS: nên nộp sớm 1–2 ngày, và quay hoặc chụp màn hình khi nộp để làm minh chứng nếu LMS gặp sự cố.
 
 ## 1. Bạn đang ở đâu trong tình huống
 

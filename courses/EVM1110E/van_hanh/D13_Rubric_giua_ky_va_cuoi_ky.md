@@ -176,7 +176,7 @@ Mỗi bậc **cộng thêm** yêu cầu vào các bậc thấp hơn.
 | Đ1 | **Đổi thang.** Thang cũ (Xuất sắc 9–10 · Tốt 7–8 · Trung bình 5–6 · Kém 0–4) được thay bằng **thang bậc 5–10** ở mục 1.2. 44 mục con (E1–6, A1–7, B1–6, C1–6, D1–6, X1–7, P1–6) **vẫn giữ**, dùng làm danh sách bằng chứng để quyết định bậc. Mức tiêu chí = **5 + 5 × (tổng điểm mục con ÷ tối đa)**, làm tròn 0,25 | QT-14: phổ điểm 5–10, cân đối |
 | Đ2 | **Trần điểm chuyển vào thang 5–10.** "Tối đa 4" đổi thành "tối đa 5,5"; "tối đa 6" giữ nguyên; "tối đa 8" giữ nguyên | QT-14 |
 | Đ3 | **Bài viết phải bảo vệ được.** Ở buổi bảo vệ, GV hỏi ít nhất một câu về mỗi phần A, B, C, D. Phần nào **cả nhóm** không giải thích được thì tiêu chí Phần I của phần đó **tối đa 6**. GV ghi vào biên bản (D16) | L03: khóa trước, bài viết điểm cao nhất thuộc nhóm không trả lời được vấn đáp |
-| Đ4 | **TC7 không còn bị trần cứng.** Thiếu phụ lục bắt buộc trước đây kéo TC7 xuống ≤ 4 ở 6/7 bài, nên tiêu chí này mất khả năng phân hóa. Nay đủ phụ lục bắt buộc là **điều kiện được chấm** (kiểm bằng checklist ở B13). TC7 chấm theo thang bậc như các tiêu chí khác | L30 |
+| Đ4 | **TC7 không còn bị trần cứng.** Thiếu phụ lục bắt buộc trước đây kéo TC7 xuống ≤ 4 ở 6/7 bài, nên tiêu chí này mất khả năng phân hóa. Nay đủ phụ lục P2–P4 là **điều kiện được chấm** (kiểm bằng checklist ở B13); thiếu P1 thì mọi thành viên mặc định 100%. TC7 chấm theo thang bậc như các tiêu chí khác | L30 |
 | Đ5 | **Công thức CLV thống nhất với D02:** năm 1 không nhân r nhưng **vẫn chiết khấu**. Sửa câu cũ "năm 1 coi như chắc chắn" trong bảng mô tả mục con. Lệch hơn 5% khi tính lại thì ghi "tính sai" | E08 |
 | Đ6 | **Bỏ quy định trừ điểm nộp trễ** ("20% mỗi ngày, không quá 3 ngày"). Nộp trễ = vắng thi, không chấm (mục 1.1) | QT-15, XĐ-11 |
 

@@ -13,7 +13,7 @@
 
 > **HẠN NỘP BẢN VIẾT: 23:59 THỨ 5, 31/12/2026, TRÊN LMS.** Hạn này áp dụng cho **mọi nhóm**, kể cả nhóm bảo vệ ở Buổi 15.
 > - Theo quy định của Trường, **không nhận bài nộp trễ**. Nộp trễ = vắng thi, không chấm điểm, áp dụng mọi trường hợp.
-> - **Không có lần nộp lại.**
+> - **Không có lần nộp lại.** Không có kênh nộp dự phòng ngoài LMS: nên nộp sớm 1–2 ngày, và quay hoặc chụp màn hình khi nộp để làm minh chứng nếu LMS gặp sự cố.
 
 ## 1. Đối tượng của bài thi
 
@@ -76,7 +76,7 @@ Xây dựng và bảo vệ **Kế hoạch quản trị các bên liên quan (Sta
 | Tệp nộp | (1) `EVM1110E_[Lop]_Nhom[so]_SMP.pdf` · (2) `EVM1110E_[Lop]_Nhom[so]_Slide.pdf` (hoặc .pptx) · (3) `EVM1110E_[Lop]_Nhom[so]_SMP.xlsx` (bảng tính CLV, CTS có công thức). Ví dụ: `EVM1110E_B02E_Nhom5_SMP.pdf` |
 | Người nộp | Một thành viên nộp thay nhóm. Nhóm tự kiểm tra bài đã lên LMS trước hạn |
 
-**Phụ lục bắt buộc.** Đủ bốn phụ lục là **điều kiện để bài được chấm** (sẽ kiểm bằng checklist ở Buổi 13):
+**Phụ lục bắt buộc.** P2, P3, P4 là **điều kiện để bài được chấm** (sẽ kiểm bằng checklist ở Buổi 13). Thiếu P1 hoặc không ghi %: mọi thành viên **mặc định 100%**, không khiếu nại về tỷ lệ đóng góp.
 
 | Phụ lục | Nội dung |
 |---|---|
@@ -156,7 +156,7 @@ Tên tệp: `EVM1110E_[Lop]_Nhom[so]_Doi_tuong.pdf`. **Tối đa 1 trang.**
 - [ ] Kraljic chỉ có **hạng mục agency mua**.
 - [ ] Phần D có đủ ba nhóm bên ngoài, ít nhất 2 xung đột và cách bảo vệ cam kết.
 - [ ] Mỗi lời hứa ở phần C có cách đo ở phần D.
-- [ ] Đủ 4 phụ lục; P1 có % của từng người và có xác nhận.
+- [ ] Đủ 4 phụ lục; P1 có % của từng người và có xác nhận (không ghi % thì mặc định 100%).
 - [ ] 20–30 trang nội dung; đúng định dạng; trích dẫn APA 7.
 - [ ] Mỗi thành viên giải thích được ít nhất một phần không do mình viết.
 - [ ] Nộp **trước 23:59 31/12/2026**.

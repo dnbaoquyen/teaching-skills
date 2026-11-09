@@ -29,7 +29,7 @@ D11 cần hai điều chỉnh nhỏ trong mô tả bậc của D13. **Trọng s�
 
 Đã cập nhật vào D13 (G6 bậc 7 và 10; G7 bậc 7).
 3. **Hệ quả khi thiếu phụ lục bắt buộc** (sẽ ghi vào D17). Đề xuất:
-   - **Thiếu P1:** GV không quy được điểm cá nhân, nên mọi thành viên tính **80%** cho đến khi nhóm bổ sung P1 trong buổi B10. Đây là ngoại lệ hành chính, không phải nộp lại bài.
+   - **Thiếu P1 hoặc không ghi %:** mọi thành viên **mặc định 100%**; không khiếu nại về tỷ lệ (GV sửa 9/11/2026, thay mức 80% đã đề xuất trước).
    - **Thiếu P2 hoặc P3:** G6 tối đa bậc 6, vì không có bằng chứng truy vết hoặc giả định.
    - **Thiếu P4:** chỉ xử lý khi có dấu hiệu dùng AI mà không khai báo; GV mời nhóm giải thích 5 phút.
 
