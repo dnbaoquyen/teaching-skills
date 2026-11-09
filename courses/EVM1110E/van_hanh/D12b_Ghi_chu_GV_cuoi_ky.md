@@ -19,12 +19,10 @@
 | 9 | Phụ lục truy vết B1–B13 | Truy vết **B9–B13**, vì B1–B8 đã nằm trong bài giữa kỳ | P4 |
 | 10 | Năm nguồn giá trị | Năm nguồn + **Ma trận nguồn giá trị ưu tiên** | XĐ-02 (đã chốt); TT-01 |
 | 11 | Không có mẫu "Một trang mô tả" | Có mẫu 7 mục và checklist dùng chung với B13 | P4; QT-04 |
-| 12 | Quy định nhóm tối thiểu 4 người (GV áp dụng khóa trước, không có trong đề) | **Bỏ**: mỗi lớp 6 nhóm, lớp 21 SV sẽ có nhóm 3 người | Người soạn chọn theo quyết định "6 nhóm mỗi lớp" của GV |
-| 13 | Thứ tự bảo vệ chưa quy định | **Bốc thăm ở B13** | Người soạn chọn |
+| 12 | Quy định nhóm tối thiểu 4 người (GV áp dụng khóa trước, không có trong đề) | **Bỏ**: mỗi lớp 6 nhóm, lớp 21 SV sẽ có nhóm 3 người | GV đồng ý 9/11/2026 |
+| 13 | Thứ tự bảo vệ chưa quy định | **Bốc thăm ở B13** | GV đồng ý 9/11/2026 |
 
-## 2. Ba điểm người soạn tự chọn (GV trả lời "theo đề xuất", nhưng ba câu này chưa có đề xuất cụ thể)
-
-Mặc định tôi đã chọn như dưới đây. GV có thể đổi.
+## 2. Ba điểm người soạn chọn mặc định, GV đã đồng ý (9/11/2026)
 
 1. **Nhà tài trợ chưa ký:** không được chọn làm Key Account. Lý do: Key Account phải đã hoặc đang mua dịch vụ của agency; nhà tài trợ chưa ký là đối tượng của B9 (tài trợ), không phải của KAM.
 2. **Nhóm tối thiểu 4 người:** bỏ, để khớp với quyết định 6 nhóm mỗi lớp.
@@ -57,5 +55,5 @@ Mặc định tôi đã chọn như dưới đây. GV có thể đổi.
 | Non-negotiable 5: không dùng công cụ phát hiện AI | ✅ | Mục 4 |
 | Non-negotiable 2: không bịa quy định | ✅ | Phần đầu đề theo mẫu của Khoa để [GV điền] |
 | QT-13: không có case thật | ✅ | — |
-| QT-08 | ✅ | Ba lựa chọn mặc định ở mục 2 chờ GV xác nhận |
+| QT-08 | ✅ | GV đã đồng ý ba lựa chọn ở mục 2 |
 | Còn mở | ➖ | XĐ-17 (CLO7); dựng bản `.docx` theo mẫu Khoa; D16 (biên bản bảo vệ) |
