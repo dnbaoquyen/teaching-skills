@@ -27,6 +27,11 @@
 > - Hồ sơ case **chỉ lưu trên Google Drive riêng tư** của môn (thư mục "Quản trị mối quan hệ trong tổ chức sự kiện", ID `1RP9UW7LsLMGANPSNcIFI4F_cBXhD7dKU`). Đọc tệp `00 – Bàn giao ngữ cảnh EVM1110E` ở đó trước.
 > - Repo này đang công khai: **không** đưa tên thật, ngành, số liệu hay tình huống của case vào repo (QT-13).
 > - Hồ sơ danh mục Hải Đăng vẫn là dữ liệu thực hành B1–B8 và giữa kỳ (P4); bản Google Doc nằm trong thư mục "Học liệu" trên Drive.
+>
+> **6. Lịch và quy định nộp bài (GV duyệt 9/11/2026):**
+> - Nguồn ngày tháng duy nhất: `van_hanh/D01_Lich_trinh_xuong_song.md`. 2 lớp B01E, B02E học Thứ 4 và Thứ 7, từ 18/11/2026 đến 06/01/2027. B14, B15 là thi.
+> - **Không chấp nhận nộp bài trễ** (quy định của Trường). Nộp trễ = vắng thi, không chấm, mọi trường hợp.
+> - **AM2 = 3 bài kiểm tra cá nhân** trên lớp (B5, B8, B13); GV yêu cầu thêm bài thứ 3 để đánh giá năng lực riêng.
 
 > **Nguyên tắc.**
 > - Tệp không chứa dữ liệu sinh viên khóa trước (tên, điểm, bài nộp). Chỉ giữ phương pháp chấm, quyết định của GV và bài học rút ra.
