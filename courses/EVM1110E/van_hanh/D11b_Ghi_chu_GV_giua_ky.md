@@ -16,7 +16,7 @@
 | **Mức AI: D** (được dùng, phải khai báo) | Theo chính sách AI của GV (4/10/2026). Không dùng công cụ phát hiện AI | Passport `ai_use_policy`; CLAUDE.md non-negotiable 5 |
 | Tối đa 12 trang, video 8–10 phút | Đủ cho 6 phần mà không kéo dài thời gian chấm. GV chấm 12 bài (2 lớp) trong 8 ngày, từ 19/12 đến 26/12 | D01 |
 
-## 2. Hai điểm cần GV duyệt (thay đổi nhỏ so với D13 đã duyệt)
+## 2. Các điểm GV đã duyệt (9/11/2026, theo đề xuất)
 
 D11 cần hai điều chỉnh nhỏ trong mô tả bậc của D13. **Trọng số không đổi.**
 
@@ -27,13 +27,13 @@ D11 cần hai điều chỉnh nhỏ trong mô tả bậc của D13. **Trọng s�
 2. **G7 gồm cả trang tóm tắt.**
    - Bậc 7 của G7 ("mở đầu bằng quyết định Key Account cần đưa ra") áp dụng cho **cả video lẫn trang tóm tắt**. Hai phần này phải nói cùng một quyết định.
 
-Nếu GV không đồng ý, đề sẽ bỏ thẻ biến cố khỏi nhiệm vụ 6 và bỏ trang tóm tắt.
+Đã cập nhật vào D13 (G6 bậc 7 và 10; G7 bậc 7).
 3. **Hệ quả khi thiếu phụ lục bắt buộc** (sẽ ghi vào D17). Đề xuất:
    - **Thiếu P1:** GV không quy được điểm cá nhân, nên mọi thành viên tính **80%** cho đến khi nhóm bổ sung P1 trong buổi B10. Đây là ngoại lệ hành chính, không phải nộp lại bài.
    - **Thiếu P2 hoặc P3:** G6 tối đa bậc 6, vì không có bằng chứng truy vết hoặc giả định.
    - **Thiếu P4:** chỉ xử lý khi có dấu hiệu dùng AI mà không khai báo; GV mời nhóm giải thích 5 phút.
 
-   [CẦN GV CHỐT]
+   Đã duyệt; sẽ ghi vào D17.
 
 ## 3. Cách chia Key Account cho các nhóm (Buổi 2)
 
@@ -43,7 +43,7 @@ Nếu GV không đồng ý, đề sẽ bỏ thẻ biến cố khỏi nhiệm v�
 3. Nhóm chọn sau cùng có thể nhận khách "khó" (KH5, KH6). D13 đã có quy tắc chấm theo **chất lượng lập luận**, không theo việc khách có "đúng" là Key Account hay không (đáp án `01b`, mục 3). GV nói rõ điều này với lớp trước khi bốc thăm.
 4. Ghi kết quả chọn của mỗi lớp vào sổ sau buổi (D21). Thẻ biến cố phát ở B8 theo kết quả này.
 
-[CẦN GV XÁC NHẬN] cách chia này.
+GV đã duyệt cách chia này. Giải thích ngắn 5 phút ở B10/B11: GV giữ.
 
 ## 4. Thẻ biến cố (phát ở B8, mỗi nhóm một thẻ)
 
@@ -117,5 +117,5 @@ Bài có thể tính CLV khác `01b` nếu giả định khác có lý do. Kiể
 | Non-negotiable 5: không dùng công cụ phát hiện AI | ✅ | Đề mục 6; ghi chú mục 1 |
 | QT-06: không bịa | ✅ | Thẻ biến cố là giả định, không mâu thuẫn hồ sơ (đã đối chiếu từng khách) |
 | QT-13: không có case thật | ✅ | Không nhắc case minh họa |
-| QT-08: hỏi khi chưa rõ | ✅ | Mục 2 (điều chỉnh G6, G7; hệ quả thiếu phụ lục) và mục 3 (cách chia khách) |
+| QT-08: hỏi khi chưa rõ | ✅ | GV đã duyệt mục 2 và mục 3 |
 | Phụ thuộc chưa xong | ➖ | D09 bảng thuật ngữ; D14 hướng dẫn chấm; D21 sổ sau buổi |

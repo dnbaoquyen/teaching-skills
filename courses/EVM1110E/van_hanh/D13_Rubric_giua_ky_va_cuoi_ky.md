@@ -145,10 +145,10 @@ Mỗi bậc **cộng thêm** yêu cầu vào các bậc thấp hơn.
 |---|---|
 | 5 | Dùng đủ các công cụ đã học, nhưng có ít nhất một công cụ áp sai đối tượng |
 | 6 | Mỗi công cụ áp đúng đối tượng: Grid và Salience xếp **người hoặc tổ chức**; Kraljic xếp **hạng mục mua**; ma trận ưu tiên xếp **nhóm khách hàng**; ma trận chọn Key Account xếp **khách hàng** |
-| 7 | Có một bảng tổng hợp: công cụ → kết luận → quyết định |
+| 7 | Có một bảng tổng hợp: công cụ → kết luận → quyết định, **và cập nhật ít nhất 2 công cụ theo thẻ biến cố** (D11) |
 | 8 | Kết luận của các công cụ không mâu thuẫn nhau; nếu có mâu thuẫn thì nhóm giải thích |
 | 9 | Chỉ ra một chỗ mà dùng nhầm công cụ sẽ dẫn đến quyết định sai |
-| 10 | Bảng tổng hợp dẫn tới **một** ưu tiên hành động rõ ràng cho năm tới |
+| 10 | Bảng tổng hợp **sau thẻ biến cố** dẫn tới **một** ưu tiên hành động rõ ràng cho năm tới |
 
 **G7 – Thuyết trình và thuật ngữ (15%)** (AM3, CLO7)
 
@@ -156,7 +156,7 @@ Mỗi bậc **cộng thêm** yêu cầu vào các bậc thấp hơn.
 |---|---|
 | 5 | Có video, đúng chủ đề |
 | 6 | Đúng thời lượng; mỗi thành viên trình bày một phần |
-| 7 | Mở đầu bằng **quyết định mà Key Account cần đưa ra**, không kể lại quá trình làm bài |
+| 7 | Mở đầu bằng **quyết định mà Key Account cần đưa ra**, không kể lại quá trình làm bài. Áp dụng cho **cả video lẫn trang tóm tắt**; hai phần nói cùng một quyết định |
 | 8 | Slide một ý mỗi trang, có số liệu; dùng đúng thuật ngữ tiếng Anh theo bảng thuật ngữ (D09) |
 | 9 | Nêu rõ giả định quan trọng nhất và rủi ro của kế hoạch |
 | 10 | Kết thúc bằng một yêu cầu cụ thể gửi khách hàng (ai, quyết định gì, khi nào) |
