@@ -104,12 +104,14 @@ Các thông báo đặc biệt:
 - **Giờ dạy liền nhau:** cùng ngày, cùng phòng, GV dạy B02E lúc 07:00 – 09:20 rồi B01E lúc 09:50 – 12:10. Nghỉ giữa hai lớp 30 phút.
   - Thẻ, phiếu in ra phải đủ cho **cả hai lớp**: 21 + 23 = 44 SV, khoảng 12 nhóm.
   - Các tình huống trong buổi dùng chung, nhưng mọi hoạt động có điểm **không gộp lớp**.
+  - Đề AM2 của hai lớp nên khác nhau, vì hai lớp làm bài cùng ngày, cách nhau 30 phút [CẦN GV XÁC NHẬN].
 - **Số nhóm mỗi lớp:** [CẦN GV CHỐT]. Đề xuất 6 nhóm mỗi lớp:
   - Lớp 21 SV: 3 nhóm 4 người + 3 nhóm 3 người.
   - Lớp 23 SV: 5 nhóm 4 người + 1 nhóm 3 người.
   - Hồ sơ Hải Đăng có 6 khách để chọn, nên mỗi lớp tối đa 6 nhóm.
   - Lịch bảo vệ: 3 nhóm × 30 phút = 90 phút mỗi buổi thi, còn dư 50 phút cho chuyển nhóm và chấm.
 - **Cao điểm chấm bài:**
+  - 02/12, 12/12, 30/12: AM2, 44 bài mỗi đợt.
   - 19/12 → 26/12: giữa kỳ, 12 bài.
   - 01/01 → 06/01: SMP bản viết và bảo vệ.
   - Lịch công việc GV chi tiết nằm ở D18.
