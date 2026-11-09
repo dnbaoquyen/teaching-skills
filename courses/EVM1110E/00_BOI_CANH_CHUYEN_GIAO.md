@@ -4,6 +4,23 @@
 
 > **Tệp này dùng để làm gì.** Tệp gộp toàn bộ bối cảnh từ hai phiên làm việc. Phiên thứ nhất soạn bài, dựng học liệu và chấm bài khóa trước. Phiên thứ hai tổng hợp lại quyết định và nội dung (tệp `00_BOI_CANH_TONG_HOP.md`). Phiên mới chỉ cần đọc tệp này cùng `course_passport.yaml`.
 
+> ## ⚠ ĐỌC TRƯỚC: nguồn ưu tiên cao nhất (cập nhật 9/11/2026)
+>
+> **1. Đọc ghi chú thực tế của GV sau học kỳ trước tiên:** `ho_so_trich_xuat/GHI_CHU_THUC_TE_GV_sau_hoc_ky.md`.
+> - TT-01: sinh viên nhầm lẫn các ma trận.
+> - TT-02: sinh viên thấy môn không liên quan chuyên ngành.
+> - TT-03: sửa chỗ thiếu nhất quán trong đề cương; giữ 13 buổi học + 2 buổi thi.
+> - TT-04: thiết kế lại thực hành, giữa kỳ, cuối kỳ. GV **chưa chọn phương án**.
+> - Thứ tự xử lý: **TT-04 → TT-01 → TT-02 → TT-03**. Mỗi bước phải chờ GV duyệt.
+> - Khi mâu thuẫn với tệp này hoặc với bất kỳ hồ sơ nào, **ghi chú GV thắng**.
+>
+> **2. Hồ sơ trích xuất ba phiên** (đọc khi cần nguyên văn yêu cầu và sổ lỗi), trong thư mục `ho_so_trich_xuat/`:
+> - `PHIEN_A_Ho_so_mon_hoc.md`: đề cương, Buổi 1, khung Buổi 7, quy trình tư liệu.
+> - `PHIEN_B_Ho_so_mon_hoc.md`: bài giảng, đánh giá, chấm bài khóa trước.
+> - `PHIEN_C_Ho_so_mon_hoc_slide.md`: 13 deck ở repo `academic-pptx-skill`, đặc tả slide, nội dung 354 slide.
+>
+> **3. Không tự định nghĩa "Ma trận nguồn giá trị ưu tiên".** Không hồ sơ nào có định nghĩa này, phải hỏi GV.
+
 > **Nguyên tắc.**
 > - Tệp không chứa dữ liệu sinh viên khóa trước (tên, điểm, bài nộp). Chỉ giữ phương pháp chấm, quyết định của GV và bài học rút ra.
 > - [VERIFY] = khẳng định chưa đối chiếu được nguồn gốc.
