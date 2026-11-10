@@ -67,7 +67,7 @@ Bộ câu hỏi đo của môn là **công cụ học tập**, không phải tha
 
 ### 2.5 Năm nguồn giá trị và Ma trận nguồn giá trị ưu tiên (B5) – XĐ-02 đã chốt
 
-**Năm nguồn** (theo giáo trình tham khảo: Marcos et al., 2018, chương 5; [CẦN XÁC MINH] số trang của hình năm nguồn):
+**Năm nguồn** (theo giáo trình tham khảo: Marcos et al., 2018, chương 5; [CẦN XÁC MINH] số trang của hình năm nguồn; GV sẽ bổ sung):
 
 | Nguồn | Nghĩa |
 |---|---|
@@ -146,7 +146,7 @@ Tên ô theo nguồn thứ cấp [CẦN XÁC MINH]; hướng hành động là n
 
 ## 4. Bảng đính chính
 
-| # | Chỗ sai | Ở đâu | Chuẩn | Khi giảng | Khi ra đề | Khi chấm **[CẦN GV CHỐT]** |
+| # | Chỗ sai | Ở đâu | Chuẩn | Khi giảng | Khi ra đề | Khi chấm (GV duyệt 10/11/2026) |
 |---|---|---|---|---|---|---|
 | Đ-01 | G = mục tiêu của agency với người đó | LMS Bài 3; S18 | G = mục tiêu của chính người đó (2.2) | Nói rõ ở B3 | Câu hỏi GRASP dùng định nghĩa 2.2 | Hiểu theo nghĩa cũ: không đạt mục con G |
 | Đ-02 | "Năm 1 coi như chắc chắn" (không chiết khấu) | W06 §1.2; bảng mô tả mục con cũ | Năm 1 không nhân r, vẫn chiết khấu (2.6) | Sửa slide W06, chỉ ra chênh 12% | Đề có cột năm 1 riêng | Lệch hơn 5% → sai công thức |
@@ -170,6 +170,6 @@ Tên ô theo nguồn thứ cấp [CẦN XÁC MINH]; hướng hành động là n
 | E04: góc nhìn agency, câu nối W06 | ✅ | Mục 1; Đ-03, Đ-06 |
 | CLV có ví dụ số, khớp D13 Đ5 và đáp án Hải Đăng | ✅ | 2.6; số ví dụ lấy từ W06, không đặt số mới (E05) |
 | QT-13: repo không chứa chi tiết case | ✅ | Mục 3 chỉ trỏ tới C01 trên Drive |
-| QT-08: cột "Khi chấm" ở mục 4 là đề xuất | ⏳ | Chờ GV duyệt |
+| QT-08: cột "Khi chấm" ở mục 4 | ✅ | GV duyệt 10/11/2026 |
 | QT-06: chỗ chưa đối chiếu nguồn | ✅ | 4 chỗ [CẦN XÁC MINH]: vai trò DMU (Webster & Wind), trang hình năm nguồn (Marcos et al., 2018), tên ô ma trận biên × CTS, nguồn GRASP |
 | Dài 3–5 trang | ⚠ | PDF 7 trang do bảng rộng; nội dung khoảng 4 trang chữ |
