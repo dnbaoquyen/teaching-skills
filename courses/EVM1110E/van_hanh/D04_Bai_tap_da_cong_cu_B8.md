@@ -89,11 +89,11 @@ Không có đáp án chung, vì mỗi nhóm một Key Account. Đối chiếu v�
 
 ### 2.6 Ảnh hưởng tới giáo án B8
 
-B8 có thêm AM2 bài 2 (20 phút đầu buổi) và D04 (35 phút). Đề xuất cho giáo án B8 (hạng mục slide và giáo án, làm sau):
+B8 có thêm AM2 bài 2 (20 phút đầu buổi) và D04 (35 phút). Phân bổ cho giáo án B8 (hạng mục slide và giáo án, làm sau):
 - **Bỏ S6 cũ** (đóng vai đánh giá chung trên Nova – An Phát, 30 phút); đưa ý "đánh giá chung định kỳ" vào lý thuyết S5.
 - **S3 rút từ 20 còn 15 phút.**
 - Lý thuyết S2 và S4 giữ nội dung, rút còn khoảng 18 phút mỗi phần; S5 còn 10 phút; S7 (tổng hợp) gộp vào câu chốt của D04.
 - Giữ phiếu kiểm tra cuối giờ (5 phút).
 - Tổng: AM2 20 · S1 5 · S2 18 · S3 15 · giải lao 8 · S4 18 · S5 10 · D04 35 · S8 5 = 134 phút, dự phòng 1 phút.
 
-**[CẦN GV CHỐT]** khi duyệt giáo án B8.
+**GV chốt 13/11/2026:** bỏ S6 cũ; áp dụng phân bổ thời lượng trên khi soạn giáo án B8.
