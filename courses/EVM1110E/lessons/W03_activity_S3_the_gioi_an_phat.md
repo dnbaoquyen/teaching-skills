@@ -1,5 +1,7 @@
 # Thực hành 1 — Thế giới của An Phát
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B03_Phieu_S3_S6.md` (13/11/2026): mỗi nhóm làm trên Key Account của mình trong danh mục Hải Đăng. Không dùng bản này.
+
 EVM1110E · Buổi 3 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

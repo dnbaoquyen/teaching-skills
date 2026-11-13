@@ -1,5 +1,13 @@
 # Giáo án — Buổi 3: Understanding the Customer & Customer Journey
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B03_Customer_Understanding_Journey_HK2026.pptx`, 25 slide, trên Drive riêng tư (thư mục Slides; có ví dụ case M × C).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B03_Phieu_S3_S6.md`. Mỗi nhóm làm trên Key Account chọn ở B2. S3: PESTEL và đối thủ **của khách**, 3 nhu cầu. S6: hành trình của **khách tham dự** sự kiện chính năm tới + GRASP cho mọi người trong DMU của hồ sơ (S6: 12 · 10 · 8 · 3).
+> - **Khởi động S1:** thay "tín dụng ngân hàng 2026 là chuyện của Nova" bằng câu chuyện Công ty C ra mắt dòng sản phẩm xanh và agency thắng nhờ ý tưởng đúng nhu cầu khách.
+> - **Ví dụ lý thuyết:** PESTEL, đối thủ, hành trình, DMU 7 vai, GRASP của Marketing Director đều lấy từ case M × C thay cho An Phát. Slide DMU dùng 7 nhãn vai trò của D02; slide GRASP dùng định nghĩa G đã chốt (XĐ-03).
+> - **Phiếu cuối giờ:** (1) Một yếu tố PESTEL của Key Account và nhu cầu nó tạo ra. (2) Người có Power cao nhất trong DMU và G của chính người đó.
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 3/15 (Phần 2 — KAM, buổi 2/7)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
