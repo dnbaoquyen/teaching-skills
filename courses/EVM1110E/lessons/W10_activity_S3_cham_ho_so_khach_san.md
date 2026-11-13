@@ -1,5 +1,8 @@
 # Thực hành 1 — Chấm hồ sơ khách sạn cho gala của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B10_Phieu_S3_S6.md` (13/11/2026). S3: Kraljic và chấm điểm nhà cung cấp chủ chốt cho sự kiện thật của nhóm; bộ 3 khách sạn giữ làm dữ liệu dự phòng (đã bỏ tên). Không dùng bản này.
+
+
 EVM1110E · Buổi 10 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

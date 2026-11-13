@@ -1,5 +1,11 @@
 # Giáo án — Buổi 10: Building Solutions: Supplier & Venue Management
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B10_Suppliers_Venues_HK2026.pptx`, 30 slide, trên Drive riêng tư. Bỏ tên Nova – An Phát (D02 Đ-08): ví dụ gala giữ ở dạng giả định không tên; thêm slide case M × C (ba điều khoản địa điểm: so sánh có căn cứ, giờ vào hàng, phụ thu mang đồ ngoài).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B10_Phieu_S3_S6.md` (phần GV trên Drive). S3: Kraljic cho sự kiện thật của nhóm + chấm điểm có trọng số cho một hạng mục Strategic/Bottleneck (7 · 4 · 6 · 3); bộ 3 khách sạn cũ giữ làm **dữ liệu dự phòng**, đã bỏ tên. S6: phân bổ nhà cung cấp vào giai đoạn mua và sau mua của khách hàng, xoay trạm **1 vòng** với vai mua sắm/kế toán của khách hàng bàn bên (3 · 15 · 8 · 4).
+> - **Nhắc:** giữa kỳ đã nộp 18/12; từ đây mọi sản phẩm nuôi SMP cuối kỳ (phụ lục P2).
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 10/15 (Phần 3 — Điều phối các bên liên quan phục vụ hành trình khách hàng, buổi 2/4)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

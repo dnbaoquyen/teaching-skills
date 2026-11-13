@@ -1,5 +1,8 @@
 # Thực hành 2 — Phân bổ nhà cung cấp vào giai đoạn mua và sau mua của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B10_Phieu_S3_S6.md` (13/11/2026). S6: phân bổ nhà cung cấp cho khách hàng thật của nhóm. Không dùng bản này.
+
+
 EVM1110E · Buổi 10 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này

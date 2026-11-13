@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 10: Building Solutions: Supplier & Venue Management
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B10_Suppliers_Venues_HK2026.pptx` (30 slide, trên Drive riêng tư). Thực hành theo phiếu D07 B10 trên sự kiện thật của nhóm; thêm slide case M × C.
+
+
 EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Số liệu ghi mã nguồn nhỏ ở chân slide. Không dùng logo, tên hay ảnh của địa điểm thật khi nói về thông số vênh nhau; ảnh sân Mỹ Đình chỉ dùng khi GV chấp nhận (có thể thay bằng tiêu đề báo dạng chữ).
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |
