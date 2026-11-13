@@ -1,5 +1,8 @@
 # Thực hành 2 — Mô phỏng: buổi đánh giá chung đầu tiên với Giám đốc Marketing mới
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B08_Phieu_S3.md` (13/11/2026). S6 cũ đã bỏ (GV chốt); thay bằng D04 – bài tập đa công cụ. Không dùng bản này.
+
+
 EVM1110E · Buổi 8 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này

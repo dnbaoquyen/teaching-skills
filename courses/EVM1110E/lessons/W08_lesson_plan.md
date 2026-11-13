@@ -1,5 +1,13 @@
 # Giáo án — Buổi 8: Governing the Key Account Relationship & Multi-dimensional Performance Measurement
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B08_KAM_Relationship_Measurement_HK2026.pptx`, 31 slide, trên Drive riêng tư. Bỏ Nova – An Phát (D02 Đ-08): ví dụ "đầu mối nghỉ việc" giữ ở dạng giả định không tên; thêm slide case M × C (cặp tiếp xúc nên mở sau dự án đầu tiên). Thực hành 2 = **D04**.
+> - **Bài kiểm tra cá nhân 2** (20 phút đầu buổi, trọng tâm B5–B7, 8 câu × 1,25): đề A, đề B, đáp án trên Drive riêng tư.
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B08_Phieu_S3.md` (phần GV trên Drive): sơ đồ tiếp xúc và bộ chỉ số cho Key Account của nhóm (4 · 8 · 6 · 2). S6 = `van_hanh/D04_Bai_tap_da_cong_cu_B8.md` (35 phút).
+> - **Tiến trình (135 phút):** KT2 20 · S1 3 · S2 (8.1) 17 · S3 20 · giải lao 8 · S4 (8.2) 18 · S5 (8.3) 6 · S6 D04 35 · S7 3 (trả kết quả cổng duyệt đối tượng cuối kỳ) · S8 3 · dự phòng 2. Bỏ đóng vai đánh giá chung với "anh Minh".
+> - **Nhắc:** hạn nộp giữa kỳ 23:59 Thứ 6 18/12/2026, không nhận bài trễ. Kết thúc phần KAM.
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 8/15 (Phần 2 — KAM, buổi cuối)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

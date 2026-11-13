@@ -1,5 +1,8 @@
 # Thực hành 1 — Từ nơ bướm sang kim cương: sơ đồ tiếp xúc Nova – An Phát
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B08_Phieu_S3.md` (13/11/2026). S3: sơ đồ tiếp xúc và bộ chỉ số cho Key Account của nhóm. Không dùng bản này.
+
+
 EVM1110E · Buổi 8 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 8: Governing the Key Account Relationship & Multi-dimensional Performance Measurement
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B08_KAM_Relationship_Measurement_HK2026.pptx` (31 slide, trên Drive riêng tư). Thực hành 1 theo phiếu D07 B8; Thực hành 2 là D04; thêm slide case M × C.
+
+
 EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Số liệu ghi mã nguồn nhỏ ở chân slide.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |
