@@ -1,5 +1,11 @@
 # Giáo án — Buổi 11: Spreading Value: Media & Influencers
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B11_Press_KOL_HK2026.pptx`, 30 slide, trên Drive riêng tư. Bỏ tên Nova – An Phát (D02 Đ-08): ví dụ gala ngân hàng giữ ở dạng giả định không tên; thêm slide case M × C (đề xuất hứa reach → hứa output, đo outcome cùng khách).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B11_Phieu_S3_S6.md` (phần GV trên Drive). S3: CVP một câu + ma trận nguồn giá trị ưu tiên cho khách hàng thật + chọn diễn giả/KOL/báo chí (5 · 8 · 5 · 2); bộ 5 ứng viên cũ giữ làm **dữ liệu dự phòng**, đã bỏ tên người. S6: kế hoạch khuếch đại trước sự kiện, xoay trạm **1 vòng** với vai thương hiệu/pháp chế của khách hàng bàn bên (3 · 15 · 8 · 4).
+> - **Lưu ý pháp lý:** điều khoản Luật Quảng cáo sửa đổi 2025 trên slide giữ [VERIFY] trước khi dạy.
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 11/15 (Phần 3 — Điều phối các bên liên quan phục vụ hành trình khách hàng, buổi 3/4)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

@@ -1,5 +1,8 @@
 # Thực hành 2 — Khuếch đại điểm chạm trước sự kiện bằng báo chí và KOL
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B11_Phieu_S3_S6.md` (13/11/2026). S6: kế hoạch khuếch đại cho khách hàng thật của nhóm. Không dùng bản này.
+
+
 EVM1110E · Buổi 11 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này

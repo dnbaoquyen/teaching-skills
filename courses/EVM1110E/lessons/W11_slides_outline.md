@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 11: Spreading Value: Media & Influencers
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B11_Press_KOL_HK2026.pptx` (30 slide, trên Drive riêng tư). Thực hành theo phiếu D07 B11 trên khách hàng thật của nhóm; thêm slide case M × C.
+
+
 EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Số liệu ghi mã nguồn nhỏ ở chân slide. **Không dùng ảnh chân dung** các cá nhân trong vụ Kera; chỉ dùng tiêu đề báo dạng chữ. Không dùng logo báo thật trong bản đồ nhà báo.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

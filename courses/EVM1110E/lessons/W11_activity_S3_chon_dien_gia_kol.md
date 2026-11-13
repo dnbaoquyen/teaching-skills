@@ -1,5 +1,8 @@
 # Thực hành 1 — Chọn diễn giả và KOL cho sự kiện của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B11_Phieu_S3_S6.md` (13/11/2026). S3: CVP, ma trận ưu tiên và chọn người khuếch đại cho khách hàng thật của nhóm; bộ 5 ứng viên giữ làm dữ liệu dự phòng (đã bỏ tên người). Không dùng bản này.
+
+
 EVM1110E · Buổi 11 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này
