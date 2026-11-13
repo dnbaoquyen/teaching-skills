@@ -1,5 +1,13 @@
 # Giáo án — Buổi 9: Resource Matching: Investors & Sponsors
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Từ buổi này mỗi nhóm làm trên khách hàng thật của nhóm** (đối tượng cuối kỳ đã qua cổng duyệt ở B8).
+> - **Deck dạy chính:** `EVM1110E_B09_Investors_Sponsors_HK2026.pptx`, 30 slide, trên Drive riêng tư. Ví dụ gala ngân hàng giữ ở dạng giả định không tên (D02 Đ-08); thêm slide case M × C (bên đồng tổ chức không ký với agency).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B09_Phieu_S3_S6.md` (phần GV trên Drive). S3: bối cảnh 5 dòng + chọn nhà tài trợ + Grid/Salience (5 · 7 · 5 · 3). S6: bản đồ điểm chạm tài trợ, xoay trạm **1 vòng** với vai người ra quyết định của khách hàng bàn bên (3 · 15 · 8 · 4).
+> - **Nhắc:** hạn nộp giữa kỳ 23:59 Thứ 6 18/12/2026. Trả điểm bài kiểm tra cá nhân 2 trong buổi này.
+> - **Thuật ngữ:** chỉ dùng ROI và ROO (D09).
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 9/15 (Phần 3 — Điều phối các bên liên quan phục vụ hành trình khách hàng, buổi 1/4)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

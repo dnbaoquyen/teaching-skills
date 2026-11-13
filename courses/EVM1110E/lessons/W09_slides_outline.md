@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 9: Resource Matching: Investors & Sponsors
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B09_Investors_Sponsors_HK2026.pptx` (30 slide, trên Drive riêng tư). Thực hành 1 và 2 theo phiếu D07 B9 trên khách hàng thật của nhóm; thêm slide case M × C.
+
+
 EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Số liệu ghi mã nguồn nhỏ ở chân slide. Logo thương hiệu thật (Techcombank, VIB, VPBank, Yeah1) chỉ dùng khi GV chấp nhận; có thể thay bằng tên chữ.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

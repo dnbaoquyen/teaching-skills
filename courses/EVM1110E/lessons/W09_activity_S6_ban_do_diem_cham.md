@@ -1,5 +1,8 @@
 # Thực hành 2 — Bản đồ điểm chạm tài trợ cho khách hàng của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B09_Phieu_S3_S6.md` (13/11/2026). S6: bản đồ điểm chạm tài trợ cho khách của khách hàng thật của nhóm. Không dùng bản này.
+
+
 EVM1110E · Buổi 9 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này

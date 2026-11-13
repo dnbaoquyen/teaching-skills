@@ -1,5 +1,8 @@
 # Thực hành 1 — Chọn nhà tài trợ cho gala của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B09_Phieu_S3_S6.md` (13/11/2026). S3: bối cảnh ngắn và chọn nhà tài trợ cho khách hàng thật của nhóm. Không dùng bản này.
+
+
 EVM1110E · Buổi 9 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này
