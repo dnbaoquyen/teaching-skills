@@ -108,14 +108,12 @@ Phân biệt để **đo riêng**. Không có tỷ lệ chi kích hoạt lý tư
 - cùng làm kích hoạt;
 - bảo vệ quyền tài trợ, chống ambush (đối thủ chen vào hưởng lợi mà không trả tiền).
 
-## 6. Đo lường tài trợ: nhiều loại “lợi tức”
+## 6. Đo lường tài trợ: ROI và ROO
 
 | Chỉ số | Ý nghĩa |
 |---|---|
 | ROI | Lợi tức tài chính |
 | ROO (return on objectives) | Tiến tới mục tiêu phi tài chính: nhận biết, thái độ, độ phủ truyền thông |
-| ROP (return on purpose) | Giá trị xã hội |
-| ROE (return on engagement) | Gắn kết cảm xúc giữa khách và thương hiệu |
 
 Theo ANA (2018), chỉ 37% doanh nghiệp ở Bắc Mỹ có quy trình chuẩn đo lợi tức tài trợ, chỉ 40% ghi kỳ vọng đo lường vào hợp đồng.
 
@@ -165,7 +163,7 @@ Agency có thể lấp các khoảng cách này ngay từ đầu.
 | Leveraging / activation | Khai thác tài trợ / kích hoạt (làm khán giả tương tác) |
 | Servicing | Phục vụ nhà tài trợ |
 | Ambush marketing | Tiếp thị phục kích (hưởng lợi mà không trả tiền tài trợ) |
-| ROI, ROO, ROP, ROE | Các loại lợi tức của tài trợ |
+| ROI, ROO | Lợi tức tài chính; lợi tức theo mục tiêu (môn chỉ dùng hai chỉ số này, theo D09) |
 
 ## Lỗi thường gặp
 

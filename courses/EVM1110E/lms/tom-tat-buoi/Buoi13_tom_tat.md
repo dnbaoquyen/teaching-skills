@@ -173,9 +173,9 @@ Ba lỗi in đậm dễ gặp nhất với nhóm sinh viên. Rubric phạt đún
 
 **Nộp bài:**
 
-- trên LMS trước **23:59 ngày 14/10/2026**: 01 file PDF kế hoạch + 01 file slide;
-- tên file EVM1110E_Nhom[số nhóm]_SMP.pdf và EVM1110E_Nhom[số nhóm]_Slide.pdf (hoặc .pptx);
-- nộp trễ 1 ngày trừ 20% số điểm; không được nộp trễ quá 3 ngày.
+- trên LMS trước **23:59 Thứ 5 31/12/2026**, cho **mọi nhóm** (kể cả nhóm bảo vệ ở Buổi 15): 01 file PDF kế hoạch + 01 file slide + 01 file Excel CLV, CTS;
+- tên file theo đề cuối kỳ (D12, mục 3), ví dụ `EVM1110E_B02E_Nhom5_SMP.pdf`;
+- **không nhận bài nộp trễ**; nộp trễ = vắng thi (D12, D17). Không có lần nộp lại.
 
 **Bốn phụ lục bắt buộc:**
 
