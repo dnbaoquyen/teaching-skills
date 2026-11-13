@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 4: Measuring Relationship Quality
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B04_Relationship_Quality_HK2026.pptx` (26 slide, trên Drive riêng tư). Thay đổi: thêm slide mục tiêu và liên hệ nghề; S1 chung hóa; slide khoảng cách không còn số liệu tự đặt (E05); thêm slide case M × C về xung đột chức năng; hai slide thực hành theo D07; bỏ mọi tên Nova – An Phát.
+
+
 EVM1110E · 20 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text; bảng phân biệt bằng ký hiệu. Nguồn ghi mã nhỏ ở chân slide.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

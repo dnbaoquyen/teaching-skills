@@ -1,5 +1,12 @@
 # Giáo án — Buổi 4: Measuring Relationship Quality
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B04_Relationship_Quality_HK2026.pptx`, 26 slide, trên Drive riêng tư (thư mục Slides; có ví dụ case M × C).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B04_Phieu_S3_S6.md`. S3: chẩn đoán quan hệ với Key Account của nhóm từ bằng chứng trong hồ sơ, chấm T1–F3 hai phía, tìm khoảng cách (7 · 8 · 5). S6: cuộc trò chuyện khó nhất với Key Account, đóng vai bộ ba, lộ trình 3 bước (3 · 8 · 12 · 7).
+> - **Ví dụ lý thuyết:** S1 chung hóa (bỏ Nova – An Phát); slide khoảng cách hai phía bỏ số liệu tự đặt (E05); thêm slide case M × C (C-18, C-19) làm ví dụ xung đột chức năng được giải quyết, đặt sau case "Về đây bốn cánh chim trời".
+> - **Nhắc trong buổi:** Buổi 5 có bài kiểm tra cá nhân 1 (20 phút đầu buổi, B1–B4).
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 4/15 (Phần 2 — KAM, buổi 3/7)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
