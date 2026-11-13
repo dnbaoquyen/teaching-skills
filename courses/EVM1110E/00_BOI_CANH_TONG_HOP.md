@@ -213,7 +213,7 @@ Phần I (1–7) 60% · Phần II (8–11) 40%. AM9 áp theo phụ lục đóng 
 - `01_Bang_mo_ta_muc_diem_chi_tiet`: chi tiết hóa tiêu chí 1–7 thành **44 mục con** chấm 0–1–2, quy ra mức (bước 0,25), áp **trần điểm** theo mô tả mức Trung bình/Kém của đề; khi khác đề thi thì **đề thi là căn cứ**.
 - Bản viết cho 7 nhóm → đổi số sổ theo lớp mới.
 
-### 6.3 Kiểm tra trắc nghiệm cá nhân Buổi 1–8 — `assessments/EVM1110E_kiem_tra_trac_nghiem_B1-B8.md/.pptx`
+### 6.3 Kiểm tra trắc nghiệm cá nhân Buổi 1–8 — `assessments/EVM1110E_kiem_tra_trac_nghiem_B1-B8.md/.pptx` (đã chuyển sang Drive 13/11/2026, xem `van_hanh/00_TAI_LIEU_GV_TREN_DRIVE.md`)
 - 10 câu tình huống Nova – An Phát, 1 điểm/câu, ~15 phút; trạng thái **bản soạn chờ GV xác nhận**; đáp án và giải thích ở cuối file (dành cho GV); bản PPTX để trình chiếu.
 - **Đáp án:** 1C · 2A · 3B · 4C · 5D · 6D · 7A · 8C · 9B · 10A. Phân bố: Buổi 1 (câu 1), 2 (2), 3 (3), 4 (4), 5 (5), 6 (6–7), 7 (8), 8 (9–10).
 - *Chưa ghi rõ bài này tính vào thành phần điểm nào (AM2?).*

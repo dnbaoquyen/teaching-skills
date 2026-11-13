@@ -138,7 +138,7 @@ Tên ô theo nguồn thứ cấp [CẦN XÁC MINH]; hướng hành động là n
 
 | Tình huống | Dùng ở | Nguồn chuẩn duy nhất | Quy tắc |
 |---|---|---|---|
-| **Danh mục Hải Đăng** (8 khách, hư cấu) | Thực hành B1–B8, giữa kỳ | `assessments/giua_ky/01_…SV.md` (dữ kiện) và `02_…GV_dap_an.md` (số tính sẵn) | Tham số cố định: chi phí vốn 12%/năm · d = 12% · T = 5 · ngưỡng ma trận = trung vị danh mục (biên 21%; CTS/DT 6,55%). Không thêm số ngoài hồ sơ |
+| **Danh mục Hải Đăng** (8 khách, hư cấu) | Thực hành B1–B8, giữa kỳ | `assessments/giua_ky/01_…SV.md` (dữ kiện) và bản GV "02" trên Drive (số tính sẵn) | Tham số cố định: chi phí vốn 12%/năm · d = 12% · T = 5 · ngưỡng ma trận = trung vị danh mục (biên 21%; CTS/DT 6,55%). Không thêm số ngoài hồ sơ |
 | **Case Agency M × Công ty C** (case thật, ẩn danh) | Minh họa ở mọi buổi có thể; B12 dùng mục giấy phép **chỉ như tình huống đạo đức** | **C01 bản 2 trên Drive riêng tư của môn**. Repo **không chép** tên, ngành, số liệu của case (QT-13) | Không là đối tượng bài cuối kỳ. Giữ nguyên số liệu, ngày, giờ; chỉ ghi chức danh; tên báo được giữ (CQ-00b) |
 | **Nova – An Phát** | **Ngừng dùng** | — | Thay bằng case M × C. Các số "3 hay 4 năm hợp tác" hết hiệu lực |
 

@@ -664,7 +664,7 @@ Khung góc nhìn đã duyệt ngày 27/9/2026, xem `lessons/W07_khung_goc_nhin.m
 
 ## 8. Các thành phần đánh giá khác và cách tính điểm khóa trước
 
-**Kiểm tra trắc nghiệm cá nhân Buổi 1–8:** `assessments/EVM1110E_kiem_tra_trac_nghiem_B1-B8.md/.pptx`.
+**Kiểm tra trắc nghiệm cá nhân Buổi 1–8:** `assessments/EVM1110E_kiem_tra_trac_nghiem_B1-B8.md/.pptx` (đã chuyển sang Drive 13/11/2026, xem `van_hanh/00_TAI_LIEU_GV_TREN_DRIVE.md`).
 - 10 câu tình huống Nova – An Phát, 1 điểm/câu, khoảng 15 phút. Đang là bản soạn chờ GV xác nhận.
 - Đáp án: 1C · 2A · 3B · 4C · 5D · 6D · 7A · 8C · 9B · 10A.
 - Phân bố câu theo buổi: Buổi 1 (câu 1), 2 (câu 2), 3 (câu 3), 4 (câu 4), 5 (câu 5), 6 (câu 6–7), 7 (câu 8), 8 (câu 9–10).
