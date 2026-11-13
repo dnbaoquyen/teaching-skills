@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 13: Building the SMP around the Key Account Plan
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B13_SMP_Workshop_HK2026.pptx` (26 slide, trên Drive riêng tư). Khung A–E trên case M × C thay bộ khung An Phát; năm nguồn + ma trận ưu tiên thay slide "bốn nguồn".
+
+
 EVM1110E · 21 slide (buổi xưởng — ít slide hơn các buổi trước) · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Nguồn ghi mã nhỏ ở chân slide. Không có bài mẫu SMP hoàn chỉnh (quyết định GV 6).
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

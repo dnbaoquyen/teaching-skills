@@ -9,9 +9,11 @@ Repo này công khai. Theo quyết định của GV (13/11/2026), mọi tài li�
 | D12b – Ghi chú GV cuối kỳ | Ghi chú chấm cuối kỳ | |
 | 02 – Hồ sơ Hải Đăng, bản GV | Số liệu tính sẵn, đáp án tham khảo B1–B8 | Bản SV vẫn ở `assessments/giua_ky/01_…SV.md` |
 | D04 – bản đầy đủ | Phần GV của bài tập đa công cụ B8 | Repo giữ phiếu SV |
-| D07 – phiếu B1 → B12… bản đầy đủ (B7 có thẻ vai đóng vai) | Mốc thời gian, đáp án, câu chốt của từng phiếu | Repo giữ phần SV |
+| D07 – phiếu B1 → B13 bản đầy đủ (B7 có thẻ vai đóng vai) | Mốc thời gian, đáp án, câu chốt của từng phiếu | Repo giữ phần SV |
 | Bài kiểm tra cá nhân 1 (B5, 02/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, phạm vi B1–B4 |
 | Bài kiểm tra cá nhân 2 (B8, 12/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, trọng tâm B5–B7 |
+| Bài kiểm tra cá nhân 3 (B13, 30/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, trọng tâm B8–B12 |
+| Slide B1 → B13 (học kỳ mới) | Mỗi buổi một tệp `.pptx` + `build_bNN.js` trong thư mục Slides | Có ví dụ case M × C nên không đưa vào repo |
 | Bộ trắc nghiệm B1–B8 cũ (md, pptx) | Đã thay bằng D05 | Chỉ để tra cứu |
 
 **Quy tắc từ nay:** tài liệu mới có đáp án hoặc phần GV → soạn và lưu trên Drive; repo chỉ giữ bản phát cho SV và bản chỉ mục.

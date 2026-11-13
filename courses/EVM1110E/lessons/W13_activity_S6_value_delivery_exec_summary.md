@@ -1,5 +1,8 @@
 # Thực hành 2 — Value Delivery tích hợp bên liên quan bên ngoài + Executive Summary
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B13_Phieu_S3_S6.md` (13/11/2026). S6: phần D, phần E, tập dượt với Customer Board; 32 phút. Không dùng bản này.
+
+
 EVM1110E · Buổi 13 · Đoạn S6 (35 phút)
 
 ## Vì sao chúng ta làm bài này

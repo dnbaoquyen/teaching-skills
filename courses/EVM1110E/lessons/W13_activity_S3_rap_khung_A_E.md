@@ -1,5 +1,8 @@
 # Thực hành 1 — Ráp khung A–E cho SMP của nhóm
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B13_Phieu_S3_S6.md` (13/11/2026). S3: khung A–E + bảng truy vết (phụ lục P2) + giả định (P3); rút còn 25 phút vì có KT3. Không dùng bản này.
+
+
 EVM1110E · Buổi 13 · Đoạn S3 (30 phút)
 
 ## Vì sao chúng ta làm bài này
