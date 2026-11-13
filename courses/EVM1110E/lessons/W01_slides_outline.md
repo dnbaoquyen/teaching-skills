@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 1: Định hình hệ sinh thái các bên liên quan bên ngoài
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính là `EVM1110E_B01_Stakeholder_Ecosystem_HK2026.pptx` (33 slide, trên Drive riêng tư). Thay đổi so với dàn ý cũ: thêm slide "Mục tiêu và liên hệ nghề" (#2), "Giữa kỳ Hải Đăng / cuối kỳ khách hàng thật" (#8), "Ba quy định + chia nhóm" (#9), thẻ công cụ Grid và Salience (#27), "Ba ý của Buổi 1" (#31); slide điểm theo D17; ví dụ ở #16, #21, #26 lấy từ case M × C thay cho Nova – An Phát; hai slide thực hành theo phiếu D07; phiếu cuối giờ không còn "dự án cũ". Không còn mục `[NEEDS PROFESSOR INPUT]` về nộp trễ và AI (đã có D17).
+
+
 EVM1110E · 25 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Ghi chú hình ảnh có mô tả thay thế (alt-text) và lưu ý màu phù hợp người mù màu (không phân biệt chỉ bằng đỏ/xanh lá — dùng thêm ký hiệu/hoa văn).
 
 > **Cập nhật 4/10/2026:** đã có deck trình chiếu đầy đủ `slides/W01_slides.pptx` (44 slide, khuôn MKT1107 `W1_slides_v2`; bản dự phòng font Roboto `slides/W01_slides_Roboto.pptx`; mã nguồn `slides/src/w01.js`). Lời giảng ở **mọi** slide theo mẫu **Nói · (GV) · Hỏi lớp · Chuyển ý**. Deck giữ nguyên tiến trình giáo án (S1–S8, hai thực hành, giải lao 8 phút) và bổ sung: case mở bài ISAF Fremantle 2011, định nghĩa ba nguồn, Olympic London 2012, sáu nhóm bên liên quan theo slide bộ môn, sáu vai (Getz et al., 2006), hai hoạt động giơ tay, bảng “Grid và Salience không khớp”, vòng lặp năm việc, slide đạo đức, tài liệu tham khảo APA 7. Nguồn đã đối chiếu: `buoi-01_tu-lieu-tong-hop.md` mục 8. Bảng dưới đây giữ lại để đối chiếu.

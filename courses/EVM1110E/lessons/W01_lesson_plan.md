@@ -1,5 +1,13 @@
 # Giáo án — Buổi 1: Định hình hệ sinh thái các bên liên quan bên ngoài
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B01_Stakeholder_Ecosystem_HK2026.pptx`, 33 slide, khuôn academic-pptx-skill (nền FBFAF4, 6 màu nhấn, Alexandria). Deck và mã dựng chỉ lưu trên Drive riêng tư, thư mục Slides, vì có ví dụ từ case M × C (QT-13).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B01_Phieu_S4_S6.md` (sự kiện A/B của Hải Đăng). Bỏ "khách hàng từ dự án cũ" và Nova – An Phát.
+> - **Tiến trình mới:** S1 00–05 · S2 05–20 (mục tiêu và liên hệ nghề; định vị môn D06; 4 cột điểm; giữa kỳ Hải Đăng, cuối kỳ khách hàng thật, hạn 10/12; 3 quy định; **chia nhóm tự chọn**) · S3 20–40 (ví dụ mẫu: case M × C) · S4 40–55 · giải lao 55–63 · S5 63–87 (ví dụ Grid và "leo hạng" trên case M × C; thẻ công cụ 1, 2 của D03) · S6 87–120 · S7 120–125 (sửa A1, chụp ảnh cho P2; lộ trình) · S8 125–132 (Ba ý của Buổi 1 + phiếu cuối giờ) · dự phòng 3 phút.
+> - **Phát trong buổi:** D03 (bảng so sánh, thẻ 1, 2), D09, D17; đề D11, D12, rubric D13 trên LMS.
+> - **Phiếu cuối giờ câu 1:** "Trong sự kiện nhóm vừa phân tích, bên nào dễ bị đánh giá thấp nhất? Theo Salience, nó thiếu thuộc tính nào, và điều gì có thể khiến nó có thêm thuộc tính đó?"
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 1/15
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
