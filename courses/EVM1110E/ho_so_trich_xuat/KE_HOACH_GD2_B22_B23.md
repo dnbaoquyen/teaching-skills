@@ -48,7 +48,7 @@ Ngày lập: 9/11/2026 (phiên B).
 | ĐC-17 | Phần 4 ghi "EVALUATION (3 Sessions)", gộp cả Buổi 13. GV đã xác định "13 buổi học + 2 buổi thi" | Đổi thành "Phần 4: Buổi 13 (xưởng hoàn thiện) + Buổi 14–15 (thi kết thúc môn)" | U03 |
 | ĐC-18 | Buổi 2 ghi "(7 Sessions – 46.7% Weight)". 46,7% là tỷ lệ số buổi (7/15), không phải trọng số điểm, nên dễ hiểu nhầm | "(7/15 buổi)" | QT-07 |
 | ĐC-19 | Buổi 14–15 ghi "Customer Board (Instructors)" (số nhiều); đề thi chỉ ghi "giảng viên" (B-L22) | Thống nhất theo đề thi; số người trong Customer Board: [NEEDS PROFESSOR INPUT] | E05 |
-| ĐC-20 | Mô tả tóm tắt nêu "công chúng mục tiêu" là một bên liên quan, nhưng không buổi nào có mục riêng cho nhóm này (Buổi 11 chỉ có "audience targeting") | Ghi rõ "công chúng mục tiêu được xét qua khách của Key Account (Buổi 3, 11)", hoặc bỏ khỏi mô tả. **[CẦN GV CHỌN]** | QT-05 |
+| ĐC-20 | Mô tả tóm tắt nêu "công chúng mục tiêu" là một bên liên quan, nhưng không buổi nào có mục riêng cho nhóm này (Buổi 11 chỉ có "audience targeting") | Ghi rõ "công chúng mục tiêu được xét qua khách của Key Account (Buổi 3, 11)", hoặc bỏ khỏi mô tả. **[CẦN GV CHỌN]** **→ ĐÃ CHỐT 13/11/2026: ghi rõ cách xét; đã sửa trong cả hai bản Word (mục mô tả tóm tắt).** | QT-05  |
 
 ### Nhóm 3 – Phương pháp, yêu cầu, tự học
 
@@ -67,13 +67,13 @@ Ngày lập: 9/11/2026 (phiên B).
 | # | Chỗ thiếu nhất quán (vị trí trong đề cương) | Đề xuất sửa | Mã liên quan |
 |---|---|---|---|
 | ĐC-28 | Mục tài liệu chưa liệt kê **Marcos et al. (2018)** và tài liệu **Cranfield KAM**, dù đã được GV cho phép dùng và bài giảng dùng nhiều | Thêm vào "Tài liệu tham khảo" | U43 |
-| ĐC-29 | Holloway & Bryde (2016) có trong danh mục, nhưng chưa xác định buổi nào dùng [CẦN XÁC MINH bằng cách tìm trong `lessons/`] | Nếu không có buổi nào dùng: **[CẦN GV CHỌN]** giữ hay bỏ | QT-06 |
+| ĐC-29 | Holloway & Bryde (2016) có trong danh mục, nhưng chưa xác định buổi nào dùng [CẦN XÁC MINH bằng cách tìm trong `lessons/`] | Nếu không có buổi nào dùng: **[CẦN GV CHỌN]** giữ hay bỏ **→ Đã rà: không buổi nào dùng. ĐÃ CHỐT 13/11/2026: bỏ khỏi danh mục; đã sửa trong cả hai bản Word.** | QT-06  |
 | ĐC-30 | CLO7 (ngoại ngữ, 3/5) khác với quyết định "giảng hoàn toàn bằng tiếng Việt" (R08); ngôn ngữ thuyết trình bài thi chưa chốt | Phụ thuộc **XĐ-17** | XĐ-17 |
-| ĐC-31 | Danh sách "Giảng viên tham gia giảng dạy (dự kiến)" chưa có GV phụ trách hiện tại; ngày phê duyệt và học kỳ áp dụng vẫn là năm 2025 | [NEEDS PROFESSOR INPUT] (thủ tục của Khoa) | U53 |
+| ĐC-31 | Danh sách "Giảng viên tham gia giảng dạy (dự kiến)" chưa có GV phụ trách hiện tại; ngày phê duyệt và học kỳ áp dụng vẫn là năm 2025 | [NEEDS PROFESSOR INPUT] (thủ tục của Khoa) **→ ĐÃ CHỐT 13/11/2026: để ô [CẦN KHOA ĐIỀN] cho giảng viên phụ trách, ngày phê duyệt, học kỳ áp dụng; GV điền khi nộp Khoa.** | U53  |
 
 **Tổng: 31 điểm.** Gồm 8 điểm về CLO và đánh giá; 12 điểm về nội dung và thuật ngữ; 7 điểm về phương pháp, yêu cầu, tự học; 4 điểm về tài liệu, ngôn ngữ, hành chính.
 
-Bốn điểm chờ GV chọn hoặc quyết: ĐC-06 (GV tự xử lý), ĐC-20, ĐC-29, ĐC-31.
+Bốn điểm chờ GV chọn hoặc quyết: ĐC-06 (GV tự xử lý), ĐC-20, ĐC-29, ĐC-31. **Cập nhật 13/11/2026:** ĐC-20, 29, 31 đã chốt và đã sửa trong đề cương; còn ĐC-06.
 
 Ba điểm phụ thuộc xung đột còn mở: ĐC-11 (XĐ-02), ĐC-27 (XĐ-13), ĐC-30 (XĐ-17).
 
