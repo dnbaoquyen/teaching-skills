@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 2: KAM Mindset & Key Account Selection
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B02_KAM_Mindset_Selection_HK2026.pptx` (27 slide, trên Drive riêng tư). Thay đổi: thêm slide mục tiêu và liên hệ nghề (#3), thẻ công cụ 3 so với Grid (#23); slide S1 chung hóa; #9, #17, #18 dùng case M × C thay cho An Phát; hai slide thực hành theo phiếu D07; phiếu cuối giờ không còn "dự án cũ".
+
+
 EVM1110E · 21 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text; bảng phân biệt bằng ký hiệu, không chỉ màu. Nguồn ghi mã nhỏ ở chân slide.
 
 > **Cập nhật 4/10/2026:** đã có deck đầy đủ `slides/W02_slides.pptx` (33 slide, khuôn MKT1107; bản Roboto; mã nguồn `slides/src/w02.js`), lời giảng 4 phần ở mọi slide; nguồn mới đọc trực tiếp: Marcos et al. (2018) chương 1–2 (ba câu hỏi chọn Key Account, yếu tố hấp dẫn và vị thế, năm câu đồng đầu tư, case 17 người bán – 60 Key Account), slide bộ môn Chương 1. Xem `buoi-02_tu-lieu-tong-hop.md` mục 8. Bảng dưới giữ để đối chiếu.

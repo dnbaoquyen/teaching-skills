@@ -1,5 +1,7 @@
 # Thực hành 1 — Sales hay KAM?
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B02_Phieu_S3_S6.md` (13/11/2026): dùng danh mục Hải Đăng thay cho Nova – An Phát. Không dùng bản này.
+
 EVM1110E · Buổi 2 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

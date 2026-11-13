@@ -1,5 +1,14 @@
 # Giáo án — Buổi 2: KAM Mindset & Key Account Selection
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B02_KAM_Mindset_Selection_HK2026.pptx`, 27 slide, khuôn academic-pptx-skill; chỉ lưu trên Drive riêng tư, thư mục Slides (có ví dụ case M × C).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B02_Phieu_S3_S6.md`. S3: 8 việc làm đã chung hóa (bỏ Nova – An Phát). S6: chấm 8 khách của Hải Đăng, **bốc thăm thứ tự**, mỗi nhóm chọn một Key Account trong KH1, KH2, KH3, KH5, KH6, KH7, không trùng trong lớp.
+> - **Ví dụ lý thuyết:** S2 dùng case M × C (Sales hay KAM với Công ty C); S4 chấm thử Công ty C và slide "vị thế được xây qua nhiều dự án" thay cho An Phát. Thêm slide mục tiêu và liên hệ nghề, thẻ công cụ 3 (so với Grid).
+> - **Thời lượng giữ nguyên.** S6: 2 bốc thăm · 15 chấm · 3 xếp hạng · 6 vòng chọn · 4 viết 3 câu lập luận (thay xoay trạm vai CEO).
+> - **Phiếu cuối giờ:** (1) Một việc Hải Đăng nên làm khác đi với Key Account nhóm vừa chọn, nếu chuyển từ Sales sang KAM. (2) Key Account của nhóm yếu nhất ở tiêu chí nào, bằng chứng nào trong hồ sơ.
+> - **Sau buổi:** ghi kết quả chọn của hai lớp vào D21 (thẻ biến cố B8 phát theo kết quả này).
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 2/15 (Phần 2 — Key Account Management, buổi 1/7)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
