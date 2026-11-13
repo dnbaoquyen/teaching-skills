@@ -1,7 +1,7 @@
 # Bài kiểm tra cá nhân — Trắc nghiệm Buổi 1–8
 
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Hình thức:** cá nhân, 10 câu, mỗi câu 1 điểm · **Thời gian gợi ý:** 15 phút
-**Trạng thái:** BẢN SOẠN (3/10/2026) — chờ GV xác nhận.
+**Trạng thái:** ĐÃ ĐƯỢC THAY bằng `van_hanh/D05_Ngan_hang_cau_kiem_tra_nhanh.md` (13/11/2026). Không dùng bản này: còn tình huống Nova – An Phát (D02 Đ-08) và câu 6 ghi "năm 1 coi như chắc chắn" (D02 Đ-02).
 
 **Hướng dẫn cho sinh viên:** Chọn **một** đáp án đúng nhất. Các tình huống dùng công ty giả định *Nova Events* (agency) và *Ngân hàng An Phát* (Key Account); mọi tên và con số là giả định.
 
