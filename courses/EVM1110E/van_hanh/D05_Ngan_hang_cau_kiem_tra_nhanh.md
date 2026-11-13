@@ -205,6 +205,38 @@
 - C. Cấp 5 – ROI
 - D. Cấp 3 – hành vi
 
+## Phần B2 – Câu bổ sung để đủ cặp tương đương (5 câu, thêm 13/11/2026)
+
+**K5.** Khách hàng Z đang ở ô Passive (biên cao, cost-to-serve thấp). Nhưng Z vừa thông báo năm sau chuyển hoạt động chính ra nước ngoài, chỉ còn 1 sự kiện nhỏ ở Việt Nam, và từ chối ký hợp đồng khung. Một nhóm kết luận: *"Chọn Z làm Key Account vì Z đang ở ô Passive."* Nhận xét nào đúng?
+- A. Chưa đúng: biên × CTS là ảnh chụp lợi nhuận hiện tại; chọn Key Account phải xét sức hấp dẫn tương lai và cổng đồng đầu tư, mà cả hai đều yếu
+- B. Đúng, vì ô Passive là ô có lợi nhất
+- C. Đúng, nếu Z có quyền lực cao trên Grid
+- D. Không thể kết luận nếu chưa xếp Z trên Kraljic
+
+**C5.** Khoản nào **tính vào** cost-to-serve của một khách hàng?
+- A. Tiền thuê ballroom cho gala của khách
+- B. Chi phí đi lại thêm của đội agency vì khách yêu cầu họp trực tiếp mỗi tuần tại tỉnh khác, ngoài phạm vi báo giá
+- C. Chi phí in backdrop và standee của sự kiện
+- D. Cát-xê MC của sự kiện
+
+**B1b.** Agency gửi đề xuất nhấn mạnh "sân khấu ấn tượng nhất năm" cho Giám đốc Tài chính của Key Account, người duyệt ngân sách và đang có KPI giảm 10% chi phí hoạt động. Đề xuất bị treo. Theo GRASP, agency đã bỏ qua điều gì?
+- A. State của Giám đốc Marketing
+- B. Goal và Appeal của chính người duyệt ngân sách: KPI chi phí, nên điều thu hút họ là tiết kiệm và kiểm soát rủi ro
+- C. Power của nhân viên Marketing
+- D. PESTEL của ngành sự kiện
+
+**B2b.** Sau sự kiện, Key Account mời agency vào buổi đánh giá, nêu thẳng 3 điểm chưa hài lòng. Hai bên thống nhất cách sửa cho sự kiện sau. Theo Morgan & Hunt (1994), đây là dấu hiệu gì?
+- A. Quan hệ xấu đi, vì đã có xung đột
+- B. Key Account thiếu commitment
+- C. Functional conflict: bất đồng được nêu và giải quyết êm thấm, dấu hiệu quan hệ lành mạnh
+- D. Chỉ là thủ tục, không nói gì về chất lượng quan hệ
+
+**B3b.** Trước khi nghĩ ý tưởng mới, agency và Key Account cùng ngồi gom và sắp xếp số liệu khảo sát đại lý của 3 năm, để tìm hiểu vì sao lượng đại lý tham dự hội nghị giảm. Đây là thực hành đồng kiến tạo nào?
+- A. Co-testing
+- B. Co-design
+- C. Co-diagnosis
+- D. Co-ideation
+
 ## Phần C – Đáp án và giải thích
 
 | Câu | Đáp án | Vì sao đúng | Vì sao các phương án nhiễu sai |
@@ -239,17 +271,22 @@
 | B4 | **C** | 300/1,12 + 300 × 0,8/1,12² = 267,9 + 191,3 ≈ 459 | A: quên cả r và chiết khấu; B: quên chiết khấu; D: không chiết khấu năm 1 (lỗi "năm 1 chắc chắn", D02 Đ-02) |
 | B5 | **A** | Một đầu mối ↔ một đầu mối là Bow-tie; lộ trình sang Diamond | B, D: nhầm mô hình hiện tại; C: vẫn là Bow-tie |
 | B6 | **D** | Áp dụng vào công việc = hành vi (cấp 3) | A, B: cấp thấp hơn; C: cần quy ra tiền |
+| K5 | **A** | Biên × CTS không trả lời câu hỏi chọn Key Account | B: dùng ảnh chụp hiện tại thay cho tương lai; C: nhầm Grid; D: Kraljic xếp hạng mục mua |
+| C5 | **B** | Chi phí phục vụ riêng do hành vi của khách, không thu được | A, C, D: chi phí sản xuất sự kiện, đã nằm trong biên gộp |
+| B1b | **B** | G = mục tiêu của chính người đó; A = điều thu hút họ | A, C: người khác, thuộc tính khác; D: không liên quan DMU |
+| B2b | **C** | Bất đồng được nêu và giải quyết = functional conflict | A: hiểu lầm "có xung đột = xấu"; B: không có căn cứ; D: bỏ qua ý nghĩa của buổi đánh giá chung |
+| B3b | **C** | Co-diagnosis: "collecting and organizing information for collaborative use" (Marcos-Cuevas et al., 2016) | D: tạo ý tưởng; B: phát triển khái niệm; A: làm thử |
 
-**Phân bố đáp án (30 câu):** A 8 · B 7 · C 7 · D 8.
+**Phân bố đáp án (35 câu):** A 9 · B 9 · C 9 · D 8.
 
 ## Phần D – Rút câu cho 3 bài kiểm tra cá nhân (AM2)
 
 | Bài | Ngày | Phạm vi | Câu rút được | Cặp tương đương cho hai lớp |
 |---|---|---|---|---|
-| Bài 1 | B5, 02/12/2026 | B1–B4 | G1–G4, S1–S4, K1–K4, B1, B2 | (G1, G3) · (G2, K2) · (S1, S2) · (S3, S4) · (K1, K4) · (B1, B2: khác khái niệm, dùng chung cho hai lớp) |
-| Bài 2 | B8, 12/12/2026 | B5–B7 | U1–U4, C1–C4, R1–R4, B3, B4 | (U1, U2) · (U3, U4) · (C1, C2) · (C3, B4) · (R1, R2) · (R3, R4) |
-| Bài 3 | B13, 30/12/2026 | B8–B12 | B5, B6 | **Chưa đủ câu** [CẦN BỔ SUNG] |
+| Bài 1 | B5, 02/12/2026 | B1–B4 | G1–G4, S1–S4, K1–K5, B1, B1b, B2, B2b | (G1, G3) · (G2, K2) · (S1, S2) · (S3, S4) · (K1, K4) · (K3, K5) · (B1, B1b) · (B2, B2b). G4 dự phòng |
+| Bài 2 | B8, 12/12/2026 | B5–B7 | U1–U4, C1–C5, R1–R4, B3, B3b, B4 | (U1, U2) · (U3, U4) · (C1, C2) · (C3, B4) · (C4, C5) · (R1, R2) · (R3, R4) · (B3, B3b) |
+| Bài 3 | B13, 30/12/2026 | B8–B12 | B5, B6 | **Chưa đủ câu:** cần 16 câu (8 cặp) [CẦN BỔ SUNG] |
 
-- Số câu mỗi bài và cách chấm câu tình huống trong 20 phút: [CẦN GV CHỐT] (đề xuất ở báo cáo kèm theo).
+- **Hình thức (GV chốt 13/11/2026):** mỗi bài **8 câu trắc nghiệm tình huống**, **1,25 điểm/câu**, thang 10, làm trong 20 phút. Mỗi lớp nhận một câu trong mỗi cặp; câu thứ nhất của cặp cho B01E, câu thứ hai cho B02E (GV có thể đảo).
 - **Bài 3 cần thêm câu cho B8–B12** (Bow-tie/Diamond, chỉ số, ROI; nhà tài trợ; nhà cung cấp và địa điểm; báo chí, KOL; xung đột lợi ích). Soạn sau khi xong lesson plan B9–B12, để câu hỏi khớp nội dung đã dạy.
 - Bộ trắc nghiệm cũ `assessments/EVM1110E_kiem_tra_trac_nghiem_B1-B8.md` **được thay** bằng D05: câu 2, 7, 8 vào phần A (K1, C2, R1); câu 1 (cư dân, Dependent) thay bằng S1–S4 vì trùng ví dụ trong bài giảng B1; câu 3, 4, 5, 6, 9, 10 thành B1–B6. Câu 6 cũ được sửa đúng công thức D02 (d = 12%; bỏ chữ "năm 1 coi như chắc chắn").

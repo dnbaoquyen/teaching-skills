@@ -59,7 +59,7 @@ learning_outcomes:
 
 assessment_plan:
   - { id: A1, type: participation, title: "AM1 – Chuyên cần", weight: 10, outcomes_assessed: [LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
-  - { id: A2, type: quiz, title: "AM2 – 3 bài kiểm tra cá nhân tình huống trên lớp (20 phút đầu buổi): bài 1 B5 02/12, bài 2 B8 12/12, bài 3 B13 30/12 (GV duyệt D01 và yêu cầu thêm 1 bài cá nhân, 9/11/2026); tổng 20%; GV đồng ý gán CLO1", weight: 20, outcomes_assessed: [LO1, LO2, LO3], ai_resilience: not_reviewed, artifact_ref: null }
+  - { id: A2, type: quiz, title: "AM2 – 3 bài kiểm tra cá nhân tình huống trên lớp (20 phút đầu buổi): bài 1 B5 02/12, bài 2 B8 12/12, bài 3 B13 30/12 (GV duyệt D01 và yêu cầu thêm 1 bài cá nhân, 9/11/2026); tổng 20%; GV đồng ý gán CLO1; mỗi bài 8 câu trắc nghiệm tình huống × 1,25 điểm, hai lớp hai đề tương đương (GV 13/11/2026)", weight: 20, outcomes_assessed: [LO1, LO2, LO3], ai_resilience: not_reviewed, artifact_ref: "van_hanh/D05_Ngan_hang_cau_kiem_tra_nhanh.md" }
   - { id: A3, type: presentation, title: "Giữa kỳ – AM3 Thuyết trình + AM9 Đánh giá làm việc nhóm (tổ chức ngoài giờ/trên LMS, không chiếm buổi học — quyết định GV). Làm trên danh mục Hải Đăng (P4); nộp 23:59 18/12/2026", weight: 20, week: W10, outcomes_assessed: [LO1, LO4, LO5, LO6, LO7], ai_resilience: not_reviewed, artifact_ref: null }
   - { id: A4, type: project, title: "Cuối kỳ – Stakeholder Management Plan cho khách hàng thật do nhóm tự chọn (qua cổng duyệt B8) + bảo vệ trước Customer Board ở B14–B15 (AM7 + AM9); bản viết nộp 23:59 31/12/2026", weight: 50, week: W15, outcomes_assessed: [LO1, LO8, LO9], ai_resilience: not_reviewed, artifact_ref: null }
 

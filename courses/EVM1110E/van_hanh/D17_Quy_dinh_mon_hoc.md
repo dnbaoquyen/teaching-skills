@@ -73,7 +73,7 @@
 
 ## 7. Bài kiểm tra cá nhân (3 bài trên lớp)
 
-1. Làm trong **20 phút đầu buổi** ở B5, B8, B13. Câu hỏi tình huống về kiến thức các buổi **trước đó**.
+1. Làm trong **20 phút đầu buổi** ở B5, B8, B13: **8 câu trắc nghiệm tình huống, mỗi câu 1,25 điểm** (thang 10). Câu hỏi về kiến thức các buổi **trước đó**.
 2. Hai lớp làm hai đề tương đương.
 3. **Vắng bài kiểm tra:** **không có làm bù**; bài vắng được 0 điểm.
 4. **Không dùng tài liệu và thiết bị** khi làm bài.
