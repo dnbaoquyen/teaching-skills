@@ -5,7 +5,7 @@
 > - **Bài kiểm tra cá nhân 3** (20 phút đầu buổi, trọng tâm B8–B12, 8 câu × 1,25): đề A, đề B, đáp án trên Drive riêng tư.
 > - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B13_Phieu_S3_S6.md` (phần GV trên Drive). S3: khung A–E + bảng truy vết (= phụ lục P2) + giả định (= P3) (8 · 12 · 5). S6: phần D, phần E, tập dượt với Customer Board, checklist (10 · 5 · 10 · 7).
 > - **Tiến trình (135 phút):** KT3 20 · S1 3 · S2 15 · S3 25 · giải lao 8 · S4 12 · S5 7 · S6 32 · S7 3 · S8 5 (**bốc thăm thứ tự bảo vệ**) · dự phòng 5.
-> - **Nhắc:** hạn nộp SMP 23:59 Thứ 5 31/12/2026, mọi nhóm, không nhận bài trễ. XĐ-12 ("việc trước Buổi 14"): **[CẦN GV CHỐT]**; mặc định gọi là "việc hoàn thiện bài thi".
+> - **Nhắc:** hạn nộp SMP 23:59 Thứ 5 31/12/2026, mọi nhóm, không nhận bài trễ. XĐ-12 (GV chốt 13/11/2026): gọi là **"việc hoàn thiện bài thi"**, không phải bài tập về nhà.
 
 
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 13/15 (Phần 4 — Đánh giá: bảo vệ dự án SMP, buổi 1/3)

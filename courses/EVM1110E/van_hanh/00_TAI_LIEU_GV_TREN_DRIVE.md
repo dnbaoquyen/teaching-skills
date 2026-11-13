@@ -14,6 +14,8 @@ Repo này công khai. Theo quyết định của GV (13/11/2026), mọi tài li�
 | Bài kiểm tra cá nhân 2 (B8, 12/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, trọng tâm B5–B7 |
 | Bài kiểm tra cá nhân 3 (B13, 30/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, trọng tâm B8–B12 |
 | Slide B1 → B13 (học kỳ mới) | Mỗi buổi một tệp `.pptx` + `build_bNN.js` trong thư mục Slides | Có ví dụ case M × C nên không đưa vào repo |
+| D14 – Hướng dẫn chấm và nhận xét | Quy trình chấm giữa kỳ, cuối kỳ; dấu hiệu nhanh → bậc tối đa; mẫu nhận xét; sổ chuẩn chấm | Có điểm phân hóa cài sẵn của hồ sơ Hải Đăng |
+| D16 – Biên bản bảo vệ và phiếu vai Customer Board | Luật, nhịp 30 phút, ngân hàng câu hỏi A–D, thẻ xung đột mới, biên bản mỗi nhóm | Câu hỏi bảo vệ không công bố |
 | Bộ trắc nghiệm B1–B8 cũ (md, pptx) | Đã thay bằng D05 | Chỉ để tra cứu |
 
 **Quy tắc từ nay:** tài liệu mới có đáp án hoặc phần GV → soạn và lưu trên Drive; repo chỉ giữ bản phát cho SV và bản chỉ mục.
