@@ -1,5 +1,11 @@
 # Giáo án — Buổi 12: Leverage & Resolving Network Conflicts
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B12_Network_Leverage_Conflict_HK2026.pptx`, 31 slide, trên Drive riêng tư. Bỏ tên Nova – An Phát, Bình An, TS. Nam (D02 Đ-08); thêm 2 slide case M × C: bốn mối nối suýt vỡ (C-10, C-11, C-13, C-18) và **tình huống đạo đức về giấy phép (C-12)**, quy định hiện hành [CẦN XÁC MINH].
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B12_Phieu_S3_S6.md` (phần GV trên Drive). S3: CLV/CTS khách hàng thật bằng tệp Excel B6 + bốn xung đột T-5 ngày (giả định, không tên) (6 · 5 · 5 · 4). S6: chạy thử mạng lưới SMP của nhóm, xoay trạm **1 vòng** với vai Customer Board (3 · 13 · 10 · 4).
+> - **Trong buổi:** trả điểm và nhận xét chung bài giữa kỳ (D01).
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 12/15 (Phần 3 — Điều phối các bên liên quan phục vụ hành trình khách hàng, buổi 4/4)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

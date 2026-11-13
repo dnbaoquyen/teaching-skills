@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 12: Leverage & Resolving Network Conflicts
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B12_Network_Leverage_Conflict_HK2026.pptx` (31 slide, trên Drive riêng tư). Thực hành theo phiếu D07 B12; thêm 2 slide case M × C, trong đó có tình huống đạo đức C-12.
+
+
 EVM1110E · 24 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); sơ đồ và bảng phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu. Số liệu ghi mã nguồn nhỏ ở chân slide. Case “Về đây bốn cánh chim trời”: **không dùng ảnh chân dung**, không nêu tên cá nhân; chỉ dùng tiêu đề báo dạng chữ.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

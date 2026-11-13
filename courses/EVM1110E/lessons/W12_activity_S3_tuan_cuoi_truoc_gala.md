@@ -1,5 +1,8 @@
 # Thực hành 1 — Tuần cuối trước gala: bốn xung đột cùng lúc
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B12_Phieu_S3_S6.md` (13/11/2026). S3: CLV/CTS khách hàng thật + bốn xung đột T-5 ngày (giả định, đã bỏ tên). Không dùng bản này.
+
+
 EVM1110E · Buổi 12 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này
