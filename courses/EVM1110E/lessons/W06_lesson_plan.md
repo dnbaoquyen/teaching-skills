@@ -1,5 +1,13 @@
 # Giáo án — Buổi 6: Financial Acumen in KAM
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B06_Financial_Acumen_HK2026.pptx`, 27 slide, trên Drive riêng tư (khuôn B1–B5). Định nghĩa CLV, CTS, ngưỡng ma trận theo D02 (2.6, 2.7): năm 1 vẫn chiết khấu; CTS = khoản phục vụ riêng + chi phí vốn; ngưỡng = trung vị danh mục. Mở đầu bằng KH4 và KH3 của Hải Đăng; ví dụ case M × C (tính CLV; ba khoản dễ tính nhầm vào CTS; số liệu ở D08c trên Drive). Bỏ Nova, An Phát, Sông Xanh, Bếp Việt.
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B06_Phieu_S3_S6.md` (phần GV trên Drive) và tệp `EVM1110E_B06_Mau_tinh_CLV_CTS.xlsx` (repo, LMS). S3: CTS và CLV của Key Account + độ nhạy (3 · 7 · 7 · 3). S6: ma trận 8 khách, 2 đề xuất hai bên cùng lợi (12 · 5 · 8 · 5). Bỏ xoay trạm hai vai.
+> - **Chuẩn bị mới:** mỗi nhóm ít nhất 1 laptop có Excel hoặc Google Sheets; A3 thay A1.
+> - **Tiến trình (135 phút):** S1 5 · S2 (6.1) 25 · S3 20 · giải lao 8 · S4 (6.2) 22 · S5 (6.3) 13 · S6 30 · S7 3 · S8 6 · dự phòng 3. Trả điểm bài kiểm tra cá nhân 1 trong buổi này.
+> - **Câu nối Buổi 7 (D02 Đ-03):** "Biết khách đáng bao nhiêu và tốn bao nhiêu, ta mới đàm phán được. Buổi sau: agency mua gì từ nhà cung cấp, ma trận Kraljic, và đàm phán dựa trên giá trị với Key Account."
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 6/15 (Phần 2 — KAM, buổi 5/7)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
@@ -56,7 +64,7 @@
 2. *“Hai thành phần cost-to-serve lớn nhất với khách hàng trong dự án cũ của nhóm là gì? Có cách nào cùng khách hàng giảm chúng?”*
 
 **Cần xem:** (a) hiểu CLV nhạy với tỷ lệ giữ chân (định hướng dài hạn); (b) đề xuất giảm chi phí **cùng khách hàng**, không chỉ tăng giá.
-**Câu nối sang Buổi 7:** *“Biết khách hàng đáng bao nhiêu và tốn bao nhiêu, ta mới đàm phán được. Buổi sau: hiểu phòng mua sắm của khách hàng, ma trận Kraljic, và đàm phán dựa trên giá trị.”*
+**Câu nối sang Buổi 7:** *“Biết khách hàng đáng bao nhiêu và tốn bao nhiêu, ta mới đàm phán được. Buổi sau: agency mua gì từ nhà cung cấp, ma trận Kraljic, và đàm phán dựa trên giá trị với Key Account.”* (sửa theo D02 Đ-03)
 
 ## Phương án dự phòng
 

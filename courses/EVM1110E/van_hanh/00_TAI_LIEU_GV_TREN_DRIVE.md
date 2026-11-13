@@ -9,7 +9,7 @@ Repo này công khai. Theo quyết định của GV (13/11/2026), mọi tài li�
 | D12b – Ghi chú GV cuối kỳ | Ghi chú chấm cuối kỳ | |
 | 02 – Hồ sơ Hải Đăng, bản GV | Số liệu tính sẵn, đáp án tham khảo B1–B8 | Bản SV vẫn ở `assessments/giua_ky/01_…SV.md` |
 | D04 – bản đầy đủ | Phần GV của bài tập đa công cụ B8 | Repo giữ phiếu SV |
-| D07 – phiếu B1, B2, B3, B4, B5… bản đầy đủ | Mốc thời gian, đáp án, câu chốt của từng phiếu | Repo giữ phần SV |
+| D07 – phiếu B1, B2, B3, B4, B5, B6… bản đầy đủ | Mốc thời gian, đáp án, câu chốt của từng phiếu | Repo giữ phần SV |
 | Bài kiểm tra cá nhân 1 (B5, 02/12/2026) | Đề A (B01E), đề B (B02E) dạng .docx; đáp án và ghi chú GV | Câu mới, 8 câu × 1,25 điểm, phạm vi B1–B4 |
 | Bộ trắc nghiệm B1–B8 cũ (md, pptx) | Đã thay bằng D05 | Chỉ để tra cứu |
 

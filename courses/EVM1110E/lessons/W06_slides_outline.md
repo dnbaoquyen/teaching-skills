@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 6: Financial Acumen in KAM
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B06_Financial_Acumen_HK2026.pptx` (27 slide, trên Drive riêng tư). Số liệu Nova/An Phát/Sông Xanh thay bằng Hải Đăng, ví dụ D02 và case M × C; ngưỡng ma trận là trung vị danh mục, không phải 15% / 5%.
+
+
 EVM1110E · 20 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text. Mọi con số tình huống ghi **GIẢ ĐỊNH** ở chân slide.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

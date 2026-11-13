@@ -1,5 +1,8 @@
 # Thực hành 1 — Tính CLV của hai khách hàng
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B06_Phieu_S3_S6.md` (13/11/2026). S3: mỗi nhóm tính CTS và CLV của Key Account bằng tệp Excel mẫu. Không dùng bản này.
+
+
 EVM1110E · Buổi 6 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

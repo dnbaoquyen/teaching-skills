@@ -1,5 +1,8 @@
 # Thực hành 2 — Ma trận biên lợi nhuận gộp × cost-to-serve
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B06_Phieu_S3_S6.md` (13/11/2026). S6: ma trận biên × CTS cho cả 8 khách Hải Đăng, ngưỡng trung vị; bỏ xoay trạm hai vai. Không dùng bản này.
+
+
 EVM1110E · Buổi 6 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này
