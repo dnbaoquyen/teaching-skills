@@ -1,5 +1,13 @@
 # Giáo án — Buổi 7: Understanding Procurement & Value-based Negotiation
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính:** `EVM1110E_B07_Procurement_Negotiation_HK2026.pptx`, 34 slide, trên Drive riêng tư. Bỏ Nova – An Phát (D02 Đ-08): ví dụ gala ngân hàng giữ ở dạng giả định không tên; thêm 3 slide case M × C (quy trình mua của Key Account; điều khoản giờ vào hàng của địa điểm; đàm phán khi khách cắt ngân sách). Chi tiết case ở D08c trên Drive.
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B07_Phieu_S3_S6.md` (phần GV, đáp án Kraljic và **thẻ vai cho 6 Key Account** trên Drive). S3: Kraljic cho sự kiện chính năm tới của Key Account, bước đầu **gạch bỏ dòng không phải hạng mục agency mua** (3 · 8 · 6 · 3). S6: 3 cặp, bốc thăm vai; đội Hải Đăng dùng Key Account và ma trận của chính nhóm (6 · 10 · 3 · 8).
+> - **In:** thẻ vai đúng bộ của các Key Account được bốc (in đủ 6 bộ, mỗi bộ 2 bản cắt rời Key Account / Hải Đăng); phiếu quan sát 6 bản.
+> - **Tiến trình giữ nguyên khung 135 phút.** Nhắc hạn "một trang mô tả đối tượng cuối kỳ": 23:59 Thứ 5 10/12/2026.
+> - **Câu nối Buổi 8:** "Đàm phán được là nhờ quan hệ tốt ở nhiều cấp. Buổi sau: Bow-tie → Diamond, đo hiệu quả quan hệ, và bài tập đa công cụ (D04). 20 phút đầu buổi là bài kiểm tra cá nhân 2."
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 7/15 (Phần 2 — KAM)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)

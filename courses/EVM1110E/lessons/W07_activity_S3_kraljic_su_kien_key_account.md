@@ -1,5 +1,8 @@
 # Thực hành 1 — Ma trận Kraljic cho sự kiện của Key Account
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B07_Phieu_S3_S6.md` (13/11/2026). S3: mỗi nhóm xếp hạng mục của sự kiện chính năm tới của Key Account mình, bắt đầu bằng việc gạch bỏ dòng không phải hạng mục agency mua. Không dùng bản này.
+
+
 EVM1110E · Buổi 7 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

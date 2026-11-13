@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 7: Understanding Procurement & Value-based Negotiation
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B07_Procurement_Negotiation_HK2026.pptx` (34 slide, trên Drive riêng tư). Thực hành 1 và 2 theo phiếu D07 B7; thêm 3 slide case M × C.
+
+
 EVM1110E · 26 slide · Mỗi slide một ý; tiêu đề viết thành **câu khẳng định**. Hình có mô tả thay thế (alt-text); ma trận và biểu đồ phân biệt bằng hoa văn/ký hiệu, không chỉ bằng màu (phù hợp người mù màu). Số liệu ghi mã nguồn nhỏ ở chân slide.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

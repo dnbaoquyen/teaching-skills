@@ -1,5 +1,8 @@
 # Thực hành 2 — Đóng vai: Key Account và KAMer đàm phán dựa trên giá trị
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B07_Phieu_S3_S6.md` (13/11/2026). S6: thẻ vai theo Key Account của nhóm (bản GV trên Drive). Không dùng bản này.
+
+
 EVM1110E · Buổi 7 · Đoạn S6 (30 phút)
 
 ## Vì sao chúng ta làm bài này
