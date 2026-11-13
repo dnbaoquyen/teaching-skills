@@ -1,5 +1,7 @@
 # Thực hành 1 — Viết lại CVP của Nova cho An Phát
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B05_Phieu_S3_S6.md` (13/11/2026): mỗi nhóm làm trên Key Account của mình; thêm ma trận nguồn giá trị ưu tiên. Không dùng bản này.
+
 EVM1110E · Buổi 5 · Đoạn S3 (20 phút)
 
 ## Vì sao chúng ta làm bài này

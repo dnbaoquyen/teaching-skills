@@ -1,5 +1,8 @@
 # Dàn ý slide — Buổi 5: CVP & Value Co-creation
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới):** dàn ý dưới đây là bản cũ. Deck dạy chính: `EVM1110E_B05_CVP_Value_Cocreation_HK2026.pptx` (30 slide, trên Drive riêng tư), hợp nhất 3 phiên bản Bài 5 theo quyết định GV (XĐ-15). Có slide 12 ma trận nguồn giá trị ưu tiên nguyên văn và slide xếp Công ty C (case M × C) vào Nhóm Tăng trưởng.
+
+
 EVM1110E · 21 slide · Mỗi slide một ý; tiêu đề là **câu khẳng định**. Hình có alt-text. Nguồn ghi mã nhỏ ở chân slide. Ghi rõ trên slide khi nội dung là **định nghĩa làm việc của môn**.
 
 | # | Đoạn | Tiêu đề (khẳng định) | Nội dung / hình | Ghi chú GV |

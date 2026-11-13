@@ -143,7 +143,7 @@ Ngoài ra còn hai điểm cần nhớ:
 | XĐ-12 | "Việc cần làm trước Buổi 14" | R19 không giao về nhà | Y02 | B13 S23: 4 việc trước Buổi 14 | — | Coi là việc hoàn thiện bài thi, không phải bài tập về nhà; hoặc dành thời gian trên lớp | **HỎI GV** |
 | XĐ-13 | Giờ tự học T3 (18 → 9) và T9 (9 → 18) | Agent tự đổi, chưa duyệt (L16) | — | — | — | Hoàn lại hoặc GV duyệt khi làm TT-03 | **HỎI GV** (ở bước TT-03) |
 | XĐ-14 | Khách hàng cũ không đủ điều kiện làm Key Account | Câu hỏi mở (Buổi 2) | — | — | TT-04 nêu đúng vấn đề này | Gộp vào phương án TT-04 | **CHỜ TT-04** |
-| XĐ-15 | Ba phiên bản Bài 5 | — | [R] W05 | [C] W05 | GV gửi `EVM1110E_Session5_minimal.pptx` | Hợp nhất cả ba khi GV yêu cầu soạn slide | **HỎI GV** khi đến B5 |
+| XĐ-15 | Ba phiên bản Bài 5 | — | [R] W05 | [C] W05 | GV gửi `EVM1110E_Session5_minimal.pptx` | Hợp nhất cả ba khi GV yêu cầu soạn slide | **ĐÃ CHỐT 13/11/2026:** khuôn B1–B4 + nội dung bộ của GV; thay Novaland bằng case M × C; nguồn năm nguồn theo D02 |
 | XĐ-16 | Thuật ngữ "Key Account" và "khách hàng trọng điểm"; "CTS" | Giữ thuật ngữ gốc | Y12 | L-18 dùng xen kẽ | — | Giữ "Key Account"; giải nghĩa "cost-to-serve (CTS)" ở lần đầu | Theo YC giữ thuật ngữ gốc · **ĐÃ RÕ** |
 | XĐ-17 | Ngôn ngữ thuyết trình bài thi | "hoàn toàn bằng tiếng Việt" | Đề thi: "[GV điền: tiếng Việt / tiếng Anh / song ngữ]" | — | — | Tiếng Việt, thuật ngữ tiếng Anh | Lưu ý CLO7 (ngoại ngữ) · **HỎI GV** |
 | XĐ-18 | Mục tiêu buổi có hiện trên slide không | Có trong giáo án | Có trong giáo án | Slide không ghi mục tiêu chính thức | TT-02: mỗi buổi phải nêu liên hệ công việc thực tế | Thêm slide "Mục tiêu và liên hệ nghề" sau bìa | Theo TT-02 · **HỎI GV** xác nhận khi soạn |

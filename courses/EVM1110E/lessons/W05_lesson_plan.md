@@ -1,5 +1,11 @@
 # Giáo án — Buổi 5: CVP & Value Co-creation
 
+> **CẬP NHẬT 13/11/2026 (học kỳ mới) – thay tiến trình bên dưới khi có khác biệt**
+> - **Deck dạy chính (XĐ-15, GV chốt 13/11/2026):** `EVM1110E_B05_CVP_Value_Cocreation_HK2026.pptx`, 30 slide, trên Drive riêng tư. Khuôn B1–B4 + nội dung bộ "Session5_minimal" của GV (tam giác CVP, Levitt, 7Ps, bằng chứng và KPI/CPI, 5 nguồn, **slide 12 ma trận nguồn giá trị ưu tiên**, 4 bước co-creation). Tình huống "Novaland" thay bằng case M × C; nguồn năm nguồn giá trị ghi theo D02 (Marcos et al., 2018), không ghi Smith & Colgate (2007); ví dụ BMW, TPBank đổi thành ví dụ giả định không gắn tên; bỏ slide "Về nhà" và bài 120 phút (U14).
+> - **Phiếu thực hành:** `van_hanh/D07_Phieu_thuc_hanh/B05_Phieu_S3_S6.md` (phần GV trên Drive). S3: CVP 3 phần cho Key Account của nhóm (4 · 10 · 4 · 2). S6: xếp Key Account trên ma trận ưu tiên, chọn 2 nguồn, kế hoạch đồng kiến tạo 4 bước (5 · 7 · 13 · 5).
+> - **Tiến trình (135 phút):** Kiểm tra cá nhân 1: 20 · S1 3 · S2 (5.1) 18 · S3 20 · giải lao 8 · S4 (5.2 + ma trận ưu tiên) 18 · S5 (5.3) 12 · S6 30 · S7 3 · S8 3. Lý thuyết 5.1 nhiều slide: GV có thể lướt slide "ba kiểu CVP" và "McDonald".
+
+
 **Học phần:** EVM1110E Quản trị mối quan hệ trong tổ chức sự kiện · **Buổi:** 5/15 (Phần 2 — KAM, buổi 4/7)
 **Thời lượng:** 135 phút (3 tiết) · **Hình thức:** Trực tiếp · **Sĩ số:** ~40 SV, 6 nhóm (đã chia sẵn)
 **Ngôn ngữ giảng dạy:** Tiếng Việt (giữ thuật ngữ tiếng Anh chuyên ngành)
