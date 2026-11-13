@@ -1,5 +1,7 @@
 # Thực hành 1 — Ai đứng quanh sự kiện này?
 
+> **ĐÃ ĐƯỢC THAY** bằng `van_hanh/D07_Phieu_thuc_hanh/B01_Phieu_S4_S6.md` (13/11/2026): dùng danh mục Hải Đăng thay cho Nova – An Phát và dự án cũ. Không dùng bản này.
+
 EVM1110E · Buổi 1 · Đoạn S4 (15 phút)
 
 ## Vì sao chúng ta làm bài này
